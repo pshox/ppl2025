@@ -436,10 +436,6 @@
         {
           "text": "3.35 Nm.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -841,10 +837,6 @@
         },
         {
           "text": "Je paralelna sa Zemljinom osom.",
-          "isCorrect": false
-        },
-        {
-          "text": "d.",
           "isCorrect": false
         }
       ]
@@ -1624,10 +1616,6 @@
         {
           "text": "Avioni 5 i 8.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -1645,10 +1633,6 @@
         },
         {
           "text": "1 milja.",
-          "isCorrect": false
-        },
-        {
-          "text": "d.",
           "isCorrect": false
         }
       ]
@@ -1686,10 +1670,6 @@
         {
           "text": "215° i ispraviti kurs od kazaljke CDI.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -1708,10 +1688,6 @@
         {
           "text": "180° i ispravljati kurs od kazale CDI.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -1729,10 +1705,6 @@
         },
         {
           "text": "Kada ne promenimo OBS sa dolazeceg kursa na odlazeci.",
-          "isCorrect": false
-        },
-        {
-          "text": "d.",
           "isCorrect": false
         }
       ]
@@ -1774,10 +1746,6 @@
         {
           "text": "3,0 Nm.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -1795,10 +1763,6 @@
         },
         {
           "text": "Velikoj visini i velikoj daljini od DME.",
-          "isCorrect": false
-        },
-        {
-          "text": "d.",
           "isCorrect": false
         }
       ]
@@ -1850,10 +1814,6 @@
         {
           "text": "Frekvencija DME prijemnika u avionu se automatski prebaci kada mi izaberemo VOR ili ILS frekvenciju.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -1871,10 +1831,6 @@
         },
         {
           "text": "V i X.",
-          "isCorrect": false
-        },
-        {
-          "text": "d.",
           "isCorrect": false
         }
       ]
@@ -2314,10 +2270,6 @@
         {
           "text": "statutne milje levo ili desno od kursa.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -2576,10 +2528,6 @@
         {
           "text": "225°.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -2620,10 +2568,6 @@
         {
           "text": "Pilot na zemlji samo, kada uredaj miruje.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -2644,12 +2588,7 @@
     {
       "id": "NAV-0131",
       "question": "25 MHz i 131.30 MHz.",
-      "options": [
-        {
-          "text": "d.",
-          "isCorrect": true
-        }
-      ]
+      "options": []
     },
     {
       "id": "NAV-0127",
@@ -2706,10 +2645,6 @@
         {
           "text": "Uredaj je sposoban za odrediti navigacione parametre u odnosno samo na fiksne tacke.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -2736,10 +2671,6 @@
       "question": "Koja od slika ADF prikazuje let KA stanici sa desnim bocnim vetrom? (Pogledajte PPL Nav-10).",
       "options": [
         {
-          "text": "D.",
-          "isCorrect": true
-        },
-        {
           "text": "A.",
           "isCorrect": false
         },
@@ -2764,10 +2695,6 @@
         {
           "text": "962 do 1213 MHz.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -2786,10 +2713,6 @@
         {
           "text": "Sa prijemnikom VOR-a i DME.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -2807,10 +2730,6 @@
         },
         {
           "text": "Zahteva ADF sa automatskim ili rucnim podešavanjem kompasne ruže.",
-          "isCorrect": false
-        },
-        {
-          "text": "d.",
           "isCorrect": false
         }
       ]
@@ -2946,10 +2865,6 @@
         {
           "text": "Samo avion 7.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -3007,10 +2922,6 @@
         },
         {
           "text": "Samo avion 2.",
-          "isCorrect": false
-        },
-        {
-          "text": "d.",
           "isCorrect": false
         }
       ]
