@@ -15,6 +15,9 @@ Otvorite `http://localhost:5173/ppl2025/`.
 ```bash
 npm run deploy
 ```
+
+Available at https://pshox.github.io/ppl2025/#/
+
 Build ide u `dist/`, `base` je podešen u `vite.config.ts`.
 
 ### Podaci i predmeti
