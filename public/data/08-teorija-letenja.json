@@ -1,0 +1,3255 @@
+{
+  "subject": "Teorija letenja",
+  "lang": "sr",
+  "version": 1,
+  "questions": [
+    {
+      "id": "TL-0001",
+      "question": "Aeroprofil je dizajniran tako da pravi uzgon koji je posledica razlike:",
+      "options": [
+        {
+          "text": "Višeg vazdušnog pritiska ispod površine i nižeg vazdušnog pritiska iznad površine aeroprofila.",
+          "isCorrect": true
+        },
+        {
+          "text": "Negativnog vazdušnog pritiska ispod i vakuma iznad površine aeroprofila.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vakuma ispod površine i višeg vazdušnog pritiska iznad površine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Višeg vazdušnog pritiska na napadnoj ivici i nižeg vazdušnog pritiska na izlaznoj ivici.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0002",
+      "question": "Aeroprofil sa pozitivnom zakrivljenošcu srednje linije pocinje da proizvodi uzgon pri napadnom uglu od otprilike:",
+      "options": [
+        {
+          "text": "Minus 4 stepena.",
+          "isCorrect": true
+        },
+        {
+          "text": "0 stepeni.",
+          "isCorrect": false
+        },
+        {
+          "text": "4 do 6 stepeni.",
+          "isCorrect": false
+        },
+        {
+          "text": "16 stepeni.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0003",
+      "question": "Ako u odredenom danu temperatura vazduha na 4000ft iznosi 23°C ,kolika je približna razlika izmedu stvarne i temperature u medunarodnoj standardnoj atmosferi (ISA):",
+      "options": [
+        {
+          "text": "16°C.",
+          "isCorrect": true
+        },
+        {
+          "text": "7°C.",
+          "isCorrect": false
+        },
+        {
+          "text": "15°C.",
+          "isCorrect": false
+        },
+        {
+          "text": "8°C.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0004",
+      "question": "Ako je aerodinamicki centar krila ispred centra težišta:",
+      "options": [
+        {
+          "text": "Promene u uzgonu izazivaju momenat koji pokušava da poveca promenu u uzgonu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Promene u uzgonu izazivaju momenat koji pokušava da smanji promenu u uzgonu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Promena u uzgonu ne pravi promenu u momentu na krilu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kada je avion u traverzi po pravcu, centar težišta izaziva okretanje nosa u pravcu traverze i tako primenjuje momenat vracanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0005",
+      "question": "Ako je brzina vazdušne mase povecana:",
+      "options": [
+        {
+          "text": "Kineticka energija se povecava, dinamicki pritisak raste, a staticki se smanjuje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dinamicki pritisak se smanjuje, a staticki se povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Staticki pritisak ostaje konstantan, a kineticka energija se povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masa protoka vazduha ostaje ista, dinamicki pritisak se smanjuje, a staticki se povecava.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0006",
+      "question": "Ako je indikovana brzina vazduhoplova povecana sa 50 cvorova na 100 cvorova, parazitni otpor ce se:",
+      "options": [
+        {
+          "text": "Povecati cetiri puta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecati šest puta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecati dva puta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjiti za cetvrtinu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0007",
+      "question": "Ako je napadni ugao povecan preko kriticnog napadnog ugla, krilo više nece proizvoditi dovoljan uzgon potreban da održi avion u horizontalnom letu:",
+      "options": [
+        {
+          "text": "Bez obzira na brzinu ili položaj u propinjanju.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ukoliko brzina nije veca od brzine svaljivanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ukoliko je ugao propinjanja na ili ispod horizonta.",
+          "isCorrect": false
+        },
+        {
+          "text": "U tom slucaju palicu treba povuci na sebe odmah.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0008",
+      "question": "Ako je napadni ugao povecan preko kriticnog napadnog ugla:",
+      "options": [
+        {
+          "text": "Uzgon ce se smanjiti, a otpor povecati.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uzgon i otpor ce se smanjiti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzgon ce se povecati, a otpor smanjiti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzgon i otpor ce se povecati.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0009",
+      "question": "Ako je palica gurnuta napred i u levo:",
+      "options": [
+        {
+          "text": "Levi eleron ide gore, desni eleron ide dole, kormilo visine ide dole.",
+          "isCorrect": true
+        },
+        {
+          "text": "Levi eleron ide gore, desni eleron ide dole, kormilo visine ide gore.",
+          "isCorrect": false
+        },
+        {
+          "text": "Levi eleron ide dole, desni eleron ide gore, kormilo visine ide dole.",
+          "isCorrect": false
+        },
+        {
+          "text": "Levi eleron ide dole, desni eleron ide gore, kormilo visine ide gore.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0010",
+      "question": "Ako je palica pomerena levo, servo krilce na levom eleronu ce se:",
+      "options": [
+        {
+          "text": "Pomeriti gore u odnosu na eleron.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pomeriti dole u odnosu na eleron.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nece se pomerati ukoliko tocak trimera nije pomeren.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otici u neutralnu poziciju.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0011",
+      "question": "Avion ima tendenciju spuštanja desnog krila kada su komande slobodne. Trimovano je sa trimerom koji se nalazi na levom eleronu. Trimer ce se:",
+      "options": [
+        {
+          "text": "Pomeriti na dole, uzrokujuci da se levi eleron pomeri na gore, a desni na dole.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pomeriti na gore, uzrokujuci da levi eleron pomeri na gore, a desni na dole.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pomeriti na dole, uzrokujuci da se levi eleron pomeri na gore, a desni da ostane u neutrali.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pomeriti na gore, uzrokujuci da se levo krilo spusti, a da eleroni ostanu neutralni.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0012",
+      "question": "Avion je pobuden sa svog originalnog pravca leta iznenadnim udarom vetra. Ako ima tendenciju da se vrati na originalni pravac leta bez komandovanja pilota onda je taj avion ima:",
+      "options": [
+        {
+          "text": "Pozitivnu dinamicku stabilnost.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nestabilnost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Negativnu dinamicku stabilnost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Neutralnu dinamicku stabilnost.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0013",
+      "question": "Ako je površina poprecnog preseka vazdušne struje mehanicki kontrolisana i smanjena:",
+      "options": [
+        {
+          "text": "Masa protoka vazduha ostaje konstantna, a brzina protoka vazduha se povecava.",
+          "isCorrect": true
+        },
+        {
+          "text": "Brzina protoka ostaje konstantna, ali se masa vazduha povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masa protoka vazduha ostaje konstantna, a staticki pritisak se povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Brzina protoka vazduha ostaje ista, a kineticka energija se povecava.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0014",
+      "question": "Ako napadni ugao i drugi faktori ostaju konstanti, pri duplom povecanju brzine, uzgon ce se:",
+      "options": [
+        {
+          "text": "Ucetvorostruciti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Udvostruciti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjiti na cetvrtinu od onoga što je bilo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ostati isti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0015",
+      "question": "Ako odredena sila izaziva valjanje kod aviona:",
+      "options": [
+        {
+          "text": "V-forma krila ce izazvati momenat valjanja koji teži ispravljanju traverze po pravcu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vertikalni rep izaziva momenat skretanja koji smanjuje traverzu po pravcu.",
+          "isCorrect": false
+        },
+        {
+          "text": "V-forma krila izaziva momenat skretanja koji teži ispravljanju traverze po pravcu.",
+          "isCorrect": false
+        },
+        {
+          "text": "V-forma krila ce izazvati momenat dizanja nosa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0016",
+      "question": "Ako se poveca težina aviona, bez promene u centru težišta, kritican napadni ugao ce:",
+      "options": [
+        {
+          "text": "Ostati isti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smanjiti se.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecati se.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ostati isti, pozicija centra težišta ne utice na brzinu svaljivanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0017",
+      "question": "Ako se slece bez izvucenog flapsa, onda brzina sletanja mora biti:",
+      "options": [
+        {
+          "text": "Povecana.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smanjena.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ista kao i brzina sa izvucenim flapsom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ista kao i brzina sa izvucenim flapsom, ali sa strmijim prilazom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0018",
+      "question": "Ako se u pravolinijskom letu brzina smanji ispod one koja obezbeduje maksimalan odnos UZGON/OTPOR, efekat ce biti:",
+      "options": [
+        {
+          "text": "Povecanje otpora zbog povecanog indukovanog otpora.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smanjenje otpora zbog smanjenog indukovanog otpora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecanje otpora zbog povecanja parazitnog otpora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjenje otpora zbog smanjenja parazitnog otpora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0019",
+      "question": "Avion ima tendenciju obaranja nosa zbog odnosa uzgona/težine, i tendenciju podizanja nosa zbog odnosa potiska/otpora.",
+      "options": [
+        {
+          "text": "Kada je dodat gas:",
+          "isCorrect": true
+        },
+        {
+          "text": "Nos ce se podici.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nos ce pasti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Magnitude sila se povecavaju ali ostaju u ravnoteži.",
+          "isCorrect": false
+        },
+        {
+          "text": "Magnitude sila se smanjuju ali ostaju u ravnoteži.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0020",
+      "question": "Avion koji je po prirodi stabilan ce:",
+      "options": [
+        {
+          "text": "Sam po sebi imati tendenciju vracanja u pocetno stanje posle bilo kakve pobude.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zahtevati manje napora prilikom kontrole.",
+          "isCorrect": false
+        },
+        {
+          "text": "Biti teži za prevlacenje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nemoguce svaljivati u kovit.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0021",
+      "question": "Avion sa klipnim motorom leti u sloju atmosfere koji se naziva:",
+      "options": [
+        {
+          "text": "Troposfera.",
+          "isCorrect": true
+        },
+        {
+          "text": "Stratosfera.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mezosfera.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tropopauza.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0022",
+      "question": "Brzina pri kojoj pilot sa naglim otklonom kormila visine na gore ne može preopteretiti konstrukciju vazduhoplova je :",
+      "options": [
+        {
+          "text": "VA.",
+          "isCorrect": true
+        },
+        {
+          "text": "VB.",
+          "isCorrect": false
+        },
+        {
+          "text": "VFE.",
+          "isCorrect": false
+        },
+        {
+          "text": "VS.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0023",
+      "question": "Brzina svaljivanja aviona u pravolinijskom letu je 80 cvorova, kolika je brzina svaljivanja prilikom zaokreta sa nagibom od 45 stepeni:",
+      "options": [
+        {
+          "text": "95 knots.",
+          "isCorrect": true
+        },
+        {
+          "text": "33 knots.",
+          "isCorrect": false
+        },
+        {
+          "text": "86 knots.",
+          "isCorrect": false
+        },
+        {
+          "text": "113 knots.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0024",
+      "question": "Brzina svaljivanja nekog aviona, pod pretpostavkom da je težina konstantna, je funkcija:",
+      "options": [
+        {
+          "text": "Kvadratnog korena faktora opterecenja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Inverznog faktora opterecenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Indikovane brzine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kvadrata težine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0025",
+      "question": "Centar težišta koji je blizu zadnje granice ce dati:",
+      "options": [
+        {
+          "text": "Povecanu efektivnost kormila visine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecanu longitudinalnu stabilnost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vece sile prilikom komandovanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dužu stazu potrebnu za poletanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0026",
+      "question": "Definicija uzgona je:",
+      "options": [
+        {
+          "text": "Aerodinamicka sila koja deluje pod uglom od 90° stepeni u odnosu na relativni pravac strujanja vazduha.",
+          "isCorrect": true
+        },
+        {
+          "text": "Aerodinamicka sila koja deluje upravno u odnosu na tetivu aeroprofila.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aerodinamicka sila koja je rezultat razlika u pritiscima oko aeroprofila.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aerodinamicka sila koja deluje upravno na gornjaku aeroprofila.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0027",
+      "question": "Deo ukupnog otpora aviona, koji je prateca pojava stvaranja uzgona se naziva:",
+      "options": [
+        {
+          "text": "Indukovani otpor, koji u mnogome zavisi od promene brzine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Parazitni otpor, koji u mnogome zavisi od promene brzine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Indukovani otpor, na koji promena brzine nema uticaj.",
+          "isCorrect": false
+        },
+        {
+          "text": "Parazitni otpor, koji je inverzno proporcionalan kvadratu brzine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0028",
+      "question": "Diferencijalni eleroni su dizajnirani tako da sprecavaju :",
+      "options": [
+        {
+          "text": "Kontra skretanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tendenciju stabilnosti po uzdužnoj osi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tendenciju pozitivne stabilnosti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kontra valjanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0029",
+      "question": "Dinamicki pritisak je jednak:",
+      "options": [
+        {
+          "text": "Totalni pritisak minus staticki pritisak.",
+          "isCorrect": true
+        },
+        {
+          "text": "Totalni pritisak plus staticki pritisak.",
+          "isCorrect": false
+        },
+        {
+          "text": "Staticki pritisak minus totalni pritisak.",
+          "isCorrect": false
+        },
+        {
+          "text": "Totalni pritisak podeljen sa statickim pritiskom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0030",
+      "question": "Dinamicki pritisak je:",
+      "options": [
+        {
+          "text": "Kolicina pritiska za koju se pritisak uveca u tacki gde je vazdušna struja dovedena u stanje mirovanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Totalni pritisak u tacki gde je vazdušna struja dovedena u stanje mirovanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pritisak koji nastaje zbog mase vazduha koja pritiska vazduh ispod.",
+          "isCorrect": false
+        },
+        {
+          "text": "Promena u pritisku izazvana grejanjem vazduha kada se vazduh dovede u stanje mirovanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0031",
+      "question": "Dinamicki pritisak koji deluje na avion u toku leta jednak je:",
+      "options": [
+        {
+          "text": "Polovina gustine puta stvarna brzina na kvadrat.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gustina puta brzina na kvadrat.",
+          "isCorrect": false
+        },
+        {
+          "text": "Polovina stvarne brzine puta gustina na kvadrat.",
+          "isCorrect": false
+        },
+        {
+          "text": "Polovina gustine puta indicirana brzina na kvadrat.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0032",
+      "question": "Dinamicki pritisak može biti izražen formulom:",
+      "options": [
+        {
+          "text": "Q=1/2pV2.",
+          "isCorrect": true
+        },
+        {
+          "text": "Q=1/3pV2.",
+          "isCorrect": false
+        },
+        {
+          "text": "Q =pV.",
+          "isCorrect": false
+        },
+        {
+          "text": "Q = 2pV.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0033",
+      "question": "Eleron može biti aerodinamicki izbalansiran tako što ce:",
+      "options": [
+        {
+          "text": "Imati osu rotacije iza napadne ivice kontrolne površine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Eleron koji ide na gore imati veci ugao otklona nego eleron koji ide na dole.",
+          "isCorrect": false
+        },
+        {
+          "text": "Se prikaciti teg na eleron ispred ose rotacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Se obezbediti opruge u kontrolnom sistemu koje ce pomoci pri komandovanju.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0034",
+      "question": "Eleroni obezbeduju:",
+      "options": [
+        {
+          "text": "Poprecnu kontrolu oko uzdužne ose.",
+          "isCorrect": true
+        },
+        {
+          "text": "Poprecnu kontrolu oko poprecne ose.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzdužnu kontrolu oko poprecne ose.",
+          "isCorrect": false
+        },
+        {
+          "text": "Direkcionalnu kontrolu oko vertikalne ose.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0035",
+      "question": "Fenomen flatera je opisan kao:",
+      "options": [
+        {
+          "text": "Oscilatorno kretanje dela ili delova aviona relativno na ostatak strukture aviona.",
+          "isCorrect": true
+        },
+        {
+          "text": "Brzo oscilatorno kretanje koje se dešava na kontrolnim površinama, a vezano je za udarne talase koji se javljaju oko kontrolnih površina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Brzim vibracijama u trupu koje se javljaju usled vibracija motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Promena uloge elerona izazvana torzionom fleksibilnošcu krila.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0036",
+      "question": "Fiksni trimeri na eleronima:",
+      "options": [
+        {
+          "text": "Mogu biti namešteni na zemlji posle probnog leta kako bi se lakše održavao horizontalan let.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mogu biti namešteni u toku leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nikada se ne pomeraju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mogu biti namešteni na zemlji posle probnog leta kako bi se obezbedilo lakše skretanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0037",
+      "question": "Glatko strujanje vazduha, kada svaki molekul prati putanju prethodnog molekula je definicija:",
+      "options": [
+        {
+          "text": "Laminarnog strujanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turbulentnog strujanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Slobodnog strujanja vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vetra.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0038",
+      "question": "Granicni sloj ima:",
+      "options": [
+        {
+          "text": "Laminarno i turbulentno strujanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Laminarno strujanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turbulentno strujanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turbulentno strujanje samo pri malim brzinama.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0039",
+      "question": "Gustina:",
+      "options": [
+        {
+          "text": "Opada sa povecanjem visine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ne menja se sa promenom temperature.",
+          "isCorrect": false
+        },
+        {
+          "text": "Raste sa povecanjem visine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Opada se sa smanjenjem temperature .",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0040",
+      "question": "Izvlacenje flapsa tokom prilaza za sletanje:",
+      "options": [
+        {
+          "text": "Povecava ugao prilaza, bez povecanja brzine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Obezbeduje prilaz pri vecoj indikovanoj brzini.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjuje ugao prilaza, bez dodatka gasa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eliminiše lebdenje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0041",
+      "question": "Jedinica za silu je:",
+      "options": [
+        {
+          "text": "Njutn.",
+          "isCorrect": true
+        },
+        {
+          "text": "Njutn-metar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Džul.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masa-kilogram.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0042",
+      "question": "Kada je avion pobuden iz pravolinijskog mirnog leta, na primer turbulencijom, kaže se da je stabilan ukoliko:",
+      "options": [
+        {
+          "text": "Se vrati u svoj originalan položaj bez pomoci pilota.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ostane u novom položaju u letu.",
+          "isCorrect": false
+        },
+        {
+          "text": "I sam poveca promenu u odnosu na originalan položaj.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nastavi da se pomera u pravcu pobude do momenta kada se zaustavi kontra komandom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0043",
+      "question": "Kada je avion pobuden iz svog trimovanog položaja, na primer turbulencijom, kaže se da ima neutralnu stabilnost ukoliko:",
+      "options": [
+        {
+          "text": "Ostane u novom položaju.",
+          "isCorrect": true
+        },
+        {
+          "text": "Osciluje oko svog pocetnog položaja dok se ne vrati u isti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odmah se vrati u pocetni položaj.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nastavi da se pomera u pravcu pobude do momenta kada se zaustavi kontra komandom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0044",
+      "question": "Kada je avion u kovitu, smer obrtanja je najsigurnije odreden:",
+      "options": [
+        {
+          "text": "Pokazivacem skretanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Veštackim horizontom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pokazivacem klizanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Žiro-direkcionalom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0045",
+      "question": "Kada je avion u penjanju bez promene režima, aerodinamicka sila je________ nego težina.",
+      "options": [
+        {
+          "text": "Manja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Izbalansirana.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jednaka.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veca.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0046",
+      "question": "Kada je centar težišta blizu prednje granice :",
+      "options": [
+        {
+          "text": "Vrlo je velika sila na palici po visini zbog toga što je avion vrlo stabilan.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vrlo male sile su potrebne na palici da bi se promenila visina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Longitudinalna (uzdužna) stabilnost je smanjena.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sile na palici su iste kao i kod centra težišta pri zadnjoj granici.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0047",
+      "question": "Kada je indikovana brzina (IAS) smanjena, da bi se održavala visina, pilot mora:",
+      "options": [
+        {
+          "text": "Povecati napadni ugao da bi se zadržala odredena sila uzgona.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smanjiti napadni ugao da bi se smanjio otpor.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izvuci vazdušne kocnice da bi povecao otpor.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjiti potisak.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0048",
+      "question": "Kada je palica gurnuta napred, servo krilce na kormilu visine ce se:",
+      "options": [
+        {
+          "text": "Pomeriti na gore u odnosu na komandnu površinu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pomeriti na dole u odnosu na komandnu površinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo pomerati ukoliko se trimer pomera.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pomeriti u neutralnu poziciju.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0049",
+      "question": "Kada posmatramo vazduh:",
+      "options": [
+        {
+          "text": "1-Vazduh ima masu",
+          "isCorrect": true
+        },
+        {
+          "text": "2-Vazduh nije moguce sabiti",
+          "isCorrect": false
+        },
+        {
+          "text": "3- Vazduh ima mogucnost strujanja ili promene oblika kada je izražen i najmanjoj promeni pritiska",
+          "isCorrect": false
+        },
+        {
+          "text": "4- Viskozitet vazduha je vrlo veliki",
+          "isCorrect": false
+        },
+        {
+          "text": "5- Vazduh koji se krece ima kineticku energij",
+          "isCorrect": false
+        },
+        {
+          "text": "1,3 i 5.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,2,3 i 5.",
+          "isCorrect": false
+        },
+        {
+          "text": "2,3 i 4.",
+          "isCorrect": false
+        },
+        {
+          "text": "1 i 4.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0050",
+      "question": "Kada se avion leti sa brzinom dizajniranom za manevrisanje VA:",
+      "options": [
+        {
+          "text": "Nije moguce prekoraciti strukturalna ogranicenja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nije moguce dovesti avion u opterecenje vece nego strukturalno ogranicenje prilikom manevara sa velikim G opterecenjem.",
+          "isCorrect": false
+        },
+        {
+          "text": "Moguce je dovesti avion u opterecenje vece nego dozvoljeno samo prilikom izvodenja naglih pokreta komandama kao što je naglo izvlacenje iz obrušavanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mora se odmah usporiti ukoliko se leti u turbulenciji.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0051",
+      "question": "Kada se brzina povecava, indukovani otpor se:",
+      "options": [
+        {
+          "text": "Smanjuje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zavisi od težine aviona.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ostaje nepromenjen.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0052",
+      "question": "Kada se eleroni pomeraju iz neutralnog položaja.",
+      "options": [
+        {
+          "text": "Eleron koji ide na dole povecava indukovani otpor.",
+          "isCorrect": true
+        },
+        {
+          "text": "Eleron koji ide na gore povecava indukovani otpor.",
+          "isCorrect": false
+        },
+        {
+          "text": "Indukovani otpor ostaje isti a eleron koji ide na gore uzrokuje povecanje otpora oblika u odnosu na eleron koji ide na dole.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oba elerona uzrokuju povecanje indukovanog otpora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0053",
+      "question": "Kada su flapsovi spušteni, kritican napadni ugao krila se:",
+      "options": [
+        {
+          "text": "Smanjuje, ali CLMAX  raste.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ostaje isti, ali CLMAX raste.",
+          "isCorrect": false
+        },
+        {
+          "text": "Raste i CLMAX raste.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjuje se, ali CLMAX ostaje isti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0054",
+      "question": "Kakav mora biti odnos sila koje deluju na avion u letu, da bi taj avion leteo konstantnom brzinom i bez promene visine?",
+      "options": [
+        {
+          "text": "Uzgon mora biti jednak težini, a potisak mora biti jednak otporu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uzgon mora biti jednak otporu, a potisak mora biti jednak težini.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzgon mora biti jednak zbiru potiska i otpora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzgon mora da bude jednak potisku, a težina mora biti jednaka otporu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0055",
+      "question": "Kako se brzina povecava, indukovani otpor se_________, parazitni otpor se________ ,a totalni otpor se______.",
+      "options": [
+        {
+          "text": "Smanjuje / Povecava / Smanjuje pa povecava.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecava / Povecava / Povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecava / Smanjuje / Povecava pa smanjuje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjuje / Smanjuje / Smanjuje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0056",
+      "question": "Kod aviona sa obicnim krilcem za trimovanje na komandnoj površini, kada je površina pomerena, krilce za trimovanje ostaje u istoj poziciji u odnosu na :",
+      "options": [
+        {
+          "text": "Komandnu površinu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Relativni pravac strujanja vetra.",
+          "isCorrect": false
+        },
+        {
+          "text": "Granicni sloj strujanja vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Horizontalnu ravan aviona.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0057",
+      "question": "Kod dvostrukog povecanja brzine opstrujavanja vazduha, koeficijent aerodinamickog otpora tela se :",
+      "options": [
+        {
+          "text": "Povecava se 4 puta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dvostruko povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ne menja se.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecava se 6 puta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0058",
+      "question": "Koja je važnost brzine koja se naziva VNO:",
+      "options": [
+        {
+          "text": "Odreduje gornju granicu normalne operativne anvelope leta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Maksimalna je brzina prilikom koje nagli pokreti komandi mogu da rezultiraju svaljivanjem, pre nego što je granica pozitivnog opterecenja prekoracena.",
+          "isCorrect": false
+        },
+        {
+          "text": "To je brzina preko koje ce doci do loma strukture.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznacava brzinu koja se nikada ne sme prekoraciti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0059",
+      "question": "Koja komandna površina obezbeduje kontrolu oko vertikalne ose aviona:",
+      "options": [
+        {
+          "text": "Kormilo pravca.",
+          "isCorrect": true
+        },
+        {
+          "text": "Eleroni.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kormilo visine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Flaps.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0063",
+      "question": "Koje komandne površine obezbeduju uzdužnu kontrolu?",
+      "options": [
+        {
+          "text": "Kormilo visine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kormilo pravca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eleroni.",
+          "isCorrect": false
+        },
+        {
+          "text": "Flapsovi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0064",
+      "question": "Koje od sledece cetiri opcije opisuje posledicu poletanja sa stepenom flapsa koji je preporucen od strane proizvodaca:",
+      "options": [
+        {
+          "text": "Smanjenje dužine potrebne za poletanje u odnosu na poletanje bez flapsa.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecanje dužine potrebne za poletanje u odnosu na poletanje bez flapsa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veci ugao penjanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lakše izbegavanje prepreka na kraju piste.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0065",
+      "question": "Koji je najveci dozvoljeni nagib u zaokretu, ako je preopterecenje + 3.8 G (Pogledajte sliku PPL PoF-1.) :",
+      "options": [
+        {
+          "text": "75°.",
+          "isCorrect": true
+        },
+        {
+          "text": "70°.",
+          "isCorrect": false
+        },
+        {
+          "text": "67°.",
+          "isCorrect": false
+        },
+        {
+          "text": "53°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0066",
+      "question": "Koji je to napadni ugao krila, pri kojem ocekujemo slom uzgona:",
+      "options": [
+        {
+          "text": "10° - 18°.",
+          "isCorrect": true
+        },
+        {
+          "text": "3° - 5°.",
+          "isCorrect": false
+        },
+        {
+          "text": "5° - 10°.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veci od 25°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0067",
+      "question": "Koji oblik krila ima najveci indukovani otpor :",
+      "options": [
+        {
+          "text": "Pravougaono.",
+          "isCorrect": true
+        },
+        {
+          "text": "Trapezasto.",
+          "isCorrect": false
+        },
+        {
+          "text": "Elipticno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dvostruki trapez.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0068",
+      "question": "Koji od cetiri ponudena odgovora najtacnije dovršava sledecu recenicu: Povecanje brzine leta ima za posledicu povecanje uzgona zbog:",
+      "options": [
+        {
+          "text": "Povecana brzina vazduha koji prelazi preko gornjake krila smanjuje staticki pritisak iznad krila, cime se povecava razlika u pritiscima gornjake i donjake krila.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uzgon je direktno proporcionalan brzini vazdušne struje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecana brzina relativne vazdušne struje prevazilazi povecanje otpora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecanje brzine smanjuje otpor.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0069",
+      "question": "Koji od ponudenih odgovora je tacan,a odnosi se na promenu gustine vazduha sa visinom:",
+      "options": [
+        {
+          "text": "Smanjenje pritiska sa povecanjem visine dovodi do smanjenja gustine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rast temperature sa povecanjem visine dovodi do povecanja gustine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Opadanje temperature sa povecanjem visine dovodi do povecanja gustine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecanje pritiska sa povecanjem visine dovodi do smanjenja gustine .",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0070",
+      "question": "Koji od ponudenih odgovora najbolje dovršava recenicu? Kolicina uzgona koju neko krilo pravi direktno je proporcionalna:",
+      "options": [
+        {
+          "text": "Gustini vazduha.",
+          "isCorrect": true
+        },
+        {
+          "text": "Razlici dinamickog i statickog pritiska.",
+          "isCorrect": false
+        },
+        {
+          "text": "Korenu brzine vazduha koji struji preko krila.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temperaturi vazduha.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0071",
+      "question": "Koliko približno iznosi povecanje minimalne brzine vazduhoplova, ako mu povecamo masu za 20% :",
+      "options": [
+        {
+          "text": "10%.",
+          "isCorrect": true
+        },
+        {
+          "text": "0%.",
+          "isCorrect": false
+        },
+        {
+          "text": "120%.",
+          "isCorrect": false
+        },
+        {
+          "text": "20%.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0072",
+      "question": "Komande površine su balansirane tegovima da bi se:",
+      "options": [
+        {
+          "text": "Eliminisao flater na komandnim površinama.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pomoglo pilotu aerodinamickim silama prilikom pomeranja komandnih površina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obezbedile jednake sile prilikom komandovanja u sve tri komande.",
+          "isCorrect": false
+        },
+        {
+          "text": "Komande vratile u neutralan položaj kada su slobodne.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0073",
+      "question": "Komandna površina može biti balansirana tegom:",
+      "options": [
+        {
+          "text": "Kacenjem tega ispred ose rotacije komandne površine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Montiranjem servo krilca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Montiranjem anti-servo krilca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kacenjem tega iza ose rotacije komande površine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0074",
+      "question": "Komandna površina može imati balansiranje tegom kako bi se:",
+      "options": [
+        {
+          "text": "Sprecila brza i nekontrolisana oscilacija koja se naziva flater.",
+          "isCorrect": true
+        },
+        {
+          "text": "Održavale komandne površine u neutralnom položaju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjile sile potrebne za kontrolu aviona.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obezbedio pilotu osecaj komandovanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0075",
+      "question": "Kormilo pravca na avionu je opremljeno servo krilcem. Pomeranje kormila pravca u desno ce uzrokovati pomeranje servo krilca:",
+      "options": [
+        {
+          "text": "Levo, a kormila pravca u desno.",
+          "isCorrect": true
+        },
+        {
+          "text": "Desno, a kormila pravca u levo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Desno i pomeranje kormila pravca u desno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Levo i kormila pravca u levo.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0076",
+      "question": "Krila 4.600 lb teškog vazduhoplova moraju ostvariti u zaokretu nagiba 50% , bez gubitka visine silu uzgona od (Pogledajte sliku PPL PoF-1.) :",
+      "options": [
+        {
+          "text": "7,160 lbs.",
+          "isCorrect": true
+        },
+        {
+          "text": "5,400 lbs.",
+          "isCorrect": false
+        },
+        {
+          "text": "9,200 lbs.",
+          "isCorrect": false
+        },
+        {
+          "text": "8,180 lbs.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0077",
+      "question": "Krila koja su nagnuta na dole gledano od korena krila ka vrhu su krila sa :",
+      "options": [
+        {
+          "text": "Negativnom V formom.",
+          "isCorrect": true
+        },
+        {
+          "text": "Negativnom vitoperenošcu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Suženjem.",
+          "isCorrect": false
+        },
+        {
+          "text": "Strelom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0078",
+      "question": "Krilo aviona je dizajnirano sa pozitivnom V-formom kako bi se obezbedila:",
+      "options": [
+        {
+          "text": "Poprecna stabilnost oko uzdužne ose.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uzdužna stabilnost oko poprecne ose.",
+          "isCorrect": false
+        },
+        {
+          "text": "Poprecna stabilnost oko vertikalne ose.",
+          "isCorrect": false
+        },
+        {
+          "text": "Direkciona stabilnost oko vertikalne ose.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0079",
+      "question": "Longitudinalna (uzdužna) stabilnost je dobijena zahvaljujuci:",
+      "options": [
+        {
+          "text": "Horizontalnom repu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vertikalnom repu.",
+          "isCorrect": false
+        },
+        {
+          "text": "V-formi krila.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eleronima.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0080",
+      "question": "Maksimalan ugao penjanja nekog aviona je odreden :",
+      "options": [
+        {
+          "text": "Viškom potiska motora.",
+          "isCorrect": true
+        },
+        {
+          "text": "Težinom aviona.",
+          "isCorrect": false
+        },
+        {
+          "text": "Brzinom vetra.",
+          "isCorrect": false
+        },
+        {
+          "text": "Viškom brzine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0081",
+      "question": "Maksimalna brzina sa kojom avion sme da se leti sa izvucenim flapsovima se zove:",
+      "options": [
+        {
+          "text": "VFE.",
+          "isCorrect": true
+        },
+        {
+          "text": "VYSE.",
+          "isCorrect": false
+        },
+        {
+          "text": "VNE .",
+          "isCorrect": false
+        },
+        {
+          "text": "VNO.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0082",
+      "question": "Maksimalna dozvoljena brzina sa izvucenim flapsovima (Vfe) je manja nego brzina krstarenja zbog:",
+      "options": [
+        {
+          "text": "Na vecim brzinama od Vfe , aerodinamicke sile mogu preopteretiti strukturu krila i flapsa.",
+          "isCorrect": true
+        },
+        {
+          "text": "Flaps se koristi samo kada se slece.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zbog toga što je previše otpora proizvedeno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Flaps ce izgubiti uzgon, ako je izvucen na prevelikoj brzini.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0083",
+      "question": "Maksimalna razdaljina jedrenja sa visine od 6000 fita, za avion u cistoj konfiguraciji sa finesom od 8:1 je otprilike 8 milja.",
+      "options": [
+        {
+          "text": "Ukoliko se flaps izvuce:",
+          "isCorrect": true
+        },
+        {
+          "text": "Maksimalna dužina jedrenja ce biti manja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalna dužina jedrenja ce biti veca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Finesa ce ostati nepromenjena, ali ce biti postignuta na manjoj brzini.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalna dužina jedrenja ce ostati nepromenjena.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0084",
+      "question": "Svrha anti-servo krilca je:",
+      "options": [
+        {
+          "text": "Da obezbedi da se sila prilikom kontrole povecava sa povecanjem otklona komandi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Da trimuje avion.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanji silu potrebnu za kontrolisanje aviona na svim brzinama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanji silu potrebnu za kontrolisanje aviona na velikim brzinama.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0085",
+      "question": "Svrha diferencijalnih elerona je da:",
+      "options": [
+        {
+          "text": "Smanji momenat skretanja u kontra pravcu kada je avion u zaokretu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Poveca momenat skretanja koji se suprotstavlja zaokretu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Poveca momenat propinjanja kako bi se sprecila tendencija padanja nosa u zaokretu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Poboljša brzinu valjanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0086",
+      "question": "Svrha sistema trimera opremljenih oprugom je:",
+      "options": [
+        {
+          "text": "Da smanji na nulu silu potrebnu pilotu da pobedi silu na palici, posle komandovanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Da se održava konstantna zategnutost u komandnom kolu trimera.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da se poveca osecaj u kontrolnom kolu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da kompenzuje sile zatezanja u kablovima prilikom temperaturnih promena.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0087",
+      "question": "Svrha trimera je:",
+      "options": [
+        {
+          "text": "Da izbalansira sile na pilotskim komandama u željenom režimu leta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Da pomogne pilotu prilikom pocetnog pokretanja komandi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da obezbede osecaj na komandama prilikom velikih brzina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da poboljša efikasnost komandnih površina.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0088",
+      "question": "Tendencija aviona da razvije sile koje ga vracaju u prvobitan položaj, kada je pobuden iz pravolinijskog mirnog leta je poznata kao:",
+      "options": [
+        {
+          "text": "Stabilnost.",
+          "isCorrect": true
+        },
+        {
+          "text": "Manevribilnost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kontrolabilnost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nestabilnost.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0089",
+      "question": "Tipican napadni ugao kod aviona pri kojem nastaje slom uzgona je:",
+      "options": [
+        {
+          "text": "16° .",
+          "isCorrect": true
+        },
+        {
+          "text": "4°.",
+          "isCorrect": false
+        },
+        {
+          "text": "30° .",
+          "isCorrect": false
+        },
+        {
+          "text": "45°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0090",
+      "question": "Tokom manevra, eleroni su otklonjeni i vraceni u neutralni položaj kada je avion dostigao mali nagibni ugao. Ako se avion vrati u horizontalni položaj bez dodatnih pokreta komandi, onda je:",
+      "options": [
+        {
+          "text": "Staticki i dinamicki stabilan.",
+          "isCorrect": true
+        },
+        {
+          "text": "Neutralno stabilan.",
+          "isCorrect": false
+        },
+        {
+          "text": "Staticki stabilan, ali dinamicki neutralan.",
+          "isCorrect": false
+        },
+        {
+          "text": "Staticki stabilan.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0091",
+      "question": "U podzvucnom strujanju, kada vazduh prolazi kroz venturi tubu, masa protoka ________, brzina protoka _________, a",
+      "options": [
+        {
+          "text": "staticki pritisak________.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ostaje konstantna / raste pa opada / opada pa raste.",
+          "isCorrect": false
+        },
+        {
+          "text": "Opada pa raste / ostaje konstantna / raste pa opada.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ostaje konstantna / raste pa opada / raste pa opada.",
+          "isCorrect": false
+        },
+        {
+          "text": "Opada pa raste / raste pa opada / raste pa opada.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0092",
+      "question": "U pravolinijskom letu, pritisak u slobodnoj vazdušnoj struji u poredenju sa pritiskom u vazdušnoj struji koja prolazi odmah ispod krila je:",
+      "options": [
+        {
+          "text": "Manji.",
+          "isCorrect": true
+        },
+        {
+          "text": "Jednak.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veci.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jednak pritisak, ali veca brzina.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0093",
+      "question": "U pravolinijskom letu, vazdušna struja preko gornjake krila poredena sa vazdušnom strujom koja nije ometena krilom ce imati:",
+      "options": [
+        {
+          "text": "Vecu brzinu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vecu gustinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manju brzinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Istu brzinu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0094",
+      "question": "Posle trimovanja za miran let po pravcu i visini, u avionu sa centrom težišta blizu prednje granice i kormilom visine opremljenim sa obicnim trimerom :",
+      "options": [
+        {
+          "text": "Efektivnost dizanja nosa ce biti smanjena.",
+          "isCorrect": true
+        },
+        {
+          "text": "Efektivnost spuštanja nosa ce biti smanjena.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzdužna stabilnost ce biti smanjena.",
+          "isCorrect": false
+        },
+        {
+          "text": "Opterecenje repa na dole ce biti smanjeno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0095",
+      "question": "Posle uzdužne pobude, avion koji je poprecno-smerno nestabilan ce:",
+      "options": [
+        {
+          "text": "Razviti simultane oscilacije po valjanju i pravcu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Upasti u spiralu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Razviti oscilacije po visini.",
+          "isCorrect": false
+        },
+        {
+          "text": "Razviti nekontrolisano valjanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0096",
+      "question": "Površina koja avionu pruža direkcionu stabilnost je:",
+      "options": [
+        {
+          "text": "Vertikalni rep.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kormilo pravca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Horizontalni rep.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trimer na kormilu pravca.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0097",
+      "question": "Pravac kretanja vazduhoplova je poremecen iznenadnim udarom vetra. Neutralna stabilnost je kada bez komandovanja pilota avion:",
+      "options": [
+        {
+          "text": "Održava novi pravac kretanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vrati se na predašnju putanju bez oscilacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vrati se na predašnju putanju sa oscilacijama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nastavi da se udaljava od originalnog pravca.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0098",
+      "question": "Preopterecenje vazduhoplova u zaokretu nagiba 60° je (Pogledajte sliku PPL PoF-1.) :",
+      "options": [
+        {
+          "text": "2.0 G.",
+          "isCorrect": true
+        },
+        {
+          "text": "1.5 G.",
+          "isCorrect": false
+        },
+        {
+          "text": "0.5 G.",
+          "isCorrect": false
+        },
+        {
+          "text": "1 G.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0099",
+      "question": "Pretpostavljajuci da je pritisak na nivou mora po standardnoj medunarodnoj atmosferi( ISA), a temperatura 10°C veca nego temperature po ISA, gustina ce biti:",
+      "options": [
+        {
+          "text": "Manja od ISA.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kao po ISA.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veca od ISA.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nepromenjena.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0100",
+      "question": "Pri konstantnom napadnom uglu, smanjenje brzine ce za posledicu imati:",
+      "options": [
+        {
+          "text": "Smanjenje uzgona i otpora.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecanje uzgona, a smanjenje otpora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecanje otpora, a smanjenje uzgona.",
+          "isCorrect": false
+        },
+        {
+          "text": "Moguce i povecanje i smanjenje uzgona i otpora u zavisnosti od brzine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0101",
+      "question": "Pri odredenoj indikovanoj brzini, kakav efekat ce povecanje gustine vazduha imati na uzgon i otpor?",
+      "options": [
+        {
+          "text": "Uzgon i otpor ce ostati nepromenjeni.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uzgon ce se povecati a otpor smanjiti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzgon i otpor ce se povecati.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzgon i otpor ce se smanjiti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0102",
+      "question": "Pri povecanju opterecenja krila za 15%, minimalna brzina se povecava približno za :",
+      "options": [
+        {
+          "text": "7%.",
+          "isCorrect": true
+        },
+        {
+          "text": "0%.",
+          "isCorrect": false
+        },
+        {
+          "text": "15%.",
+          "isCorrect": false
+        },
+        {
+          "text": "20%.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0103",
+      "question": "Približno koliko uzgona moraju ostvariti krila 3.000 lb teškog vazduhoplova u zaokretu nagiba 20° bez gubitka visine (Pogledajte sliku PPL PoF-1.) :",
+      "options": [
+        {
+          "text": "3,180 lbs.",
+          "isCorrect": true
+        },
+        {
+          "text": "4,000 lbs.",
+          "isCorrect": false
+        },
+        {
+          "text": "3,350 lbs.",
+          "isCorrect": false
+        },
+        {
+          "text": "3,000 lbs.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0104",
+      "question": "Prilikom penjanja sa konstantnom brzinom, potisak je:",
+      "options": [
+        {
+          "text": "Veci nego aerodinamicka sila.",
+          "isCorrect": true
+        },
+        {
+          "text": "Jednak aerodinamickoj sili.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manji od aerodinamicke sile.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jednak komponenti težine u pravcu leta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0105",
+      "question": "Prilikom svaljivanja, centar pritiska koji se pomera unazad ce izazvati da nos______, a smanjen uzgon da avion ________.",
+      "options": [
+        {
+          "text": "Padne / izgubi visinu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Skrene / smanji brzinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Podigne / propadne.",
+          "isCorrect": false
+        },
+        {
+          "text": "Padne / smanji brzinu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0106",
+      "question": "Primarni i sekundarni efekat davanje samo leve noge je:",
+      "options": [
+        {
+          "text": "Skretanje u levo i valjanje u levo.",
+          "isCorrect": true
+        },
+        {
+          "text": "Skretanje u levo i valjanje u desno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Skretanje u desno i valjanje u levo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Skretanje u desno i valjanje u desno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0107",
+      "question": "Primarni i sekundarni efekti kormila pravca su:",
+      "options": [
+        {
+          "text": "Skretanje i valjanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Skretanje i propinjanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Propinjanje i skretanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Valjanje i skretanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0108",
+      "question": "Primarni sekundarni efekti komandovanja eleronima su:",
+      "options": [
+        {
+          "text": "Valjanje i skretanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Valjanje i propinjanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Propinjanje i skretanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Skretanje i valjanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0109",
+      "question": "Prisustvo vodene pare:",
+      "options": [
+        {
+          "text": "Smanjice gustinu vazduha.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecace gustinu vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecace snagu klipnog motora u datoj atmosferi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecace uzgon aviona u datoj atmosferi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0110",
+      "question": "Promenom napadnog ugla krila, pilot može da kontroliše:",
+      "options": [
+        {
+          "text": "Uzgon, brzinu i otpor.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uzgon i brzinu, ali ne i otpor.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzgon, ukupnu težinu i otpor.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzgon i otpor, ali ne i brzinu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0111",
+      "question": "Pun otklon flapsa bi trebalo selektovati:",
+      "options": [
+        {
+          "text": "Kada se donese odluka o sletanju.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kada se ude u final.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prilikom go-around.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kada se slece sa jakim ceonim vetrom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0112",
+      "question": "Punjenje aviona tako da centar težišta prede svoju zadnju granicu može rezultirati:",
+      "options": [
+        {
+          "text": "Gubitkom longitudinalne stabilnosti, i tendencijom dizanja nosa na malim brzinama.",
+          "isCorrect": true
+        },
+        {
+          "text": "Prevelikom silom na gore na repu i tendencijom obaranja nosa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prevelikim faktorom opterecenja u zaokretu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Velikim silama na palici.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0113",
+      "question": "Razlog zbog koga je krilo iskrivljeno samom konstrukcijom je:",
+      "options": [
+        {
+          "text": "Da izazove da sekcija krila u korenu izgubi uzgon prva.",
+          "isCorrect": true
+        },
+        {
+          "text": "Poveca efektivnost flapsa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da izazove da sekcija krila pri vrhu izgubi uzgon prva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanji efikasnost elerona.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0114",
+      "question": "Relativni protok vazduha je _____ i ______ u odnosu na smer kretanja aviona:",
+      "options": [
+        {
+          "text": "Paralelan / Suprotan.",
+          "isCorrect": true
+        },
+        {
+          "text": "Normalan / Suprotan.",
+          "isCorrect": false
+        },
+        {
+          "text": "Normalan / Istog smera.",
+          "isCorrect": false
+        },
+        {
+          "text": "Paralelan / Istog smera.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0115",
+      "question": "Rotiranje aviona oko vertikalne ose je poznato kao:",
+      "options": [
+        {
+          "text": "Rotiranje po pravcu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Valjanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rotiranje po visini.",
+          "isCorrect": false
+        },
+        {
+          "text": "Traverza po pravcu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0116",
+      "question": "Sa centom težišta na prednjoj granici, avion ce imati :",
+      "options": [
+        {
+          "text": "Smanjenu efektivnost kormila visine tokom leta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smanjenu longitudinalnu stabilnost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lakše sile prilikom komandovanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Krace staze potrebne za poletanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0117",
+      "question": "Sa spuštenim flapsovima, brzina svaljivanja se:",
+      "options": [
+        {
+          "text": "Smanjuje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecava, ali se dešava na vecem napadnom uglu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ostaje nepromenjena.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0118",
+      "question": "Simbol za dinamicki pritisak je:",
+      "options": [
+        {
+          "text": "Q.",
+          "isCorrect": true
+        },
+        {
+          "text": "P.",
+          "isCorrect": false
+        },
+        {
+          "text": "R.",
+          "isCorrect": false
+        },
+        {
+          "text": "D.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0119",
+      "question": "Skretanja je rotacija oko:",
+      "options": [
+        {
+          "text": "Vertikalne ose, komandovana kormilom pravca.",
+          "isCorrect": true
+        },
+        {
+          "text": "Poprecne ose, komandovana kormilom pravca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzdužne ose, komandovana eleronima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vertikalne ose, komandovana kormilom visine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0120",
+      "question": "Skretanje je pokretanje oko _______ose.",
+      "options": [
+        {
+          "text": "Vertikalne.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uzdužne.",
+          "isCorrect": false
+        },
+        {
+          "text": "Poprecne.",
+          "isCorrect": false
+        },
+        {
+          "text": "Horizontalne.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0121",
+      "question": "Slom uzgona na krilu nastaje kada:",
+      "options": [
+        {
+          "text": "Je prekoracen kriticni napadni ugao.",
+          "isCorrect": true
+        },
+        {
+          "text": "Indikovana brzina je premala.",
+          "isCorrect": false
+        },
+        {
+          "text": "Laminarno strujanje postane turbulentno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kada je avion izložen velikim G silama.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0122",
+      "question": "Stabilnost oko vertikalne ose:",
+      "options": [
+        {
+          "text": "Je povecana ukoliko je površina repa iza centra težišta povecana.",
+          "isCorrect": true
+        },
+        {
+          "text": "Je definisana lateralnom V-formom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zavisi od longitudinalne V-forme.",
+          "isCorrect": false
+        },
+        {
+          "text": "Je veca ukoliko strela na krilu ne postoji.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0123",
+      "question": "Maksimalna vrednost koeficijenta uzgona se nalazi na napadnom uglu od otprilike:",
+      "options": [
+        {
+          "text": "16 stepeni.",
+          "isCorrect": true
+        },
+        {
+          "text": "Minus 4 stepena.",
+          "isCorrect": false
+        },
+        {
+          "text": "0 stepeni.",
+          "isCorrect": false
+        },
+        {
+          "text": "4 to 6 stepeni.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0124",
+      "question": "Maksimalna vrednost koeficijenta uzgona se nalazi:",
+      "options": [
+        {
+          "text": "Kod kriticnog napadnog ugla.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kod negativnih napadnih uglova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kad je uzgon jednak otporu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prilikom oštrih zaokreta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0125",
+      "question": "Masa vazduha koji se krece poseduje kineticku energiju. Kada se neki objekat nade na putu tog vazduha onda na njega deluje:",
+      "options": [
+        {
+          "text": "Staticki plus dinamicki pritisak.",
+          "isCorrect": true
+        },
+        {
+          "text": "Staticki pritisak.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dinamicki pritisak.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dinamicki pritisak minus staticki pritisak.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0126",
+      "question": "Masa vazduhoplova je rezultat:",
+      "options": [
+        {
+          "text": "Koliko materije sadrži.",
+          "isCorrect": true
+        },
+        {
+          "text": "Njegove težine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Njegove velicine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Njegove zapremine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0127",
+      "question": "Na sekciju aeroprofila, uzgon deluje normalno, a sila otpora paralelno sa:",
+      "options": [
+        {
+          "text": "Pravcem leta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Longitudinalnom osom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Srednjom linijom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gornjakom aeroprofila.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0128",
+      "question": "Najveci dozvoljeni nagib u zaokretu sa preopterecenjem od + 2.5 G je (Pogledajte sliku PPL PoF-1.) :",
+      "options": [
+        {
+          "text": "66°.",
+          "isCorrect": true
+        },
+        {
+          "text": "55°.",
+          "isCorrect": false
+        },
+        {
+          "text": "60°.",
+          "isCorrect": false
+        },
+        {
+          "text": "50°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0129",
+      "question": "Napadni ugao je ugao izmedu:",
+      "options": [
+        {
+          "text": "Tetive i pravca kretanja relativne vazdušne struje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Srednje krive linije i slobodne vazdušne struje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tetive i longitudinalne (uzdužne) ose aviona.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tetive i linije horizonta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0130",
+      "question": "Napadni ugao prilikom koga se avion svaljuje:",
+      "options": [
+        {
+          "text": "Ostaje isti bez obzira na težinu aviona.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bice manji kada se leti niz vetar nego uz vetar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zavisi od brzine strujanja vazduha preko krila.",
+          "isCorrect": false
+        },
+        {
+          "text": "Je funkcija brzine i gustine vazduha.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0131",
+      "question": "Osobine Zemljine atmosfere koje uticu na performanse aviona su:",
+      "options": [
+        {
+          "text": "Njen sadržaj vodene pare, temperatura,pritisak i gustina.",
+          "isCorrect": true
+        },
+        {
+          "text": "Njena temperature, pritisak i vlažnost vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Njen sadržaj kiseonika, pritisak i kolicina vodene pare.",
+          "isCorrect": false
+        },
+        {
+          "text": "Njen sadržaj azota,kiseonika,temperature i pritisak .",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0132",
+      "question": "Otpor ili trenje po površini, zbog viskoziteta vazduha koji struji po površini krila je tip:",
+      "options": [
+        {
+          "text": "Parazitnog otpora.",
+          "isCorrect": true
+        },
+        {
+          "text": "Indukovanog otpora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otpor oblika.",
+          "isCorrect": false
+        },
+        {
+          "text": "Interferentni otpor.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0133",
+      "question": "Pilot izvlaci flaps dok održava konstantnu brzinu. Da bi održao let na istoj visini, napadni ugao:",
+      "options": [
+        {
+          "text": "Mora biti smanjen.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mora biti povecan.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mora ostati isti, ali gas mora biti dodat.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mora ostati isti, a potrebna snaga ce ostati ista.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0134",
+      "question": "Po nacinu konstrukcije, centar pritiska na odredenom avionu je iza centra težišta. Ako je avion longitudinalno (uzdužno)",
+      "options": [
+        {
+          "text": "stabilan i pobuden nosem na dole od strane turbulencije:",
+          "isCorrect": true
+        },
+        {
+          "text": "Horizontalni rep ce generisati silu na dole.",
+          "isCorrect": false
+        },
+        {
+          "text": "Horizontalni rep ce generisati silu na gore.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ni sila na gore ni sila na dole nece biti generisana, jer ce avion vec biti u stanju ravnoteže.",
+          "isCorrect": false
+        },
+        {
+          "text": "Avion ce održavati položaj nosa na dole.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0135",
+      "question": "Poprecna osa aviona je zamišljena linija koja:",
+      "options": [
+        {
+          "text": "Prolazi kroz centar težišta, paralelna sa linijom koja prolazi kroz vrhove krila.",
+          "isCorrect": true
+        },
+        {
+          "text": "Prolazi kroz vrhove krila.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prolazi kroz centar pritiska, pod pravim uglom u odnosu na pravac strujanja vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prolazi kroz cetvrtinu tetive u korenu krila, pod pravim uglom u odnosu na uzdužnu osu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0136",
+      "question": "Posle pobude po visini, avion kome se povecava amplituda oscilacije je:",
+      "options": [
+        {
+          "text": "Staticki stabilan, a dinamicki nestabilan.",
+          "isCorrect": true
+        },
+        {
+          "text": "Staticki i dinamicki nestabilan.",
+          "isCorrect": false
+        },
+        {
+          "text": "Staticki nestabilan, a dinamicki stabilan.",
+          "isCorrect": false
+        },
+        {
+          "text": "Staticki i dinamicki stabilan.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0137",
+      "question": "U toku leta na avion deluju sledece sile:",
+      "options": [
+        {
+          "text": "Vucna sila, uzgon, otpor, težina.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vucna sila, uzgon, težina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vucna sila, uzgon, otpor.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzgon, otpor, težina .",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0138",
+      "question": "Ugao penjanja je proporcionalan:",
+      "options": [
+        {
+          "text": "Razlici potiska i otpora.",
+          "isCorrect": true
+        },
+        {
+          "text": "Razlici uzgona i težine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Razlici potiska i težine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Napadnom uglu krila.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0139",
+      "question": "Ukoliko je brzina svaljivanja u pravolinijskom letu 60 cvorova, koja je brzina svaljivanja prilikom zaokreta sa nagibom od 60°:",
+      "options": [
+        {
+          "text": "85 kt.",
+          "isCorrect": true
+        },
+        {
+          "text": "60 kt.",
+          "isCorrect": false
+        },
+        {
+          "text": "43 kt.",
+          "isCorrect": false
+        },
+        {
+          "text": "120 kt.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0140",
+      "question": "Ukoliko je centar težišta aviona na granici prilikom poletanja:",
+      "options": [
+        {
+          "text": "Granica centra težišta za sletanje mora biti proverena zbog potrošnje goriva.",
+          "isCorrect": true
+        },
+        {
+          "text": "Centar težišta ce uvek biti u granicama za sletanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Centar težišta se nece promeniti tokom leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Posada je sigurna da ce uvek moci da prilagodi centar težišta tokom leta kako bi bio u dozvoljenim granicama.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0141",
+      "question": "Uredaji na napadnoj ivici krila, kao što su pretkrilca, dizajnirani su tako da omoguce let na vecim napadnim uglovima tako što:",
+      "options": [
+        {
+          "text": "Dodaju dodatnu energiju vazduhu koji struji preko krila cime se odlaže separacija.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dodaju ekstra površinu koja proizvodi uzgon cime se povecava kolicina uzgona.",
+          "isCorrect": false
+        },
+        {
+          "text": "Menjaju oblik i time uzgonske karakteristike krila.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjuju uzgon i time smanjuju indukovani otpor.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0142",
+      "question": "Uzimajuci u obzir sile koje deluju na avion prilikom konstantne brzine, koja je tvrdnja tacna:",
+      "options": [
+        {
+          "text": "Težina uvek deluje vertikalno na dole, prema centru zemlje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uzgon deluje upravno na tetivu profila, uvek mora biti veci nego težina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Potisak deluje paralelno u odnosu na relativnu vazdušnu struju i veci je nego otpor.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sila uzgona generisana krilima, uvek deluje suprotno od smera sile težine aviona.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0143",
+      "question": "Vazduhoplov rotira oko:",
+      "options": [
+        {
+          "text": "Svog centra težišta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Svojih krila.",
+          "isCorrect": false
+        },
+        {
+          "text": "Glavnog stajnog trapa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kormila pravca.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0144",
+      "question": "Vazdušni pritisak koji deluje na telo koje se nalazi u njemu :",
+      "options": [
+        {
+          "text": "Poznat je kao staticki pritisak.",
+          "isCorrect": true
+        },
+        {
+          "text": "Poznat je kao dinamicki pritisak.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veci je na visini nego na nivou mora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Poznat je kao totalni pritisak.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0145",
+      "question": "Vazdušni pritisak:",
+      "options": [
+        {
+          "text": "Deluje u svim pravcima.",
+          "isCorrect": true
+        },
+        {
+          "text": "Deluje samo vertikalno naniže.",
+          "isCorrect": false
+        },
+        {
+          "text": "Meri se u Paskalima po kvadratnom incu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Raste sa visinom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0146",
+      "question": "V-forma krila produkuje stabilizirajuci momenat valjanja tako što povecava uzgon:",
+      "options": [
+        {
+          "text": "Na nižem krilu kada je avion u traverzi po pravcu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Na krilu koje se podiže kada se avion valja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na krilu koje se podiže kada je avion u traverzi po pravcu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na nižem krilu kad god je avion u nagnutom položaju.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0147",
+      "question": "Visokokrilac bez ikakve V-forme, u poredenju sa niskokrilcem bez ikakve V-forme ce imati:",
+      "options": [
+        {
+          "text": "Vecu poprecnu stabilnost.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vecu uzdužnu stabilnost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Isti nivo uzdužne stabilnosti kao i bilo koja druga konfiguracija, jer V-forma daje uzdužnu stabilnost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manju poprecnu stabilnost.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0148",
+      "question": "VNE je:",
+      "options": [
+        {
+          "text": "Maksimalna brzina sa kojom avion može da se leti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Brzina koja ne sme biti prekoracena osim u obrušavanju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalna brzina pri kojoj manevri koji uzrokuju svaljivanje mogu biti izvodeni.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalna brzina preko koje se flaps ne sme izvlaciti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0149",
+      "question": "Zamišljana prava linija, koja se proteže od središnje tacke napadne ivice aeroprofila pa do izlazne ivice istog se naziva:",
+      "options": [
+        {
+          "text": "Tetiva.",
+          "isCorrect": true
+        },
+        {
+          "text": "Srednja linija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Debljina profila.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalna krivina.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

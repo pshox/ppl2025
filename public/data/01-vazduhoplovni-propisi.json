@@ -1,0 +1,1183 @@
+{
+  "subject": "Vazduhoplovni propisi",
+  "lang": "sr",
+  "version": 3,
+  "questions": [
+    {
+      "id": "AL-0001",
+      "question": "Koja od sledecih definicija se obicno koristi za „pista u upotrebi\" na nekontrolisanom aerodromu?",
+      "options": [
+        {
+          "text": "Pista u vetar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Deo manevarske površine odreden za poletanje i sletanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Staza koja najviše odgovara vazduhoplovu koji funkcioniše sa tog aerodrome.",
+          "isCorrect": false
+        },
+        {
+          "text": "Deo aerodroma definisan za poletanje i sletanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0002",
+      "question": "Ko je odgovoran za izdavanje Uverenja o plovidbenosti?",
+      "options": [
+        {
+          "text": "Vazduhoplovna vlast države u kojoj je izvršena registracija.",
+          "isCorrect": true
+        },
+        {
+          "text": "EASA.",
+          "isCorrect": false
+        },
+        {
+          "text": "ICAO.",
+          "isCorrect": false
+        },
+        {
+          "text": "Operator.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0003",
+      "question": "Prakticni ispit za sticanje PPL(A), PPL(H), SPL i BPL dozvole mora da se izvrši u roku od ________ od završetka  praktične obuke:",
+      "options": [
+        {
+          "text": "6 meseci.",
+          "isCorrect": true
+        },
+        {
+          "text": "Jedne godine.",
+          "isCorrect": false
+        },
+        {
+          "text": "4 meseca.",
+          "isCorrect": false
+        },
+        {
+          "text": "3 meseca.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0004",
+      "question": "Vreme leta je ukupno vreme leta od momenta:",
+      "options": [
+        {
+          "text": "Pocetka kretanja vazduhoplova pod sopstvenim ili spoljnim pogonom u cilju poletanja do momenta kada dode na mesto parkiranja na kraju leta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kada vazduhoplov startuje motore u cilju poletanja ili od prvog kretanja vazduhoplova bez sopstvenog pogona, do momenta zaustavljanja rada motora ili kada vazduhoplov bez pogona dode na mesto parkiranja na kraju leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kada kompletna posada bude na vazduhoplovu do momenta kada vazduhoplov dodirne zemlju prilikom sletanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0005",
+      "question": "Ko je odgovoran da obezbedi da se sva odgovarajuca dokumentacija nalazi u vazduhoplovu na medunarodnim letovima?",
+      "options": [
+        {
+          "text": "Pilot u ulozi PIC.",
+          "isCorrect": true
+        },
+        {
+          "text": "Organizacija koja iznajmljuje vazduhoplov.",
+          "isCorrect": false
+        },
+        {
+          "text": "Organizacija vazdušnog saobracaja na koju se plan leta odnosi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Supervizor letenja na aerodromu polaska.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0006",
+      "question": "Položen teorijski ispit za izdavanje PPL(A),PPL(H),SPL,BPL i LAPL dozvole važi:",
+      "options": [
+        {
+          "text": "24 meseca.",
+          "isCorrect": true
+        },
+        {
+          "text": "12 meseci.",
+          "isCorrect": false
+        },
+        {
+          "text": "36 meseci.",
+          "isCorrect": false
+        },
+        {
+          "text": "18 meseci.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0007",
+      "question": "Vreme leta u toku kojeg ce instruktor samo nadgledati rad studenta pilota u ulozi PIC i nece uticati ili vršiti upravljanje vazduhoplovom je:",
+      "options": [
+        {
+          "text": "Vreme leta ka student pilot-in-command (SPIC).",
+          "isCorrect": true
+        },
+        {
+          "text": "Samostalno letenje pod nadzorom (PICUS).",
+          "isCorrect": false
+        },
+        {
+          "text": "Vreme leta u ulozi PIC.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vreme samostalnog letenja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0008",
+      "question": "Nalet koji se priznaje za dozvolu ili ovlašcenje mora da bude ostvaren na:",
+      "options": [
+        {
+          "text": "Istom tipu ili kategoriji vazduhoplova za koji se dozvola ili ovlašcenje traže.",
+          "isCorrect": true
+        },
+        {
+          "text": "Na vazduhoplovu iz grupe istih performansi kao što je onaj za koji se traže dozvola ili ovlašcenje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na vazduhoplovu iz iste ili više grupe performansi kao što je onaj za koji se traže dozvola ili ovlašcenje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na istom tipu vazduhoplova kao što je onaj za koji se traže dozvola ili ovlašcenje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0009",
+      "question": "Ukoliko pilot, koji ima lekarsko uverenje , doživi povredu ili bolest koji uticu na njegovu sposobnost da deluje kao clan posade vazduhoplova:",
+      "options": [
+        {
+          "text": "Lekarsko uverenje prestaje da bude važece.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lekarsko uverenje ce biti suspendovano 25 dana nakon povrede ili pocetka bolesti, dok se pilot ponovo ne proglasi sposobnim.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lekarsko uverenje ce biti suspendovano ako se povreda ili bolest prijave vazduhoplovnim vlastima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lekarsko uverenje ce ostati važece.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0011",
+      "question": "Na preletu vam se sa leve strane približava vojni avion-presretac, leti neko vreme uporedo sa vama, zatim mahne krilima i zapocne blagi zaokret u desno. To znaci:",
+      "options": [
+        {
+          "text": "Vratite se na maticni aerodrom!",
+          "isCorrect": true
+        },
+        {
+          "text": "Presretnuti ste. Sledite me!",
+          "isCorrect": false
+        },
+        {
+          "text": "Odmah napustite zabranjeno podrucje!",
+          "isCorrect": false
+        },
+        {
+          "text": "Možete da nastavite!",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0012",
+      "question": "Koje medicinsko uverenje se zahteva za studenta pilota?",
+      "options": [
+        {
+          "text": "Medicinsko uverenje Klase 1 ili Klase 2.",
+          "isCorrect": true
+        },
+        {
+          "text": "Samo medicinsko uverenje Klase 1.",
+          "isCorrect": false
+        },
+        {
+          "text": "Medicinsko uverenje Klase A ili B.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0013",
+      "question": "Šta predstavlja izraz „samostalno vreme letenja\"?",
+      "options": [
+        {
+          "text": "Ukupno vreme leta u toku kojeg je pilot učenik jedini član posade vazduhoplova.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vreme letenja u ulozi SPIC.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ukupno vreme leta, u toku kojeg je pilot sam u vazduhoplovu, i 50% od letenja u ulozi kopilota.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0014",
+      "question": "Koja rec se koristi za izražavanje vertikalne pozicije nekog vazduhoplova mereno iznad osnovnog nivoа aerodrome, kada je visinomer podešen na QFE?",
+      "options": [
+        {
+          "text": "Relativna visina.",
+          "isCorrect": true
+        },
+        {
+          "text": "Elevacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apsolutna visina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nivo leta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0015",
+      "question": "Kada vazduhoplov leti, po kojim pravilima let mora da se izvršava?",
+      "options": [
+        {
+          "text": "Ili po VFR ili po IFR.",
+          "isCorrect": true
+        },
+        {
+          "text": "Po IFR u IMC i po VFR u VMC.",
+          "isCorrect": false
+        },
+        {
+          "text": "Po diskrecionoj odluci vode posade.",
+          "isCorrect": false
+        },
+        {
+          "text": "U skladu sa instrukcijama ATC.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0016",
+      "question": "VFR let se izvodi ?",
+      "options": [
+        {
+          "text": "U skladu sa vizuelnim meteorološkim uslovima (VMC).",
+          "isCorrect": true
+        },
+        {
+          "text": "U skladu sa instrumentalnim meteorološkim uslovima (IMC).",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo u vazdušnom prostoru klase G.",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo u vazdušnom prostoru klase D.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0017",
+      "question": "Šta od navedenog spada u kategoriju vazduhoplova?",
+      "options": [
+        {
+          "text": "Avion, helikopter, jedrilica, vazduhoplov sa vertikalnim uzletanjem, vazdušni brod i balon.",
+          "isCorrect": true
+        },
+        {
+          "text": "Žiroplan, helikopter, dirižabl.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jednomotorni kopno i more.",
+          "isCorrect": false
+        },
+        {
+          "text": "Višemotorni kopno i more.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0018",
+      "question": "Pilot ili student pilot, kada postane svestan bolnickog prijema više od 12 sati, hirurške operacije ili invazivne procedure, redovne upotrebe lekova, regularne upotrebe korektivnih sociva:",
+      "options": [
+        {
+          "text": "Ne mora da leti dok ne zatraži savet od kompetentnog vazduhoplovnog lekara.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mora ponovo da prodje ispit iz zdravstvene podobnosti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mora da obavesti nadležnu vazduhoplovnu vlast u roku od 21 dana.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0019",
+      "question": "Važnost pilotske dozvole se odreduje važnošcu:",
+      "options": [
+        {
+          "text": "Upisanih ovlašcenja i lekarskog uverenja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Samo lekarskog uverenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Same dozvole i upisa u dozvolu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0020",
+      "question": "Koji od navedenih postupaka je pilot vazduhoplova posebno dužan da izvrši pre svakog leta?.",
+      "options": [
+        {
+          "text": "Da se upozna sa svim dostupnim podacima o letu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Da proveri knjižicu vazduhoplova (aircraft logbooks) po odgovarajucim stavkama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da obnovi procedure za izbegavanje turbulencije.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0021",
+      "question": "Pored ostalih aktivnost, u pripremi VFR leta izvan podrucja aerodroma, propisi izricito nalažu da PIC:",
+      "options": [
+        {
+          "text": "Odredi dužinu piste na aerodromu nameravanog odredišta i podatke za dužinu sletanja i poletanja vazduhoplova.",
+          "isCorrect": true
+        },
+        {
+          "text": "Proveri upotrebu svetlosnih signala.",
+          "isCorrect": false
+        },
+        {
+          "text": "Proveri tacnosti navigacijske opreme i odašiljaca signala položaja u nevolji(ELT).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0022",
+      "question": "Šta znaci skracenica „WIP\"?",
+      "options": [
+        {
+          "text": "Radovi u toku.( Work in progress).",
+          "isCorrect": true
+        },
+        {
+          "text": "Sa dozvolom.( With permission).",
+          "isCorrect": false
+        },
+        {
+          "text": "Pocevši.( With effect from).",
+          "isCorrect": false
+        },
+        {
+          "text": "Postupak povecanja težine.( Weight increase procedure).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0023",
+      "question": "Šta najpreciznije opisuje uslove leta u kojima je pilot obavezan da drži sigurnosne pojaseve vezanim?",
+      "options": [
+        {
+          "text": "Sedišne veze za vreme poletanja i sletanja i na ruti; ramene veze u toku poletanja i sletanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sedišne veze za vreme poletanja и sletanja; ramene veze u toku poletanja i sletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sedišne veze za vreme poletanja i sletanja; ramene veze u toku poletanja i sletanja i na ruti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0024",
+      "question": "Koja osoba je neposredno odgovorna za pripremu putnika za let?",
+      "options": [
+        {
+          "text": "PIC.",
+          "isCorrect": true
+        },
+        {
+          "text": "Domacin vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zemaljski clan posade.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0025",
+      "question": "Koju obavezu, u odnosu na putnike, ima PIC vazduhoplova u vezi upotrebe sigurnosnih pojaseva?",
+      "options": [
+        {
+          "text": "PIC mora da putnicima kratka uputstva o tome gde se nalaze pojasevi i kako se koriste.",
+          "isCorrect": true
+        },
+        {
+          "text": "PIC mora da poduci putnike da njihovi sigurnosni pojasevi budu vezani tokom celog leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "PIC nema obavezu prema putnicima u pogledu upotrebe sigurnosnih pojaseva.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0026",
+      "question": "Ko je odgovoran da osoblje koje održava vazduhoplov на odgovarajuci nacin unosi evidenciju u dokumenta održavanja na osnovu kojih se avionu dopušta dalja upotreba?",
+      "options": [
+        {
+          "text": "Mehanicar koji je vršio radove.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vlasnik ili operator.",
+          "isCorrect": false
+        },
+        {
+          "text": "Voda vazduhoplova.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0027",
+      "question": "Propisana oznaka nacionalne pripadnosti vazduhopлова registrovanog u Republici Srbiji je:",
+      "options": [
+        {
+          "text": "Pet postavljenih znakova koji se sastoje od odredene kombinacije slova.",
+          "isCorrect": true
+        },
+        {
+          "text": "Državna zastava Republike Srbije i oznaka YU.",
+          "isCorrect": false
+        },
+        {
+          "text": "Državna zastava Republike Srbije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cetiri nasumice postavljena broja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0028",
+      "question": "Šta treba da uradi pilot vazduhoplova ukoliko od kontrole letenja dobije odobrenje koje ce prouzrokovati odstupanje od pravila?.",
+      "options": [
+        {
+          "text": "Odbice navedeno odobrenje i zatražiti objašnjenje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Prihvatice odobrenje, jer u ovom slucaju nije odgovoran za odstupanje od pravila.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prihvatice odobrenje i posavetovace se sa ATC kada dode do odstupanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prihvatice odobrenje i obavestice ATC kako smatra da ce doci do odstupanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0029",
+      "question": "U slucaju da usled nepredvidenih okolnosti mora da odstupi od odobrenja kontrole letenja, pilot je dužan da:",
+      "options": [
+        {
+          "text": "Prenese opšti poziv dajuci sve detalje o svojim odstupanjima od odobrenja kontrole letenja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Više puta o zbivanjima obavesti sve ATC stanice koje su na prijemu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bez odlaganja obavesti nadležnu ATC i dobije izmenjeno odobrenje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obavesti vazduhoplovnu informativnu službu (AIS).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0030",
+      "question": "Ako „marshaller\" drži desnu ruku na dole a levu uvek iznova pomera gore i unazad, to znaci:.",
+      "options": [
+        {
+          "text": "Skrenite levo.",
+          "isCorrect": true
+        },
+        {
+          "text": "Skrenite desno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nastavite da se krecete napred.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pocnite levim motorom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0031",
+      "question": "Koji bi od navedenih nivoa krstarenja odgovarao VFR letu iznad 3000 fita MSL, ako se održava pravi putni kurs 1700 i ako lokalna deklinacija iznosi 200 W?",
+      "options": [
+        {
+          "text": "FL 65.",
+          "isCorrect": true
+        },
+        {
+          "text": "FL 55.",
+          "isCorrect": false
+        },
+        {
+          "text": "FL 40.",
+          "isCorrect": false
+        },
+        {
+          "text": "FL 30.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0032",
+      "question": "Vazduhoplov koji je registrovan u jednoj državi a ulazi u vazdušni prostor i vrši prelet druge države mora da se pridržava vazduhoplovnih propisa:.",
+      "options": [
+        {
+          "text": "One države u čiji vazdušni prostor je ušao i vrši prelet.",
+          "isCorrect": true
+        },
+        {
+          "text": "Države iz koje dolazi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dogovorenih izmedu država potpisnica ICAO, a koji se primenjuju za sve države potpisnice.",
+          "isCorrect": false
+        },
+        {
+          "text": "Koji su predvideni JAA operativnim procedurama.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0033",
+      "question": "Koju klasu lekarskog uverenja moraju da poseduju imaoci PPL(A),PPL(H),SPL I BPL dozvole?",
+      "options": [
+        {
+          "text": "Klasu 1 ili 2.",
+          "isCorrect": true
+        },
+        {
+          "text": "Klasu A ili B.",
+          "isCorrect": false
+        },
+        {
+          "text": "Klasu 2 ili 3.",
+          "isCorrect": false
+        },
+        {
+          "text": "Klasu B ili C.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0034",
+      "question": "Koji organ je odgovoran da se obezbedi funkcionisanje vazduhoplova u vazdušnom prostoru suverene države u skladu sa pravilima i propisima koji prevladavaju u tom vazdušnom prostoru?.",
+      "options": [
+        {
+          "text": "Država u cijem suverenom vazdušnom prostoru vazduhoplov leti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Država koja je izdala važece Uverenje o plovidbenosti za vazduhoplov.",
+          "isCorrect": false
+        },
+        {
+          "text": "Država u kojoj je vazduhoplov registrovan.",
+          "isCorrect": false
+        },
+        {
+          "text": "Država koja je изdala pilotsku dozvolu pilotu vazduhoplova.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0035",
+      "question": "Pilot koji je u ulozi PIC u letu u toku kojeg vazduhoplov ulazi u suvereni vazdušni prostor strane države sa namerom da sleti:",
+      "options": [
+        {
+          "text": "Mora da se uveri da se u vazduhoplovu nalazi sva potrebna i relevantna dokumentacija, ukljucujuci Uverenje o plovidbenosti, da je vazduhoplov u plovidbenom stanju i da je registrovan.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mora da se pre odlaska uveri da mu je pilotska dozvola prihvacena od strane države.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mora da obezbedi da ima važece Uverenje o plovidbenosti vazduhoplova i ovlašcenje za letenje na tom vazduhoplovu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mora da obezbedi da ima Uverenje o plovidbenosti vazduhoplova, ovlašcenje za letenje на tipu i položen ispit iz vazduhoplovnih propisa koji je odredila strana država.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0036",
+      "question": "Koje postupke treba da preduzme pilot ukoliko u toku VFR leta u VMC dode do otkaza radio veze?",
+      "options": [
+        {
+          "text": "Nastavlja da leti u VMC, slece на najbliži pogodni aerodrom i javlja se aerodromu destinacije.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nastavlja prema aerodromu destinacije, naslepo vrši radio predaju nastojeci da izbegne letenje u IMC.",
+          "isCorrect": false
+        },
+        {
+          "text": "Leti prema najbližem aerodromu, ulazi u некorišcenu stranu kruga i ocekuje stalno zeleno svetlo sa kontrolnog tornja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izvršava procedure za slucaj otkaza radio veze iz vojnog prirucnika i ocekuje dolazak vazduhoplova koji ce ga voditi na sletanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0037",
+      "question": "Koji se propisi primenjuju na vazduhoplov registrovan u Republici Srbiji kada leti u stranom vazdušnom prostoru?",
+      "options": [
+        {
+          "text": "Vazduhoplovne propise države iznad koje vrši prelet.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vazduhoplovne propise Republike Srbije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vazduhoplovne propise države koja je proizvela vazduhoplov.",
+          "isCorrect": false
+        },
+        {
+          "text": "Medunarodne ICAO propise.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0038",
+      "question": "Vi ste u finalnom prilazu i vidite stalno crveno svetlo usmereno sa ATC. To znaci:",
+      "options": [
+        {
+          "text": "Ne slecite. Nastavite kruženje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nastavite prilaz i ocekujte zeleno svetlo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ne slecite. Aerodrom zatvoren.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ne slecite. Preusmerite se на alternativni aerodrome.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0039",
+      "question": "Kojom bojom su oznacene staze za voženje?",
+      "options": [
+        {
+          "text": "Žutom.",
+          "isCorrect": true
+        },
+        {
+          "text": "Crvenom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zelenom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Belom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0040",
+      "question": "Koja rec se koristi za izražavanje vertikalne pozicije nekog vazduhoplova, mereno iznad srednjeg nivoа mora, kada se na skali visinomera postavi QNH pritisak?",
+      "options": [
+        {
+          "text": "Apsolutna visina.",
+          "isCorrect": true
+        },
+        {
+          "text": "Elevacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Relativna visina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nivo leta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0041",
+      "question": "Pilot u ulozi PIC vazduhoplova koji ulazi u suvereni vazdušni prostor druge države potpisnice u nameri da sleti mora da ima:.",
+      "options": [
+        {
+          "text": "Letacku dozvolu izdatu od vazduhoplovnih vlasti države u kojoj je vazduhoplov registrovan.",
+          "isCorrect": true
+        },
+        {
+          "text": "Letacku dozvolu izdatu od bilo koje države potpisnice ICAO.",
+          "isCorrect": false
+        },
+        {
+          "text": "Letacku dozvolu izdatu od bilo koje države clanice JAA.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bilo koju važecu pilotsku dozvolu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0042",
+      "question": "Šta od navedenog, u odnosu на letacka ovlašcenja, spada u klasu vazduhoplova?",
+      "options": [
+        {
+          "text": "Jednomotorni kopno i more, višemotorni kopno i more.",
+          "isCorrect": true
+        },
+        {
+          "text": "Avion, helikopter, jedrilica, vazдухоплов lakši od vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "vazduhoplov lakši od vazduha, balon na topli vazduh, balon na gas.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0043",
+      "question": "Koji od sledecih nivoа leta bi bio pogodan за letenje nekog vazduhoplova u MK=146 u skladu sa „kvadrantnim pravilom\"?",
+      "options": [
+        {
+          "text": "FL75.",
+          "isCorrect": true
+        },
+        {
+          "text": "FL50.",
+          "isCorrect": false
+        },
+        {
+          "text": "FL85.",
+          "isCorrect": false
+        },
+        {
+          "text": "FL70.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0044",
+      "question": "Koliko je širok pojas unutar državne granice u kojem je dozvoljeno letenje samo uz posebno odobrenje?",
+      "options": [
+        {
+          "text": "5 km.",
+          "isCorrect": true
+        },
+        {
+          "text": "7 km.",
+          "isCorrect": false
+        },
+        {
+          "text": "9 km.",
+          "isCorrect": false
+        },
+        {
+          "text": "11 km.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0045",
+      "question": "Pilot je obavezan да ima vezane sedišne pojaseve i ramene veze:",
+      "options": [
+        {
+          "text": "Za vreme poletanja i sletanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "U svim uslovima leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "U toku leta u turbulentnim uslovima.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0046",
+      "question": "Kojom bojom se oznacava poletno – sletna staza?",
+      "options": [
+        {
+          "text": "Belom.",
+          "isCorrect": true
+        },
+        {
+          "text": "Crvenom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zelenom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Žutom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0047",
+      "question": "Koja je medunarodna vazduhoplovna VHF frekvencija u nevolji?",
+      "options": [
+        {
+          "text": "121.50MHz.",
+          "isCorrect": true
+        },
+        {
+          "text": "123.45MHz.",
+          "isCorrect": false
+        },
+        {
+          "text": "243.00MHz.",
+          "isCorrect": false
+        },
+        {
+          "text": "406.00MHz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0048",
+      "question": "Pilot imalac PPL dozvole dobivši specijalно VFR odobrenje za ulazak u kontrolnu zonu (CTR), pre ulaska zakljucuje da ne može da šalје niti da prima RT poruke, mora da:",
+      "options": [
+        {
+          "text": "Ostane izvan CTR.",
+          "isCorrect": true
+        },
+        {
+          "text": "Produži u CTR putem dodeljenih referentnih vizuelnih tacaka pridržavajuci се poslednjeg primljenog odobrenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dostavi u CTR i ceka svetlosni signal за sletanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da nastavi u CTR, pridržavajuci се poslednjeg primljenog odobrenja i vršeci radio predaju naslepo.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0049",
+      "question": "Koliko cesto se objavljuju vazduhoplovne informacije (AIC)?.",
+      "options": [
+        {
+          "text": "Mesecno.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sedmicno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Godišnje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kvartalno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0050",
+      "question": "Kada imalac pilotske dozvole sazna da mora да se подвргне operaciji, koje su mu obaveze u pogledu informisanja medicinskih vazduhoplovnih vlasti?",
+      "options": [
+        {
+          "text": "Trebao bi da bez odlaganja kontaktira medicinske vazduhoplovne vlasti i da od njih traži savet u vezi svoje situacije.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ne postoji obaveza da informiše medicinske vazduhoplovne vlasti, pod uslovom da ne leti u ulozi vode dok se operacija ne obavi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trebao би da se posavetuje sa medicinskim vazдухопловним властима о svojoj situaciji samo ako prima opštu anesteziju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nema obavezu da bilo kome šta kaže, jer je to његова privatna stvar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0051",
+      "question": "Kada pilot učenik treba da pribavi lekarsko uverenje?",
+      "options": [
+        {
+          "text": "Pre svog prvog samostalnog leta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pre otpocinjanja teorijske obuke.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pre otpocinjanja letacke obuke u vazдуху.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prilikom podnošenja prijave za ispit.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0052",
+      "question": "Pilot koji namerava da sleti na civilni aerodrom би trebao da zapocne spuštanje ispod prelaznog nivoа sa visinomerom podešenim na:",
+      "options": [
+        {
+          "text": "QNH",
+          "isCorrect": true
+        },
+        {
+          "text": "QFE",
+          "isCorrect": false
+        },
+        {
+          "text": "QNE.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0053",
+      "question": "U toku preleta ustanovljavate да се налазите u blizini nepoznatog aerodroma. Približava vam се vojni avion, kruži oko vašeg vazduhoplova, maše krilima i na kraju izvlaci stajni trap. Ovo znaci:",
+      "options": [
+        {
+          "text": "Presretnuti сте, sletite на aerodrom ispod vas!",
+          "isCorrect": true
+        },
+        {
+          "text": "Možete да nastavite!",
+          "isCorrect": false
+        },
+        {
+          "text": "Odmah napustite zonu aerodroma!",
+          "isCorrect": false
+        },
+        {
+          "text": "Napustite zonu aerodroma i sletite на najbliži sportski aerodrom!",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0054",
+      "question": "Šta za vazduhoplov u vazдуху znaci stalno zeleno svetlo usmereno sa ATC?",
+      "options": [
+        {
+          "text": "Odobreno sletanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vratite se na ovaj aerodrome i ocekujte odobrenje za sletanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sletite odmah.",
+          "isCorrect": false
+        },
+        {
+          "text": "Imate prioritet za sletanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0055",
+      "question": "U kojem vremenskom periodu, pre datuma isticanja važenja, može da se sprovede provera strucnosti za produženje važenja ovlašcenja za letenje na jednomotornim avionima?",
+      "options": [
+        {
+          "text": "90 dana",
+          "isCorrect": true
+        },
+        {
+          "text": "15 dana.",
+          "isCorrect": false
+        },
+        {
+          "text": "30 dana.",
+          "isCorrect": false
+        },
+        {
+          "text": "60 dana.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0056",
+      "question": "Koji SSR squawk bi trebalo postaviti u hitnim slucajevima?",
+      "options": [
+        {
+          "text": "7700.",
+          "isCorrect": true
+        },
+        {
+          "text": "7777.",
+          "isCorrect": false
+        },
+        {
+          "text": "7000.",
+          "isCorrect": false
+        },
+        {
+          "text": "7600.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0057",
+      "question": "Koja je definicija za „Prelazni nivo\"?",
+      "options": [
+        {
+          "text": "Najniži raspoloživi nivo leta iznad prelazne apsolutne visine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nivo leta ispod kojeg se vertikalna pozicija vazduhoplova izražava kao „relativna visina\".",
+          "isCorrect": false
+        },
+        {
+          "text": "Prelazna apsolutna visina izražena kao „nivo leta\".",
+          "isCorrect": false
+        },
+        {
+          "text": "Nivo leta na kojem, ili iznad kojeg, se vertikalna pozicija vazduhoplova izražava kao „apsolutna visina\".",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

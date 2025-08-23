@@ -1,0 +1,3157 @@
+{
+  "subject": "Komunikacije",
+  "lang": "sr",
+  "version": 1,
+  "questions": [
+    {
+      "id": "KOM-0001",
+      "question": "Skraćenica \"VMC\" znaci:",
+      "options": [
+        {
+          "text": "Vizuelni meteorološki uslovi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Let po pravilima vizuelnog letenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Instrumentalni meteorološki uslovi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Let po pravilima instrumentalnog letenja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0002",
+      "question": "Šta znači izraz 'standby'?",
+      "options": [
+        {
+          "text": "Sačekajte pozvaću vas ponovo.",
+          "isCorrect": true
+        },
+        {
+          "text": "Izaberite standby na ssr transponderu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zadržite sadašnju poziciju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nastavite u sadašnjem kursu i slušajte radio vezu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0003",
+      "question": "Izraz \"SVFR let\" znači:",
+      "options": [
+        {
+          "text": "Specijalni VFR let.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sektorski VFR let.",
+          "isCorrect": false
+        },
+        {
+          "text": "Školski VFR let.",
+          "isCorrect": false
+        },
+        {
+          "text": "VFR let u službi spasavanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0004",
+      "question": "Izraz \"CVFR let\" znači:",
+      "options": [
+        {
+          "text": "Kontrolisani VFR let.",
+          "isCorrect": true
+        },
+        {
+          "text": "VFR let civilnog vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Školski VFR let.",
+          "isCorrect": false
+        },
+        {
+          "text": "VFR let sa vidljivošću zemlje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0005",
+      "question": "Izraz \"altitude\" označava:",
+      "options": [
+        {
+          "text": "Nadmorsku visinu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Visinu iznad aerodroma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nivo leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Barometarsku visinu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0006",
+      "question": "Faze leta: climb, take off, descent, start-up, approach, cruise, push back, final approach, taxi, take off roll, touch down i line-",
+      "options": [
+        {
+          "text": "up su pomešane.",
+          "isCorrect": true
+        },
+        {
+          "text": "Njihov redosled je:",
+          "isCorrect": false
+        },
+        {
+          "text": "Start up, push back, taxi, line-up, take off roll, take off, climb, cruise, descent, approach, final approach, touch down.",
+          "isCorrect": false
+        },
+        {
+          "text": "Line-up, take off roll, take off, climb, cruise, descent, approach, start up, push back, taxi, final approach, touch down.",
+          "isCorrect": false
+        },
+        {
+          "text": "Push back, taxi, line-up, take off roll, start up, take off, descent, climb, cruise, touch down, approach, final approach.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0007",
+      "question": "Šta znači izraz 'go around'?",
+      "options": [
+        {
+          "text": "Produžite posle neuspelog prilaza.",
+          "isCorrect": true
+        },
+        {
+          "text": "Prestignite avion ispred.",
+          "isCorrect": false
+        },
+        {
+          "text": "Napravite zaokret za 360 stepeni.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vozite iz aviona na tački čekanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0008",
+      "question": "Šta znači izraz \"vacate right\" ?",
+      "options": [
+        {
+          "text": "Skrenite desno da napustite pistu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oslobodite pistu odmah.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sledeći izlaz sa piste je s desne strane.",
+          "isCorrect": false
+        },
+        {
+          "text": "Skrenite desno posle poletanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0009",
+      "question": "Šta znači izraz \"wilco\":",
+      "options": [
+        {
+          "text": "Razumem vašu poruku i postupiću po njoj.",
+          "isCorrect": true
+        },
+        {
+          "text": "Primio sam vašu zadnju poruku u celosti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Moja poruka je konačna i očekujem vaš odgovor.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zahtev je odobren.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0010",
+      "question": "Šta znači izraz \"VFR let\":",
+      "options": [
+        {
+          "text": "Let po pravilima vizuelnog letenja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Let po pravilima instrumentalnog letenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Školski let.",
+          "isCorrect": false
+        },
+        {
+          "text": "Let bez putnika.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0011",
+      "question": "Šta znači izraz \"verify\":",
+      "options": [
+        {
+          "text": "Proveriti i dobiti potvrdu od pošiljaoca poruke.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ne, odnosno zahtev nije odobren, odnosno nepravilno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ponovite sve ili sledeće delove vaše zadnje poruke.",
+          "isCorrect": false
+        },
+        {
+          "text": "Javljam razdvajanje delova poruke.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0012",
+      "question": "Šta znači izraz \"roger\":",
+      "options": [
+        {
+          "text": "Primio sam vašu zadnju poruku u celosti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Razumem vašu poruku i postupiću po njoj.",
+          "isCorrect": false
+        },
+        {
+          "text": "Moja poruka je konačna i čekam vaš odgovor.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dozvoljavam predloženu akciju.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0013",
+      "question": "Šta znači izraz \"flight level\":",
+      "options": [
+        {
+          "text": "Nivo u atmosferi, koji se upotrebljava za vertikalno razdvajanje vazduhoplova i određen je sa podešavanjem visinomera na 1.013,2 hpa - QNE pritisak.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nivo u atmosferi, koji se upotrebljava za vertikalno razdvajanje vazduhoplova i određen je sa podešavanjem visinomera na lokalni QNH pritisak.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nivo u atmosferi , koji se upotrebljava za vertikalno razdvajanje vazduhoplova i određen je sa podešavanjem visinomera na lokalni QFE pritisak.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nivo pritiska na osnovi lokalnog QNH.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0014",
+      "question": "Šta znači izraz \"acknowledge\":",
+      "options": [
+        {
+          "text": "Potvrdite, da ste primili i razumeli poruku.",
+          "isCorrect": true
+        },
+        {
+          "text": "Primio sam vašu zadnju poruku u celosti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ponovite sve ili sledeće delove vaše zadnje poruke.",
+          "isCorrect": false
+        },
+        {
+          "text": "Moja poruka je konačna i očekujem vaš odgovor.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0015",
+      "question": "Šta znači izraz monitor?",
+      "options": [
+        {
+          "text": "Slušajte radiovezu na (frekvenca).",
+          "isCorrect": true
+        },
+        {
+          "text": "Uspostavite radio vezu sa..",
+          "isCorrect": false
+        },
+        {
+          "text": "Ponavljam zbog jasnoće ili isticanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Osmatraj instrumente.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0016",
+      "question": "Šta znači izraz report?",
+      "options": [
+        {
+          "text": "Javite mi sledeće informacije.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ponovite.",
+          "isCorrect": false
+        },
+        {
+          "text": "Javite mi vašu poruku.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nastavite sa vašom porukom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0017",
+      "question": "Šta znači izraz SID?",
+      "options": [
+        {
+          "text": "Standardna instrumentalna dolazna ruta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Standardna instrumentalna odlazna ruta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Standardna vizuelna dolazna ruta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Standardna vizuelna odlazna ruta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0018",
+      "question": "Maksimalni domet VHF sredstva za komunikaciju koji možete da očekujete na FL100 iznosi.",
+      "options": [
+        {
+          "text": "120 nm.",
+          "isCorrect": true
+        },
+        {
+          "text": "1200 nm.",
+          "isCorrect": false
+        },
+        {
+          "text": "150 nm.",
+          "isCorrect": false
+        },
+        {
+          "text": "100 nm.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0019",
+      "question": "Kada sme pilot da upotrebi kraci pozivni znak vazduhoplova:",
+      "options": [
+        {
+          "text": "Samo kada je zemaljska radio stanica prva upotrebila skraćeni pozivni znak.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nikada.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nakon što je ostvaren prvi radio kontakt.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bilo kada, po svojoj odluci.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0020",
+      "question": "Frekvencija 121.725 MHz biće emitovana kao:",
+      "options": [
+        {
+          "text": "WUN TOO WUN DECIMAL SEVEN TOO FIFE, koristeći 6/4 Digit Frazeologiju, i WUN TOO WUN DECIMAL SEVEN TOO, koristeći 5/4 Digit Frazeologiju.",
+          "isCorrect": true
+        },
+        {
+          "text": "WUN TWO WUN POINT SEVEN TWO.",
+          "isCorrect": false
+        },
+        {
+          "text": "WUN TOO WUN POINT SEVEN TOO.",
+          "isCorrect": false
+        },
+        {
+          "text": "WUN TWENTY WUN DECIMAL SEVEN TWENTY FIVE.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0021",
+      "question": "Fonetski izgovor za oznaku EXTRA glasi:",
+      "options": [
+        {
+          "text": "ECHO, XRAY,TANGO,ROMEO,ALFA.",
+          "isCorrect": true
+        },
+        {
+          "text": "EXTRA.",
+          "isCorrect": false
+        },
+        {
+          "text": "ECHO,XRAY,TORONTO,ROMEO,ALFA.",
+          "isCorrect": false
+        },
+        {
+          "text": "ECHO,IKS,TORONTO,ROMEO,ALFA.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0022",
+      "question": "Fonetski izgovor za oznaku C-MNXY glasi:",
+      "options": [
+        {
+          "text": "CHARLIE, MIKE, NOVEMBER, XRAY, YANKEE.",
+          "isCorrect": true
+        },
+        {
+          "text": "COCA, MIKE, NECTAR, XRAY, YANKEE.",
+          "isCorrect": false
+        },
+        {
+          "text": "CHARLIE, METRO, NOVEMBER, EXTRA, YANKEE.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0023",
+      "question": "Fonetski izgovor za oznaku B9-DFF NXY glasi.",
+      "options": [
+        {
+          "text": "BRAVO, NINER, DELTA, FOXTROT, FOXTROT.",
+          "isCorrect": true
+        },
+        {
+          "text": "BRAVO, NINE, DELTA, FOXTROT, FOXTROT.",
+          "isCorrect": false
+        },
+        {
+          "text": "BRAVO, NINE, DELTA, TWO FOXTROT.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0024",
+      "question": "Fonetski izgovor za oznaku 70-VEL glasi:",
+      "options": [
+        {
+          "text": "SEVEN, ZERO, VICTOR, ECHO, LIMA.",
+          "isCorrect": true
+        },
+        {
+          "text": "SEVEN, ZERO, WHISKEY, ECHO, LMA.",
+          "isCorrect": false
+        },
+        {
+          "text": "SEVENTY, VICTOR, ECHO, LIMA.",
+          "isCorrect": false
+        },
+        {
+          "text": ".",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0025",
+      "question": "COMM frekvencija 118,125 se u radio poruci izgovara kao:",
+      "options": [
+        {
+          "text": "WUN WUN EIGHT DECIMEL WUN TOO koristeći 5/4 Digit frazeologiju ili WUN WUN EIGHT DECIMEL WUN TWO FIVE koristeći 6/4 Digit frazeologiju.",
+          "isCorrect": true
+        },
+        {
+          "text": "WUN WUN EIGHT WUN  TWO FIVE.",
+          "isCorrect": false
+        },
+        {
+          "text": "WUN WUN EIGHT POINT WUN TWO FIVE.",
+          "isCorrect": false
+        },
+        {
+          "text": "WUN WUN EIGHT DECIMAL WUN TWO FIVE.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0026",
+      "question": "COMM frekvencija 118,0 se u radio poruci javlja kao:",
+      "options": [
+        {
+          "text": "WUN WUN EIGHT DECIMAL ZERO.",
+          "isCorrect": true
+        },
+        {
+          "text": "WUN HUNDRED EIGHTEEN PIONT NULL.",
+          "isCorrect": false
+        },
+        {
+          "text": "WUN WUN EIGHT.",
+          "isCorrect": false
+        },
+        {
+          "text": "WUN WUN EIGHT PIONT ZERO.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0027",
+      "question": "Broj 600 se u radio poruci izgovara kao:",
+      "options": [
+        {
+          "text": "SIX HUNDRED.",
+          "isCorrect": true
+        },
+        {
+          "text": "SIX ZERO ZERO.",
+          "isCorrect": false
+        },
+        {
+          "text": "SIX NULL NULL.",
+          "isCorrect": false
+        },
+        {
+          "text": "SIXTY ZERO.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0028",
+      "question": "Značenje skraćenice \"IMC\" je:",
+      "options": [
+        {
+          "text": "Instrumentalni meteorološki uslovi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Let po pravilima vizuelnog letenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Let po pravilima instrumentalnog letenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vizuelni meteorološki uslovi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0029",
+      "question": "VHF frekvencija se koristi za komunikacije čiji je opseg:",
+      "options": [
+        {
+          "text": "Od 118,0 do 135,975 MHz.",
+          "isCorrect": true
+        },
+        {
+          "text": "Od 108,0 do 135,975 Khz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Od 118,0 do 121,5 MHz.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0030",
+      "question": "Vazduhoplov se nalazi u najboljem dometu VHF sredstva za komunikaciju ukoliko se nalazi:",
+      "options": [
+        {
+          "text": "Na velikoj visini i u blizini aerodroma.",
+          "isCorrect": true
+        },
+        {
+          "text": "Na velikoj visini i na velikoj udaljenosti od sredstva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na maloj visini i na velikoj udaljenosti od sredstva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na maloj visini i na maloj udaljenosti od sredstva.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0031",
+      "question": "Šta znači 'orbit right'.",
+      "options": [
+        {
+          "text": "Nastavite da radite desne zaokrete dok vas ne pozovemo.",
+          "isCorrect": true
+        },
+        {
+          "text": "Desni školski krug u upotrebi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Skrenite desno da izbegnete drugi saobraćaj.",
+          "isCorrect": false
+        },
+        {
+          "text": "Napravite desni zaokret za 360 stepeni.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0032",
+      "question": "Kako se radio porukom javlja COMM frekvencija 118,1:",
+      "options": [
+        {
+          "text": "WUN WUN EIGHT DECIMAL WUN.",
+          "isCorrect": true
+        },
+        {
+          "text": "WUN WUN EIGHT POINT WUN.",
+          "isCorrect": false
+        },
+        {
+          "text": "WUN HUNDRED ELEVEN POINT WUN.",
+          "isCorrect": false
+        },
+        {
+          "text": "WUN WUN EIGHT WUN.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0033",
+      "question": "Koja od sledećih skraćenica mora biti emitovana pojedinačnim slovima?",
+      "options": [
+        {
+          "text": "Y-BC.",
+          "isCorrect": true
+        },
+        {
+          "text": "ILS.",
+          "isCorrect": false
+        },
+        {
+          "text": "RVR.",
+          "isCorrect": false
+        },
+        {
+          "text": "CAVOK.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0034",
+      "question": "Kako se radio vezom javlja 11.000 ft:",
+      "options": [
+        {
+          "text": "WUN WUN THOUSAND FEET.",
+          "isCorrect": true
+        },
+        {
+          "text": "ELEVEN THOUSAND FEET.",
+          "isCorrect": false
+        },
+        {
+          "text": "WUN WUN ZERO ZERO ZERO FEET.",
+          "isCorrect": false
+        },
+        {
+          "text": "ELEVEN THOUSAND ZERO FEET.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0035",
+      "question": "Kako se radio porukom javlja COMM frekvencija 118,150:",
+      "options": [
+        {
+          "text": "WUN WUN EIGHT DECIMAL WUN  FIVE.",
+          "isCorrect": true
+        },
+        {
+          "text": "WUN WUN EIGHT DECIMAL WUN FIVE ZERO.",
+          "isCorrect": false
+        },
+        {
+          "text": "WUN WUN EIGHT POINT WUN FIVE ZERO.",
+          "isCorrect": false
+        },
+        {
+          "text": "WUN WUN EIGHT DASH WUN FIVE.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0036",
+      "question": "Koji je ispravan način izgovora FRI-VOR?",
+      "options": [
+        {
+          "text": "FOXTROT ROMEO INDIA - VOR.",
+          "isCorrect": true
+        },
+        {
+          "text": "FOXTROT ROMEO INDIA - VICTOR OSCAR ROMEO.",
+          "isCorrect": false
+        },
+        {
+          "text": "FRIDAY-VOR.",
+          "isCorrect": false
+        },
+        {
+          "text": "FOX ROMEO INDIA - VOR.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0037",
+      "question": "Koji visinu je javio pilot vazduhoplova sa porukom \"five thousand feet QFE\":",
+      "options": [
+        {
+          "text": "Visinu nad aerodromom.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nivo leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apsolutnu visinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Adekvatnu visinu u MSA (ICAO).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0038",
+      "question": "Koji je Q kod za merenje relativne visine iznad aerodroma?",
+      "options": [
+        {
+          "text": "QFE.",
+          "isCorrect": true
+        },
+        {
+          "text": "ELT.",
+          "isCorrect": false
+        },
+        {
+          "text": "QNH.",
+          "isCorrect": false
+        },
+        {
+          "text": "QBA.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0039",
+      "question": "Koji je Q kod za merenje nivoa leta?",
+      "options": [
+        {
+          "text": "QNE.",
+          "isCorrect": true
+        },
+        {
+          "text": "QFF.",
+          "isCorrect": false
+        },
+        {
+          "text": "QNH.",
+          "isCorrect": false
+        },
+        {
+          "text": "QFE.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0040",
+      "question": "Koji je Q kod za merenje apsolutne visine?",
+      "options": [
+        {
+          "text": "QNH.",
+          "isCorrect": true
+        },
+        {
+          "text": "QFF.",
+          "isCorrect": false
+        },
+        {
+          "text": "QNE.",
+          "isCorrect": false
+        },
+        {
+          "text": "QFE.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0041",
+      "question": "Koji je Q kod za magnetni kurs od radio stanice?",
+      "options": [
+        {
+          "text": "QDR.",
+          "isCorrect": true
+        },
+        {
+          "text": "QGH.",
+          "isCorrect": false
+        },
+        {
+          "text": "QDM.",
+          "isCorrect": false
+        },
+        {
+          "text": "QNH.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0042",
+      "question": "Koji je Q kod za magnetni kurs ka radio stanici?",
+      "options": [
+        {
+          "text": "QDM.",
+          "isCorrect": true
+        },
+        {
+          "text": "QDR.",
+          "isCorrect": false
+        },
+        {
+          "text": "QGH.",
+          "isCorrect": false
+        },
+        {
+          "text": "QNH.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0043",
+      "question": "Vreme 10:20 se u vazduhoplovnoj frazeologiji odašilje kao.",
+      "options": [
+        {
+          "text": "'ONE ZERO TWO ZERO' ili 'TWO ZERO'.",
+          "isCorrect": true
+        },
+        {
+          "text": "TEN TWENTY HOURS.",
+          "isCorrect": false
+        },
+        {
+          "text": "TEN TWO ZERO.",
+          "isCorrect": false
+        },
+        {
+          "text": "ONE ZERO TWENTY.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0044",
+      "question": "Visina 4.500 ft QNH se javlja frazom:",
+      "options": [
+        {
+          "text": "FOUR THOUSAND FIVE HUNDRED FEET.",
+          "isCorrect": true
+        },
+        {
+          "text": "FORTY FIVE THOUSAND.",
+          "isCorrect": false
+        },
+        {
+          "text": "FOUR POINT FIVE.",
+          "isCorrect": false
+        },
+        {
+          "text": "FORTY FIVE HUNDRED FEET ABOVE LEVEL.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0045",
+      "question": "Visina 10.500 ft sa pravilno javlja frazom:",
+      "options": [
+        {
+          "text": "WUN ZERO THOUSAND FIVE HUNDRED FEET.",
+          "isCorrect": true
+        },
+        {
+          "text": "TEN POINT FIVE.",
+          "isCorrect": false
+        },
+        {
+          "text": "WUN ZERO FIVE HUNDRED FEET ABOVE SEA LEVEL.",
+          "isCorrect": false
+        },
+        {
+          "text": "TEN THOUSAND FIVE HUNDRED FEET.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0046",
+      "question": "U radio poruci se broj 583 izgovara kao:",
+      "options": [
+        {
+          "text": "FIVE EIGHT THREE.",
+          "isCorrect": true
+        },
+        {
+          "text": "FIVE HUNDRED EIGHTY THREE.",
+          "isCorrect": false
+        },
+        {
+          "text": "FIFTY EIGHT THREE.",
+          "isCorrect": false
+        },
+        {
+          "text": "FIVE HUNDRED EIGHT THREE.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0047",
+      "question": "U radio poruci se broj 496 izgovara kao:",
+      "options": [
+        {
+          "text": "FOUR NINER SIX.",
+          "isCorrect": true
+        },
+        {
+          "text": "FOUR HUNDRED AND NINETY SIX.",
+          "isCorrect": false
+        },
+        {
+          "text": "FOUR HUNDRED AND NINER SIX.",
+          "isCorrect": false
+        },
+        {
+          "text": "FOUR NINETY SIX.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0048",
+      "question": "U radio poruci se broj 4501 izgovara kao:",
+      "options": [
+        {
+          "text": "FOUR FIVE ZERO WUN.",
+          "isCorrect": true
+        },
+        {
+          "text": "FOUR THOUSAND FIVE HUNDRED WUN.",
+          "isCorrect": false
+        },
+        {
+          "text": "FOUR FIVE ZERO POINT WUN.",
+          "isCorrect": false
+        },
+        {
+          "text": "FORTY FIVE HUNDRED WUN.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0049",
+      "question": "Šta podrazumeva kontrolor letenja, ako mu pilot vazduhoplova javi \"FIVE THOUSAND FEET\":",
+      "options": [
+        {
+          "text": "Visinu vazduhoplova 5.000 ft iznad srednjeg nivoa mora.",
+          "isCorrect": true
+        },
+        {
+          "text": "Visinomer vazduhoplova je podešen na lokalni pritisak QFE.",
+          "isCorrect": false
+        },
+        {
+          "text": "Visina vazduhoplova je 5.000 ft iznad aerodroma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Visinomer vazduhoplova je podešen na standardni pritisak 1.013,2 hpa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0050",
+      "question": "Radio vezom visinu 5.000 ft javljamo kao:",
+      "options": [
+        {
+          "text": "FIVE THOUSAND FEET.",
+          "isCorrect": true
+        },
+        {
+          "text": "FIVE NULL NULL NULL.",
+          "isCorrect": false
+        },
+        {
+          "text": "FIVE ZERO ZERO ZERO FEET.",
+          "isCorrect": false
+        },
+        {
+          "text": "FIFTY HUNDRED.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0051",
+      "question": "ATC će dati instrukcije za penjanje sledećom frazom:",
+      "options": [
+        {
+          "text": "CLIMB TO FL..",
+          "isCorrect": true
+        },
+        {
+          "text": "MAINTAIN FL..",
+          "isCorrect": false
+        },
+        {
+          "text": "LEAVE FL.. FOR FL..",
+          "isCorrect": false
+        },
+        {
+          "text": "CLEARED FL..",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0052",
+      "question": "ATC će dati instrukcije za snižavanje sledećom frazom:",
+      "options": [
+        {
+          "text": "DESCEND TO FL..",
+          "isCorrect": true
+        },
+        {
+          "text": "MAINTAIN FL..",
+          "isCorrect": false
+        },
+        {
+          "text": "LEAVE FL.. FOR FL..",
+          "isCorrect": false
+        },
+        {
+          "text": "CLEARED FL..",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0053",
+      "question": "Javljanje u poziciji kroz vetar (base leg) se vrši:",
+      "options": [
+        {
+          "text": "Samo kada to kontrolor zahteva.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uvek.",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo po nahođenju pilota.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0054",
+      "question": "Ako želite da zatražite uslugu od zemaljska stanice:",
+      "options": [
+        {
+          "text": "Morate to da uradite u vašem inicijalnom pozivu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Morate to da uradite nakon što je uspostavljena komunikacije sa stanicom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Potrebno je pratiti frekvenciju zemaljske stanice, sve dok ne čujete da zemaljska stanica daje vama potrebne informacije drugim vazduhoplovima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kao privatni pilot nemate pravo zahtevati uslugu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0055",
+      "question": "Ako zahtevate specijalni VFR let morate ATC dati sledeće detalje.",
+      "options": [
+        {
+          "text": "Pozivni znak,tip,nameru i ETA na tački ulaska.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pozivni znak,tip T AS, ETA na tački ulaska i destinacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pozivni znak,tip, poziciju, kurs, nameru i ETA na tački ulaska.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pozivni znak, visina, kurs i ETA na tački ulaska.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0056",
+      "question": "Ako vam je kontrolor poslao poruku koju razumete i po kojoj će te postupiti, standardno odgovor je.",
+      "options": [
+        {
+          "text": "WILCO.",
+          "isCorrect": true
+        },
+        {
+          "text": "VERIFY.",
+          "isCorrect": false
+        },
+        {
+          "text": "ROGER.",
+          "isCorrect": false
+        },
+        {
+          "text": "CONFIRM.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0057",
+      "question": "Kada emituje poruku kojoj prethodi izraz \"transmitting blind due to receiver failure\" pilot će takođe:",
+      "options": [
+        {
+          "text": "Predvideti vreme sledeće poruke.",
+          "isCorrect": true
+        },
+        {
+          "text": "Produžiti na alternativni aerodrom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sačekate 5 minuta na trenutnoj poziciji.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0058",
+      "question": "Ako pilot ne može da izvršava instrukcije ili naređenja treba da izvesti ATC sa frazom :",
+      "options": [
+        {
+          "text": "UNABLE TO COMPLY.",
+          "isCorrect": true
+        },
+        {
+          "text": "UNABLE TO ACCEPT.",
+          "isCorrect": false
+        },
+        {
+          "text": "REQUEST RECLEARANCE.",
+          "isCorrect": false
+        },
+        {
+          "text": "I CANNOT COMPLY.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0059",
+      "question": "Ako od vas ATC zatraži \"Are you able to maintain FL 40\" korektan odgovor sadrži frazu:",
+      "options": [
+        {
+          "text": "AFFIRM ili NEGATIVE.",
+          "isCorrect": true
+        },
+        {
+          "text": "ROGER.",
+          "isCorrect": false
+        },
+        {
+          "text": "WILCO.",
+          "isCorrect": false
+        },
+        {
+          "text": "NO SIR.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0060",
+      "question": "Ako kontrolni toranj traži da javite kada ste prešli pistu, koristićete sledeću frazu:",
+      "options": [
+        {
+          "text": "RUNWAY VACATED.",
+          "isCorrect": true
+        },
+        {
+          "text": "I HAVE LEFT THE RUNWAY.",
+          "isCorrect": false
+        },
+        {
+          "text": "I AM CLEAR OF RUNWAY.",
+          "isCorrect": false
+        },
+        {
+          "text": "I AM BEYOND THE RUNWAY.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0061",
+      "question": "Šta znaci međunarodna radiotelefonska skraćenica QDM:",
+      "options": [
+        {
+          "text": "Magnetni pravac od vazduhoplova do stanice goniometra.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vazdušni pritisak na nivou aerodroma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vazdušni pritisak na nivou aerodroma, preračunat na nivou mora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stvarno vreme na aerodromu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0062",
+      "question": "Međunarodna radiotelefonska skraćenica QNH znači:",
+      "options": [
+        {
+          "text": "Vazdušni pritisak na visini aerodroma, preračunat na nivo mora.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vazdušni pritisak na visini aerodroma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pravi pravac od goniometra do vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Magnetni pravac od vazduhoplova ka goniometru.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0063",
+      "question": "Koji je Q kod za pravi kurs od radio stanice?",
+      "options": [
+        {
+          "text": "QTE.",
+          "isCorrect": true
+        },
+        {
+          "text": "QDR.",
+          "isCorrect": false
+        },
+        {
+          "text": "QNH.",
+          "isCorrect": false
+        },
+        {
+          "text": "QFE.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0064",
+      "question": "Ako pilot ne uspostavi kontakt na predviđenoj frekvenci on će:",
+      "options": [
+        {
+          "text": "Pokuša da vrši predaju na drugoj frekvenciji koja je u vezi sa dodeljenom.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vrši \"predaju na slepo\".",
+          "isCorrect": false
+        },
+        {
+          "text": "Vrši predaju na 121,5mhz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vrši predaju izgovarajući svaku reč dva puta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0065",
+      "question": "Kada kontrolor želi dobiti informacije o nivou leta na kom je avion leti, koristi frazu:",
+      "options": [
+        {
+          "text": "REPORT LEVEL.",
+          "isCorrect": true
+        },
+        {
+          "text": "WHAT IS YOUR LEVEL.",
+          "isCorrect": false
+        },
+        {
+          "text": "REQUEST LEVEL.",
+          "isCorrect": false
+        },
+        {
+          "text": "TRANSMIT YOUR LEVEL.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0066",
+      "question": "Kada pilot vazduhoplova nije u stanju da izvrši naređenje, obaveštava kontrolu letenja frazom:",
+      "options": [
+        {
+          "text": "UNABLE TO COMPLY.",
+          "isCorrect": true
+        },
+        {
+          "text": "UNABLE TO ACCEPT.",
+          "isCorrect": false
+        },
+        {
+          "text": "REQUEST RECLEARANCE.",
+          "isCorrect": false
+        },
+        {
+          "text": "I CANNOT COMPLY.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0067",
+      "question": "Kako će te korektno odgovoriti na ATC poruku \"Y-CD, Change to Belgrade Tower, 118.1\"?",
+      "options": [
+        {
+          "text": "WUN WUN EIGHT DAYSEEMAL WUN , YANKEE CHARLIE DELTA.",
+          "isCorrect": true
+        },
+        {
+          "text": "Y-CD, 118.1.",
+          "isCorrect": false
+        },
+        {
+          "text": "CHANGE TO BELGRADE TOWER 118.1, Y-CD.",
+          "isCorrect": false
+        },
+        {
+          "text": "WILCO, Y-CD.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0068",
+      "question": "Kako da tražite da Vam se poruka ponovi?",
+      "options": [
+        {
+          "text": "SAY AGAIN.",
+          "isCorrect": true
+        },
+        {
+          "text": "PLEASE SAY THE MESSAGE AGAIN.",
+          "isCorrect": false
+        },
+        {
+          "text": "REPEAT MESSAGE.",
+          "isCorrect": false
+        },
+        {
+          "text": "SAY ALL AGAIN.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0069",
+      "question": "Koje od sledećih navedenih ATC poruka pilot treba obavezno i u celini da ponovi.",
+      "options": [
+        {
+          "text": "Odobrenja za izlazak, sletanje, poletanje, povratak stazom, prelazak, čekanje za izlazak na PSS, u upotrebi, SSR instrukcije.",
+          "isCorrect": true
+        },
+        {
+          "text": "Instrukcije o nivou leta, podešavanje visinomera, prizemni vetar,informacije o PSS.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odobrenje za rutu,odobrenje za sletanje,aktuelni vremenski izveštaj.",
+          "isCorrect": false
+        },
+        {
+          "text": "VOR informacije,promene frekvencije,tip radarskog servisa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0070",
+      "question": "Koji izraz se koristi kada kontrolor obaveštava pilota da nije potreban izveštaj iznad neke tačke?",
+      "options": [
+        {
+          "text": "OMIT POSITION REPORT OVER.. (fix).",
+          "isCorrect": true
+        },
+        {
+          "text": "CANCEL POSITION REPORT OVER.. (fix).",
+          "isCorrect": false
+        },
+        {
+          "text": "NO POSITION REPORT OVER.. (fix).",
+          "isCorrect": false
+        },
+        {
+          "text": "DO NOT REPORT OVER.. (fix).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0071",
+      "question": "Letite na FL50 u YU-ABC. Kada vam kontrolor zatraži da javite vaš nivo leta, koji je korektan odgovor?",
+      "options": [
+        {
+          "text": "MAINTAINING FL50, Y- BC.",
+          "isCorrect": true
+        },
+        {
+          "text": "FL50, Y- BC.",
+          "isCorrect": false
+        },
+        {
+          "text": "AT FL50, Y- BC.",
+          "isCorrect": false
+        },
+        {
+          "text": "Y- BC, FL50.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0072",
+      "question": "Letite u SeveroIstočnom kursu na 2500 ft. Izvestiće te o vašem kursu i nivou kao:",
+      "options": [
+        {
+          "text": "HEADING 045 AT TOO TOUSAND FIFE HUNDRED FEET.",
+          "isCorrect": true
+        },
+        {
+          "text": "HEADING 045 AT TOO FIFE ZERO ZERO FEET.",
+          "isCorrect": false
+        },
+        {
+          "text": "HEADING 045 AT 25 HUNDRED FEET.",
+          "isCorrect": false
+        },
+        {
+          "text": "FLYING AT TOO TOUSAND FIFE HUNDRED FEET ON HEADING 045.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0073",
+      "question": "Pilot je dužan da ponovi:",
+      "options": [
+        {
+          "text": "Instrukcije vezane za podešavanje SSR transpondera, odobrenje za poletanje, podatke o podešavanju visinomera, radio-smer, promene frekvencije.",
+          "isCorrect": true
+        },
+        {
+          "text": "Podatke o podešavanju visinomera, taksiranju i meteorološke podatke.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odobrenje rute, instrukcije vezane za podešavanje brzine, podatke o stanju poletno sletne staze.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izveštaje o trenutnoj meteorološkoj situaciji, odobrenje za rutu, odobrenje za korišćenje poletno sletne staze.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0074",
+      "question": "Poruka \"downwind\" se emituje:",
+      "options": [
+        {
+          "text": "U bilo kojoj poziciji u downwind (niz vetar).",
+          "isCorrect": true
+        },
+        {
+          "text": "U traverzi pozicije u vetar na PSS.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odmah pošto avion uđe u downwind.",
+          "isCorrect": false
+        },
+        {
+          "text": "Neposredno pre zaokreta u base leg.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0075",
+      "question": "Pozivni znak za ATC koja kontroliše vazduhoplove i vozila po manevarskim površinama je ?",
+      "options": [
+        {
+          "text": "GROUND.",
+          "isCorrect": true
+        },
+        {
+          "text": "TOWER.",
+          "isCorrect": false
+        },
+        {
+          "text": "DISPATCH.",
+          "isCorrect": false
+        },
+        {
+          "text": "APRON.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0076",
+      "question": "Pravilna frazeologija za javljanje u finalu (final report) je:",
+      "options": [
+        {
+          "text": "Y-BC ON FINAL.",
+          "isCorrect": true
+        },
+        {
+          "text": "WE ARE APPROACHING FINAL.",
+          "isCorrect": false
+        },
+        {
+          "text": "VRŠAC TOWER, FINAL.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0077",
+      "question": "Propisana fraza, sa kojom zahtevamo dozvolu za početak voženja po manevarskim površinama do poletno sletne staze je:",
+      "options": [
+        {
+          "text": "REQUEST TAXI.",
+          "isCorrect": true
+        },
+        {
+          "text": "WHAT IS MY TAXI CLEARENCE.",
+          "isCorrect": false
+        },
+        {
+          "text": "REQUEST PERMISSION TO TAXI.",
+          "isCorrect": false
+        },
+        {
+          "text": "REQUEST TAXI CLEARENCE.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0078",
+      "question": "Servis radarskog nadzora:",
+      "options": [
+        {
+          "text": "Daće vam standardno razdvajanje za sve vazduhoplove.",
+          "isCorrect": true
+        },
+        {
+          "text": "Savetova će vas u vezi mogućih sudara.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daće vam uslugu vazdušnog saobraćaja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daće vam radarski prilaz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0079",
+      "question": "Skraćenica ATIS označava:",
+      "options": [
+        {
+          "text": "Automatic Terminal Information Service.",
+          "isCorrect": true
+        },
+        {
+          "text": "Aircraft Technical Information Service.",
+          "isCorrect": false
+        },
+        {
+          "text": "Air Traffic Information Service.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aerodrome Traffic Information Service.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0080",
+      "question": "U dugom prilazu za sletanje poruka 'Long Final' će biti izgovorena na daljini:",
+      "options": [
+        {
+          "text": "8 nm.",
+          "isCorrect": true
+        },
+        {
+          "text": "2 nm.",
+          "isCorrect": false
+        },
+        {
+          "text": "4 nm.",
+          "isCorrect": false
+        },
+        {
+          "text": "25 nm.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0081",
+      "question": "U komunikaciji zemlja - vazduh kontrolor će uvek:",
+      "options": [
+        {
+          "text": "Prvo reći vaš pozivni znak.",
+          "isCorrect": true
+        },
+        {
+          "text": "Reći vaš pozivni znak na kraju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo u početnom kontaktu.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0082",
+      "question": "U prilazu za sletanje poruka \"Final\" će biti izgovorena na daljini:",
+      "options": [
+        {
+          "text": "4 nm.",
+          "isCorrect": true
+        },
+        {
+          "text": "2 nm.",
+          "isCorrect": false
+        },
+        {
+          "text": "8 nm.",
+          "isCorrect": false
+        },
+        {
+          "text": "25 nm.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0083",
+      "question": "U slučaju kada TWR kaže pilotu vazduhoplova \"REPORT DOWNWIND\", pilot je dužan da javi:",
+      "options": [
+        {
+          "text": "Poziciju vazduhoplova između drugog i trećeg zaokreta školskog kruga.",
+          "isCorrect": true
+        },
+        {
+          "text": "Procenjenu brzinu i pravac vetra na visini leta vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalnu dopuštenu brzinu leđnog vetra pri sletanju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Poziciju vazduhoplova posle četvrtog zaokreta u pravcu sletanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0084",
+      "question": "Upravo ste sleteli i toranj vas obaveštava da kontaktirate zemaljsku stanicu kada napustite pistu. Vi znate da je pista napuštena kada:",
+      "options": [
+        {
+          "text": "Kada svi delovi vazduhoplova pređu liniju čekanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kada kabina vazduhoplova pređe liniju čekanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kada je rep vazduhoplova na ivici piste.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0085",
+      "question": "Vazduhoplovu je dato početno odobrenje da penje na nivo FL100. Zbog razdvajanja potrebno je da se zadrži neko vreme",
+      "options": [
+        {
+          "text": "na nivou FL80. ATC će poslati poruku koristeći sledeću frazu:",
+          "isCorrect": true
+        },
+        {
+          "text": "STOP CLIMB AT FL80.",
+          "isCorrect": false
+        },
+        {
+          "text": "LEVEL OFF AT FL80.",
+          "isCorrect": false
+        },
+        {
+          "text": "MAINTAIN FL80.",
+          "isCorrect": false
+        },
+        {
+          "text": "CLEARED FL80.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0086",
+      "question": "Vi ste na tački čekanja za pistu u upotrebi,završili ste sve provere I spremni ste da izađete na pistu I poletite. Koju poruku će te koristiti da obavestite ATC o vašoj spremnosti?",
+      "options": [
+        {
+          "text": "(POZIVNI ZNAK) READY FOR DEPARTURE.",
+          "isCorrect": true
+        },
+        {
+          "text": "(POZIVNI ZNAK) READY FOR TAKE OFF.",
+          "isCorrect": false
+        },
+        {
+          "text": "(POZIVNI ZNAK) READY FOR LINE UP.",
+          "isCorrect": false
+        },
+        {
+          "text": "(POZIVNI ZNAK) READY TO PROCEED.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0087",
+      "question": "Kojim slovom u školskom krugu je označen \"base leg\": (Pogledajte sliku PPL Kom-1).",
+      "options": [
+        {
+          "text": "F.",
+          "isCorrect": true
+        },
+        {
+          "text": "G.",
+          "isCorrect": false
+        },
+        {
+          "text": "E.",
+          "isCorrect": false
+        },
+        {
+          "text": "D.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0088",
+      "question": "Kojim slovom u školskom krugu je označen \"Final\": (Pogledajte sliku PPL Kom-1).",
+      "options": [
+        {
+          "text": "G.",
+          "isCorrect": true
+        },
+        {
+          "text": "E.",
+          "isCorrect": false
+        },
+        {
+          "text": "F.",
+          "isCorrect": false
+        },
+        {
+          "text": "C.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0089",
+      "question": "Pozicija na aerodromu označena slovom A zove se: (Pogledajte sliku PPL Kom-1).",
+      "options": [
+        {
+          "text": "APRON.",
+          "isCorrect": true
+        },
+        {
+          "text": "RUNWAY.",
+          "isCorrect": false
+        },
+        {
+          "text": "TAXIWAY.",
+          "isCorrect": false
+        },
+        {
+          "text": "BASE LEG.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0090",
+      "question": "Pozicija na pisti označena slovom C se zove: (Pogledajte sliku PPL Kom-1).",
+      "options": [
+        {
+          "text": "LINE-UP POSITION.",
+          "isCorrect": true
+        },
+        {
+          "text": "START-UP POSITION.",
+          "isCorrect": false
+        },
+        {
+          "text": "APRON.",
+          "isCorrect": false
+        },
+        {
+          "text": "BASE LEG.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0091",
+      "question": "Pozicija na rulnoj stazi označena slovom B zove se: (Pogledajte sliku PPL Kom-1).",
+      "options": [
+        {
+          "text": "HOLDING POINT.",
+          "isCorrect": true
+        },
+        {
+          "text": "APRON.",
+          "isCorrect": false
+        },
+        {
+          "text": "LINE-UP POSITION.",
+          "isCorrect": false
+        },
+        {
+          "text": "CROSSWIND LEG.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0092",
+      "question": "Pozicija u školskom krugu označena slovom E se zove: (Pogledajte sliku PPL Kom-1).",
+      "options": [
+        {
+          "text": "DOWNWIND POSITION.",
+          "isCorrect": true
+        },
+        {
+          "text": "LINE-UP.",
+          "isCorrect": false
+        },
+        {
+          "text": "CROSSWIND LEG.",
+          "isCorrect": false
+        },
+        {
+          "text": "BASE LEG.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0093",
+      "question": "Fraza \"CLEARANCE EXPIRES AT 02 35\"znači pilotu da.",
+      "options": [
+        {
+          "text": "Će biti dozvoljeno da poleti do 02 35.",
+          "isCorrect": true
+        },
+        {
+          "text": "Može poleteti posle 02 35.",
+          "isCorrect": false
+        },
+        {
+          "text": "Čeka do 02 35 informacije o odlasku.",
+          "isCorrect": false
+        },
+        {
+          "text": "Startuje motore u 02 35.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0094",
+      "question": "Koja fraza se koristi da poništi prethodno poslato odobrenje?",
+      "options": [
+        {
+          "text": "DISREGARD.",
+          "isCorrect": true
+        },
+        {
+          "text": "RECLEARED.",
+          "isCorrect": false
+        },
+        {
+          "text": "NEGATIVE.",
+          "isCorrect": false
+        },
+        {
+          "text": "CANCEL.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0095",
+      "question": "Odobrenja da taksira do linije poletanja će biti dato frazom:",
+      "options": [
+        {
+          "text": "LINE UP.",
+          "isCorrect": true
+        },
+        {
+          "text": "TAXI TO THE TAKEOFF POSITION.",
+          "isCorrect": false
+        },
+        {
+          "text": "CLEARED INTO POSITION AND HOLD.",
+          "isCorrect": false
+        },
+        {
+          "text": "CONTINUE TO TAKEOFF POSITION AND HOLD.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0096",
+      "question": "Pilot dobija sledeću poruku od kontrole leta.",
+      "options": [
+        {
+          "text": "\"YU-ABC, After departure cleared to zone boundary via Route Bravo, Climb to Altitude 2 500 feet, QNH 1005, Squawk",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "KOM-6521",
+      "question": "\" Koji je ovo tip odobrenja?",
+      "options": [
+        {
+          "text": "Odobrenje za rutu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Odobrenje za poletanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uslovno odobrenje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dolazno odobrenje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0097",
+      "question": "Šta od sledećeg je uslovno odobrenje?",
+      "options": [
+        {
+          "text": "YU-ABC, AFTER THE JAT 737, TAXY TO HOLDING POINT D RUNWAY 26.",
+          "isCorrect": true
+        },
+        {
+          "text": "JAT 345, LINE UP AND HOLD.",
+          "isCorrect": false
+        },
+        {
+          "text": "REDWING 42, TAKE OFF AT YOUR DISCRETION.",
+          "isCorrect": false
+        },
+        {
+          "text": "Y-CC, REPORT FINAL, TWO AHEAD.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0098",
+      "question": "Taksi instrukcije koje se izdaju od kontrolora a sadrže ograničena odobrenja u pravilu će biti :",
+      "options": [
+        {
+          "text": "Na tački čekanja za pistu u upotrebi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Na pragu piste u upotrebi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na ulasku u zonu parkiranja.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0099",
+      "question": "Ako letite avionom koji ne poseduje transponder, šta će te javiti ako Vam budu tražili da postavite SQUAWK?",
+      "options": [
+        {
+          "text": "NEGATIVE TRANSPONDER.",
+          "isCorrect": true
+        },
+        {
+          "text": "NEGATIVE SQUAWK.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ja nemam transponder.",
+          "isCorrect": false
+        },
+        {
+          "text": "NO TRANSPONDER.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0100",
+      "question": "Dobili ste poruku \"YU-ABC Squawk Ident\". Vi će te :",
+      "options": [
+        {
+          "text": "Uključiti specijalno dugme za identifikaciju na SSR transponderu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Izabrati STANDBY na SSR transponderu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izabrati ALT-izveštavanje o visini (Mod C) na SSR transponderu.",
+          "isCorrect": false
+        },
+        {
+          "text": "odgovoriti svojim pozivnim znakom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0101",
+      "question": "Fraza \"Squawk Charlie\" znači:",
+      "options": [
+        {
+          "text": "Izaberite ALT na transponderu.",
+          "isCorrect": true
+        },
+        {
+          "text": "transponder.",
+          "isCorrect": false
+        },
+        {
+          "text": "Potvrdite da je transponder uključen.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izaberite 7700 na transponderu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0102",
+      "question": "Fraza koja zahteva od pilota da ponovno postavi kod A 6620 je:",
+      "options": [
+        {
+          "text": "RECYCLE ALPHA 6620.",
+          "isCorrect": true
+        },
+        {
+          "text": "SQUAWK AGAIN ALPHA 6620.",
+          "isCorrect": false
+        },
+        {
+          "text": "SWITCH ON ALPHA 6620.",
+          "isCorrect": false
+        },
+        {
+          "text": "CONFIRM SQUAWKING ALPHA 6620.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0103",
+      "question": "Kod uključenog SSR transpondera dobijete poruku 'YU-ABC verify your level' od kontrole leta. Šta će te uraditi.",
+      "options": [
+        {
+          "text": "Proverite i potvrdite tačnost nivoa leta u Modu C koji je prikazan kod kontrolora.",
+          "isCorrect": true
+        },
+        {
+          "text": "Identifikujete poziciju aviona.",
+          "isCorrect": false
+        },
+        {
+          "text": "Proverite podešavanje visinomera.",
+          "isCorrect": false
+        },
+        {
+          "text": "Proverite da li je uključen Mod C.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0104",
+      "question": "Koji mod transpondera očitava visinu?",
+      "options": [
+        {
+          "text": "Mod C.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mod A.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mod B.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mod D.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0105",
+      "question": "Pri radarskom praćenju informacije o kursu date od strane pilota i kontrolora su u:",
+      "options": [
+        {
+          "text": "Magnetnim stepenima.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pravim stepenima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Celzijusovim stepenima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apsolutnim stepenima.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0106",
+      "question": "Skvok A 7700 postavljen od strane pilota pokazuje zemaljskoj stanici da je :",
+      "options": [
+        {
+          "text": "Njegov avion u opasnoj situaciji.",
+          "isCorrect": true
+        },
+        {
+          "text": "njegov radio van upotreba.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da je bolesnik u avionu.",
+          "isCorrect": false
+        },
+        {
+          "text": "izvršena otmica aviona.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0107",
+      "question": "U slučaju da transponder ne odgovara u C modu, kontrola letenja saopštava pilotu da uključi mod C frazom:",
+      "options": [
+        {
+          "text": "SQUAWK CHARLIE.",
+          "isCorrect": true
+        },
+        {
+          "text": "SQUAWK ALTIMETER.",
+          "isCorrect": false
+        },
+        {
+          "text": "SQUAWK PRESSURE ALTITUDE.",
+          "isCorrect": false
+        },
+        {
+          "text": "TRANSMIT ON MOD CHARLIE.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0108",
+      "question": "U slučaju kada pilot vazduhoplova opremljenog sa transponderom,dobije od kontrole letenja poruku \"SQUAWK 1200\", dužan je da na transponderu postavi kod 1200 i :",
+      "options": [
+        {
+          "text": "Prebaci prekidač na \"ON\", odnosno na \"ALT\".",
+          "isCorrect": true
+        },
+        {
+          "text": "Pritisne dugme \"INDENT\".",
+          "isCorrect": false
+        },
+        {
+          "text": "Prebaci prekidač na \"STANDBY\".",
+          "isCorrect": false
+        },
+        {
+          "text": "Prebaci prekidač na \"STANDBY\" i pritisne dugme \"IDENT\".",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0110",
+      "question": "Izraz \"CALL SIGN\" koji pilot vazduhoplova presretača radio vezom saopštava pilotu presretenog vazduhoplova znaci:",
+      "options": [
+        {
+          "text": "Koji je vaš pozivni znak.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pozovite kontrolu letenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emitujte znak za poziv u nuždi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vratite se vaš aerodrom poletanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0111",
+      "question": "Koja frekvencija je određena za vezu vazduhoplova presretača i presretenog vazduhoplova:",
+      "options": [
+        {
+          "text": "Međunarodna frekvencija u slučaju nužde 121,500 MHz.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lokalna frekvencija vazduhoplovnih oružanih snaga.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lokalna frekvencija u slučaju nužde.",
+          "isCorrect": false
+        },
+        {
+          "text": "Frekvencija radio veze vazduh-vazduh.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0112",
+      "question": "Koji je to međunarodni radiotelefonski izraz, kojim pilot vazduhoplova presretača saopštava pilotu presretenog vazduhoplova da ga sledi:",
+      "options": [
+        {
+          "text": "FOLLOW.",
+          "isCorrect": true
+        },
+        {
+          "text": "PROCEED.",
+          "isCorrect": false
+        },
+        {
+          "text": "YOU LAND.",
+          "isCorrect": false
+        },
+        {
+          "text": "CALL SIGN.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0113",
+      "question": "Međunarodni radiotelefonski izraz, kojim pilot vazduhoplova presretača obaveštava pilota presretenog vazduhoplova da može nastaviti let je:",
+      "options": [
+        {
+          "text": "PROCEED.",
+          "isCorrect": true
+        },
+        {
+          "text": "CALL SIGN.",
+          "isCorrect": false
+        },
+        {
+          "text": "DESCEND.",
+          "isCorrect": false
+        },
+        {
+          "text": "FOLLOW.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0114",
+      "question": "Pilot presretenog vazduhoplova saopštava pilotu presretača, da ne može postupiti po njegovim uputstvima, sledećim radiotelefonskim izrazom:",
+      "options": [
+        {
+          "text": "CAN NOT.",
+          "isCorrect": true
+        },
+        {
+          "text": "AM LOST.",
+          "isCorrect": false
+        },
+        {
+          "text": "MAYDAY.",
+          "isCorrect": false
+        },
+        {
+          "text": "WILCO.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0115",
+      "question": "Pilot presretnutog vazduhoplova javlja pilotu presretaču, o gubitku orijentacije sledećim izrazom:",
+      "options": [
+        {
+          "text": "AM LOST.",
+          "isCorrect": true
+        },
+        {
+          "text": "WILCO.",
+          "isCorrect": false
+        },
+        {
+          "text": "CAN NOT.",
+          "isCorrect": false
+        },
+        {
+          "text": "MAYDAY.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0116",
+      "question": "Šta znaci međunarodni radiotelefonski izraz \"you land\", koji saopštava pilotu presretenog vazduhoplova pilot presretača:",
+      "options": [
+        {
+          "text": "Sletite na ovaj aerodrom.",
+          "isCorrect": true
+        },
+        {
+          "text": "Javite ime matičnog aerodroma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sledite me.",
+          "isCorrect": false
+        },
+        {
+          "text": "Slobodno nastavite let.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0117",
+      "question": "Fraza sa kojom počinjete poruku u nuždi je:",
+      "options": [
+        {
+          "text": "MAYDAY, MAYDAY, MAYDAY.",
+          "isCorrect": true
+        },
+        {
+          "text": "PANPAN, PANPAN, PANPAN.",
+          "isCorrect": false
+        },
+        {
+          "text": "EMERGENCY, EMERGENCY, EMERGENCY.",
+          "isCorrect": false
+        },
+        {
+          "text": "HELP, HELP, HELP.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0118",
+      "question": "Frekvencija 121,500 MHz je:",
+      "options": [
+        {
+          "text": "Međunarodna frekvencija u slučaju nužde.",
+          "isCorrect": true
+        },
+        {
+          "text": "Regionalna prislušna frekvencija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Regionalna frekvencija u slučaju nužde.",
+          "isCorrect": false
+        },
+        {
+          "text": "Frekvencija radio veze vazduh-vazduh.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0119",
+      "question": "Frekvencija za prvo emitovanje poruke \"MAYDAY\" je.",
+      "options": [
+        {
+          "text": "Frekvenca koja je trenutno u upotrebi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Frekvenca u nuždi 121.5 MHz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prilazna frekvenca najbližeg aerodroma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bilo koja međunarodna frekvenca za nuždu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0120",
+      "question": "Kada pilot čuje poruku u slučaju opasnosti treba da:",
+      "options": [
+        {
+          "text": "Obezbedi tišinu na frekvenciji i nastavi sa slušanjem da bi bio siguran da je pomoć obezbeđena.",
+          "isCorrect": true
+        },
+        {
+          "text": "Odmah potvrdi poruku i biti spreman za prenošenje daljih poruka ako je potrebno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Promeni frekvenciju jer ce na taj način biti obezbeđena tišina na prethodnoj frekvenciji.",
+          "isCorrect": false
+        },
+        {
+          "text": "Preuzme kontrolu nad situacijom i da koordiniše sve potrebne agencije za operaciju spasavanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0121",
+      "question": "Kada pilot ne uspe da uspostavi komunikaciju sa zemaljskom stanicom ili drugim avionom treba da emituje svoju poruko",
+      "options": [
+        {
+          "text": "2 puta i da je počne sa frazom:",
+          "isCorrect": true
+        },
+        {
+          "text": "TRANSMITTING BLIND.",
+          "isCorrect": false
+        },
+        {
+          "text": "MAYDAY.",
+          "isCorrect": false
+        },
+        {
+          "text": "PANPAN.",
+          "isCorrect": false
+        },
+        {
+          "text": "WORDS TWICE.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0122",
+      "question": "Kada pilot želi poslati hitnu poruku, koja se tiče bezbednosti drugog vazduhoplova, dužan je započeti poruku sa:",
+      "options": [
+        {
+          "text": "Izgovarajući reč \"PANPAN\".",
+          "isCorrect": true
+        },
+        {
+          "text": "Izgovarajući šifrom \"MAYDAY\".",
+          "isCorrect": false
+        },
+        {
+          "text": "Morzeovom šifrom \"XXX\".",
+          "isCorrect": false
+        },
+        {
+          "text": "Morzeovom reč \"MAYDAY\".",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0123",
+      "question": "Koja od navedenih frekvencija je međunarodna govorna frekvencija u slučaju nužde:",
+      "options": [
+        {
+          "text": "121,500 MHZ.",
+          "isCorrect": true
+        },
+        {
+          "text": "122.500 MHz.",
+          "isCorrect": false
+        },
+        {
+          "text": "121,050 MHz.",
+          "isCorrect": false
+        },
+        {
+          "text": "122.050 MHz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0124",
+      "question": "Koje su dve vrsta poruka u nuždi (Emergency Message)?",
+      "options": [
+        {
+          "text": "Distress i Urgency.",
+          "isCorrect": true
+        },
+        {
+          "text": "MAYDAY i PAN PAN.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emergency i Security.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emergency i PAN PAN.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0125",
+      "question": "Koji radiotelefonski izraz znaci \" U VELIKOJ SMO NEPOSREDNOJ OPASNOSTI I POTREBNA NAM JE HITNA POMOC\":",
+      "options": [
+        {
+          "text": "Izgovorena reč \"MAYDAY\", tri puta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Reč \"MAYDAY\", emitovana Morzeovim znacima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izgovorena reč \"SECURITY\", tri puta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izgovorena reč \"PANPAN\", tri puta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0126",
+      "question": "Na vanaerodromskom sletanju ste razbili avion i zadobili povrede. U blizini nema nikoga ko bi vam pružio pomoć. Kojom frazom bi uputili poziv u pomoć radio stanicom, koja je ostala ispravna?.",
+      "options": [
+        {
+          "text": "MAYDAY, MAYDAY, MAYDAY.",
+          "isCorrect": true
+        },
+        {
+          "text": "PANPAN, PANPAN, PANPAN.",
+          "isCorrect": false
+        },
+        {
+          "text": "MEDICAL, MEDICAL, MEDICAL.",
+          "isCorrect": false
+        },
+        {
+          "text": "EMERGENCY, EMERGENCY, EMERGENCY.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0127",
+      "question": "Poruke Hitnosti (Urgency) se emituju u.",
+      "options": [
+        {
+          "text": "Uslovima u kojima se brine o bezbednosti vazduhoplova, neke osobe u njima, ali gde se ne zahteva hitna pomoć.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uslovima u kojima se brine o bezbednosti vazduhoplova, neke osobe u njima, ali gde se zahteva hitna pomoć.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uslovima koji prete da postanu ozbiljna ili neminovna opasnost I zahtevaju hitnu pomoć.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uslovima koji prete da postanu ozbiljna ili neminovna opasnost I ne zahtevaju hitnu pomoć.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0128",
+      "question": "Poruke Opasnosti (Distress) se emituju u.",
+      "options": [
+        {
+          "text": "Uslovima koji prete da postanu ozbiljna ili neminovna opasnost I zahtevaju hitnu pomoć.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uslovima koji prete da postanu ozbiljna ili neminovna opasnost I ne zahtevaju hitnu pomoć.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uslovima u kojima se brine o bezbednosti vazduhoplova, neke osobe u njima, ali gde se zahteva hitna pomoć.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uslovima u kojima se brine o bezbednosti vazduhoplova, neke osobe u njima, ali gde se ne zahteva hitna pomoć.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0129",
+      "question": "Pri preletu šumovitog područja ugledate u krošnjama drveća motorni zmaj i vidite pilota kako visi na vezama. Odlučili ste da o nesreći obavestite najbliži aerodrom. Kojom frazom započinjete poruku?",
+      "options": [
+        {
+          "text": "PANPAN, PANPAN, PANPAN.",
+          "isCorrect": true
+        },
+        {
+          "text": "EMERGENCY, EMERGENCY, EMERGENCY.",
+          "isCorrect": false
+        },
+        {
+          "text": "MAYDAY, MAYDAY, MAYDAY.",
+          "isCorrect": false
+        },
+        {
+          "text": "MEDICAL, MEDICAL, MEDICAL.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0130",
+      "question": "Svedok ste prinudnog sletanja sportskog aviona na travnjak ispod vas. Avion izgleda neoštećen, a posada nepovređena.",
+      "options": [
+        {
+          "text": "Fraza sa kojom započinjete vašu radio poruku o događaju kontroli letenja, je:",
+          "isCorrect": true
+        },
+        {
+          "text": "PANPAN, PANPAN, PANPAN.",
+          "isCorrect": false
+        },
+        {
+          "text": "HELPHELP, HELPHELP, HELPHELP.",
+          "isCorrect": false
+        },
+        {
+          "text": "MAYDAY, MAYDAY, MAYDAY.",
+          "isCorrect": false
+        },
+        {
+          "text": "EMERGENCY, EMERGENCY, EMERGENCY.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0131",
+      "question": "Na skali razumljivosti \"readability 1\" znači:",
+      "options": [
+        {
+          "text": "Nerazumljivo.",
+          "isCorrect": true
+        },
+        {
+          "text": "Razumljivo sa poteškoćama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odlična razumljivost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Razumljivo sa pozadinskim šumom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0132",
+      "question": "Na skali razumljivosti \"readability 2\" znači:",
+      "options": [
+        {
+          "text": "Razumljivo s vremena na vreme.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nerazumljivo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odlična razumljivost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Razumljivo sa pozadinskim šumom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0133",
+      "question": "Na skali razumljivosti \"readability 3\" znači:",
+      "options": [
+        {
+          "text": "Razumljivo sa poteškoćama.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nerazumljivo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odlična razumljivost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Razumljivo sa pozadinskim šumom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0134",
+      "question": "Na skali razumljivosti \"readability 4\" znači:",
+      "options": [
+        {
+          "text": "Razumljivo.",
+          "isCorrect": true
+        },
+        {
+          "text": "Razumljivo sa poteškoćama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Razumljivo sa pozadinskim šumom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nerazumljivo.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0135",
+      "question": "Na skali razumljivosti \"readability 5\" znači:",
+      "options": [
+        {
+          "text": "Odlična razumljivost.",
+          "isCorrect": true
+        },
+        {
+          "text": "Razumljivo sa poteškoćama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nerazumljivo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Razumljivo.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0136",
+      "question": "Proveru čujnosti vršite na sledeći način:",
+      "options": [
+        {
+          "text": "BEOGRAD TOWER YU-ABC RADIO CHECK 118.1.",
+          "isCorrect": true
+        },
+        {
+          "text": "BEOGRAD TOWER YU-ABC 118.1 DO YOU READ?",
+          "isCorrect": false
+        },
+        {
+          "text": "BEOGRAD TOWER YU-ABC HOE DO YOU READ?",
+          "isCorrect": false
+        },
+        {
+          "text": "BEOGRAD TOWER YU-ABC READABILITY CHECK 118.1.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0137",
+      "question": "Za održavanje što kvalitetnije veze:",
+      "options": [
+        {
+          "text": "Održavajte ujednačenu jačinu govora.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ponavljajte reči dva puta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Menjajte frekvencu svog glas.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izgovarajte break između rečenica.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0138",
+      "question": "Ako ATIS nije u upotrebi kojom frazom pilot traži informacije za odlazak sa aerodroma?",
+      "options": [
+        {
+          "text": "REQUEST DEPARTURE INFORMATION.",
+          "isCorrect": true
+        },
+        {
+          "text": "REQUEST DEPARTURE INSTRUCTIONS.",
+          "isCorrect": false
+        },
+        {
+          "text": "I WOULD LIKE DEPARTURE INFORMATION.",
+          "isCorrect": false
+        },
+        {
+          "text": "REPORT DEPARTURE INFORMATION.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0139",
+      "question": "ATIS se može naći na:",
+      "options": [
+        {
+          "text": "VHF ili na VOR frekvenciji.",
+          "isCorrect": true
+        },
+        {
+          "text": "frekvenciji prilazne kontrole leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "TWR frekvenciji.",
+          "isCorrect": false
+        },
+        {
+          "text": ".",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0140",
+      "question": "Koje su 3 kategorije vazduhoplovnih komunikacionih servisa?",
+      "options": [
+        {
+          "text": "Air Ground Communication Service, Flight Information Service, Air Traffic Control.",
+          "isCorrect": true
+        },
+        {
+          "text": "Air, Land i Sea.",
+          "isCorrect": false
+        },
+        {
+          "text": "Approach, Tower, Ground.",
+          "isCorrect": false
+        },
+        {
+          "text": "IFR, VFR, SVFR.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0141",
+      "question": "Koji vazduhoplovni komunikacioni servis automatski daje informacije o aerodromu i meteorološkim uslovima za dolazeći i odlazeći saobraćaj?",
+      "options": [
+        {
+          "text": "ATIS.",
+          "isCorrect": true
+        },
+        {
+          "text": "LARS.",
+          "isCorrect": false
+        },
+        {
+          "text": "AFIS.",
+          "isCorrect": false
+        },
+        {
+          "text": "FIS.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0142",
+      "question": "Pozivni znak stanice koja prosleđuje flight information service je:",
+      "options": [
+        {
+          "text": "INFORMATION.",
+          "isCorrect": true
+        },
+        {
+          "text": "HOMER.",
+          "isCorrect": false
+        },
+        {
+          "text": "CONTROL.",
+          "isCorrect": false
+        },
+        {
+          "text": "RADIO.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "KOM-0143",
+      "question": "Radar Information Service (RIS) je jedan ATC servis:",
+      "options": [
+        {
+          "text": "Gde će kontrolor informisati pilota o smeru, udaljenosti i ako zna, visinu konfliktnog saobraćaja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gde će kontrolor pružiti radarsko razdvajanje za sav saobraćaj.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gde će kontrolor dati pravac vazduhoplovu da izbegne saobraćaj.",
+          "isCorrect": false
+        },
+        {
+          "text": "Koji se može koristiti samo ako vazduhoplov leti u skladu sa IFR pravilima.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

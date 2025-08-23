@@ -1,0 +1,3269 @@
+{
+  "subject": "Meteorologija",
+  "lang": "sr",
+  "version": 1,
+  "questions": [
+    {
+      "id": "MET-0001",
+      "question": "Definicija gustine je :",
+      "options": [
+        {
+          "text": "Masa po jedinici zapremine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Masa po jedinice površine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Težina vazduha po jedinice površine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kolicinski odnos zapremine i mase.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0002",
+      "question": "Ako je data temperatura +21°C i tacka rose +7°C, aproksimativno na kojoj ce visini biti baza oblaka kumulusa?",
+      "options": [
+        {
+          "text": "5600 ft.",
+          "isCorrect": true
+        },
+        {
+          "text": "560 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "56,000 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "4000 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0003",
+      "question": "Da bi se minimiziralo zauzetost VHF frekvencije, ATIS emisije mogu se obaviti na govornoj frekvenciji kojeg navigacionog sredstva?",
+      "options": [
+        {
+          "text": "VOR.",
+          "isCorrect": true
+        },
+        {
+          "text": "ILS.",
+          "isCorrect": false
+        },
+        {
+          "text": "NDB.",
+          "isCorrect": false
+        },
+        {
+          "text": "GPS.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0004",
+      "question": "Data je atmosferska situacija gde je vlažnost 60% i ELR je manji od DALR, ukoliko je vazduh prisiljen na podizanje bice:",
+      "options": [
+        {
+          "text": "Stabilan sa tendencijom povratka na prethodni položaj.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nestabilan i nastavice da se podiže.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stabilan i nastavice da se podiže.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nestabilan sa tendencijom povratka na prethodni položaj.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0005",
+      "question": "Dnevna varijacija temperature je:",
+      "options": [
+        {
+          "text": "Smanjena u uslovima oblacnosti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Veca iznad mora nego iznad zemlje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manja je iznad pustinjskih površina nego iznad površina sa niskim rastinjem (stepe,savane,…).",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecana u uslovima povecanja brzine vetra.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0006",
+      "question": "Dnevna varijacija temperature na površini zemlje ce :",
+      "options": [
+        {
+          "text": "Smanjiti se sa povecanjem brzine vetra.",
+          "isCorrect": true
+        },
+        {
+          "text": "Biti nepromenjena sa promenom brzine vetra.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecati se sa povecanjem brzine vetra.",
+          "isCorrect": false
+        },
+        {
+          "text": "Biti minimalna u mirnoj atmosferi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0007",
+      "question": "Gde može da postoji smicanje vetra?",
+      "options": [
+        {
+          "text": "Na svim visinama, u svim pravcima.",
+          "isCorrect": true
+        },
+        {
+          "text": "Samo na manjim visinama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo na vecim visinama.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0008",
+      "question": "Greben kao sistem raspodele vazdušnog pritiska se odnosi na:",
+      "options": [
+        {
+          "text": "Smirivanje vazdušnog strujanja,divergenciju na površini zemlje prouzrokujuci vedro nebo i lošu vidljivost.",
+          "isCorrect": true
+        },
+        {
+          "text": "Konvergenciju na površini zemlje prouzrokujuci povecanu oblacnost i pojavu padavina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Divergenciju na površini zemlje prouzrokujuci poboljšanje vidljivosti na površini zemlje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smirivanje vazdušnog strujanja pa divergenciju na površini zemlje prouzrokujuci rasturanje oblaka i još više padavina.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0009",
+      "question": "Grmljavinska nepogoda dostiže najveci intenzitet tokom.",
+      "options": [
+        {
+          "text": "Faze zrelosti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Faze nisponih strujanja vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kumulus faze.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0010",
+      "question": "Inverzija je kada se :",
+      "options": [
+        {
+          "text": "Povecava temperatura sa povecanjem visine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ne postoji horizontalni temperaturni gradijent.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temperatura ne menja sa promenom visine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjuje temperatura sa povecanjem visine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0011",
+      "question": "Ispod sloja tropopauze,vrednosti Medunarodne Standardne Atmosfere (ISA) po ICAO su :",
+      "options": [
+        {
+          "text": "Vazdušni pritisak na nivou mora 1013.25mb, vrednost temperature na nivou mora 15°C pri cemu se temperatura smanjuje za 1.98°C na svakih 1000 ft do visine 36090ft.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vazdušni pritisak na nivou mora 1013.25mb, vrednost temperature na nivou mora 15°C, pri cemu se temperatura smanjuje za 2°C na svakih 1000 ft sve dok ne dostigne vrednost od -65.6°C na visini 36090ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vazdušni pritisak na površini zemlje 1013.25mb, vrednost temperature na nivou mora 15°C pri cemu se temperatura smanjuje za 1.98°C na svakih 1000 ft dok ne dostigne vrednost apsolutne nule (-273,15°C).",
+          "isCorrect": false
+        },
+        {
+          "text": "Vazdušni pritisak na nivou mora 1225g/m-3, vrednost temperature na nivou mora 15°C pri cemu se temperatura smanjuje za 2°C na svakih 1000 ft do visine 36090ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0012",
+      "question": "Kolika je gustina vazduha na nivou mora prema medunarodnoj standardnoj atmosferi (ISA uslovi)?",
+      "options": [
+        {
+          "text": "1225 g/ m3.",
+          "isCorrect": true
+        },
+        {
+          "text": "12.25 g/ m3.",
+          "isCorrect": false
+        },
+        {
+          "text": "1.225 g/ m3.",
+          "isCorrect": false
+        },
+        {
+          "text": "122.5 g/ m3.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0013",
+      "question": "Iz kojeg tipa oblaka najcešce pada grad?",
+      "options": [
+        {
+          "text": "CB.",
+          "isCorrect": true
+        },
+        {
+          "text": "NS.",
+          "isCorrect": false
+        },
+        {
+          "text": "AC.",
+          "isCorrect": false
+        },
+        {
+          "text": "AS.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0014",
+      "question": "Iznad unutrašnjosti aerodroma objavljeno je postojanje radiacione magle tokom jutra. Kako se brzina vetra povecava do",
+      "options": [
+        {
+          "text": "10 kt može se ocekivati:",
+          "isCorrect": true
+        },
+        {
+          "text": "Magla se podiže i formira nizak stratus.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjice se sloj magle.",
+          "isCorrect": false
+        },
+        {
+          "text": "Doci ce do razbijanja magle.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecanje maglene smeše, doprinoseci vecom razvoju magle.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0015",
+      "question": "Jedan ili više obojenih prstenova oko sunca ili meseca mogu nagovestiti prisustvo kojeg tipa oblaka?",
+      "options": [
+        {
+          "text": "Altostratuse.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ciruse.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stratuse.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cirokumuluse.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0016",
+      "question": "Kada je barometarska skala altimetra (visinomera) podešena na ravan pritiska QFE, altimetar pokazuje.",
+      "options": [
+        {
+          "text": "Nulu na referentnoj tacki aerodroma.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nadmorsku visinu aerodroma na referentnoj tacki aerodroma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pritisak na referentnoj tacki aerodroma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odgovarajucu visinu vazduhoplova.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0017",
+      "question": "Kada letimo ka polju niskog vazdušnog pritiska(Ciklonu) na konstantnoj indiciranoj visini, stvarna visina ce biti:",
+      "options": [
+        {
+          "text": "Manja od indicirane.",
+          "isCorrect": true
+        },
+        {
+          "text": "Veca od indicirane.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ista kao indicirana.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manja od indicirane na pocetku a kasnije ima istu vrednost kao indicirana.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0018",
+      "question": "Kada letite iznad Evrope imate pojavu konstantnog zanošenja udesno na konstantnoj indiciranoj visini. Ukoliko podatak na barometarskoj skali visinomera nije podešen, doci ce do sledece situacije:",
+      "options": [
+        {
+          "text": "Letece te postepeno ka manjoj stvarnoj visini.",
+          "isCorrect": true
+        },
+        {
+          "text": "Letece te postepeno ka vecoj stvarnoj visini.",
+          "isCorrect": false
+        },
+        {
+          "text": "Letece te postepeno ka manjoj indiciranoj visini.",
+          "isCorrect": false
+        },
+        {
+          "text": "Letece te postepeno ka vecoj indiciranoj visini.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0019",
+      "question": "Kada se mogu ocekivati opasnost za vazduhoplov uslovljena pojavom smicanja vetra.",
+      "options": [
+        {
+          "text": "Na površinama malog nivoa temperaturne inverzije, frontalnim oblastima, i sa jasno izraženom turbulencijom.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nastanak stratokumulusa mehanickim mešanjem nakon prolaska fronta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ukoliko po obodima planina stabilna vazdušna masa ima tendenciju kretanja u slojevima formirajuci na taj nacin lentikularne oblake.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0020",
+      "question": "Kako se naziva instrument koji obezbeduje merenje,kontinuirani zapis i citanje podataka atmosferskog pritiska?",
+      "options": [
+        {
+          "text": "Barograf.",
+          "isCorrect": true
+        },
+        {
+          "text": "Barometar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Higrometar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anemograf.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0021",
+      "question": "Kakve bi trebale da budu promene u vremenu prilikom prolaska karakterisitcnog toplotnog fronta:",
+      "options": [
+        {
+          "text": "Pad pritiska, 8 osmina oblacnosti sa malom visinom sloja baze oblaka i loša vidljivost.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pritisak se smanjuje kontantno, ne više od 4 osmine oblacnosti , i dobra vidljivost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pritisak prestaje da pada, 4 osmine oblacnosti sa veoma niskom bazom oblaka i vrlo brzo poboljšanje vidljivosti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pad pritiska , 8 osmina oblacnosti sa malom visinom sloja baze oblaka i poboljšanje vidljivosti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0022",
+      "question": "Kakvi vremenski uslovi bi trebali da budu ispod sloja u kojem je nizak nivo temperaturne inverzije.",
+      "options": [
+        {
+          "text": "Malo smicanje vetra, loša vidljivost, izmaglica i slaba kiša.",
+          "isCorrect": true
+        },
+        {
+          "text": "Miran vazduh, loša vidljivost, magla, izmaglica i niski oblaci.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turbulentan vazduh, loša vidljivost, magla, niski stratus tipovi oblaka, padavine sa pljuskovima.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0023",
+      "question": "Koja je aproksimativna brzina toplog fronta?",
+      "options": [
+        {
+          "text": "Približno 2/3 brzine hladnog fronta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Približno 1/3 brzine hladnog fronta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Približno 1/2 brzine hladnog fronta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ima istu brzinu kao i hladan front.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0024",
+      "question": "Koja je ocekivana visina baze kumulusa iznad aerodroma , ako je trenutna temperatura tacke rose vazduha pri zemlji 5°C, a prognozirana dnevna maksimalna temperatura je 25°C:",
+      "options": [
+        {
+          "text": "2.500 m.",
+          "isCorrect": true
+        },
+        {
+          "text": "2.000 m.",
+          "isCorrect": false
+        },
+        {
+          "text": "2.800 m.",
+          "isCorrect": false
+        },
+        {
+          "text": "1.500 m.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0025",
+      "question": "Koja je zastupljenost gasova u atmosferi?",
+      "options": [
+        {
+          "text": "Kiseonik 21%, Azot 78%, ostali gasovi 1%.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kiseonik 21%, Vodonik 78%, ostali gasovi 1%.",
+          "isCorrect": false
+        },
+        {
+          "text": "Azot 78%, Argon 21%, Kiseonik 1%.",
+          "isCorrect": false
+        },
+        {
+          "text": "Azot 78%, Kiseonik 21%, Vodonik 1%.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0026",
+      "question": "Koja od ponudenih kombinacija parametara vremena dovodi do pojave kumulo tipa oblaka, dobre vidljivosti, kišnih pljuskova i mogucnosti pojave ledenih kristala u oblacima ?",
+      "options": [
+        {
+          "text": "Nestabilan vlažan vazduh i orografsko podizanje vazduha.",
+          "isCorrect": true
+        },
+        {
+          "text": "Stabilan, vlažan vazduh i orografsko podizanje vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nestabilan vlažan vazduh bez podizanja vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stabilan, suv vazduh i orografsko podizanje vazduha.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0027",
+      "question": "Koje od navedenih tvrdenja je ispravno?",
+      "options": [
+        {
+          "text": "Na bilo kojoj temperaturi gustina vazduha u uslovima anticiklona bice veca od gustine vazduha kada je pritisak na nivou mora niži.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kako se gustina vazduha povecava sa smanjenjem temperature tada se gustina vazduha mora povecavati sa povecanjem visine u skladu sa ISA uslovima(Medunarodnoj Standardnoj Atmosferi).",
+          "isCorrect": false
+        },
+        {
+          "text": "Gustina vazduha se povecava sa povecanjem relativne vlažnosti vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Efekat promene temperature vazduha na gustinu vazduha je mnogo veci od efekta koji nastaje promenom atmosferskog pritiska.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0028",
+      "question": "Koje od navedenih tvrdenja najbliže opisuje COL?",
+      "options": [
+        {
+          "text": "Površina široko razmaknutih izobara izmedu dva centra niskog i visokog vazdušnog pritiska.",
+          "isCorrect": true
+        },
+        {
+          "text": "Površina izmedu dva centra visokog vazdušnog pritiska gde su izobare veoma blizu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Proširenje centra visokog vazdušnog pritiska.",
+          "isCorrect": false
+        },
+        {
+          "text": "Proširenje centra niskog vazdušnog pritiska.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0029",
+      "question": "Koje od sledecih tvrdenja karakteriše nestabilni vazduh?",
+      "options": [
+        {
+          "text": "Kumulusi sa pljuskovima i dobra vidljivost van zone pljuskova.",
+          "isCorrect": true
+        },
+        {
+          "text": "Stratusi sa pljuskovima i prilicno loša vidljivost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stratusi sa lošom vidljivošcu i povremenom rosuljom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kumulusi sa neprekidnim padavinama i osrednja vidljivost.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0030",
+      "question": "Koje su karakteristike nestabilne vazdušne mase ?",
+      "options": [
+        {
+          "text": "Turbulencija i dobra vidljivost na zemlji.",
+          "isCorrect": true
+        },
+        {
+          "text": "Turbulencija i loša vidljivost na zemlji.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oblaci nimbostratus i dobra vidljivost na zemlji.",
+          "isCorrect": false
+        },
+        {
+          "text": ".",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0031",
+      "question": "Koje su karakteristike prolaza hladnog fronta?",
+      "options": [
+        {
+          "text": "Temperatura tacke rose pada , temperatura vazduha pada, vetar ima smer u smeru kretanja kazaljke na satu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Temperatura tacke rose raste, temperatura vazduha pada, vetar ima smer suprotan od smera kretanja kazaljke na satu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temperatura tacke rose raste, temperatura vazduha pada ,vetar ima smer u smeru kretanja kazaljke na satu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stabilna temperatura tacke rose i vazduha ali oštra promena smera vetra u smeru suprotnom od kazaljke na satu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0032",
+      "question": "Koji od navedenih frontalnih sistema najcešce prouzrokuje grmljavinske nepogode.",
+      "options": [
+        {
+          "text": "Hladan front.",
+          "isCorrect": true
+        },
+        {
+          "text": "Topli front.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sistem raspodele vazdušnog pritiska - greben.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kvazi-stacionarni front.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0033",
+      "question": "Koji od navedenih procesa može prouzrokovati zasicenost vazduha?",
+      "options": [
+        {
+          "text": "Isparavanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Topljenje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kondenzacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zagrevanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0034",
+      "question": "Koji od navedenih uslova su najpogodniji za formiranje radiacione magle?",
+      "options": [
+        {
+          "text": "Visoka relativna vlažnost vazduha, slabi vetrovi i vedro nebo.",
+          "isCorrect": true
+        },
+        {
+          "text": "Visoka relativna vlažnost vazduha, umeren vetar i oblacno nebo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mala relativna vlažnost vazduha, slabi vetrovi i vedro nebo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Visoka relativna vlažnost vazduha, slabi vetrovi i oblacno nebo.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0035",
+      "question": "Koji od sledecih uslova najverovatnije prouzrokuje grmljavinske nepogode ?",
+      "options": [
+        {
+          "text": "Visok sadržaj vlage sa strmim temperaturnim gradijentom.",
+          "isCorrect": true
+        },
+        {
+          "text": "Visok sadržaj vlage sa blagim temperaturnim gradijentom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mali sadržaj vlage sa strmim temperaturnim gradijentom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mali sadržaj vlage sa blagim temperaturnim gradijentom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0036",
+      "question": "Koji tip oblaka je najcešce povezan za prolaskom toplog fronta?",
+      "options": [
+        {
+          "text": "CI, CS, AS, NS.",
+          "isCorrect": true
+        },
+        {
+          "text": "CC, AC, CU, CB.",
+          "isCorrect": false
+        },
+        {
+          "text": "CI, CC, NS, CB.",
+          "isCorrect": false
+        },
+        {
+          "text": "CC, SC, ST, NS.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0037",
+      "question": "Nestabilan vazduh je prisiljen da se podiže sa jedne strane planine. Kakvo vreme se može ocekivati na obroncima planine koje su izložene vetru?",
+      "options": [
+        {
+          "text": "Oblak sa izraženim vertikalnim razvojem.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gust stratus tip oblaka, najverovatnije nimbostratus.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bez promena, pošto ce vazduh poceti da pada zbog adijabatskog zagrevanja nakon prelaska vrha planine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oblaci neposredno iznad vrhova planina (Cap clouds) sa mogucim lentikularnim altokumulusima.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0038",
+      "question": "Temperaturna grupa 28/24 u METAR izveštaju predstavlja:",
+      "options": [
+        {
+          "text": "Osmotrena temperatura vazduha je 28°C , temperatura tacka rose je 24°C.",
+          "isCorrect": true
+        },
+        {
+          "text": "Osmotrena temperatura vazduha je 28°C u trenutku izveštavanja, ali se ocekuje da temperatura vazduha bude 24° C do kraja TREND prognoze.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temperatura mokrog termometra je 28°C i temperatura suvog termometra je 24°C.",
+          "isCorrect": false
+        },
+        {
+          "text": "Osmotrena temperatura tacke rose je 28°C i osmotrena temperatura vazduha je 24°C.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0039",
+      "question": "U dole navedenom METAR izveštaju izostavljena je visina baze sloja oblaka. Na kojoj visini možemo ocekivati bazu sloja",
+      "options": [
+        {
+          "text": "oblaka ukoliko postoji kumulus tip oblaka",
+          "isCorrect": true
+        },
+        {
+          "text": "28005KT9999 SCT??? 12/05 Q1020 NOSIG.",
+          "isCorrect": false
+        },
+        {
+          "text": "SCT028.",
+          "isCorrect": false
+        },
+        {
+          "text": "SCT042.",
+          "isCorrect": false
+        },
+        {
+          "text": "SCT020.",
+          "isCorrect": false
+        },
+        {
+          "text": "SCT280.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0040",
+      "question": "ATIS emisije se obnavljaju.",
+      "options": [
+        {
+          "text": "Kada dode do bilo kakve promene aerodromskih ili meteoroloških informacija.",
+          "isCorrect": true
+        },
+        {
+          "text": "Samo kada dode do promene aerodromske informacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na svakih pola sata.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na svaki sat.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0041",
+      "question": "Avion leti na konstantnoj indiciranoj visini od PSS A (QNH 1009mb) do PSS B (QNH 1019m. Šta ce se desiti iznad PSS B ukoliko barometarska skala visinomera nije resetovana.",
+      "options": [
+        {
+          "text": "Indicirana visina ce biti manja od stvarne visine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Indicirana visina ce biti ista kao stvarna visina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Indicirana visina ce biti veca od stvarne visine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Indicirana visina može biti veca ili manja u zavisnosti od nadmorske visine PSS.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0042",
+      "question": "Avion leti sa aerodroma A ( QNH 1020 mb) , prema aerodromu B (QNH=999mb).Aerodrom \"A\" se nalazi 800 ft ispod srednjeg nivoa mora dok je aerodrom \"B\" 500 ft iznad srednjeg nivoa mora. Ukoliko vrednost na barometarskoj skali visinomera nije resetovana od tr",
+      "options": [
+        {
+          "text": "1,130ft.",
+          "isCorrect": true
+        },
+        {
+          "text": "1,430ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "130ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "-130ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0043",
+      "question": "BECMG 1621/1701 BKN030 u TAF prognozi znaci :",
+      "options": [
+        {
+          "text": "Nastanak izmedu 16. u mesecu u 2100 UTC i 17. u mesecu 0100UTC razbijene oblacnosti (5-7 osmina oblacnosti) na 3000 ft iznad aerodromskog nivoa.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nastanak izmedu 1621 UTC i 1701 UTC razbijene oblacnosti (3-4 osmina oblacnosti) na 300 ft iznad aerodromskog nivoa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nastanak od 1621 UTC razbijene oblacnosti (5-7 osmina oblacnosti) na 3000 ft iznad.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nastanak od 1621 UTC razbijene oblacnosti (3-4 osmina oblacnosti) na 300 ft iznad aerodromskog nivoa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0044",
+      "question": "EGTT SIGMET SST 01 VALID 310730/311130 EGRR LONDON FIR ISOL CB FCST TOPS FL370 SST ROUTES W OF",
+      "options": [
+        {
+          "text": "W00400 STNR NC =",
+          "isCorrect": true
+        },
+        {
+          "text": "Šta predstavlja šifra \"SST\" u gore navedenoj SIGMET prognozi?",
+          "isCorrect": false
+        },
+        {
+          "text": "Transonicne i Supersonicne nivoe leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo supersonicne nivoe leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Subsonicne i transonicne nivoe leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo subsonicne nivoe leta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0045",
+      "question": "Grupa vidljivosti R20/0050 u METAR izveštaju znaci:",
+      "options": [
+        {
+          "text": "Izmerena vidljivost, pomocu instrumenata(opreme) na PSS, duž PSS 20 iznosi 50 m.",
+          "isCorrect": true
+        },
+        {
+          "text": "Za PSS 20 , trenutna vidljivost je 500 m izmerena pomocu opreme (instrumenata) za merenje vidljivosti na PSS. c. Objavljena vidljivost duž PSS je 50m, kao rezultat merenja vidljivosti duž PSS pomocu instrumenata /opreme za",
+          "isCorrect": false
+        },
+        {
+          "text": "merenje vidljivosti u poslednjih 20 minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na PSS 20, trenutna vidljivost je manja od 5000m.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0046",
+      "question": "Kada je bio izdat sledeci METAR izveštaj:",
+      "options": [
+        {
+          "text": "METAR LSZH 131630Z 24008KT 0666 R16/1000U FG DZ FE003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT 1800 9999 NSW=.",
+          "isCorrect": true
+        },
+        {
+          "text": "U 16:30 UTC, 13. Dana tekuceg meseca.",
+          "isCorrect": false
+        },
+        {
+          "text": "U 16 casova UTC, 30. Dana tekuceg meseca.",
+          "isCorrect": false
+        },
+        {
+          "text": "U 16:30 po lokalnom vremenu.",
+          "isCorrect": false
+        },
+        {
+          "text": "U 24:00 po lokalnom vremenu, 8. Dana tekuceg meseca.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0047",
+      "question": "Kada možemo racunati da ce se na aerodromu podici magla i da ce biti uslova za VFR letenje:",
+      "options": [
+        {
+          "text": "METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 BECMG.",
+          "isCorrect": true
+        },
+        {
+          "text": "Posle 18:00 UTC.",
+          "isCorrect": false
+        },
+        {
+          "text": "Do 17:00 UTC.",
+          "isCorrect": false
+        },
+        {
+          "text": "Najkasnije do 18:00 UTC.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izmedu 17:00 i 18:00 UTC.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0048",
+      "question": "Kada se prognozira jak vetar u AIRMET prognozi?",
+      "options": [
+        {
+          "text": "Kada se ocekuje brzina vetra veca od 20kt.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kada se ocekuje brzina vetra veca od 10kt.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kada se ocekuje brzina vetra veca od 15 kt.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kada se ocekuje da brzina najjaceg vetra bude veca od 25 kt.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0049",
+      "question": "Kada se TREND nalazi na kraju METAR izveštaja ,on zapravo predstavlja vremensku prognozu koja je validna za:",
+      "options": [
+        {
+          "text": "Period nakon 2 sata od vremena osmatranja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Period nakon 1 sata od vremena osmatranja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Period nakon 2 sata od vremena izdavanja izveštaja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Period nakon 1 sata od vremena izdavanja izveštaja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0050",
+      "question": "Kakvo se vreme predvida na aerodromu posle 12:00 UTC:",
+      "options": [
+        {
+          "text": "TAF LYBE 160500Z 1606/1706 13010KT 9000 BKN020 BECMG 1606/1608 SCT015CB BKN020 TEMPO 1608/1612 17012G22KT 1000 TSRA SCT010CB BKN020 FM12 15006KT 9999 BKN020 BKN100=.",
+          "isCorrect": true
+        },
+        {
+          "text": "Duvace jugoistocni vetar srednje jacine, vidljivost u poboljšanju preko 10 km, prestanak padavina,Povecanje oblacnosti, baza oblaka 600 m.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kišovito vreme sa pljuskovima, rafalni vetar, vidljivost manja od 10 km.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecanje vidljivosti na 5 do 10 km, smanjenje kolicine oblacnosti na 1/8 sa bazom 600 m i 1/8 sa bazom na 3000 m.",
+          "isCorrect": false
+        },
+        {
+          "text": "Duvace jugoistocni vetar jacine 6 kt, vidljivost povoljna za letenje u VMC uslovima, nebo potpuno Prekriveno oblacima, cija je baza na 600 m.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0051",
+      "question": "Kod : \"BECMG FM 1100 -RASH\" u METAR izveštaju predstavlja :",
+      "options": [
+        {
+          "text": "Nastanak, od 1100 UTC,umerenih kišnih pljuskova.",
+          "isCorrect": true
+        },
+        {
+          "text": "Od 1100 UTC,prestanak kišnih pljuskova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nastanak,od 1100 UTC,pljuskovi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nastanak,od 1100 UTC do 0000 UTC, umerenih kišnih pljuskova.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0052",
+      "question": "Koja je bila temperatura na aerodromu u casu osmatranja vremena:",
+      "options": [
+        {
+          "text": "METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 BECMG AT1800 9999=.",
+          "isCorrect": true
+        },
+        {
+          "text": "17°C.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izmedu 10°C i 18°C.",
+          "isCorrect": false
+        },
+        {
+          "text": "16°C.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izmedu 16°C i 17°C.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0053",
+      "question": "Koje padavine su bile na aerodromu u casu osmatranja vremena:",
+      "options": [
+        {
+          "text": "METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FSW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT 1800 9999 NSW =.",
+          "isCorrect": true
+        },
+        {
+          "text": "Slaba rosulja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dugotrajna kiša slabog intenziteta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grad.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pljusak kiše.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0054",
+      "question": "Koji od navedenih odgovora predstavlja ispravno dešifrovanu TAF prognozu:",
+      "options": [
+        {
+          "text": "LYBE 161100Z 1612/1712 VRB08KT9999 SCT025?",
+          "isCorrect": true
+        },
+        {
+          "text": "Važi od 16.og u mesecu u 12.00 do 17.og u mesecu u 1200 UTC ; prizemni vetar ce imati promenljiv pravac i brzinu od 8kt pri cemu je vidljivost 10km ili više; 3-4 osmine oblacnosti sa bazom sloja oblaka 2500ft iznad aerodroma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Važi od 1612 do 1712 UTC ; prizemni vetar je promenljiv po pravcu sa brzinom od 8kt; vidljivost je 10km i više, visina baze sloja oblaka je 2500ft iznad srednjeg morskog nivoa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Osmotreno u 1611 UTC; prizemni vetar je promenljiv po pravcu i brzini; prosecna brzina vetra je 8 kt: vidljivost 10 km ili više, i visina baze sloja oblaka iznad aerodromskog nivoa je 2500 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "Osmotreno u 1612 UTC; prizemni vetar je promenljiv po pravcu i brzini; sa vidljivosti 10 km , visinom baze sloja oblaka 2500 ft iznad nivo terena.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0055",
+      "question": "Koji od ponudenih odgovora predstavalja ispravno dešifrovan METAR izveštaj:",
+      "options": [
+        {
+          "text": "METAR EGKL 130350Z 32005KT 0400N DZ BCFG VV002.",
+          "isCorrect": true
+        },
+        {
+          "text": "Osmotreni vremenski uslovi 13- tog dana tekuceg meseca u 03 50Z , pravac prizemnog vetra 320°u odnosu na pravi sever, brzina vetra 05kt, minimalna meteorološka vidljivost 400 m u pravcu severa, umerena sitna kiša, sa postojanjem maglovitih slojeva i verti",
+          "isCorrect": false
+        },
+        {
+          "text": "Objavljeni vremenski uslovi 13- tog dana tekuceg meseca u 03 50Z, pravac prizemnog vetra 320°u odnosu na magnetni sever,brzina vetra 05kt,,minimalna meteorološka vidljivost 400 m u pravcu severa, umerena sitna kiša, sa postojanjem maglovitih slojeva i ver",
+          "isCorrect": false
+        },
+        {
+          "text": "Validnost vremenskog izveštaja je 13 - tog dana tekuceg meseca izmedu 0300 i 1500Z, pravac prizemnog vetra 320°u odnosu na pravi sever, brzina vetra 05kt, minimalna meteorološka vidljivost 400 m u pravcu severa, umerena sitna kiša, sa postojanjem maglovit",
+          "isCorrect": false
+        },
+        {
+          "text": "Validnost vremenskog izveštaja je izmedu 0300 i03 50Z pravac prizemnog vetra 320° u odnosu na pravi sever, brzina vetra 05kt, minimalna meteorološka vidljivost 400 m u pravcu severa, umerena sitna kiša, i vertikalna vidljivost 200ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0056",
+      "question": "Koji vremenski fenomen je posledica temperaturne inverzije?",
+      "options": [
+        {
+          "text": "Stabilne vazdušne mase.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nestabilne vazdušne mase.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vertikalni razvoj vetrova na planinskim padinama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grmljavinske nepogode unutar vazdušne mase.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0057",
+      "question": "Koju fazu grmljavinske nepogode karakterišu pretežno nispona strujanja.",
+      "options": [
+        {
+          "text": "Fazu rasturanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pocetnu fazu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fazu zrelosti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kumulus fazu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0058",
+      "question": "Koju fazu grmljavinske nepogode karakterišu samo uspona strujanja?",
+      "options": [
+        {
+          "text": "Pocetnu fazu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fazu zrelosti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Fazu rasturanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Završnu fazu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0059",
+      "question": "Koju uslovi mora da postoje da bi došlo da razvoja oluje sa grmljavinom:",
+      "options": [
+        {
+          "text": "Medusobna reakcija velike kolicine vlage i strmog gradijenta temperature izraženog kroz povecanje vertikalnog gradijenta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Medusobna reakcija velike kolicine vlage i veoma stabilne atmosfere.",
+          "isCorrect": false
+        },
+        {
+          "text": "Medusobna reakcija , stabilne atmosfere, izražene kroz povecanje strmog gradijenta temperature, i velike kolicine vlage.",
+          "isCorrect": false
+        },
+        {
+          "text": "Medusobna reakcija strmog gradijenta temperature, izraženog kroz povecanje vertikalnog gradijenta ,i niske relativne vlažnosti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0060",
+      "question": "VOLMET emisije se definišu kao :",
+      "options": [
+        {
+          "text": "Neprekidne radio emisije aktuelnih meteoroloških osmatranja i prognoza na odredenom aerodromu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Radio emisija meteorološke prognoze na odredenom aerodromu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kontinuirani telefonski izveštaj na odredenom aerodromu- metars.",
+          "isCorrect": false
+        },
+        {
+          "text": "Telegrafski izveštaj na odredenom aerodromu tafs i metars.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0061",
+      "question": "VOLMET emisije se obnavljaju?",
+      "options": [
+        {
+          "text": "Na svakih pola sata.",
+          "isCorrect": true
+        },
+        {
+          "text": "Svaki sat.",
+          "isCorrect": false
+        },
+        {
+          "text": "4 puta dnevno.",
+          "isCorrect": false
+        },
+        {
+          "text": "2 puta dnevno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0062",
+      "question": "VOLMET emisije su?",
+      "options": [
+        {
+          "text": "Zemlja-vazduh radio emisije na HF I VHF frekvencijama.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vazduh – zemlja radio emisije na HF I VHF frekvencijama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vazduh – zemlja radio emisije na HF I VHF frekvencijama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zemlja-vazduh radio emisije na LF I VHF frekvencijama.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0063",
+      "question": "Vremenska prognoza za oblast AIRMET predstavlja prognozu vremena do?",
+      "options": [
+        {
+          "text": "FL100.",
+          "isCorrect": true
+        },
+        {
+          "text": "FL180.",
+          "isCorrect": false
+        },
+        {
+          "text": "FL010.",
+          "isCorrect": false
+        },
+        {
+          "text": "FL240.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0064",
+      "question": "Kolika je bila baza oblaka na aerodromu u casu osmatranja vremena:",
+      "options": [
+        {
+          "text": "METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW=.",
+          "isCorrect": true
+        },
+        {
+          "text": "300 m.",
+          "isCorrect": false
+        },
+        {
+          "text": "10 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "100 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1000 m.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0065",
+      "question": "Kolika je kolicina oblacnosti u nižem sloju oblaka nad aerodromom u casu osmatranja vremena:",
+      "options": [
+        {
+          "text": "METARLSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 NECMG TL1700 0800 FG BECMG AT1800 9999 NSW=.",
+          "isCorrect": true
+        },
+        {
+          "text": "1 /8 to 2/8.",
+          "isCorrect": false
+        },
+        {
+          "text": "5/8 to 7/8.",
+          "isCorrect": false
+        },
+        {
+          "text": "8/8.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manje od 1/8.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0066",
+      "question": "Kolika je temperatura vazduha na visini 7000 ft, ako je temperatura vazduha na nadmorskoj visini 1.500 ft 15°C i ako pretpostavimo da važi vertikalni termicki gradijent ISA (ICAO):",
+      "options": [
+        {
+          "text": "+3°C.",
+          "isCorrect": true
+        },
+        {
+          "text": "+4°C.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0003",
+      "question": "0°C.",
+      "options": [
+        {
+          "text": "-2°C.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "MET-0067",
+      "question": "Koliki je period važenja WAFC karte znacajnog vremena?",
+      "options": [
+        {
+          "text": "Odredeno fiksno vreme.",
+          "isCorrect": true
+        },
+        {
+          "text": "6 sati.",
+          "isCorrect": false
+        },
+        {
+          "text": "3 sata.",
+          "isCorrect": false
+        },
+        {
+          "text": "30 minuta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0068",
+      "question": "Koliko je iznosio vazdušni pritisak na aerodromu u casu osmatranja vremena:",
+      "options": [
+        {
+          "text": "METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 BECMG AT1800 9999=.",
+          "isCorrect": true
+        },
+        {
+          "text": "1018 hpa (QNH).",
+          "isCorrect": false
+        },
+        {
+          "text": "1000 hpa (QNH).",
+          "isCorrect": false
+        },
+        {
+          "text": "999 hpa (QFE).",
+          "isCorrect": false
+        },
+        {
+          "text": "1018 hpa (QFE).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0069",
+      "question": "Koriolisova sila na Severnoj hemisferi ce prouzrokovati kretanje vazduha koji naizgled skrece:",
+      "options": [
+        {
+          "text": "Desno i prouzrokuje geostafski vetar koji ima pravac paralelno sa izobarama do visine od oko 2000 ft agl.",
+          "isCorrect": true
+        },
+        {
+          "text": "Levo i prouzrokuje vetar koji ima pravac paralelno sa izobarama do visine od oko 2000 ft agl.",
+          "isCorrect": false
+        },
+        {
+          "text": "Levo i prouzrokuje vetar koji duva polako po izobarama do visine od oko 2000 ft agl.",
+          "isCorrect": false
+        },
+        {
+          "text": "Desno i prouzrokuje površan vetar koji duva po izobarama do visine od oko 2000 ft agl.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0070",
+      "question": "Letite iznad nivoa hladnog vazduha, a tacno iznad vas je topli front. Ukoliko pada kiša , kakvu vrstu zaledivanja možete ocekivati?",
+      "options": [
+        {
+          "text": "Kišu ili proziran-gladak led.",
+          "isCorrect": true
+        },
+        {
+          "text": "Karburatorski led.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hrapav-mutan led.",
+          "isCorrect": false
+        },
+        {
+          "text": "Inje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0071",
+      "question": "Letite na konstantnoj indiciranoj visini u odnosu na QNH podešenim na vrednost od 1015 mb na barometarskoj skali i primecujete da spoljna temperature vazduha konstantno opada. Šta ce se dešava sa vašom stvarnom visinom?",
+      "options": [
+        {
+          "text": "Smanjuje se.",
+          "isCorrect": true
+        },
+        {
+          "text": "Raste.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ostaje ista.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjuje se pa se povecava.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0072",
+      "question": "LFFF SIGMET SST 1 VALID 310600/311100 LFPW- UIR FRANCE MOD TURB FCST BLW FL420 W of 04W MOV E 30KT NC =",
+      "options": [
+        {
+          "text": "Koja od opasnosti je prognozirana u gore navedenoj SIGMET poruci.",
+          "isCorrect": true
+        },
+        {
+          "text": "Umerena turbulencija ispod 42000 ft zapadno od :zapadno 4 stepena i premešta se na istok.",
+          "isCorrect": false
+        },
+        {
+          "text": "Umerena turbulencija na 42000 ft zapadno od :zapadno 4 stepena i premešta se na istok.",
+          "isCorrect": false
+        },
+        {
+          "text": "Umerena turbulencija ispod 42000 ft zapadno od :zapadno 4 stepena i premešta se od istoka.",
+          "isCorrect": false
+        },
+        {
+          "text": "Turbulencija na 42000 ft zapadno od :zapadno 4 stepena i premešta se brzinom 30 kt.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0073",
+      "question": "Na kojem frekventnom opsegu se obicno emituje ATIS ?",
+      "options": [
+        {
+          "text": "VHF.",
+          "isCorrect": true
+        },
+        {
+          "text": "LF.",
+          "isCorrect": false
+        },
+        {
+          "text": "HF.",
+          "isCorrect": false
+        },
+        {
+          "text": "ADR.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0074",
+      "question": "Na koji nacin se vrši identifikacija trenutnog izveštaja prilikom ATIS emisije ?",
+      "options": [
+        {
+          "text": "Pomocu Alfabet koda.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pomocu broja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pomocu perioda važenja izveštaja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pomocu vremena izdavanja izveštaja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0075",
+      "question": "Na osnovu dijagrama odrediti zonu koju navedena TAF prognoza opisuje(Pogledajte sliku PPL Meteo-5)",
+      "options": [
+        {
+          "text": "1322 35020KT9999 SCT030 SCT090 TEMPO 1322 8000 SHRA BKN015 PROB30 TEMPO 1522 5000 +RASH SCT008 BKN009CB=.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zona 3.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zona 1.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zona 1 i 2.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zona 2 i 4.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0076",
+      "question": "Pod uslovom da minimalna sektorska visina nije ustanovljena, CAVKOK grupa u TAF prognozi ili METAR izveštaju znaci da je:",
+      "options": [
+        {
+          "text": "Vidljivost 10 km ili više, i da ne postoje oblaci ispod 5000 ft.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vidljivost 10 km ili više, i mali broj oblaka ispod 5000 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vidljivost 10 nm ili više, bez oblaka ispod 5000 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vidljivost 10 nm ili više, bez rasprostranjenih oblaka ispod 5000 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0077",
+      "question": "Prognoza za oblast AIRMET se izdaje _________ period važenja je _________ a poželjno je da period važenja ne bude duži",
+      "options": [
+        {
+          "text": "od __________.",
+          "isCorrect": true
+        },
+        {
+          "text": "4 puta dnevno / 8 sati / 6 sati.",
+          "isCorrect": false
+        },
+        {
+          "text": "6 puta dnevno / 8 sati / 4 sata.",
+          "isCorrect": false
+        },
+        {
+          "text": "4 puta dnevno / 6 sati / 4 sata.",
+          "isCorrect": false
+        },
+        {
+          "text": "6 puta dnevno / 4 sati / 4 sata.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0078",
+      "question": "Kakav vetar oznacava znak na meteorološkoj karti: (Pogledajte sliku PPL Meteo-15).",
+      "options": [
+        {
+          "text": "Severni, jacine 60 cvorova.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zapadni, jacine 60 cvorova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Južni, jacine 15 cvorova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Istocni, jacine 15 cvorova 12] 2.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0079",
+      "question": "Linija koja na meteorološkoj karti povezuje mesta koja imaju jednake vrednosti barometarskog pritiska na istoj nadmorskoj visini naziva se:",
+      "options": [
+        {
+          "text": "Izobara.",
+          "isCorrect": true
+        },
+        {
+          "text": "Izoterma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izalobara.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kontura.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0080",
+      "question": "Metod po kom energija se transformiše iz jednog oblika u drugi sa kojim je u kontaktu naziva se:",
+      "options": [
+        {
+          "text": "Kondukcija.",
+          "isCorrect": true
+        },
+        {
+          "text": "Radijacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konvenkcija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Latentna toplota.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0081",
+      "question": "Na kojem rastojanju ispred tipicnog toplog fronta se može naici na pojavu padavina?",
+      "options": [
+        {
+          "text": "200 milja ispred položaja površine toplog fronta.",
+          "isCorrect": true
+        },
+        {
+          "text": "50 milja ispred položaja površine toplog fronta.",
+          "isCorrect": false
+        },
+        {
+          "text": "500 milja ispred položaja površine toplog fronta.",
+          "isCorrect": false
+        },
+        {
+          "text": "2 milje ispred položaja površine toplog fronta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0082",
+      "question": "Na osnovu dijagrama odrediti na visini od 2000f t brzinu vetra i temperaturu za tacku u preseku 50°N 0° E/W (Pogledajte sliku PPL Meteo-1).",
+      "options": [
+        {
+          "text": "215/13kt+11°C.",
+          "isCorrect": true
+        },
+        {
+          "text": "200/12kt+11°C.",
+          "isCorrect": false
+        },
+        {
+          "text": "220/13kt+12°C.",
+          "isCorrect": false
+        },
+        {
+          "text": "180/20kt+10°C.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0083",
+      "question": "Na osnovu dijagrama odrediti na visini od 5000ft brzinu vetra za tacku u preseku 50°N 0°EM: (Pogledajte sliku PPL Meteo-2).",
+      "options": [
+        {
+          "text": "250/15kt.",
+          "isCorrect": true
+        },
+        {
+          "text": "180/20kt.",
+          "isCorrect": false
+        },
+        {
+          "text": "070/15kt.",
+          "isCorrect": false
+        },
+        {
+          "text": "230/1Okt.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0084",
+      "question": "Na osnovu dijagrama, odrediti pojavu koja je identifikovana sa slovom J u tacki 60°N 12°W? (Pogledajte sliku PPL Meteo-",
+      "options": [
+        {
+          "text": "10).",
+          "isCorrect": true
+        },
+        {
+          "text": "Okluzivni front.",
+          "isCorrect": false
+        },
+        {
+          "text": "Topli front.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kvazistacionaran front.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tropski front.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0085",
+      "question": "Na osnovu karte znacajnog vremena (male visine) , primecujemo sistem pritiska 50 stepeni severno, 1 stepen istocno, oznacen sa slovom \"L\", strelicom i brojevima \"20\" i \"988\". Šta predstavlja ovako definisan sistem pritiska? (Pogledajte sliku PPL Meteo-14)",
+      "options": [
+        {
+          "text": "Ciklon sa centrom pritiska 988 mb, krecuci se prema istoku brzinom 20kts.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ciklon sa centrom pritiska 988 mb, krecuci se prema zapadu brzinom 20 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "QFE pritisak u polju pritiska 988 mb.",
+          "isCorrect": false
+        },
+        {
+          "text": "Regionalni QNH pritisak od 988 mb.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0086",
+      "question": "Na osnovu ponudenih odgovora izaberite Niske, Srednje i Visoke oblake po rastucem nizu.",
+      "options": [
+        {
+          "text": "Stratusi,Altokumulusi,Cirusi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nimbostratusi,Kumulonimbusi,Cirusi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Altostratusi,Altokumulusi,Cirusi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cirusi,Kumulonimbusi,Stratusi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0087",
+      "question": "Nagomilavanje leda na induktivnom sistemu klipnog motora je prouzrokovano:",
+      "options": [
+        {
+          "text": "Podešavanjem male snage, velikom vlažnosti vazduha i toplim vazduhom.",
+          "isCorrect": true
+        },
+        {
+          "text": "Podešavanjem velike snage, umerenom vlažnosti vazduha i hladnim vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Podešavanjem male snage, malom vlažnosti i toplim vazduhom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Podešavanjem velike snage, visokom vlažnosti i toplim vazduhom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0088",
+      "question": "Najcešci tip zemaljske ili prizemne temperaturne inverzije je proizvod.",
+      "options": [
+        {
+          "text": "Zemljine radijacije tokom vedre, relativno mirne noci.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kretanja hladne vazdušne mase ispod tople vazdušne mase ili kretanje tople vazdušne mase iznad hladne vazdušne mase.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ubrzanog podizanja tople vazdušne mase do visine planinskog terena.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0089",
+      "question": "Tokom _____ celije grmljavinske nepogode, oblak sadrži_______.",
+      "options": [
+        {
+          "text": "Faze zrelosti / uspona i nispona strujanja vazduha.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pocetne faze / uspona i nispona strujanja vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faze rasturanja / uspona i nispona strujanja vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pocetne faze / samo nispona strujanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0090",
+      "question": "Tokom vedre noci, temperatura na površini zemlje ce ________ Relativna Vlažnost ce se _________ a tacka rose ce",
+      "options": [
+        {
+          "text": "_______.",
+          "isCorrect": true
+        },
+        {
+          "text": "Padati / Povecati / Ostati ista.",
+          "isCorrect": false
+        },
+        {
+          "text": "Padati / Povecati / Povecati.",
+          "isCorrect": false
+        },
+        {
+          "text": "Porasti / Povecati / Padati.",
+          "isCorrect": false
+        },
+        {
+          "text": "Padati / Smanjiti / Ostati ista.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0091",
+      "question": "Tokom zimskih meseci, nastajanje kojih od navedenih vremenskih prilika je karakteristicno za postojanje anticiklona.",
+      "options": [
+        {
+          "text": "Opšte smirivanje vremenskih prilika sa adijabatskim zagrevanjem, vedro nebo, inverzija.",
+          "isCorrect": true
+        },
+        {
+          "text": "Opšte smirivanje vremenskih prilika zbog uticaja hladenja zemljine površine na formiranje proširenog oblaka. c. Tokom dana, zagrevanje zemljine površine bi trebalo da utice na formiranje nestabilne atmosfere sa razvojem",
+          "isCorrect": false
+        },
+        {
+          "text": "konvektivnog oblaka.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tokom noci, kako se zemljina površina hladi,trebalo bi da dode do povecanja vertikalnog razvoja oblaka.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0092",
+      "question": "Turbulencija, smicanje vetra, zaledivanje, slabe i jake padavine asociraju na pojavu kumulonimbusa. Koje od sledecih tvrdenja je tacno?",
+      "options": [
+        {
+          "text": "Navedene rizicne situacije se mogu izbeci ukoliko se ne leti blizu oblaka ili kroz oblak.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rizik postojanja opasnih situacija je veoma mali.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jake padavine se mogu javiti izvan oblaka , ali pojava turbulencije i zaledivanja je ogranicena na prostor unutar oblaka.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sve rizicne situacije se mogu susresti unutar ili blizu oblaka.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0093",
+      "question": "U kojem sloju atmosfere se nalazi najveca kolicina vodene pare?",
+      "options": [
+        {
+          "text": "U Troposferi.",
+          "isCorrect": true
+        },
+        {
+          "text": "U Tropopauzi.",
+          "isCorrect": false
+        },
+        {
+          "text": "U Stratosferi.",
+          "isCorrect": false
+        },
+        {
+          "text": "U Stratopauzi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0094",
+      "question": "U kojim uslovima , led na strukturi vazduhoplova najcešce ima najvecu stopu nagomilavanja.",
+      "options": [
+        {
+          "text": "Kada pada ledena kiša.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kada pada ledena rosulja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kada imamo kumuluse sa temperaturom manjom od temperature zamrzavanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0095",
+      "question": "U poredenju sa ISA uslovima , kakav uticaj ima topli vazduh na rastojanje prikazano kao promena pritiska za 1 hpa ( barometarska visinska stepenica).",
+      "options": [
+        {
+          "text": "Povecava ga.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smanjuje ga.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nema nikakvog uticaja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nemoguce je odrediti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0096",
+      "question": "U toku procesa kondenzacije , povecana temperatura je rezultat ________ kolicine ________ toplote.",
+      "options": [
+        {
+          "text": "Vece / oslobodene.",
+          "isCorrect": true
+        },
+        {
+          "text": "Manje / oslobodene.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vece / apsorbovane.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manje / apsorbovane.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0097",
+      "question": "U uslovima planinskog talasa, na najizraženiju turbulenciju se najverovatnije se može naici prilikom letenja:",
+      "options": [
+        {
+          "text": "Kroz ili tacno ispod cevastih oblaka( Roll oblaka).",
+          "isCorrect": true
+        },
+        {
+          "text": "Na meduvisini izmedu lentikularnih i roll oblaka.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kroz vrh oblaka.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kroz lentikularni oblak.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0098",
+      "question": "Ukoliko je temperatura konstantna sa povecanjem visine, dobijamo:",
+      "options": [
+        {
+          "text": "Izotermni sloj.",
+          "isCorrect": true
+        },
+        {
+          "text": "Izohipsu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Inverziju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjenje vertikalnog gradijenta temperature.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0099",
+      "question": "Ukoliko je u blizini aerodroma na koji želite da sletite grmljavinska nepogoda. Koju atmosfersku pojavu možete ocekivati prilikom procedure prilaza za sletanje.",
+      "options": [
+        {
+          "text": "Turbulenciju usled smicanja vetra.",
+          "isCorrect": true
+        },
+        {
+          "text": "Neprekidnu kišu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Padavine.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0100",
+      "question": "Ukupna kolicina vodene pare koju vazduh može održati zavisi od :",
+      "options": [
+        {
+          "text": "Temperature vazduha.",
+          "isCorrect": true
+        },
+        {
+          "text": "Stabilnosti vazdušne mase.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tacke rose.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0101",
+      "question": "Uopšteno, sa povecanjem visine :",
+      "options": [
+        {
+          "text": "Temperatura,pritisak i gustina se smanjuju.",
+          "isCorrect": true
+        },
+        {
+          "text": "Temperatura se smanjuje a gustina se povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temperatura i pritisak se povecavaju a gustina se smanjuje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temperatura se smanjuje a pritisak i gustina se povecavaju.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0102",
+      "question": "Upotreba sufiksa \"nimbus\" ili prefiksa \"nimbo\" se odnosi na ?",
+      "options": [
+        {
+          "text": "Ležište kiše.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tanak, odvojen ili vlaknast.",
+          "isCorrect": false
+        },
+        {
+          "text": "Umerena hladnoca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tamno i opasno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0103",
+      "question": "Uredaj koji služi za merenje vlažnosti vazduha naziva se:",
+      "options": [
+        {
+          "text": "Higrometar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hidrometar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mokri termometar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Higroskop.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0104",
+      "question": "Vazduh je stabilan kada:",
+      "options": [
+        {
+          "text": "Ne postoji sila uzgona vazduha, vazduh pokušava da se vrati na svoju izvornu poziciju.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ima vrlo malo pomeranje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ima malo promene u pritisku.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ne postoji sila uzgona vazduha, vazduh nastavlja da.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0105",
+      "question": "Vazduhoplov leti u blizini nizbrdice, koja se prostire u pravcu sever-jug, preko koje vetar duva u pravcu zapad –istok. Koja od navedenih situacija može dovesti vazduhoplov u polje opasnih nisponskih strujanja?",
+      "options": [
+        {
+          "text": "Kada leti od istoka ka zapadu u pravcu brda.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kada leti od zapada ka istoku u pravcu brda.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kada leti od juga ka zapadu u pravcu brda.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kada leti od Severa ka jugu u pravcu brda.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0106",
+      "question": "Vetrovi koji duvaju oko oblasti anticiklona (sistem visokog pritiska) na nižim nivoima u Severnoj Hemisferi prikazani su",
+      "options": [
+        {
+          "text": "na kartama niskog vazdušnog pritiska sa smerom duvanja:",
+          "isCorrect": true
+        },
+        {
+          "text": "U smeru kazaljke na satu.",
+          "isCorrect": false
+        },
+        {
+          "text": "U smeru kazaljke na satu ukoliko je topao vazduh i u smeru suprotnom od kazaljke na satu ukoliko je hladan vazduh.",
+          "isCorrect": false
+        },
+        {
+          "text": "U smeru suprotnom od kazaljke na satu.",
+          "isCorrect": false
+        },
+        {
+          "text": "U smeru ciklona.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0107",
+      "question": "Visinomer ce uvek pokazivati:",
+      "options": [
+        {
+          "text": "Vertikalno rastojanje u odnosu na ravan pritiska koja je podešena na barometarskoj skali visinomera.",
+          "isCorrect": true
+        },
+        {
+          "text": "Visinu iznad MSL podešavanjem pritiska na barometarskoj skali visinomera na vrednost 1013 mb.",
+          "isCorrect": false
+        },
+        {
+          "text": "Visinu iznad referentne tacke PSS ukoliko je na barometarskoj skali visinomera podešena aerodromska ravan pritiska QNH.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tacan nivo leta sa podešavanjem na visinomeru regionalnog QFE pritiska.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0108",
+      "question": "Za razvoj kumulonimbusa, neophodno je da postoji?",
+      "options": [
+        {
+          "text": "Dubok nivo veoma nestabilnog vlažnog vazduha.",
+          "isCorrect": true
+        },
+        {
+          "text": "Plitak nivo veoma nestabilnog vlažnog vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dubok nivo veoma nestabilnog vlažnog vazduha sa blagim temperaturnim gradijentom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Plitak nivo veoma nestabilnog vazduha sa strmim temperaturnim gradijentom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0109",
+      "question": "Zašto se zamrzavanje smatra opasnim po let vazduhoplova.",
+      "options": [
+        {
+          "text": "Zamrzavanje smanjuje nesmetan protok vazduha po površini krila, pa na taj nacin smanjuje silu uzgona.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zamrzavanje usporava protok vazduha iznad aeroprofila, pa na taj nacin povecava efikasnost kontrolnih površina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zamrzavanje menja osnovni aerodinamicki oblik profila aeroprofila , pa na taj nacin povecava silu uzgona.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0110",
+      "question": "Nizak nivo maglovitog sloja znacajno smanjuje horizontalnu vidljivost prilikom letenja na visini od 2000 ft. Da bi povecali horizontalnu vidljivost neophodno je da?",
+      "options": [
+        {
+          "text": "Letimo na vecoj visini.",
+          "isCorrect": true
+        },
+        {
+          "text": "Letimo na manjoj visini.",
+          "isCorrect": false
+        },
+        {
+          "text": "Letimo na vrhu maglovitog sloja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Upalimo strob svetla i svetla za sletanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0111",
+      "question": "Objavljen vetar na nivou 2000 ft iznad aerodroma je 330/15kt. Koristeci pravilo desnog palca , koja je ocekivana vrednost vetra na površini zemlje?",
+      "options": [
+        {
+          "text": "305/07kt.",
+          "isCorrect": true
+        },
+        {
+          "text": "305/30kt.",
+          "isCorrect": false
+        },
+        {
+          "text": "355/30kt.",
+          "isCorrect": false
+        },
+        {
+          "text": "315/30kt.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0112",
+      "question": "Oblacno je, primeceno je da je granularni tip leda prikupljen i isturen ispred napadne ivice aeroprofila. To je najverovatnije jedan od sledecih tipova leda:",
+      "options": [
+        {
+          "text": "Hrapav-mutan led.",
+          "isCorrect": true
+        },
+        {
+          "text": "Proziran-gladak led.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ledena kiša.",
+          "isCorrect": false
+        },
+        {
+          "text": "Inje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0113",
+      "question": "Oblacnost ce smanjiti dnevnu varijaciju temperature na površini zemlje zbog:",
+      "options": [
+        {
+          "text": "Refleksije dolazece sunceve radijacije od zemljine površine prema atmosferi i refleksije radijacije zemljine površine od oblaka prema sloju zemljine površine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Refleksije dolazece sunceve radijacije od zemljine površine prema atmosferi i refleksije odlazece radijacije zemljine površine ka zemlji.",
+          "isCorrect": false
+        },
+        {
+          "text": "Refleksije dolazece sunceve radijacije zagrejane konvekcijom od zemljine površine prema atmosferi zaustavljajuci",
+          "isCorrect": false
+        },
+        {
+          "text": "se na sloju oblaka.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oblaci zaustavljaju sunceve zrake koji prolaze skroz do zemlje i takode smanjuju odlaznu kondukciju.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0114",
+      "question": "Oblast sa malim gradijentom pritiska izmedu dva centra niskog ili visokog vazdušnog pritiska naziva se:",
+      "options": [
+        {
+          "text": "COL.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dolina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Greben.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sedlo.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0115",
+      "question": "Oblici prozirnog - glatkog leda su rezultat:",
+      "options": [
+        {
+          "text": "Širenja velikih ohladenih kapljica vode prilikom zamrzavanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Izoblicenja ledenih zrnaca na vazduhoplovu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rasipanja malih ohladenih kapljica vode na vazduhoplovu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zaledivanja vodene pare na vazduhoplovu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0116",
+      "question": "Padavina koju prouzrokuje stratus je.",
+      "options": [
+        {
+          "text": "Rosulja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Jaki pljuskovi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jaka kiša.",
+          "isCorrect": false
+        },
+        {
+          "text": "Slabi pljuskovi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0117",
+      "question": "Padavine u obliku pljuskova, padaju iz oblaka tipa:",
+      "options": [
+        {
+          "text": "CB.",
+          "isCorrect": true
+        },
+        {
+          "text": "ST.",
+          "isCorrect": false
+        },
+        {
+          "text": "CI.",
+          "isCorrect": false
+        },
+        {
+          "text": "CU.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0118",
+      "question": "Pilot može ocekivati zonu smicanja vetra pri temperaturnoj inverziji uvek kad je brzina vetra na visini od 2000ft do 4000 ft najmanje.",
+      "options": [
+        {
+          "text": "25 knots.",
+          "isCorrect": true
+        },
+        {
+          "text": "15 knots.",
+          "isCorrect": false
+        },
+        {
+          "text": "10 knots.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0119",
+      "question": "Pilot vazduhoplova približava se planini leteci niz vetar,nekoliko stotina stopa (fita) iznad nivoa grebena,osmatrajuci socivaste oblake. Na koje uslove pilot može naici prilikom nastavka leta?",
+      "options": [
+        {
+          "text": "Jaka nisponska strujanja pre neposrednog prelaska grebena, sa jakim usponskim strujanjem nakon prelaska grebena na uzvetarnoj strani planine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Jaka katabatska vazdušna strujanja na vrhu grebena.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jaka katabatska nisponska strujanja I turbulenciju nakon prelaska preko grebena.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jaka usponska strujanja pre prelaska vrha grebena i jaka nisponska strujanja nakon prelaska vrha grebena.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0120",
+      "question": "Pod kojim uslovima ce gustina vazduha na bilo kom mestu biti najmanja :",
+      "options": [
+        {
+          "text": "Na velikoj visini, velikoj temperaturi i velikoj vlažnosti vazduha.",
+          "isCorrect": true
+        },
+        {
+          "text": "Na maloj visini,velikoj temperaturi i veliko vlažnosti vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na velikoj visini,velikoj temperaturi i maloj vlažnosti vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na maloj visini,maloj temperaturi I maloj vlažnosti vazduha.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0121",
+      "question": "Povratan proces promene stanja iz cvrstog u stanje vodene pare i naziva se :",
+      "options": [
+        {
+          "text": "Sublimacija.",
+          "isCorrect": true
+        },
+        {
+          "text": "Insolacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kondenzacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Isparavanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0122",
+      "question": "Približno koliko iznosi baza kumulusa iznad zemlje, ako je temperatura pri zemlji 27°C, a tacka rose 15°C:",
+      "options": [
+        {
+          "text": "1.500 m.",
+          "isCorrect": true
+        },
+        {
+          "text": "1.000 m.",
+          "isCorrect": false
+        },
+        {
+          "text": "2.000 m.",
+          "isCorrect": false
+        },
+        {
+          "text": "2.700 m.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0001",
+      "question": "100 metara iznad aerodroma:",
+      "options": [
+        {
+          "text": "11°C.",
+          "isCorrect": true
+        },
+        {
+          "text": "-3°C.",
+          "isCorrect": false
+        },
+        {
+          "text": "- 11°C.",
+          "isCorrect": false
+        },
+        {
+          "text": "5°C.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0124",
+      "question": "Prizemni vetrovi na severnoj hemisferi koji duvaju u blizini depresije predstavljeni su na vremenskim kartama u :",
+      "options": [
+        {
+          "text": "Smeru suprotnom od smera kretanja kazaljke na satu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smeru kretanja kazaljke na satu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smeru anticiklona.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smeru kretanja kazaljke na satu ili smeru suprotnom od smera kretanja kazaljke na satu u zavisnosti da li je depresija ciklonska ili anticiklonska.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0125",
+      "question": "Proces promene stanja iz gasovitog u tecno stanje poznat je kao:",
+      "options": [
+        {
+          "text": "Kondenzacija pri cemu se oslobada latentna toplota.",
+          "isCorrect": true
+        },
+        {
+          "text": "Isparavanje pri cemu se apsorbuje latentna toplota.",
+          "isCorrect": false
+        },
+        {
+          "text": "Isparavanje pri cemu se oslobada latentna toplota.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0126",
+      "question": "Prognozirana temperature od 5°C na nadmorskoj visini od 2000 ft na osnovu ICAO ISA može se predstaviti kao:",
+      "options": [
+        {
+          "text": "ISA -6.",
+          "isCorrect": true
+        },
+        {
+          "text": "IAS +6.",
+          "isCorrect": false
+        },
+        {
+          "text": "ISA +5.",
+          "isCorrect": false
+        },
+        {
+          "text": "IAS -6.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0127",
+      "question": "Ravan pritiska koji odgovara najnižem prognoziranom pritisku na MSL je:",
+      "options": [
+        {
+          "text": "Regionalni QNH.",
+          "isCorrect": true
+        },
+        {
+          "text": "QFE.",
+          "isCorrect": false
+        },
+        {
+          "text": "QFF.",
+          "isCorrect": false
+        },
+        {
+          "text": "QNE.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0128",
+      "question": "Rizicne situacije faze zrelosti celije grmljavinske nepogode ukljucuju munje, turbulenciju i:",
+      "options": [
+        {
+          "text": "Zaledivanje, mikroizlive-pijavice(izlivi na donjoj strani) i smicanje vetra.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mikroizlivi,smicanje vetra i pojavu oblaka kumuluskongestus.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zaledivanje, rosulju i mikroizlivi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smicanje vetra,grad i maglu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0129",
+      "question": "Rizicne situacije po vazduhoplov koje su prouzrokovane pojavom kumulonimbusa ili grmljavinskim nepogodama mogu se ocekivati:",
+      "options": [
+        {
+          "text": "Kada je vazduhoplov unutar prostora od 10 nm od oblaka.",
+          "isCorrect": true
+        },
+        {
+          "text": "Samo kada je vazduhoplov unutar oblaka.",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo kada je vazduhoplov unutar ili na donjoj strani oblaka.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kada je vazduhoplov unutar prostora od 5 nm od oblaka.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0130",
+      "question": "Sa kojom pojavom je uslovljeno formiranje advektivne magle?",
+      "options": [
+        {
+          "text": "Topla vlažna vazdušna masa biva ohladena do temperature koja je manja od temperature tacke rose pod uticajem umerenog vetra prilikom kretanja iznad mnogo hladnije površine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hladna vlažna vazdušna masa biva zagrejana do temperature koja je vece temperature tacke rose pod uticajem umerenog vetra prilikom kretanja iznad mnogo toplije površine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Topla vlažna vazdušna masa biva ohladena do temperature koja je manja od temperature tacke rose pod uticajem vrlo laganog vetra prilikom kretanja iznad mnogo hladnije površine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pojava topla vlažne vazdušne masa pod uticajem veoma jakog vetra tokom vedre noci.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0131",
+      "question": "Sloj atmosfere je najbliži zemlji u kojem nastaje najveci deo meteoroloških pojava?",
+      "options": [
+        {
+          "text": "Troposferi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tropopauzi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stratosferi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mezosferi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0132",
+      "question": "Šta ce se dogoditi sa pravcem vetra na površini zemlje nakon prolaza toplog fronta?",
+      "options": [
+        {
+          "text": "Vetar ima smer smeru kretanja kazaljke na satu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smer vetra ostaje nepromenjen.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vetar ima smer u smeru suprotnom od kretanja kazaljke na satu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vetar ima smer u smeru kretanja kazaljke na satu pa nakon toga u smeru suprotnom od kretanja kazaljke na satu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0133",
+      "question": "Šta je ATIS?",
+      "options": [
+        {
+          "text": "Neprekidno emitovanje tekuce aerodromske i vremenske informacije.",
+          "isCorrect": true
+        },
+        {
+          "text": "Meteorološka karta aerodromske i vremenske informacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Neprekidno emitovanje informacije o vremenu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Štampani izveštaj informacije o aerodromu i vremenu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0134",
+      "question": "Šta je glavni razlog cinjenice da voda može da ostane u tecnom stanju pri temperaturi koja je manja od 0°C?",
+      "options": [
+        {
+          "text": "Ne postoje jezgra zamrzavanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ne postoje jezgra kondenzacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Neophodno je dosta vremena da bi se voda ohladila do temperature koja je manja 0°C.",
+          "isCorrect": false
+        },
+        {
+          "text": "Voda je higroskopna ( Voda upija vlagu).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0135",
+      "question": "Šta je od sledecih tvrdenja tacno u vezi najnižeg nivoa smicanja vetra.",
+      "options": [
+        {
+          "text": "Može se javiti 15 do 20 milja ispred brzo nadolazece oluje sa grmljavinom.",
+          "isCorrect": true
+        },
+        {
+          "text": "Retko se pojavljuje na prostoru gde postoji sloj jake temperaturne inverzije blizu zemljine površine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jedino se može naci ispod vrha nakovnja kongestusa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jedino se može naci na granicama jakih nisponskih strujanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0136",
+      "question": "Šta predstavlja oznaka \"CB\" na WAFC vremenskim kartama znacajnog vremena?",
+      "options": [
+        {
+          "text": "Umereno do jako zaledivanje i turbulencija.",
+          "isCorrect": true
+        },
+        {
+          "text": "Umereno zaledivanje i turbulencija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Umereno do jako zaledivanje , turbulencija i grad.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jako zaledivanje , turbulencija i grad.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0137",
+      "question": "Šta predstavlja simbol sa dijagrama na prognostickim kartama? (Pogledajte sliku PPL Meteo-4).",
+      "options": [
+        {
+          "text": "Grmljavinsku nepogodu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Jaku turbulenciju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jako zaledivanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jake planinske talase.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0138",
+      "question": "Šta predstavlja simbol sa dijagrama na prognostickim kartama? (Pogledajte sliku PPL Meteo-6).",
+      "options": [
+        {
+          "text": "Jako zaledivanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Jaku turbulenciju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jake planinske talase.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grmljavinsku nepogodu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0139",
+      "question": "Šta predstavljaju blisko postavljene izobare?",
+      "options": [
+        {
+          "text": "Veliki gradijent pritiska i jake vetrove.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mali gradijent pritiska i slabe vetrove.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mali gradijent pritiska i jake vetrove.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veliki gradijent pritiska i slabe vetrove.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0140",
+      "question": "Šta proracunavamo pomocu sledece formule: (razlika izmedu temperature i tacke rose) x 123 =..?",
+      "options": [
+        {
+          "text": "Bazu kumulusne oblacnosti u metrima.",
+          "isCorrect": true
+        },
+        {
+          "text": "Temperaturu vazduha na visini leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Visinu stratusne oblacnosti u metrima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Relativnu vlažnost.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0141",
+      "question": "Stvarna promena temperature poznata je kao:",
+      "options": [
+        {
+          "text": "ELR(vertikalni temperaturni gradijent okolnog vazduha).",
+          "isCorrect": true
+        },
+        {
+          "text": "DALR(Suvo adijabatski vertikalni temperaturni gradijent).",
+          "isCorrect": false
+        },
+        {
+          "text": "Temperaturna kriva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tepigram.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0142",
+      "question": "Sunce daje _______ kolicinu energije talasima _________ talasnih dužina. Zemlja daje relativno _____kolicinu energije",
+      "options": [
+        {
+          "text": "talasima relativno_______ talasnih dužina.",
+          "isCorrect": true
+        },
+        {
+          "text": "Veliku / Kratkih / Malu / Dugih.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veliku / Dugih / Malu / Kratkih.",
+          "isCorrect": false
+        },
+        {
+          "text": "Malu / Kratkih / Veliku / Dugih.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veliku / Dugih / Malu / Kratkih.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0143",
+      "question": "Svaki fizicki proces koji dovodi do promene vremenskih prilika je pracen, ili je rezultat,.",
+      "options": [
+        {
+          "text": "Razmene toplote.",
+          "isCorrect": true
+        },
+        {
+          "text": "Promene pritiska.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kretanja vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "MET-0144",
+      "question": "Temperatura mokrog termometra bi trebalo da bude manja od temperature suvog termometra :",
+      "options": [
+        {
+          "text": "Jer isparavanje prouzrokuje hladenje mokrog termometra.",
+          "isCorrect": true
+        },
+        {
+          "text": "Jer kondenzacija prouzrokuje oslobadanje latentne toplote.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jer se latentna toplota apsorbuje na staklenoj cevi termometra.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zbog kondenzacije na staklenoj cevi termometra.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

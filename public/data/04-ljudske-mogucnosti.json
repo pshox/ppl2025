@@ -1,0 +1,3355 @@
+{
+  "subject": "Ljudske mogucnosti",
+  "lang": "sr",
+  "version": 1,
+  "questions": [
+    {
+      "id": "HM-0001",
+      "question": "Akomodacija je sposobnost sociva da fokusira svetlosne zrake sa bliskog objekta na foveu:",
+      "options": [
+        {
+          "text": "Akomodaciju kontrolišu:",
+          "isCorrect": true
+        },
+        {
+          "text": "Cilijarni mišici.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dužica.",
+          "isCorrect": false
+        },
+        {
+          "text": "Štapicaste celije i celije u zenici osetljive na svetlost ( cepici).",
+          "isCorrect": false
+        },
+        {
+          "text": "Mrežnjaca.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0002",
+      "question": "Koji system organa distribuira kiseonik u telu?",
+      "options": [
+        {
+          "text": "Krvotok.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nervni system.",
+          "isCorrect": false
+        },
+        {
+          "text": "Respiratorni system.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oksidacijski sistem.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0003",
+      "question": "najbolja prevencija u slucaju da neko ima simptome stroboskopskog efekta je:",
+      "options": [
+        {
+          "text": "Staviti ga u hlad i reci mu da zatvori oci.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ostaviti ga da sedi na suncu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dati neki zadatak da mu skrenemo pažnju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ne preduzimati ništa, jer simptomi traju samo kratko.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0004",
+      "question": "Krv prenosi__________po celom telu i uklanja ___________iz tela uz razmenu koja se obavlja u ___________.",
+      "options": [
+        {
+          "text": "Kiseonik / Ugljen dioksid / kapilarima.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ugljenik / dioksid / venama sa kiseonikom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kiseonik / Ugljen dioksid / arterijama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ugljen dioksid / Kiseonik / kapilarima.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0005",
+      "question": "Ako pilot ima prostornu dezorijentaciju tokom leta gde su smanjeni vidni uslovi, najbolji nacin prevazilaženja ovog stanja je:",
+      "options": [
+        {
+          "text": "Oslanjanje na pokazivanje instrumenata.",
+          "isCorrect": true
+        },
+        {
+          "text": "Koncentrisati se na osecaj za smer,nagib i ugao penjanja (poniranja).",
+          "isCorrect": false
+        },
+        {
+          "text": "Svesno smanjivanje brzine disanja sve dok se simptomi ne nestanu,nakon cega se vraca normalna brzina disanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0006",
+      "question": "Ako kao neiskusan pilot, letite sa nekim ko ima veliko iskustvo I uocite da radi nešto što smatrate opasnim, trebalo bi da:",
+      "options": [
+        {
+          "text": "Odmah ga pitate o tome šta radi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sacekate dok se akcija ili manevar ne završi i onda ga pitate.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ignorišete situaciju jer ocigledno zna šta radi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ne preduzimate ništa u tom trenutku, ali kada sletite provericete ispravnost takve akcije sa svojim instruktorom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0007",
+      "question": "Ako je pilot navikao da leti u relativno zagadenom I zamagljenom vazduhu, onda ce pri letenju na cistom nebu:",
+      "options": [
+        {
+          "text": "Udaljeni objekti ce izgledati bliže nego što zaista jesu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Udaljeni objekti ce izgledati dalje nego što zaista jesu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bliži objekti ce biti pogrešno zamenjeni sa daljim.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bliži objekti mogu izgledati dalje nego što jesu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0008",
+      "question": "Ako avion ubrzava, šta otoliti indikuju mozgu?",
+      "options": [
+        {
+          "text": "Da avion penje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Da avion ponire.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da avion skrece.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da avion penje i skrece.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0009",
+      "question": "Adaptacija na mrak se oštecuje izlaganjem:",
+      "options": [
+        {
+          "text": "Pritisku u kabini na visinama iznad 1500 m(5 000 ft).",
+          "isCorrect": true
+        },
+        {
+          "text": "Ugljen dioksidu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vitaminu A u ishrani.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0010",
+      "question": "\" Greška \" je genericki termin koji opisuje sve situacije kada serije mentalnih ili fizickih aktivnosti ne dovedu do planiranih rezultata.\"Greške \":",
+      "options": [
+        {
+          "text": "Mogu biti izolovane ili kumulativne.",
+          "isCorrect": true
+        },
+        {
+          "text": "Su izolovane bez daljih posledica ili uticaja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su kumulativne, jedna greška vodi do druge , što dovodi do trece itd.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su uvek deo \"lanca grešaka\".",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0011",
+      "question": "Visok krvni pritisak može da se javi zbog?",
+      "options": [
+        {
+          "text": "Svega navedenog.",
+          "isCorrect": true
+        },
+        {
+          "text": "Godina starosti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stresa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pušenja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0012",
+      "question": "U okviru ISA,sa povecanjem visine u Troposferi temperatura se:",
+      "options": [
+        {
+          "text": "Smanjuje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Takode povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ostaje ista.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nece se menjati jer ne zavisi od visine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0013",
+      "question": "U okviru ISA, sa povecanjem visine u Troposferi, pritisak se:",
+      "options": [
+        {
+          "text": "Smanjuje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Takode povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ostaje isti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nece se menjati jer ne zavisi od visine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0014",
+      "question": "U okviru ISA atmosferski pritisak iznosi:",
+      "options": [
+        {
+          "text": "1013.25 mb.",
+          "isCorrect": true
+        },
+        {
+          "text": "1014.00 mb.",
+          "isCorrect": false
+        },
+        {
+          "text": "1014.25 Hpa.",
+          "isCorrect": false
+        },
+        {
+          "text": "50 inch. živinog stuba.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0015",
+      "question": "U ISA, povecanjem visine u Stratosferi, temperatura:",
+      "options": [
+        {
+          "text": "ostaje skoro konstantna na -56 stepena Celzijusa.",
+          "isCorrect": true
+        },
+        {
+          "text": "takode se povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjuje se.",
+          "isCorrect": false
+        },
+        {
+          "text": "varira izmedu pozitivnih i negativnih vrednosti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0016",
+      "question": "Šta je od sledeceg tacno kada pilot sedi visoko u kabini?",
+      "options": [
+        {
+          "text": "Dobar pogled na dole izvan kabine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Loš pregled instrumenata.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ometanje pri pogledu na gore izvan kabine.",
+          "isCorrect": false
+        },
+        {
+          "text": "A), B) i C).",
+          "isCorrect": false
+        },
+        {
+          "text": "A).",
+          "isCorrect": false
+        },
+        {
+          "text": "A) i B).",
+          "isCorrect": false
+        },
+        {
+          "text": "A) i C).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0017",
+      "question": "Ako se atmosferski pritisak smanjuje, parcijalni pritisak kiseonika u atmosferi se:",
+      "options": [
+        {
+          "text": "Smanjuje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ostaje isti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nece menjati jer ne zavisi od atmosferskog pritiska.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0018",
+      "question": "Efekti hipoksije se povecavaju:",
+      "options": [
+        {
+          "text": "Uz sve navedeno.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecanjem nadmorske visine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecanjem temperature.",
+          "isCorrect": false
+        },
+        {
+          "text": "Konzumiranjem alkohola.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0019",
+      "question": "Koji gas, ( telo ga apsorbuje tokom normalnog disanja), igra važnu ulogu u nastanku dekompresionoj bolesti?",
+      "options": [
+        {
+          "text": "Azot.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kiseonik.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ugljen dioksid.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ugljen monoksid.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0020",
+      "question": "Nakon davanja krvi, koliko najmanje vremena pilot ne bi trebalo da leti?",
+      "options": [
+        {
+          "text": "24 sata.",
+          "isCorrect": true
+        },
+        {
+          "text": "2 sata.",
+          "isCorrect": false
+        },
+        {
+          "text": "12 sati.",
+          "isCorrect": false
+        },
+        {
+          "text": "48 sati.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0021",
+      "question": "Da bi se smanjila opasnost od sudara sa drugim avionom, koji može da bude na slepoj mrlji pilota i prilazi pod konstantnim relativnim uglom, pilot bi trebalo da:",
+      "options": [
+        {
+          "text": "Stalno sistematski posmatra.",
+          "isCorrect": true
+        },
+        {
+          "text": "Da menja pravac po nekoliko stepeni na svakih 10 minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da naginje avion na desno na levo po nekoliko stepeni na svakih 10 minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povremeno napravi zaokret.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0022",
+      "question": "Da bi se izbeglo propuštanje važnih koraka, uvek koristite:",
+      "options": [
+        {
+          "text": "Odgovarajucu listu provere.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nalepnice podsetnike.",
+          "isCorrect": false
+        },
+        {
+          "text": "Podatke iz potvrde o plovidbenosti.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0023",
+      "question": "Brzo ili veoma duboko disanje tokom korišcenja kiseonika može dovesti do stanja koje se zove:",
+      "options": [
+        {
+          "text": "Hiperventilacija.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hipoksija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aerotitis.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0024",
+      "question": "Ako vam je eustahijeva tuba blokirana i ne možete da ocistite uši, trebalo bi da:",
+      "options": [
+        {
+          "text": "Prizemljite se dok se stanje koje izaziva blokadu eustahijeve tube ne završi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ocistite nos nazalnim inhalatorom pre leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Letite samo kao putnik.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da nastavite sa letom ali da cesto i jako gutate.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0025",
+      "question": "Hipoksija je rezultat:",
+      "options": [
+        {
+          "text": "Manjka kiseonika u telu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nedovoljnog kiseonika u vazduhu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prekomerne kolicine azota u krvotoku.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0026",
+      "question": "Da bi video jasnu sliku dolazeceg aviona koji je zapažen okom, pilot bi trebalo da:",
+      "options": [
+        {
+          "text": "Gleda direktno na dolazeci avion.",
+          "isCorrect": true
+        },
+        {
+          "text": "Da gleda u jednu stranu dolazeceg aviona.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da zapocne sistematsko skeniranje prostora ispred njega.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da trepne nekoliko puta da bi slika bila jasnija.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0027",
+      "question": "Hemoglobin u eritrocitima se brže vezuje za _________nego za __________.",
+      "options": [
+        {
+          "text": "Ugljen monoksid / Kiseonik.",
+          "isCorrect": true
+        },
+        {
+          "text": "Azot / Kiseonik.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kiseonik / Azot.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ugljen dioksid / Azot.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0028",
+      "question": "Gde se nalazi slepa mrlja?",
+      "options": [
+        {
+          "text": "Na mestu gde opticki živac ulazi u mrežnjacu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Na dužici.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na fovei.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na ivici sociva.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0029",
+      "question": "Frekvenca zvuka koju mlada osoba može da cuje iznosi:",
+      "options": [
+        {
+          "text": "20 - 20,000 ciklusa u sekundi.",
+          "isCorrect": true
+        },
+        {
+          "text": "70 - 15.000 ciklusa u sekundi.",
+          "isCorrect": false
+        },
+        {
+          "text": "80- 20.000 ciklusa u sekundi.",
+          "isCorrect": false
+        },
+        {
+          "text": "500 - 15.000 ciklusa u sekundi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0030",
+      "question": "Dva pilota sede za komandama i oba su kvalifikovana za tip. Na pocetku leta dolazi do otkaza motora. Ko preuzima kontrolu nad avionom?",
+      "options": [
+        {
+          "text": "Pilot koji je u pre leta pripremljen za otkaze, kapetan treba da se složi sa takvom situacijom.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pilot koji sedi na levom sedištu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kapetan.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pilot koji ima više iskustva od njih dvojice.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0031",
+      "question": "Dobri brifing sastanci su veoma važni. Šta može da bude rezultat lošeg brifinga ?",
+      "options": [
+        {
+          "text": "Povecana nesigurnost.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dobar transfer znanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dobro razumevanje informacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjena nesigurnost.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0032",
+      "question": "Do bolesti kretanja dovodi:",
+      "options": [
+        {
+          "text": "Kontinuirana stimulacija malog dela unutrašnjeg uha koja koji kontroliše osecaj ravnoteže.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nestabilnost moždanih celija koja utice na ravnotežu i uglavnom se može prevazici iskustvom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kretanje aviona dovodi do stvaranja kiseline u želucu koja prouzrokuje skupljanje unutrašnjeg zida želuca.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0033",
+      "question": "Dalekovidost je prouzrokovana _______ocnom jabucicom i tretira se ______,",
+      "options": [
+        {
+          "text": "Dok je kratkovidost prouzrokovana ________ ocnom jabucicom i tretira se ________.",
+          "isCorrect": true
+        },
+        {
+          "text": "Skracenom / konveksnim naocarima / produžena / konkavnim naocarima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Produžena / konveksnima naocarima / skracena / konkavnim naocarima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Skracenim / konkavnim naocarima / produžena / konveksnim naocarima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Produžena / konkavnim naocarima / skracena / konveksnim naocarima.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0034",
+      "question": "Dalekovidost i kratkovidost su obicno prouzrokovane:",
+      "options": [
+        {
+          "text": "Nepravilnim oblikom ocne jabucice.",
+          "isCorrect": true
+        },
+        {
+          "text": "Naprezanjem ociju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stresom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nepravilnim nošenjem naocara.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0035",
+      "question": "Da li se savetuje upravljanje avionom pilotima koji su na nekoj terapiji?",
+      "options": [
+        {
+          "text": "Ne, osim ako to ne odobri specijalista vazduhoplovne medicine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Da, ako su u pitanju antibiotici jer oni nemaju neželjene efekte.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da, ukoliko je u pitanju lek koji se dobija bez recepta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ne, ne bi trebalo da lete dok uzimaju bilo koji lek.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0036",
+      "question": "Da li ce prethodno iskustvo uticati na pilota u donošenju odluka ?",
+      "options": [
+        {
+          "text": "Da, prošlo iskustvo može da ima ulogu u odlucivanju.",
+          "isCorrect": true
+        },
+        {
+          "text": "Da, ali samo ako je dobro iskustvo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da, ali samo ako je iskustvo loše.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ne, odluke nisu u vezi sa iskustvom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0037",
+      "question": "Hiperventilacija nastaje zbog:",
+      "options": [
+        {
+          "text": "Manjka ugljen dioksida u telu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Leta na velikim visinama i bez dopunskog kiseonika.",
+          "isCorrect": false
+        },
+        {
+          "text": "Suviše brzo disanje dovodi do nedostatka kiseonika.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0038",
+      "question": "Ko je odgovoran da proceni da li je pilot zdravstveno sposoban za odredeni let, cak iako on ili ona imaju validno lekarsko uverenje:",
+      "options": [
+        {
+          "text": "Pilot.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ovlašceni lekar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kabinsko osoblje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0039",
+      "question": "Kod pilota, dugi letovi tokom visokih letnjih temperatura povecavaju mogucnost za nastanak dehidriranosti obzirom da:",
+      "options": [
+        {
+          "text": "Suvi vazduh na visinama povecava brzinu gubitka vode iz tela.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vlažan vazduh na visinama pomaže da telo zadrži vlagu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Temperatura se smanjuje povecanjem visine.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0040",
+      "question": "Koja izjava je tacna kada je u pitanju prisustvo alkohola u ljudskom telu?",
+      "options": [
+        {
+          "text": "Alkohol doprinosi da pilot bude skloniji stanju hipoksije.",
+          "isCorrect": true
+        },
+        {
+          "text": "Male kolicine alkohola nece ugroziti letacke veštine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kafa pomaže u razgradnji alkohola i olakšava mamurluk.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0041",
+      "question": "Koja izjava u vezi sa hipoksijom je tacna?",
+      "options": [
+        {
+          "text": "Bockanje koje se oseti u koži i lažan osecaj sigurnosti mogu da budu simptomi hipoksije.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hipoksija nastaje usled prisustva mehurica azota u zglobovima i krvotoku.",
+          "isCorrect": false
+        },
+        {
+          "text": "Efekti hipoksije mogu se prevazici ako se nateramo da se fokusiramo na instrumente.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0042",
+      "question": "Iako nije obavezan, dopunski kiseonik se preporucuje kada se leti nocu na visinama iznad:",
+      "options": [
+        {
+          "text": "1,500 m (5,000 ft).",
+          "isCorrect": true
+        },
+        {
+          "text": "3,050 m (10,000 ft).",
+          "isCorrect": false
+        },
+        {
+          "text": "3,800 m (12,500 ft).",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0043",
+      "question": "Iluziju da je avion na vecoj visini nego što zaista jeste stvara:",
+      "options": [
+        {
+          "text": "Teren koji se spušta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Teren koji se penje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Atmosferska zamagljenost.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0044",
+      "question": "Imate prehladu, nos i sinusi su zapušeni i na rasporedu ste za letenje. Trebalo bi:",
+      "options": [
+        {
+          "text": "Da uopšte ne letite.",
+          "isCorrect": true
+        },
+        {
+          "text": "Da uzmete lek pola sata pre leta koji ce osloboditi disajne puteve.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da letite kao da ste zdravi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da letite, ali da vodite racuna o uzletanju i sletanju pri malim brzinama.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0045",
+      "question": "Jacina zvuka se meri:",
+      "options": [
+        {
+          "text": "Decibelima.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hercima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Paskalima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ciklusima u sekundi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0046",
+      "question": "Jedan od nacina za povecanje efektivnosti nocnog vida je:",
+      "options": [
+        {
+          "text": "Forsirati gledanje izvan centra oka.",
+          "isCorrect": true
+        },
+        {
+          "text": "Direktno gledanje u objekte.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecati intenzitet unutrašnjeg osvetljenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0047",
+      "question": "Kada je osoba pod stresom ili uplašena, adrenalin koji se oslobada u krvotoku automatski dovodi do:",
+      "options": [
+        {
+          "text": "Povecanja pulsa.",
+          "isCorrect": true
+        },
+        {
+          "text": "Umora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gubitka svesti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjenja pulsa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0048",
+      "question": "Kada leti sam, pilot koji sumnja da ima simptome prostorne dezorijentacije bi trebalo da:",
+      "options": [
+        {
+          "text": "Veruje pokazateljima na instrumentima.",
+          "isCorrect": true
+        },
+        {
+          "text": "Trepne brzo nekoliko puta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jako proguta, zatvori nozdrve i izduvava vazduh kroz nos da bi Eustahijeva tuba bila prohodna.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veruje svojim culima.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0049",
+      "question": "Kako pušenje utice na pilota ?",
+      "options": [
+        {
+          "text": "Povecava toplotu tela koja zbog toga stvara vecu potrebu za kiseonikom.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smanjuje nocni vid za 50 procenata.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stvara dodatni ugljen dioksid u telu što obicno dovodi do hiperventilacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0050",
+      "question": "Kao kapetan aviona, trebalo bi da pokažete dobre veštine u vodstvu. Koja od ponudenih nije takva veština?",
+      "options": [
+        {
+          "text": "Agresivno istupanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Planiranje unapred.",
+          "isCorrect": false
+        },
+        {
+          "text": "Održavanje dobre svesnosti situacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Delegiranje zadataka.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0051",
+      "question": "Koja je svrha Eustahijeve tube?",
+      "options": [
+        {
+          "text": "Da dozvoli izjednacenje okolnog pritiska sa obe strane bubne opne.",
+          "isCorrect": true
+        },
+        {
+          "text": "Da sprovede zvucne talase preko srednjeg uha do slušnog živca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da dozvoli okolnom pritisku da se izjednaci sa strane bubne opne koja pripada srednjem uhu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da dozvoli okolnom pritisku da se izjednaci sa obeju strana vestibularnog aparata.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0052",
+      "question": "Koja je to stvar koju pilot zapostavlja u situaciji kada se oslanja na kratkorocnu ili dugorocnu memoriju?",
+      "options": [
+        {
+          "text": "Lista provere.",
+          "isCorrect": true
+        },
+        {
+          "text": "Svesnost situacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Letenje izvan envelope.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0053",
+      "question": "Koja od sledecih karakteristika se odlicno komunicira I posebno je opasna tokom leta ?",
+      "options": [
+        {
+          "text": "Arogantnost I agresivnost.",
+          "isCorrect": true
+        },
+        {
+          "text": "razvijen osecaj za vodstvo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Poštovanje mišljenja drugih.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sve navedeno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0054",
+      "question": "Koja recenica definiše hipoksiju:",
+      "options": [
+        {
+          "text": "Stanje nedostatka kiseonika u telu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Abnormalno povecanje volumena udahnutog vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stanje u kojem se formiraju mehurici gasa oko zglobova i mišica.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0055",
+      "question": "Koje je najvažnije culo za prostornu orjentaciju ?",
+      "options": [
+        {
+          "text": "Vid.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sluh i ravnoteža.",
+          "isCorrect": false
+        },
+        {
+          "text": "\"Seat of the pants\" ( donositi odluke o svemu tokom samog leta I koristiti sopstvenu percepciju umesto prethodnog planiranja ili tehnickih uredaj.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sva cula igraju važnu ulogu u situacionoj svesnosti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0056",
+      "question": "Koliko jedinica sadržaja ima kratkorocna memorija i koliko dugo ih cuva?",
+      "options": [
+        {
+          "text": "7 jedinica, 10 do 20 sekundi.",
+          "isCorrect": true
+        },
+        {
+          "text": "4 jedinice, 15 sekundi.",
+          "isCorrect": false
+        },
+        {
+          "text": "15 jedinica, 1-5 minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "7 jedinica, 5 -10 minuta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0057",
+      "question": "Koje pripreme su potrebne pilotu da bi adaptirao oci na nocno letenje?",
+      "options": [
+        {
+          "text": "Izbegavanje belog svetla bar 30 minuta pre leta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nošenje naocara za sunce sve dok ne bude spreman za let.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izbegavanje crvenog svetla bar 30 minuta pre leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0058",
+      "question": "Koji deo nervnog sistema obicno kontroliše disanje?",
+      "options": [
+        {
+          "text": "Autonomni nervni system.",
+          "isCorrect": true
+        },
+        {
+          "text": "Centralni nervni system.",
+          "isCorrect": false
+        },
+        {
+          "text": "Periferni nervni system.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sve navedeno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0059",
+      "question": "Koji deo oka je zadužen za periferni vid I osetljiv na niske nivoe svetlosti ?",
+      "options": [
+        {
+          "text": "Celije štapici.",
+          "isCorrect": true
+        },
+        {
+          "text": "Celije u zenici osetljive na svetlost(cepici).",
+          "isCorrect": false
+        },
+        {
+          "text": "Fovea ( ulegnuce na zenici ).",
+          "isCorrect": false
+        },
+        {
+          "text": "Mrežnjaca.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0060",
+      "question": "Koji efekat ima zamagljenost na sposobnost uocavanja saobracaja ili strukturu terena tokom noci?",
+      "options": [
+        {
+          "text": "Sav saobracaj ili struktura terena izgledaju dalje nego što zaista jesu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zamagljenost dovodi do fokusiranja ociju na beskonacan prostor.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tokom zamagljenosti, oci se preopterete i onda ne detektuju lako relativne pokrete.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0061",
+      "question": "Koji je najefektivniji nacin gledanja tokom nocnog leta?",
+      "options": [
+        {
+          "text": "Polako skretati pogled da bi se omogucilo gledanje izvan centra oka.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gledati samo daleko, ka nejasnom svetlu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Koncentrisati se direktno na svaki objekat na nekoliko sekundi.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0062",
+      "question": "Koji od sledecih gasova, u zavisnosti od nivoa u krvi, reguliše brzinu i dubinu disanja ?",
+      "options": [
+        {
+          "text": "Ugljen dioksid.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kiseonik.",
+          "isCorrect": false
+        },
+        {
+          "text": "Azot.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ugljen monoksid.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0063",
+      "question": "Koji od sledecih nacina pomaže da se izbegne stres u kabini pilota ?",
+      "options": [
+        {
+          "text": "Ne dozvolite sebi prebrzo reagovanje pre nego što ste spremni.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uvek držati pored sebe hladno pice.",
+          "isCorrect": false
+        },
+        {
+          "text": "Modifikovanje vašeg plana pre leta kad god osetite da ste skrenuli sa puta ili kasnite.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sve navedeno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0064",
+      "question": "Koji od sledecih organa ucestvuje u snabdevanju najpouzdanijeg izvora senzornih informacija?",
+      "options": [
+        {
+          "text": "Oko.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uho.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nos.",
+          "isCorrect": false
+        },
+        {
+          "text": "Neokorteks.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0065",
+      "question": "Koji od sledecih termina se generalno koristi da opiše vrstu ili vrste memorije u okviru predmeta Ljudske sposobnosti I ogranicenja?",
+      "options": [
+        {
+          "text": "Dugorocna memorija.",
+          "isCorrect": true
+        },
+        {
+          "text": "Senzitivna memorija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vrlo srecna secanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sve navedeno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0066",
+      "question": "Koji organ kontroliše sve ostale telesne funkcije?",
+      "options": [
+        {
+          "text": "Mozak.",
+          "isCorrect": true
+        },
+        {
+          "text": "Srce.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pluca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kicmena moždina.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0067",
+      "question": "Koji savet biste dali pilotu koji ima simptome bolesti kretanja?",
+      "options": [
+        {
+          "text": "Da izbegavaju nepotrebne pokrete glave i da usmere pogled na neku tacku izvan aviona.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uzimanje lekova koji sprecavaju bolest kretanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spustiti glavu, zatvoriti oci i duboko udahnuti nekoliko puta.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0068",
+      "question": "Kolicinu svetlosti koja ulazi u oko kontroliše:",
+      "options": [
+        {
+          "text": "Dužica.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rožnjaca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sociva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zenica.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0069",
+      "question": "Koliko dugo ne bi trebalo da leti pilot nakon dobijenog lokalnog anestetika?",
+      "options": [
+        {
+          "text": "12 sati.",
+          "isCorrect": true
+        },
+        {
+          "text": "2 sata.",
+          "isCorrect": false
+        },
+        {
+          "text": "24 sata.",
+          "isCorrect": false
+        },
+        {
+          "text": "48 sati.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0070",
+      "question": "Koliko vremena je otprilike potrebno da iz krvotoka išcezne jedna jedinica alkohola?",
+      "options": [
+        {
+          "text": "Jedan sat.",
+          "isCorrect": true
+        },
+        {
+          "text": "30 minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "2 sata.",
+          "isCorrect": false
+        },
+        {
+          "text": "12 sati.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0071",
+      "question": "Konstantno pridržavanje odobrene liste provere je znak:",
+      "options": [
+        {
+          "text": "Disciplinovanog i kompetentnog pilota.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pilota koji nema potrebno znanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pilota sa malim naletom] 7151-L14.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0072",
+      "question": "Maksimalni preporuceni nivoi konzumiranja alkohola sedmicno su _________ za muškarce i ________za žene. (1 jedinica",
+      "options": [
+        {
+          "text": "10 ml alkoholnog pica ).",
+          "isCorrect": true
+        },
+        {
+          "text": "21 jedinica / 14 jedinica.",
+          "isCorrect": false
+        },
+        {
+          "text": "14 jedinica / 21 jedinica.",
+          "isCorrect": false
+        },
+        {
+          "text": "3 jedinice / 7 jedinica.",
+          "isCorrect": false
+        },
+        {
+          "text": "7 jedinica / 3 jedinice.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0073",
+      "question": "Menadžment rizika, ako deo proces donošenja odluka u vazduhoplovstvu, u cilju redukovanja rizika koji donosi svaki pojedinacni let oslanja se na:",
+      "options": [
+        {
+          "text": "Svesnost situacije, prepoznavanje problema i dobro rasudivanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Primenu menadžmenta stresa i procedura rizicnih elemenata.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mentalni proces analiziranja svih informacija u odredenoj situaciji i donošenje odluka u tom trenutku o akcijama koje bi trebalo primeniti.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0074",
+      "question": "Mentalna preopterecenost najcešce:",
+      "options": [
+        {
+          "text": "Vodi ka degradiranom izvodenju.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vodi ka boljem izvodenju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nema efekta na izvodenje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prouzrokuje promene u brzini I tacnosti izvodenja koje varira od pojedinaca do pojedinca.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0075",
+      "question": "Miopija praznog prostora je stanje u kojem se oko prirodno fokusira na distanci od otprilike:",
+      "options": [
+        {
+          "text": "1-2 metra.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bezgranicno.",
+          "isCorrect": false
+        },
+        {
+          "text": "20- 500 metara.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na horizont.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0076",
+      "question": "Moždane celije, usled nedostatka kiseonika, pocinju da odumiru za:",
+      "options": [
+        {
+          "text": "2 minuta.",
+          "isCorrect": true
+        },
+        {
+          "text": "2 sekunde.",
+          "isCorrect": false
+        },
+        {
+          "text": "30 minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "2 sata.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0077",
+      "question": "Na nadmorskoj visini, zapreminska proporcija kiseonika u atmosferi je:",
+      "options": [
+        {
+          "text": "Ista kao na srednjem nivou mora.",
+          "isCorrect": true
+        },
+        {
+          "text": "Viša u odnosu na srednji nivo mora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Niža u odnosu na srednji nivo mora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zavisi od konkretne nadmorske visine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0078",
+      "question": "Na nekoj nadmorskoj visini, pritisak kiseonika u atmosferi je:",
+      "options": [
+        {
+          "text": "Niži u odnosu na srednji nivo mora.",
+          "isCorrect": true
+        },
+        {
+          "text": "Isti kao na srednjem nivou mora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Viši u odnosu na srednji nivo mora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bez promena jer parcijalni pritisak ne zavisi od nadmorske visine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0079",
+      "question": "Na sposobnost pilota da se odupre silama umerene jacine može da utice:",
+      "options": [
+        {
+          "text": "Umor pilota.",
+          "isCorrect": true
+        },
+        {
+          "text": "Maksimalno opterecenje aviona.",
+          "isCorrect": false
+        },
+        {
+          "text": "Slabljenje sluha kod starijih osoba.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sve navedeno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0080",
+      "question": "Na šta bi pilot prvo trebalo da se osloni ukoliko postane dezorijentisan u Vizuelnim meteorološkim uslovima?",
+      "options": [
+        {
+          "text": "Culo vida.",
+          "isCorrect": true
+        },
+        {
+          "text": "Okretanje glave kako bi se opravio od dezorijentacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Culo ravnoteže.",
+          "isCorrect": false
+        },
+        {
+          "text": "Instrumente aviona.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0081",
+      "question": "Najbolje vreme da pilot putnicima da informaciju o proceduri u slucaju opasnosti je:",
+      "options": [
+        {
+          "text": "Za vreme informacija o merama bezbednosti.",
+          "isCorrect": true
+        },
+        {
+          "text": "U trenutku kad se pojavi bilo koja opasnost ; nije potrebno brinuti pre toga.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dok se ceka poletanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Neposredno nakon poletanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0082",
+      "question": "Najbolji metod u traženju nekog drugog saobracaja nocu je.",
+      "options": [
+        {
+          "text": "Gledati u stranu objekta i polako pretraživati.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pretraživati vidno polje veoma brzo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gledati u stranu objekta i brzo pretraživati.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0083",
+      "question": "Najcešci faktor koji utice na vecinu nesreca koje je mogu spreciti:",
+      "options": [
+        {
+          "text": "Ljudska greška.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mehanicka neispravnost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lom strukture.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0084",
+      "question": "Najcešci simptom ili simptomi hipoksije mogu biti:",
+      "options": [
+        {
+          "text": "Ubrzan rad srca.",
+          "isCorrect": true
+        },
+        {
+          "text": "Cijanoza.",
+          "isCorrect": false
+        },
+        {
+          "text": "Osecaj mravinjanja u koži.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sve navedeno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0085",
+      "question": "Od ponudenih opcija izaberite tacan redosled razlicitih faza procesa rezonovanja:",
+      "options": [
+        {
+          "text": "Detekcija, Percepcija, odlucivanje, akcija, povratna informacija.",
+          "isCorrect": true
+        },
+        {
+          "text": "Percepcija, akcija, povratna informacija, detekcija, odlucivanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Detekcija, povratna informacija, odlucivanje akcija, percepcija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Detekcija, percepcija, odlucivanje, povratna informacija, akcija.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0086",
+      "question": "Opasnost od prostorne dezorijentacije tokom leta u pri slaboj vidljivosti može se redukovati:",
+      "options": [
+        {
+          "text": "Verovanjem instrumentima pre nego verovanjem culnim organima.",
+          "isCorrect": true
+        },
+        {
+          "text": "Brzim skretanjem pogleda sa spoljašnjeg vidnog polja na instrument tablu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Naginjanjem tela u smeru suprotnom od kretanja aviona.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0087",
+      "question": "Osoba ne može biti clan posade aviona civilnog saobracaja ukoliko je konzumirala alkohol.",
+      "options": [
+        {
+          "text": "8 sati pre leta.",
+          "isCorrect": true
+        },
+        {
+          "text": "12 sati pre leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "24 sati pre leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0088",
+      "question": "Pilot bi trebalo da prevazide simptome ili da izbegne kasnija javljanja hiperventilacije ?",
+      "options": [
+        {
+          "text": "Usporavanjem brzine disanja, disanjem u kesu ili glasnim govorom.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pažljivim posmatranjem instrumenata kako bi kontrolisao avion.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecanjem brzine disanja da bi se povecala ventilacija pluca.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0089",
+      "question": "Piloti je skloniji prostornoj dezorijentaciji ukoliko se :",
+      "options": [
+        {
+          "text": "Koriste telesni signali da bi se protumacila visina na kojoj se leti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ignorišu informacije koje stižu iz mišica i srednjeg uha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cesto prebacuje pogled sa instrumenta na instrument.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0090",
+      "question": "Piloti sa izuzetnom prekomernom težinom su skloniji jednom od sledecih stanja ?",
+      "options": [
+        {
+          "text": "Infarktu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hipoksiji na vecim visinama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hipotermiji.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sve navedeno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0091",
+      "question": "Planirali ste da vodite nekoliko prijatelja na rekreativni let. Na dan letenja, meteorološki uslovi su prilicno loši I duva jak vetar na pisti. Kao neko ko je kompetentan u proceni rizika, šta cete odluciti?",
+      "options": [
+        {
+          "text": "Odložiti let za drugi put, i razocarati svoje prijatelje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Poleteti po planu, i uvek istrajati na planu let ako je to moguce.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nastaviti sa letom i iskoristiti priliku za uvežbavanje letenja u lošim meteo uslovima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pitati prijatelje da li su spremni leteti u trenutnim uslovima,ne procenjujuci svoje mogucnosti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0092",
+      "question": "Pogrešna percepcija koju karakteriše iskrivljenost realnog culnog stimulusa poznata je kao:",
+      "options": [
+        {
+          "text": "Halucinacija.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sanjarenje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Opticka varka.",
+          "isCorrect": false
+        },
+        {
+          "text": "Reakcija na dosadu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0093",
+      "question": "Pogubni stavovi se javljaju kod svih pilota u odredenoj meri i u nekim momentima.",
+      "options": [
+        {
+          "text": "Koji od sledecih navedenih su takvi stavovi:",
+          "isCorrect": true
+        },
+        {
+          "text": "Stav protiv autoriteta, impulsivnost, maco stav, pomirenje sa sudbinom ( rezignacija ) i neranjivost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Loš menadžment rizika i nedostatak menadžmenta stresa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Loša svesnost situacije, naglo osudivanje i nedostatak procesa donošenja odluka.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0094",
+      "question": "Ponavljanje informacije nekoliko puta prebacuje je u dugorocno pamcenje i to se naziva:",
+      "options": [
+        {
+          "text": "Vežbanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Indukcija memorije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Podsticanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kratkorocna memorija.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0095",
+      "question": "Poveli ste prijatelja na let i nalazite se na visini od 6000ft. Vaš putnik pocinje da oseca vrtoglavicu, osecaj bockanja u koži, ima poremecaj vida i na kraju gubi svest. Vaš putnik verovatno ima:",
+      "options": [
+        {
+          "text": "Hiperventilaciju.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hipoksiju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trovanje hranom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Anginu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0096",
+      "question": "Pravilan proces od tri koraka u prenosu kontrole u letenju medu pilotima ukljucuje sledece reci:",
+      "options": [
+        {
+          "text": "(a)Tvoje komande,",
+          "isCorrect": true
+        },
+        {
+          "text": "Moje komande, i",
+          "isCorrect": false
+        },
+        {
+          "text": "(c)____________.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tvoje komande.",
+          "isCorrect": false
+        },
+        {
+          "text": "Moj avion.",
+          "isCorrect": false
+        },
+        {
+          "text": "Moje komande.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0097",
+      "question": "Pravilna tehnika osmatranja vazdušnog prostora levo i desno od nosa aviona je:?",
+      "options": [
+        {
+          "text": "Sistematski se fokusirati nakratko u razlicitim smerovima.",
+          "isCorrect": true
+        },
+        {
+          "text": "Stalno prebacivati pogled od vetrobranskog stakla levo i desno..",
+          "isCorrect": false
+        },
+        {
+          "text": "Koncentrisati se na relativno kretanje koje vidimo perifernim delom oka.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0098",
+      "question": "Pre nego što se zapocne svaki manevar, svaki pilot bi trebalo da:",
+      "options": [
+        {
+          "text": "Vizuelno osmotri celu oblast da bi se izbegao sudar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Proveri visinu, brzinu i kurs.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obavestiti o namerama najbližu kontrolu letenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0099",
+      "question": "Presbiakuzija je oštecenje sluha usled:",
+      "options": [
+        {
+          "text": "Godina starosti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oštecenja kohleje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oštecenje polukružnih kanala.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pušenja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0100",
+      "question": "Sklonost ka trovanju ugljen monoksidom se povecava:",
+      "options": [
+        {
+          "text": "Porastom nadmorske visine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smanjenjem nadmorske visine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecanjem vazdušnog pritiska.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0101",
+      "question": "Slepilo za boje ili preciznije receno poremecaj kolornog vida je prouzrokovan:",
+      "options": [
+        {
+          "text": "Defektom u strukturi celija osetljivih na boje koje se nalaze u mrežnjaci.",
+          "isCorrect": true
+        },
+        {
+          "text": "Defektom u tkivu ocnog sociva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Defektnim funkcionisanjem cilijarnih mišica.",
+          "isCorrect": false
+        },
+        {
+          "text": "Skracenom ocnom jabucicom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0102",
+      "question": "Spoljašnje, srednje I unutrašnje uho su ispunjeni:",
+      "options": [
+        {
+          "text": "Vazduhom, vazduhom, tecnošcu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vazduhom, tecnošcu, tecnošcu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tecnošcu, vazduhom, vazduhom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tecnošcu, tecnošcu, vazduhom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0103",
+      "question": "Sposobnost akomodacije oka:",
+      "options": [
+        {
+          "text": "Smanjuje se onda kad se smanjuje i elasticnost sociva.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecava se onda kad se smanjuje elasticnost sociva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ne zavisi od elasticnosti sociva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nema nikakve veze sa socivom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0104",
+      "question": "Spremate se za trening let sa instruktorom i ne možete da nadete listu za proveru. Trebalo bi da:",
+      "options": [
+        {
+          "text": "Odvojite vreme kako biste pronašli listu cak I po cenu da propustite vreme poletanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Izvršite provere na osnovu secanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Iskoristite listu za proveru za drugi tip aviona.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oslonite na instruktora da ce uraditi sve što ste možda propustili.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0105",
+      "question": "Šta izaziva konduktivnu nagluvost:",
+      "options": [
+        {
+          "text": "Oštecenje slušnih košcica ili bubne opne.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oštecenje spoljašnjeg uha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oštecenje ušne školjke.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oštecenje srednjeg uha.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0106",
+      "question": "Šta najcešce dovodi do hiperventilacije?",
+      "options": [
+        {
+          "text": "Emotivna napetost, strah.",
+          "isCorrect": true
+        },
+        {
+          "text": "Prekomerno konzumiranje alkohola.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekstremno sporo disanje i nedovoljna kolicina kiseonika.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0107",
+      "question": "Šta od navedenog dovodi do gubitka svesti?",
+      "options": [
+        {
+          "text": "Iznenadni šok.",
+          "isCorrect": true
+        },
+        {
+          "text": "Veoma brzi pokreti oka.",
+          "isCorrect": false
+        },
+        {
+          "text": "Suviše detaljan plan leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sve navedeno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0108",
+      "question": "Šta od sledeceg daje iluziju da je vazduhoplov niži u prilazu?",
+      "options": [
+        {
+          "text": "Pista koja se spušta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pista koja se penje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Svetliji aerodrom u tamnoj pozadini.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uža pista od normalne.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0109",
+      "question": "Šta podrazumeva gubitak sluha prouzrokovan bukom?",
+      "options": [
+        {
+          "text": "Gubitak sluha usled oštecenja kohleje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gubitak sluha usled oštecenja slušnih košcica.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gubitak sluha usled oštecenja vestibularnog aparata.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gubitak sluha usled oštecenja srednjeg uha.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0110",
+      "question": "Šta pomaže u situaciji kada pilot ima poguban impulsivan stav ?",
+      "options": [
+        {
+          "text": "Ne tako brzo, prvo razmisli.",
+          "isCorrect": true
+        },
+        {
+          "text": "To se može i meni desiti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Završi sa tim što pre.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0111",
+      "question": "Šta pomaže u situaciji kada pilot ima poguban stav „ protiv autoriteta\" ?",
+      "options": [
+        {
+          "text": "Poštovati pravila.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pravila se ne primenjuju u ovoj situaciji.",
+          "isCorrect": false
+        },
+        {
+          "text": "Znam šta radim.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0112",
+      "question": "Šta pomaže u situaciji kada pilot ima poguban stav „neranjivosti\" ?",
+      "options": [
+        {
+          "text": "To se može i meni desti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ne može biti tako loše.",
+          "isCorrect": false
+        },
+        {
+          "text": "To se meni nece desiti.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0113",
+      "question": "Šta se javlja pri penjanju na visinu iznad 18 000 ft u avionu bez pritiska vazduha i bez dopunskog kiseonika ?",
+      "options": [
+        {
+          "text": "Pritisak kiseonika u plucima ne može se održati bez povecanja pritiska udahnutog kiseonika.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gasovi zarobljeni u telu se skupljaju i sprecavaju azot da prede u krvotok.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pritisak u srednjem uhu postaje manji od atmosferskog pritiska u kabini.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0114",
+      "question": "Šta se preporucuje u cilju sprecavanja ili prevazilaženja prostorne dezorijentacije:",
+      "options": [
+        {
+          "text": "U potpunosti se osloniti na pokazatelje instrumenata leta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Izbegavati brze okrete i grube pokrete komandama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Redukovati pokrete glave i ociju što je moguce više.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0115",
+      "question": "Šta su stres faktori ili stresori?",
+      "options": [
+        {
+          "text": "Dogadaji i okolnosti koji dovode do stresa.",
+          "isCorrect": true
+        },
+        {
+          "text": "Induktori brzine pulsa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Okolnosti I dogadaji koji provociraju bilo koju vrstu reakcije na potrebe ljudskog organizma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mere stresa koje ispoljava pojedinac.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0116",
+      "question": "Šta uvek negativno utice na sposobnost za letenje?",
+      "options": [
+        {
+          "text": "Analgetici i antihistaminici, dobijeni na recept.",
+          "isCorrect": true
+        },
+        {
+          "text": "Analgetici i antihistaminici, dobijeni bez recepta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Antibiotici i anestetici.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0117",
+      "question": "Stanje prolazne konfuzije koje nastaje kada razliciti culni organi šalju pogrešne informacije mozgu zove se:",
+      "options": [
+        {
+          "text": "Prostorna dezorijentacija.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hiperventilacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hipoksija.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0118",
+      "question": "Stanje u kojem telo nema dovoljno kiseonika da bi normalno funkcionisalo zove se:",
+      "options": [
+        {
+          "text": "Hipoksija.",
+          "isCorrect": true
+        },
+        {
+          "text": "Hipotenzija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hiperventilacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Hiperglikemija.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0119",
+      "question": "Tokom penjanja na visinu od 18 000 ft, procenat kiseonika u atmosferi se:",
+      "options": [
+        {
+          "text": "Ostaje isti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjuje.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0120",
+      "question": "U avionima u kojima vazduh nije pod pritiskom, na velikim visinama kolicina kiseonika koja prolazi membrane pluca u krv je:",
+      "options": [
+        {
+          "text": "Smanjena zbog niskog parcijalnog pritiska kiseonika.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smanjena zbog nižih temperatura.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nepromenjena u odnosu na vrednost na nivou mora.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0121",
+      "question": "U kojem delu oka je vizuelna oštrina najveca?",
+      "options": [
+        {
+          "text": "Fovea (ulegnuce na zenici ).",
+          "isCorrect": true
+        },
+        {
+          "text": "Mrežnjaca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zenica.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rožnjaca.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0122",
+      "question": "U kojem delu srca kontrakcijama nastaje puls?",
+      "options": [
+        {
+          "text": "Levoj komori.",
+          "isCorrect": true
+        },
+        {
+          "text": "Levoj pretkomori.",
+          "isCorrect": false
+        },
+        {
+          "text": "Desnoj komori.",
+          "isCorrect": false
+        },
+        {
+          "text": "Desnoj pretkomori.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0123",
+      "question": "U koji situacijama se kod pilota javljaju \" leans\" ( oblik prostorne dezorijentacije pri uglovnom skretanju)?",
+      "options": [
+        {
+          "text": "U svim uslovima leta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tokom uzletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pri sletanju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pri uzletanju sletanju.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0124",
+      "question": "U okviru ISA ( International Standard Atmosphere) povecanjem visine u troposferi, gustina vazduha se:",
+      "options": [
+        {
+          "text": "Smanjuje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Takode povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ostaje ista.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nece se menjati jer gustina vazduha ne zavisi od visine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0125",
+      "question": "U poredenju sa nepušacima, pušaci mogu da osete uticaj hipoksije na:",
+      "options": [
+        {
+          "text": "Manjoj nadmorskoj visini.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vecoj nadmorskoj visini.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na istoj nadmorskoj visini.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na bilo kojoj nadmorskoj visini.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0126",
+      "question": "U poredenju sa vizuelnim stimulansima, slušni stimulansi ( zvukovi):",
+      "options": [
+        {
+          "text": "Više privlace pažnju i na njih se cešce može pogrešno odgovoriti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Manje privlace pažnju i na njih se rede može pogrešno odgovoriti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manje privlace pažnju i na njih se cešce može pogrešno odgovoriti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Više privlace pažnju i na njih se rede može pogrešno odgovoriti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0127",
+      "question": "U prikazu koje vrste podataka analogni displej je bolji od digitalnog?",
+      "options": [
+        {
+          "text": "Kvalitativnih.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kvantitativnih.",
+          "isCorrect": false
+        },
+        {
+          "text": "Numerickih.",
+          "isCorrect": false
+        },
+        {
+          "text": "Subjektivnih.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0128",
+      "question": "U procesu donošenja odluka u vazduhoplovstvu, koji je prvi korak u neutralisanju pogubnih stavova?",
+      "options": [
+        {
+          "text": "Prepoznavanje pogubnih misli.",
+          "isCorrect": true
+        },
+        {
+          "text": "Racionalno rasudivanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Priznavanje neozledivosti situacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0129",
+      "question": "Ugljen monoksid u kabini aviona je:",
+      "options": [
+        {
+          "text": "Teško prepoznatljiv zbog toga što je bez mirisa i boje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lako prepoznatljiv zbog specificnog mirisa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lako prepoznatljiv zbog specificne boje.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0130",
+      "question": "Ukoliko bi nakon ronjenja, koje je zahtevalo kontrolisani izlazak na površinu, osoba trebalo da leti na visini do 2400m(",
+      "options": [
+        {
+          "text": "8000 ft), preporuceno vreme koje bi trebalo da prode pre tog leta je bar:",
+          "isCorrect": true
+        },
+        {
+          "text": "24 sata.",
+          "isCorrect": false
+        },
+        {
+          "text": "4 sata.",
+          "isCorrect": false
+        },
+        {
+          "text": "12 sati.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0131",
+      "question": "Ukoliko bi nakon ronjenja, koje nije zahtevalo kontrolisani izlazak na površinu, osoba trebalo da leti na visini do 2400m(",
+      "options": [
+        {
+          "text": "8000 ft), preporuceno vreme koje bi trebalo da prode pre tog leta je bar:",
+          "isCorrect": true
+        },
+        {
+          "text": "4 sata.",
+          "isCorrect": false
+        },
+        {
+          "text": "12 sati.",
+          "isCorrect": false
+        },
+        {
+          "text": "24 sata.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0132",
+      "question": "Ukoliko je neophodan savet u vezi sa mogucim letenjem tokom bolesti, pilot bi trebalo da kontaktira;.",
+      "options": [
+        {
+          "text": "Ovlašcenog lekara.",
+          "isCorrect": true
+        },
+        {
+          "text": "Svog porodicnog lekara.",
+          "isCorrect": false
+        },
+        {
+          "text": "Najbližu bolnicu.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0133",
+      "question": "Ukoliko pacijent postane dezorijentisan u instrumentalnim meteorološkim uslovima, na šta bi prvo trebalo da se osloni?",
+      "options": [
+        {
+          "text": "Instrumente aviona.",
+          "isCorrect": true
+        },
+        {
+          "text": "Njegovo culo vida.",
+          "isCorrect": false
+        },
+        {
+          "text": "Okretanje glave kako bi se oporavio od dezorijentacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ravnotežu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0134",
+      "question": "Ukoliko se pilot približava pisti koja je veca od njegove maticne, kakva ce biti njegova percepcije te piste ?",
+      "options": [
+        {
+          "text": "Izgledace bliža nego što jeste.",
+          "isCorrect": true
+        },
+        {
+          "text": "Izgledace dalja nego što jeste.",
+          "isCorrect": false
+        },
+        {
+          "text": "Razdaljine ce se lako procenjivati.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trebalo bi da se koristi drugaciji pristup.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0135",
+      "question": "Vazduh u atmosferi cine:",
+      "options": [
+        {
+          "text": "Azot (78%),kiseonik (21%), ugljen dioksid (0.03%) i argon (1%).",
+          "isCorrect": true
+        },
+        {
+          "text": "Azot (78%), kiseonik (21%), ugljen dioksid (0.03%) i vodonik (1%).",
+          "isCorrect": false
+        },
+        {
+          "text": "Azot (1%), kiseonik (78%), ugljen dioksid (21%) i argon (0.03%).",
+          "isCorrect": false
+        },
+        {
+          "text": "Azot(21%), kiseonik(0.03%), ugljen dioksid (78%) i argon(1%).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0136",
+      "question": "Velike koncentracije ugljen monoksida u ljudskom telu dovode do:",
+      "options": [
+        {
+          "text": "Gubitka snage mišica.",
+          "isCorrect": true
+        },
+        {
+          "text": "Stezanja u predelu cela.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izraženog osecaja zadovoljstva.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0137",
+      "question": "Veliko ubrzanje može stvoriti iluziju.",
+      "options": [
+        {
+          "text": "Podizanja nosa aviona.",
+          "isCorrect": true
+        },
+        {
+          "text": "Levog zaokreta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spustanja nosa aviona.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0138",
+      "question": "Vestibularni aparat detektuje _________ubrzanje:",
+      "options": [
+        {
+          "text": "Uglovno i linearno.",
+          "isCorrect": true
+        },
+        {
+          "text": "Linearno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uglovno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pozitivno \"g\".",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0139",
+      "question": "Visinomer sa tri skazaljke koristi se u mnogim avionima lake avijacije a. Lako se dešava da se pogrešno ocitava b. Retko se pogrešno ocitava",
+      "options": [
+        {
+          "text": "Tacan I pouzdan.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nije baš pouzdan i tacan.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pod a) i c).",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo pod a).",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo pod b).",
+          "isCorrect": false
+        },
+        {
+          "text": "Pod b) i d).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0140",
+      "question": "Za adaptaciju na mrak potrebno je _____ za štapice i ______ za cepice.",
+      "options": [
+        {
+          "text": "30 minuta / 7 minuta.",
+          "isCorrect": true
+        },
+        {
+          "text": "15 minuta / 20 minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "7 minuta / 30 minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "25 minuta / 45 minuta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0141",
+      "question": "Za pilota aviona, koji je na kursu sudara sa brzim avionom iz suprotnog pravca, slika aviona koji se približava ce poceti da se uvecava na sledeci nacin:",
+      "options": [
+        {
+          "text": "U pocetku samo sporo sve do skoro samog sudara kada slika pocinje da se uvecava veoma brzo.",
+          "isCorrect": true
+        },
+        {
+          "text": "Konstantnom brzinom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veoma brzo u pocetku, a onda nastavlja da raste konstantnom brzinom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Brzo u pocetku, a onda ostaje na konstantnoj velicini sve do samog sudara.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0142",
+      "question": "Za vreme leta, promene spoljašnjeg vazdušnog pritiska mogu da dovedu do stanja da se vazduh koji je zarobljen u telesnim šupljinama širi i skuplja. Ovo se zove barotraumas uha i najcešce deluje na:",
+      "options": [
+        {
+          "text": "Sve navedeno.",
+          "isCorrect": true
+        },
+        {
+          "text": "Srednje uho.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sinuse.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zube.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0143",
+      "question": "Za vreme mirnog pravolinijskog leta bilo koje linearno ubrzanje može stvoriti osecaj penjanja. U takvim situacijama pilot bi trebalo da:",
+      "options": [
+        {
+          "text": "Ignorisati vestibularne informacije i verovati pokazivanju instrumenata aviona.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ispraviti penjanje guranjem palice napred.",
+          "isCorrect": false
+        },
+        {
+          "text": "Osloniti se na informacije vestibularnog aparata kako bi se zadržala orjentacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Osloniti se na sopstvenu percepciju kako bi se napravile sve neophodne ispravke.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0144",
+      "question": "Najcešci simptom ili simptomi hipoksije mogu da budu:",
+      "options": [
+        {
+          "text": "Sve navedeno.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gubitak svesti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Poremeceno rasudivanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Peckanje u prstima ruku i nogu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0145",
+      "question": "Najefikasnija tehnika otkrivanja drugog aviona tokom noci je:",
+      "options": [
+        {
+          "text": "Izbeci direktno intenzivno gledanje u pravcu gde možda leti drugi avion.",
+          "isCorrect": true
+        },
+        {
+          "text": "Okretati glavu i brzo preci pogledom preko celog vidljivog regiona.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izbegavanje posmatranja regiona ispod horizonta da bi se izbegao efekat zemaljskog svetla na naše oci.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0146",
+      "question": "Najznacajniji faktor koji doprinosi pocetku bolesti kretanja je:",
+      "options": [
+        {
+          "text": "Neslaganje izmedu vizuelnih i vestibularnih culnih informacija.",
+          "isCorrect": true
+        },
+        {
+          "text": "Brzo rotiranje aviona tako da skrece levo ili desno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izvodenje visokih G manevara.",
+          "isCorrect": false
+        },
+        {
+          "text": "Let na maloj brzini.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0147",
+      "question": "Nakon koje visine je potrebno da piloti udišu dodatni kiseonik?",
+      "options": [
+        {
+          "text": "10,000 ft.",
+          "isCorrect": true
+        },
+        {
+          "text": "2,000 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "8,000 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "20,000 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0148",
+      "question": "Nakon opšte anestezije, pilot ne bi trebalo da leti najmanje:",
+      "options": [
+        {
+          "text": "48 sati.",
+          "isCorrect": true
+        },
+        {
+          "text": "2 sata.",
+          "isCorrect": false
+        },
+        {
+          "text": "12 sati.",
+          "isCorrect": false
+        },
+        {
+          "text": "24 sata.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0149",
+      "question": "Nocu je lakše da se fokusirate na objekat ukoliko:",
+      "options": [
+        {
+          "text": "Gledate više u jednu njegovu stranu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gledate direktno u objekat.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gledate pod uglom od 50 stepeni u bilo koju stranu objekta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gledate direktno u objekat dok držite oci maksimalno otvorene.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "HM-0150",
+      "question": "Od cega ce zavisiti uzrok gubitka sluha zbog buke ?",
+      "options": [
+        {
+          "text": "I od intenziteta I od trajanja buke iznad 90 dB.",
+          "isCorrect": true
+        },
+        {
+          "text": "od intenziteta I od trajanja buke iznad 100 dB.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trajanja buke iznad 100 dB.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trajanja buke iznad 110 dB.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
