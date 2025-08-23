@@ -1,0 +1,3155 @@
+{
+  "subject": "Opšte poznavanje vazduhoplova",
+  "lang": "sr",
+  "version": 1,
+  "questions": [
+    {
+      "id": "AC-0001",
+      "question": "Dok avion sa elisom promenljivog koraka i konstantnog broja obrtaja, ubrzava po pisti:",
+      "options": [
+        {
+          "text": "Korak elise se povecava, održavajuci konstantan napadni ugao i obrtaje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Napadni ugao se smanjuje a obrtaji ostaju isti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Napadni ugao ostaje konstantan a obrtaji rastu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Linearna brzina vrha kraka elise se sa vremenom smanjuje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0002",
+      "question": "Kada radi sa magnetnim kompasom pilot moraju imati na umu da.",
+      "options": [
+        {
+          "text": "Greške u pokazivanju su najvece kada se prolazi pravac severa i juga, a minimalne kada se prolazi pravac istok i zapad.",
+          "isCorrect": true
+        },
+        {
+          "text": "Greške u pokazivanju su najvece kada se prolazi pravac istok i zapad , a minimalne kada se prolazi pravac sever i jug.",
+          "isCorrect": false
+        },
+        {
+          "text": "Greške u pokazivanju skretanja se povecavaju kada je avion bliži magnetnom ekvatoru, a nestaju kada je avion blizu magnetnih polova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Greške ubrzanja se povecavaju kada je avion bliži magnetnom polu , a nestaju kada je avion blizu magnetnog ekvatora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0003",
+      "question": "Spregnuti žiro:",
+      "options": [
+        {
+          "text": "Ima svoje ose u horizontalnoj osi aviona.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nije zavistan od greške koja se javlja zbog rotacije zemlje oko svoje ose.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ima svoje ose u vertikalnoj osi aviona.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ne može se koristiti kao žiro-direkcional zbog greške koja se javlja prilikom rotacije zemlje oko svoje ose.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0004",
+      "question": "Ako se vatra dogodi u predelu stajnog trapa i tockova, momentalna akcija je potrebna da bi se vatra ugasila, najsigurnije je koristiti:",
+      "options": [
+        {
+          "text": "Prah za gašenje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Karbon-dioksid.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bromotrifluorometan (BTF).",
+          "isCorrect": false
+        },
+        {
+          "text": "Vodenu kiselinu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0005",
+      "question": "Tip gasa koji se nalazi u cilindru za punjenje prsluka za spasavanje je:",
+      "options": [
+        {
+          "text": "Karbon-dioksid.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vrlo otrovan i velika pažnja mora biti posvecena punjenu prsluka kako ne bi došlo do udisanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nezapaljiv.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karbon-monoksid.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0006",
+      "question": "Pin za zabravljivanje komandi:",
+      "options": [
+        {
+          "text": "Se koristi da se zabrave komande na zemlji kako bi se sprecilo oštecenje prilikom jakog vetra.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ce ograniciti komandu do njene dizajnirane sile izdržljivosti kako se ne bi oštetio trup prilikom normalnih operacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mora uvek biti korišcen kada se leti u uslovima jakih udara vetra.",
+          "isCorrect": false
+        },
+        {
+          "text": "Je samo potreban na kormilu visine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0007",
+      "question": "Pokazivac temperature ulja u kabini je povezan sa davacem temperature koji pokazuje temperaturu ulja:",
+      "options": [
+        {
+          "text": "nakon što ulje prode kroz hladnjak ulja, ali pre nego što dode do vruceg dela motora.",
+          "isCorrect": true
+        },
+        {
+          "text": "unutar vruceg dela motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "pre nego što ulje prode kroz hladnjak za ulje.",
+          "isCorrect": false
+        },
+        {
+          "text": "u karteru motora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0008",
+      "question": "U toku penjanja, visina __________ a gustina_______, stoga ce smeša biti _________.",
+      "options": [
+        {
+          "text": "raste / smanjuje / bogatija.",
+          "isCorrect": true
+        },
+        {
+          "text": "raste / opada / siromašnija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjuje / raste / siromašnija.",
+          "isCorrect": false
+        },
+        {
+          "text": "raste / smanjuje / siromašnija.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0009",
+      "question": "Pravilan radni ciklus cetvorotaktnog motora je:",
+      "options": [
+        {
+          "text": "Usisavanje, kompresija, ekspanzija i izduvavanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Izduvavanje, ekspanzija, usisavanje, kompresija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Usisavanje, ekspanzija, kompresija, izduvavanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izduvavanje, usisavanje, ekspanzija, kompresije.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0010",
+      "question": "Najverovatniji uzrok osciliranja pokazivanja pritiska ulja za vreme horizontalnog leta kada motor radi na obrtajima krstareceg leta je:",
+      "options": [
+        {
+          "text": "Nizak nivo ulja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Prisustvo vazduha u rezervoaru za ulje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gubitak elektricnog spoja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rad motora na malom broju obrtaja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0011",
+      "question": "U uslovima zaledivanja, ako otvori statickog pritiska postanu blokirani za vreme horizontalnog leta i avion postepeno penje, pokazivanje visinomera, variometra i brzinomera ce:",
+      "options": [
+        {
+          "text": "Visinomer / Variometar / Brzinomer.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ostati nepromenjeno / Ostati nepromenjeno / Pokazivati manju brzinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ostati nepromenjeno / Pokazivati manju brzinu / Pokazivati vecu brzinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pokazivati manju brzinu / Ostati nepromenjeno / Pokazati manju brzinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pokazati vecu visinu / Pokazati vecu brzinu / Pokazati manju brzinu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0012",
+      "question": "Žiro-direkcional:",
+      "options": [
+        {
+          "text": "je greška žiroskopa u odnosu na fiksnu poziciju u prostoru na koju je baždaren, uzrokovano zemljinom rotacijom.",
+          "isCorrect": true
+        },
+        {
+          "text": "Je veoma ometen ugaonim ubrzanjem u zaokretu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nije ometen greškom koja je prouzrokovana mehanickim trenjem ležajeva u nosacu žiroskopa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daje stabilnu referencu po azimutu i elevaciji da bi se održavao tacan kurs i ugao penjanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0013",
+      "question": "Zakrivljenost lopatice elise__________ od korena ka vrhu, kako bi se održao optimalan _________ od korena ka vrhu.",
+      "options": [
+        {
+          "text": "Se smanjuje / napadni ugao.",
+          "isCorrect": true
+        },
+        {
+          "text": "Se povecava / napadni ugao.",
+          "isCorrect": false
+        },
+        {
+          "text": "Se smanjuje / geometrijski korak.",
+          "isCorrect": false
+        },
+        {
+          "text": "Se povecava / efektivni korak.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0014",
+      "question": "Gas karbon-monoksid, koji je vrlo otrovan, može prodreti u kabinu tokom leta ukoliko je izduvni sistem pokvaren.",
+      "options": [
+        {
+          "text": "Karbon-monoksid je:",
+          "isCorrect": true
+        },
+        {
+          "text": "Bez boje i mirisa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Može biti prepoznat po jakom mirisu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Može biti prepoznat po sivkastoj boji.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ima vrlo upadljiv ukus.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0015",
+      "question": "Zbog cega avionski sistem za paljenje ima mehanizam za pojacavanje varnice na svecici?",
+      "options": [
+        {
+          "text": "zbog toga što je brzina rotacije motora za vreme startovanja suviše mala za magnete da bi proizveli dovoljno energije za paljenje smeše vazduh-gorivo.",
+          "isCorrect": true
+        },
+        {
+          "text": "jer, na visokim obrtajima motora, obilna varnica je potrebna da bi se dobila maksimalna snaga smeše.",
+          "isCorrect": false
+        },
+        {
+          "text": "sa ciljem da se prevazide problem prekida rada svecica za vreme pokretanja motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "zbog svega navedenog.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0016",
+      "question": "Uobicajeni nacin za gašenje motora je:",
+      "options": [
+        {
+          "text": "skidanje gasa I povlacenje rucice korekcije smeše na \"siromašno\".",
+          "isCorrect": true
+        },
+        {
+          "text": "iskljucivanje prekidaca startera.",
+          "isCorrect": false
+        },
+        {
+          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "povlacenje rucice smeše na poziciju \"siromašno\".",
+          "isCorrect": false
+        },
+        {
+          "text": "skidanjem snage motora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0017",
+      "question": "Dijagram pokazuje elektricnu instalaciju lakog aviona, koji ima ampermetar sa nulom u centru.(Pogledajte sliku PPL AKG-3)",
+      "options": [
+        {
+          "text": "Tokom leta, a sa baterijom koja je puna, i prekidacem akumulatora na ON, za ocekivati je da ampermetar:",
+          "isCorrect": true
+        },
+        {
+          "text": "Bude u centralnom nultom položaju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bude otklonjen u desno, pokazujuci pozitivnu merenje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bude otklonjen u levo, pokazujuci negativno merenje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Osciluje, ali uglavnom pokazuje negativno merenje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0018",
+      "question": "Posle startovanja hladnog motora , ako se pritisak ulja ne pokaže u roku od 30 sekundi :",
+      "options": [
+        {
+          "text": "Motor se mora momentalno ugasiti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Broj obrtaja motora mora biti povecan, a posle povecanja broja obrtaja pritisak ulja mora biti prekontrolisan još jedanput.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ovo se može ignorisati, pod uslovom da je prilikom kontrole nivo ulja bio zadovoljavajuci.",
+          "isCorrect": false
+        },
+        {
+          "text": "ovo se može zanemariti ukoliko je temperature ulja visoka, pod uslovom da je prilikom kontrole nivo ulja bio zadovoljavajuci.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0019",
+      "question": "Šta je od sledeceg odgovarajuci postupak ukoliko dode do požara u karburatoru za vreme starta motora?",
+      "options": [
+        {
+          "text": "rucicu kontrole smeše povuci na \"siromašno\".",
+          "isCorrect": true
+        },
+        {
+          "text": "iskljuciti grejanje karburatora.",
+          "isCorrect": false
+        },
+        {
+          "text": "iskljuciti prekidac startera.",
+          "isCorrect": false
+        },
+        {
+          "text": "sve navedeno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0020",
+      "question": "Za vreme jednog ciklusa Oto-motora, klip:",
+      "options": [
+        {
+          "text": "se krece prema glavi cilindra dva puta.",
+          "isCorrect": true
+        },
+        {
+          "text": "rotira oko osovine rukavca dva puta.",
+          "isCorrect": false
+        },
+        {
+          "text": "prima dve ekspanzije.",
+          "isCorrect": false
+        },
+        {
+          "text": "krece se prema gornjoj mrtvoj tacki cetiri puta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0021",
+      "question": "Magneti su:",
+      "options": [
+        {
+          "text": "samostalni generatori elektricne energije koji proizvode struju visokog napona neophodnu za stvaranje varnice.",
+          "isCorrect": true
+        },
+        {
+          "text": "generatori elektricne energije pokretani od strane bregaste osovine koji služe za napajanje elektro opreme.",
+          "isCorrect": false
+        },
+        {
+          "text": "koriste se za generisanje nisko voltažnih varnica za svecice.",
+          "isCorrect": false
+        },
+        {
+          "text": "povezani su sa razvodnikom i daju elektricnu energiju u isto vreme kada i svecice.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0022",
+      "question": "Krak elise je uvijen po dužini sa ciljem da:",
+      "options": [
+        {
+          "text": "održi optimalan napadni ugao od korena do vrha elise.",
+          "isCorrect": true
+        },
+        {
+          "text": "daje progresivan porast napadnog ugla od korena to vrha elise.",
+          "isCorrect": false
+        },
+        {
+          "text": "daje progresivan porast nagiba od korena do vrha.",
+          "isCorrect": false
+        },
+        {
+          "text": "kompenzuje linearno opadanje brzine kraka elise.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0023",
+      "question": "Ukoliko za vreme leta dode do blokade u hladnjaku ulja avionskog motora, prelazni ventil dozvoljava da ulje prode kroz hladnjak. Rad ventila zasniva se na principu:",
+      "options": [
+        {
+          "text": "zavisnosti od pritiska.",
+          "isCorrect": true
+        },
+        {
+          "text": "zavisnosti od temperature.",
+          "isCorrect": false
+        },
+        {
+          "text": "mehanicke selekcije.",
+          "isCorrect": false
+        },
+        {
+          "text": "hidraulicke selekcije.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0024",
+      "question": "Serijski povezujuci dva 12 voltna 40 amper-casovna akumulatora obezbedice se akumulator od:",
+      "options": [
+        {
+          "text": "24 volti sa kapacitetom od 40 amper-casova.",
+          "isCorrect": true
+        },
+        {
+          "text": "12 volti sa kapacitetom od 80 amper casova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "24 volti i kapacitetom od 80 amper casova.",
+          "isCorrect": false
+        },
+        {
+          "text": "12 volti i kapacitetom od 40 amper casova.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0025",
+      "question": "Brzina akvaplaninga:",
+      "options": [
+        {
+          "text": "može se izracunati, u cvorovima množenjem kvadratnog korena pritiska u gumama puta devet.",
+          "isCorrect": true
+        },
+        {
+          "text": "raste kako se dubina brazde na gumama smanjuje.",
+          "isCorrect": false
+        },
+        {
+          "text": "raste kako se povecava dubina vode na podlogi.",
+          "isCorrect": false
+        },
+        {
+          "text": "meri se u miljama na sat.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0026",
+      "question": "Ukoliko sumnjate da je došlo do zaledivanja karburatora na avionu na kome nema pokazivaca temperature karburatora ispravan postupak bi bio:",
+      "options": [
+        {
+          "text": "uvek ukljuciti grejanje karburatora do kraja.",
+          "isCorrect": true
+        },
+        {
+          "text": "odabrati odgovarajuci stepen grejanja karburatora u zavisnosti od pretpostavljenog stepena zaledivanja. c. uvek ukljuciti puno grejanje karburatora do momenta kada motor pocne da radi grubo, kada treba iskljuciti",
+          "isCorrect": false
+        },
+        {
+          "text": "grejanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "dati snagu motoru kako bi se nadoknadio gubitak snage motora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0027",
+      "question": "BCF aparat za gašenje požara:",
+      "options": [
+        {
+          "text": "je potpuno bezbedan za upotrebu u zatvorenoj kabini aviona ako je kabina ventilirana.",
+          "isCorrect": true
+        },
+        {
+          "text": "daje visoko toksican dim i ne bi smeo da se koristi u zatvorenoj kabini.",
+          "isCorrect": false
+        },
+        {
+          "text": "potpuno je bezbedan za upotrebu u zatvorenoj kabini aviona.",
+          "isCorrect": false
+        },
+        {
+          "text": "odgovarajuci je za korišcenje samo prilikom gašenja drvenog materijala ili tekstila i stoga nikako nije za upotrebu u kabini aviona.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0028",
+      "question": "Šema pokazuje šemu elektro-sistema na lakom avionu. (Pogledajte sliku PPL AKG-1)",
+      "options": [
+        {
+          "text": "U letu pokazivac punjenja akumulatora pada na nulu, najverovatniji razlog je:",
+          "isCorrect": true
+        },
+        {
+          "text": "prekid rada alternatora.",
+          "isCorrect": false
+        },
+        {
+          "text": "akumulator je do kraja napunjen.",
+          "isCorrect": false
+        },
+        {
+          "text": "akumulator je prazan.",
+          "isCorrect": false
+        },
+        {
+          "text": "razvodna šina je preopterecena.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0029",
+      "question": "Neki karburatori imaju difuzore koji.",
+      "options": [
+        {
+          "text": "sprecavaju da smeša postane suviše bogata kako raste broj obrtaja motora.",
+          "isCorrect": true
+        },
+        {
+          "text": "sprecava da smeša postane suviše siromašna kako raste broj obrtaja motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "sprecava da smeša postane suviše siromašna kako opada broj obrtaja motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "sprecava da smeša postane suviše bogata kako opada broj obrtaja motora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0030",
+      "question": "Visinomer:",
+      "options": [
+        {
+          "text": "sadrži aneroidnu kapsulu povezanu sa izvorom statickog pritiska. Kapsula se sabija za vreme spuštanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "sadrži barometricnu kapsulu, povezanu sa izvorom ukupnog pritiska, koja se sabija za vreme spuštanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "sadrži barometricnu kapsulu koja se širi za vreme spuštanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "sadrži kapsulu sa smanjenim pritiskom koja se širi za vreme spuštanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0031",
+      "question": "U slucaju da dode do prekida rada alternatora ili generator za vreme leta:",
+      "options": [
+        {
+          "text": "iskljuciti sve nepotrebne elektricne potrošace i sleteti cim pre moguce.",
+          "isCorrect": true
+        },
+        {
+          "text": "let se može nastaviti normalno jer akumulator snabdeva sve elektricne potrošace.",
+          "isCorrect": false
+        },
+        {
+          "text": "iskljuciti prekidac alternatora i nastaviti let normalno bez elektricne struje.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0032",
+      "question": "Stepen kompresije je odnos.",
+      "options": [
+        {
+          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "isCorrect": true
+        },
+        {
+          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0033",
+      "question": "Na lakim avionima opremljenim sa mehanicki upravljanim nosnim tockom, upravljanje na zemlji se vrši pomocu:",
+      "options": [
+        {
+          "text": "komandnih poluga ili sajli koje se pokrecu komandama kormila pravca.",
+          "isCorrect": true
+        },
+        {
+          "text": "pomocu sajli kojima se upravlja komandama elerona.",
+          "isCorrect": false
+        },
+        {
+          "text": "upotrebom kocnica na tockovima.",
+          "isCorrect": false
+        },
+        {
+          "text": "pomocu hidraulicnih komandi koje omogucuju samocentriranje tocka.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0034",
+      "question": "Polu-monokok struktura se može definisati kao:",
+      "options": [
+        {
+          "text": "noseca oplata ojacana primarnom strukturom.",
+          "isCorrect": true
+        },
+        {
+          "text": "kostur od lakih celicnih cevi zavarenih da formiraju okvir trouglastog oblika.",
+          "isCorrect": false
+        },
+        {
+          "text": "struktura bez otvora.",
+          "isCorrect": false
+        },
+        {
+          "text": "struktura  bez otvora sa nosecom strukturom ojacana stringerima i ramenjacama.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0035",
+      "question": "Delovi krila prikazani na crtežu su: (Pogledajte sliku PPL AKG-2)",
+      "options": [
+        {
+          "text": "A/B/C.",
+          "isCorrect": true
+        },
+        {
+          "text": "prednja ramenjaca / rebro / zadnja ramenjaca.",
+          "isCorrect": false
+        },
+        {
+          "text": "prva ramenjaca, / rebro, / stringer.",
+          "isCorrect": false
+        },
+        {
+          "text": "prednja ramenjaca, / druga ramenjaca, / rebro.",
+          "isCorrect": false
+        },
+        {
+          "text": "stringeri, / druga ramenjaca, /rebro,.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0036",
+      "question": "Za vreme probe rada magneta, sa selektovanim desnim magnetom, primecujete da motor podrhtava I sumnjate da ce prestati sa radom. Šta treba da radite?",
+      "options": [
+        {
+          "text": "dozvolite da motor potpuna prekine sa radom.",
+          "isCorrect": true
+        },
+        {
+          "text": "brzo prebacite na levi magnet.",
+          "isCorrect": false
+        },
+        {
+          "text": "brzo prebacite na oba magneta.",
+          "isCorrect": false
+        },
+        {
+          "text": "dodate gas da održite rad motora, a zatim prebacite na oba magneta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0037",
+      "question": "Gde se u motoru ocitava temperature ulja od strane davaca  koji je povezan sa pokazivacem temperature.",
+      "options": [
+        {
+          "text": "pošto je ulje prošlo kroz hladnjak, ali pre nego što dode do vruceg dela motora.",
+          "isCorrect": true
+        },
+        {
+          "text": "unutar vruceg dela motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "pošto ulje izade iz uljnog rezervoara.",
+          "isCorrect": false
+        },
+        {
+          "text": "pre nego što ulje prode kroz uljni hladnjak.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0038",
+      "question": "Instrumenti koji se za svoj rad snabdevaju energijom iz elektro-sistema ukljucuju:",
+      "options": [
+        {
+          "text": "pokazivac kolicine goriva i koordinator zaokreta.",
+          "isCorrect": true
+        },
+        {
+          "text": "obrtomer i pokazivac kolicine goriva.",
+          "isCorrect": false
+        },
+        {
+          "text": "pokazivac skretanja i pokazivac pritiska ulja.",
+          "isCorrect": false
+        },
+        {
+          "text": "obrtomer i pokazivac skretanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0039",
+      "question": "Ukoliko motor postane suviše zagrejan, smeša se može zapaliti pre nego što svecice zapocnu paljenje.",
+      "options": [
+        {
+          "text": "ova pojava se zove samozapaljenje.",
+          "isCorrect": true
+        },
+        {
+          "text": "ovo se naziva detonacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "smeša se treba osiromašiti da bi se pomoglo hladenje motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "treba dodati gas da bi se pomoglo hladenje motora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0040",
+      "question": "Samopaljenje u cetverotaktnom klipnom motoru je:",
+      "options": [
+        {
+          "text": "smeša gorivo/vazduh se pali ranije nego što bi trebalo.",
+          "isCorrect": true
+        },
+        {
+          "text": "je uzrokovano bogatom smešom u vrelom motoru.",
+          "isCorrect": false
+        },
+        {
+          "text": "eksplozivno sagorevanje smeše gorivo-vazduh.",
+          "isCorrect": false
+        },
+        {
+          "text": "se karakteriše promenom zvuka rada motora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0041",
+      "question": "Mehanicki brzinomer:",
+      "options": [
+        {
+          "text": "radi na principu magnetnog polja koje se indukuje u kutiji davaca gde se stvara obrtni momenat koji rotira osovinu povezanu sa pokazivacem brzinomera.",
+          "isCorrect": true
+        },
+        {
+          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "koristi trenje koje se stvara u kutiji davaca koji rotira osovinu povezanu sa pokazivacem brzinomera.",
+          "isCorrect": false
+        },
+        {
+          "text": "pokrece se direktno od osovine. Sistem zupcastog prenosa smanjuje brzinu rotacije tako da se generator može koristiti za stvaranje napona proporcionalnog brzini okretanja osovine tako da se na pokazivacu ocitava brzina kalibrisana brojem obrtaja motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "pokrece se direktno od pokretaca alternatora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0042",
+      "question": "Za vreme taksiranja aviona opremljenog sa elisom stalnog koraka, sumnjate da je došlo do zaledivanja karburatora.",
+      "options": [
+        {
+          "text": "Ispravan postupak bi bio:",
+          "isCorrect": true
+        },
+        {
+          "text": "ukljuciti puno grejanje karburatora. Zatim, pre poletanja, iskljuciti grejanje karburatora, uveriti se da motor razvija minimalni broj obrtaja za poletanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "ukljuciti puno grejanje karburatora, ostaviti ga ukljucenog dok ne poletite,.",
+          "isCorrect": false
+        },
+        {
+          "text": "ukljuciti puno grejanje karburatora: zatim iskljuciti grejanje kada pocnu da opadaju obrtaji motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "izbeci ukljucivanje grejanje karburatora na zemlji, osloniti se na toplotu motora dok ne dode do odledivanja karburatora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0043",
+      "question": "Pokazivac temperature glave cilindra:",
+      "options": [
+        {
+          "text": "Dobija podatke od najtoplijeg cilindra motora, pomocu bimetalne trake.",
+          "isCorrect": true
+        },
+        {
+          "text": "Je prvenstveno instrument gorivnog sistema.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zahteva posebno napajanje za pokretanje pokazivaca na instrument-.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dobija informacije od davaca koji je postavljen cetiri inca od glave cilindra na izduvnoj grani.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0044",
+      "question": "Ukoliko dode do prekida grejanja pito cevi za vreme leta u uslovima zaledivanja i avion krene u postepeno snižavanje, ocitavanje visinomera, variometra i brzinomera ce, ukoliko je let blokirao pito cev (cev ukupnog pritiska)",
+      "options": [
+        {
+          "text": "Visinomer / Variometar / Brzinomer.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pokazuje tacno / pokazuje tacno / pokazuje manju brzinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "pokazuje tacno / pokazuje manju brzinu / pokazuje vecu brzinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "pokazuje manju visinu / pokazuje tacnu brzinu / pokazuje vecu brzinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "pokazuje tacnu / pokazuje tecno / pokazuje vecu brzinu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0045",
+      "question": "Detonacija je:",
+      "options": [
+        {
+          "text": "Nestabilno sagorevanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Eksplozija koja se dešava pre normalne tacke paljenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obicno je povezana sa bogatom smešom i visokom temperaturom glave cilindra.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obicno je povezana sa siromašnom smešom i niskom temperaturom glave cilindra.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0046",
+      "question": "Proklizavanje gume može biti ustanovljeno sa.",
+      "options": [
+        {
+          "text": "Markerom za ravnanje obojenom na strani gume i felne.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dve žute, dijametralno suprotne strelice obojene na strani gume.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kontrolisanjem pritiska u gumama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dva bela markera obojena na felni.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0047",
+      "question": "Prilikom rada motora najbolje je koristiti smešu:",
+      "options": [
+        {
+          "text": "Malo bogatiju, kako ostatak goriva pomaže hladenju motora.",
+          "isCorrect": true
+        },
+        {
+          "text": "Odnos goriva i vazduha u smeši koji je najefikasniji.",
+          "isCorrect": false
+        },
+        {
+          "text": "Malo bogatiji , kako ostatak vazduha pomaže hladenju motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Malo siromašniji, kako ostatak vazduha pomaže hladenju motora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0048",
+      "question": "Pokazivac temperature izduvnih gasova:",
+      "options": [
+        {
+          "text": "Može pokazivati i dali je odnos vazduha i goriva u komori za sagorevanje suviše siromašan ili suviše bogat.",
+          "isCorrect": true
+        },
+        {
+          "text": "Je motorski instrument napravljen da zaštiti motor od pregrevanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Služi istoj svrsi kao i instrument za merenje temperature glavne cilindra.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zahteva energiju iz instalacije jednosmerne struje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0049",
+      "question": "Svrha liste devijacije kompasa postavljene u blizini magnetnog kompasa je da:",
+      "options": [
+        {
+          "text": "pokaže razliku izmedu kursa ocitanog na kompasu I stvarnog magnetnog kursa.",
+          "isCorrect": true
+        },
+        {
+          "text": "smanji uticaj magneticnih materijala koje nose pilot ili lica u avionu.",
+          "isCorrect": false
+        },
+        {
+          "text": "pokaže razliku izmedu linije puta I magnetskog severa.",
+          "isCorrect": false
+        },
+        {
+          "text": "pokaže razliku izmedu linije puta I stvarnog severa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0050",
+      "question": "Zanemarujuci grešku instrumenta ili pozicionu grešku, u kojim uslovima ce pokazivac brzine pokazivati stvarnu brzinu aviona?",
+      "options": [
+        {
+          "text": "u uslovima medunarodne standardne atmosfere na nivou mora.",
+          "isCorrect": true
+        },
+        {
+          "text": "na svakoj visini ili temperaturi.",
+          "isCorrect": false
+        },
+        {
+          "text": "na svakoj visini pod uslovima da je stepen pada temperature u skladu sa medunarodnom standardnom atmosferom.",
+          "isCorrect": false
+        },
+        {
+          "text": "na svakoj visini, ali samo ako prevladavaju uslovi medunarodne standardne atmosfere.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0051",
+      "question": "Znacaj upotrebe hemijski korektne smeše vazduha i goriva je da:",
+      "options": [
+        {
+          "text": "dozvoljava da se izvrši potpuno sagorevanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "je jedna od mogucih koje se koriste.",
+          "isCorrect": false
+        },
+        {
+          "text": "je odnos vazduha I goriva po zapremini.",
+          "isCorrect": false
+        },
+        {
+          "text": "daje najbolje rezultate.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0052",
+      "question": "Neposredno nakon pokretanja avionskog motora, morate proveriti svetlo za upozorenje rada startera. Ukoliko je I dalje upaljeno morate:",
+      "options": [
+        {
+          "text": "odmah ugasiti motor.",
+          "isCorrect": true
+        },
+        {
+          "text": "posmatrati ga 30 sekundi. Ukoliko je i dalje svetlo ostalo upaljeno ugasite motor.",
+          "isCorrect": false
+        },
+        {
+          "text": "ne treba ciniti ništa. Svetlo za upozorenje rada startera treba da bude upaljeno dok god radi motor.",
+          "isCorrect": false
+        },
+        {
+          "text": "ugasiti motor, sacekati 30 sekundi, a zatim ponovo pokušati startovati motor.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0053",
+      "question": "Prilikom poniranja, sa nepromenjenim položajem rucice gasa, broj obrtaja motora aviona opremljenim sa fiksnim korakom elise ce:",
+      "options": [
+        {
+          "text": "porasti ako pilot dopusti povecanje brzine.",
+          "isCorrect": true
+        },
+        {
+          "text": "opadati kako raste brzina aviona.",
+          "isCorrect": false
+        },
+        {
+          "text": "ostati nepromenjena bez obzira na brzinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "opadati dok god se ne promeni položaj rucice gasa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0054",
+      "question": "Za vreme zaokreta u severnim kursevima u severnoj hemisferi:",
+      "options": [
+        {
+          "text": "Vrtloženje tecnosti kompasa ce povecati velicinu greške pokazivanja kompasa.",
+          "isCorrect": true
+        },
+        {
+          "text": "greške pokazivanja kompasa u zaokretu je najveca na ekvatoru.",
+          "isCorrect": false
+        },
+        {
+          "text": "greške pokazivanja kursa prilikom ubrzanja su uvek znacajnije nego greške pokazivanja kursa prilikom izvodenja zaokreta.",
+          "isCorrect": false
+        },
+        {
+          "text": "kompas ce se brže okretati.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0055",
+      "question": "Smicanje gume:",
+      "options": [
+        {
+          "text": "može se uociti ukoliko je došlo do pomeranja obojenih markera na gumi i felni tocka.",
+          "isCorrect": true
+        },
+        {
+          "text": "može se spreciti sa bojenjem linija na gumi i tocku.",
+          "isCorrect": false
+        },
+        {
+          "text": "ukazuje na kretanje aviona sa snažnim kocenjem.",
+          "isCorrect": false
+        },
+        {
+          "text": "može se spreciti pomocu lepka.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0056",
+      "question": "Šta od navedenog nije deo suvog vakuum sistema?",
+      "options": [
+        {
+          "text": "sistem za podmazivanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "vakuum generator.",
+          "isCorrect": false
+        },
+        {
+          "text": "vakuum kontroler.",
+          "isCorrect": false
+        },
+        {
+          "text": "filter za vazduh.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0057",
+      "question": "Da bi se pomoglo u smanjenju temperature motora.",
+      "options": [
+        {
+          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "isCorrect": true
+        },
+        {
+          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "smeša vazduh-gorivo se može obogatiti.",
+          "isCorrect": false
+        },
+        {
+          "text": "može se smanjiti brzina aviona.",
+          "isCorrect": false
+        },
+        {
+          "text": "mogu se uvuci zakrilca.",
+          "isCorrect": false
+        },
+        {
+          "text": "smeša vazduh-gorivo se može oslabiti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0058",
+      "question": "Ukoliko je vazduhoplov opremljen sa elisom fiksnog koraka i karburatorom sa plovkom, prvi znak zaledivanja karburatora ce najverovatnije biti:",
+      "options": [
+        {
+          "text": "gubitak broja obrtaja.",
+          "isCorrect": true
+        },
+        {
+          "text": "grub rad motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "pad temperature ulja i temperature glave cilindra.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0059",
+      "question": "Ako se poveca snaga motora, šta se dogada sa sa elisom stalnog broja obrtaja:",
+      "options": [
+        {
+          "text": "korak elise ce se povecati.",
+          "isCorrect": true
+        },
+        {
+          "text": "korak elise se nece promeniti.",
+          "isCorrect": false
+        },
+        {
+          "text": "broj obrtaja motora ce porasti.",
+          "isCorrect": false
+        },
+        {
+          "text": "korak elise ce se smanjiti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0060",
+      "question": "Radilica u klipnom motoru:",
+      "options": [
+        {
+          "text": "Pretvara pravolinijsko kretanje klipa u rotaciono kretanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kontroliše zazore ventila.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pretvara rotaciono kretanje u pravolinijsko.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rotira upola sporije od bregaste osovine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0061",
+      "question": "Temperatura gasova u cilindru cetvorotaktnih motora za vreme ekspanzije ce:",
+      "options": [
+        {
+          "text": "Porasti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Opasti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ponašati se u skladu sa Carlsovim zakonom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ostati konstantna.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0062",
+      "question": "Šta ce biti posledica za validnost sertifikata o plovidbenosti ukoliko avion nije održavan u skladu sa odobrenim rasporedom održavanja naznacenom u sertifikatu o plovidbenosti:",
+      "options": [
+        {
+          "text": "Sertifikat o plovidbenosti ce biti nevažeci do vremena dok se zahtevano održavanje ne izvrši.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vlasnik vazduhoplova mora podneti zahtev vazduhoplovnim vlastima za izuzece od traženog rasporeda održavanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sertifikat o plovidbenosti mora biti obnovljen pre nego što avion bude osposobljen za letenje:",
+          "isCorrect": false
+        },
+        {
+          "text": "Važnost Sertifikata o plovidbenosti nece biti dovedena u pitanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0063",
+      "question": "Važno je osigurati prekidac prajmera nakon upotrebe zbog toga što:",
+      "options": [
+        {
+          "text": "može prouzrokovati da gorivo može biti usisano iz gorivnog drenaža u usisni kanala, uzrokujuci vrlo bogatu smešu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Može uzrokovati curenje goriva sa rizikom požara.",
+          "isCorrect": false
+        },
+        {
+          "text": "Može uzrokovati da gorivo bude usisano iz rezervoara goriva u karburator, uzrokujuci visoko bogatu smešu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ako rucica prajmera vibrira može uzrokovati prekid rada motora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0064",
+      "question": "Ako za vreme spuštanja izvor statickog pritiska postane blokiran ledom, :",
+      "options": [
+        {
+          "text": "Brzinomer i Visinomer ce pokazivati vece vrednosti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Brzinomer ce pokazivati vecu brzinu a visinomer manju visinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Brzinomer ce pokazivati manju brzinu a Visinomer vecu visinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Brzinomer i Visinomer instrumenta ce pokazivati manje vrednosti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0065",
+      "question": "Stepen kompresije klipnog motora je odnos:",
+      "options": [
+        {
+          "text": "Zapremine cilindra kada je klip u donjoj mrtvoj tacki i zapremine kada je klip u gornjoj mrtvoj tacki.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ukupna zapremina cilindra kada je klip u donjoj mrtvoj tacki.",
+          "isCorrect": false
+        },
+        {
+          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "Odnos zapremine cilindra prema zapremini motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zapremine motora i radne zapremine cilindra.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0066",
+      "question": "Unutrašnje hladenje motora sa unutrašnjim sagorevanjem posebno zavisi od:",
+      "options": [
+        {
+          "text": "cirkulacije vazduha oko izduvne grane.",
+          "isCorrect": true
+        },
+        {
+          "text": "cirkulacije ulja za podmazivanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "odgovarajuceg funkcionisanja termostata.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0067",
+      "question": "Kada pokazivac temperature ulja pokazuje visoku temperaturu ulja kod cetvorotaktnih motora, to može biti posledica.",
+      "options": [
+        {
+          "text": "niskog nivoa ulja.",
+          "isCorrect": true
+        },
+        {
+          "text": "korišcenja ulja visokog viskoziteta.",
+          "isCorrect": false
+        },
+        {
+          "text": "previše bogate smeše.",
+          "isCorrect": false
+        },
+        {
+          "text": "visokog nivoa ulja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0068",
+      "question": "Kod avionskih motora sa unutrašnjim sagorevanjem, šta se kontroliše pomocu davaca temperature izduvnih gasova (EGT)?",
+      "options": [
+        {
+          "text": "kvalitet smeše gorivo-vazduh.",
+          "isCorrect": true
+        },
+        {
+          "text": "zaledivanje karburatora.",
+          "isCorrect": false
+        },
+        {
+          "text": "pritisak ulja.",
+          "isCorrect": false
+        },
+        {
+          "text": "potrošnja ulja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0069",
+      "question": "Zbog cega motori sa visokom kompresijom zahtevaju gorivo sa vecom oktanskom vrednošcu?",
+      "options": [
+        {
+          "text": "da bi izbegli detonaciju i oštecenja motora.",
+          "isCorrect": true
+        },
+        {
+          "text": "da bi razvili više snage.",
+          "isCorrect": false
+        },
+        {
+          "text": "da sprece zaledivanje karburatora na velikim visinama.",
+          "isCorrect": false
+        },
+        {
+          "text": "da izbegnu pretpaljenje i oštecenja motora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0070",
+      "question": "Odgovarajuce funkcionisanje pomocne gorivne pumpe može se proveriti sa:",
+      "options": [
+        {
+          "text": "izlaznom snagom alternatora.",
+          "isCorrect": true
+        },
+        {
+          "text": "pritiskom goriva.",
+          "isCorrect": false
+        },
+        {
+          "text": "karakteristicnim zvukom.",
+          "isCorrect": false
+        },
+        {
+          "text": "gorivo istice iz otvora za drenažu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0071",
+      "question": "U rezervoarima aviona ce najverovatnije doci do pojave vode u gorivu zbog:",
+      "options": [
+        {
+          "text": "atmosferskog vazduha u rezervoaru.",
+          "isCorrect": true
+        },
+        {
+          "text": "lošeg zatvaranja otvora rezervoara.",
+          "isCorrect": false
+        },
+        {
+          "text": "dopunjavanja rezervoara gorivom.",
+          "isCorrect": false
+        },
+        {
+          "text": "curenja u rezervoaru zbog cega dolazi do ulaska vode za vreme kiše.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0072",
+      "question": "Led se uhvatio u venturi trubi karburatora i avion pocinje da gubi snagu. Da li ce ukljucivanje grejanja karburatora imati za posledicu momentalni porast broja obrtaja.",
+      "options": [
+        {
+          "text": "ne, kod aviona sa fiksnim korakom elise prvo ce doci do grubog rada motora, a zatim do pada broja obrtaja zbog toga što otopljeni led biva usisan u motor. Zatim ce doci do porasta broja obrtaja.",
+          "isCorrect": true
+        },
+        {
+          "text": "da, pošto ce se led odmah otopiti.",
+          "isCorrect": false
+        },
+        {
+          "text": "ne, jer ce toplota topiti led, a to ne utice na broj obrtaja motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0073",
+      "question": "Kakva je funkcija ublaživaca oscilacija prednjeg tocka?",
+      "options": [
+        {
+          "text": "da spreci vibracije nosnog tocka.",
+          "isCorrect": true
+        },
+        {
+          "text": "ublažavanje odskakivanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "da skrati put hoda klipa amortizera.",
+          "isCorrect": false
+        },
+        {
+          "text": "da ublaži udarce na nožne komande.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0074",
+      "question": "Tokom krstarenja na 9500fita MSL, smeša gorivo-vazduh je odgovarajuce podešena. Šta ce se desiti ukoliko dode do snižavanja visine na 4500fita MSL bez promene podešavanja smeše?",
+      "options": [
+        {
+          "text": "smeša ce biti isuviše siromašna.",
+          "isCorrect": true
+        },
+        {
+          "text": "bice više goriva u cilindrima nego što je potrebno za normalno sagorevanje i višak goriva ce apsorbovati toplotu i hladiti motor.",
+          "isCorrect": false
+        },
+        {
+          "text": "isuviše bogata smeša ce dovesti do porasta temperature glave cilindra i može uzrokovati detonaciju.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0075",
+      "question": "Koja se promena dešava u smeši kada se ukljuci grejanje karburatora?",
+      "options": [
+        {
+          "text": "smeša postaje bogata.",
+          "isCorrect": true
+        },
+        {
+          "text": "opada broj obrtaja motora kao posledica osiromašenja smeše.",
+          "isCorrect": false
+        },
+        {
+          "text": "smeša postaje siromašna.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0076",
+      "question": "Osnovni razlog podešavanja smeše gorivo-vazduh na visini je.",
+      "options": [
+        {
+          "text": "smanjenje kolicine goriva zbog smanjenja gustine vazduha.",
+          "isCorrect": true
+        },
+        {
+          "text": "smanjenje kolicine goriva u smeši kako bi se nadomestila zbog povecanje gustine vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "povecanje kolicine goriva u smeši kako bi se nadomestilo opadanje pritiska i gustine vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0077",
+      "question": "Za motor koji nema karburator vec gorivo prima pod pritiskom u usisni kanal kaže se da ima.",
+      "options": [
+        {
+          "text": "ubrizgivac goriva.",
+          "isCorrect": true
+        },
+        {
+          "text": "superpunjac.",
+          "isCorrect": false
+        },
+        {
+          "text": "elektricni karburator.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0078",
+      "question": "Karburator se koristi da snabdeva.",
+      "options": [
+        {
+          "text": "smešom vazduh-gorivo cilindre motora.",
+          "isCorrect": true
+        },
+        {
+          "text": "vazduhom cilindre motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "gorivom cilindre motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0079",
+      "question": "Princip rada karburatora sa plovkom se zasniva na:",
+      "options": [
+        {
+          "text": "porastu brzine vazduha u grlu venturi cevi uzrokujuci pad vazdušnog pritiska u grlu venturi cevi.",
+          "isCorrect": true
+        },
+        {
+          "text": "automatskim merenjem pritiska u venturi cevi cim avion dostigne visinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "razlici u vazdušnom pritisku na ulasku u venturi cev kao i u grlu venturi cevi.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0080",
+      "question": "Dali može da dode do paljenja avionskog klipnog motora ukoliko neko okrene elisu aviona rukom?",
+      "options": [
+        {
+          "text": "da, ukoliko je glavni prekidac ukljucen.",
+          "isCorrect": true
+        },
+        {
+          "text": "normalno ne ukoliko je motor hladan i iskljucenim sistemom za paljenje.",
+          "isCorrect": false
+        },
+        {
+          "text": "ne, ni u kom slucaju.",
+          "isCorrect": false
+        },
+        {
+          "text": "da, uvek.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0081",
+      "question": "Kakva je svrha pomocne, buster, pumpe, instalirane u neke lake vazduhoplove?",
+      "options": [
+        {
+          "text": "Snabdevanje gorivom karburatora tokom startovanja motora i u slucaju kvara motorne pumpe.",
+          "isCorrect": true
+        },
+        {
+          "text": "brže pražnjenje gorivnih rezervoara.",
+          "isCorrect": false
+        },
+        {
+          "text": "ubrizgavanje goriva u cilindre.",
+          "isCorrect": false
+        },
+        {
+          "text": "povecanje efikasnosti motora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0082",
+      "question": "Šta oznacava crvena linija na avionskim instrumentima?",
+      "options": [
+        {
+          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "isCorrect": true
+        },
+        {
+          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "maksimalnu ili minimalnu dozvoljenu vrednost.",
+          "isCorrect": false
+        },
+        {
+          "text": "opasno podrucje.",
+          "isCorrect": false
+        },
+        {
+          "text": "opseg brzina za letenje sa izvucenim stajnim trapom.",
+          "isCorrect": false
+        },
+        {
+          "text": "opseg uobicajenih operativnih brzina.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0083",
+      "question": "Ako je visinomer podešen na QFE pritisak, nakon sletanja ce pokazivati:",
+      "options": [
+        {
+          "text": "nulu.",
+          "isCorrect": true
+        },
+        {
+          "text": "visinu aerodroma.",
+          "isCorrect": false
+        },
+        {
+          "text": "visinu aerodroma iznad ravni pritiska od 1013,2 hPa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pritisak na visini aerodroma iznad standardne vrednosti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0084",
+      "question": "Kada je podešen na QFE pritisak, visinomer pokazuje:",
+      "options": [
+        {
+          "text": "visinu iznad aerodroma.",
+          "isCorrect": true
+        },
+        {
+          "text": "visinu iznad nivoa mora.",
+          "isCorrect": false
+        },
+        {
+          "text": "stvarnu visinu iznad površine zemlje.",
+          "isCorrect": false
+        },
+        {
+          "text": "nivo leta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0085",
+      "question": "Ukoliko pilot menja podešenost pritiska visinomera na nižu vrednost, indikator visine ce pokazati:",
+      "options": [
+        {
+          "text": "manju visinu.",
+          "isCorrect": true
+        },
+        {
+          "text": "istu visinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "porast visine.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0086",
+      "question": "Koju visinu pokazuje avionski visinomer ukoliko je podešen na standardni atmosferski pritisak?",
+      "options": [
+        {
+          "text": "nivo leta.",
+          "isCorrect": true
+        },
+        {
+          "text": "apsolutnu visinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "relativnu visinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "stvarnu visinu iznad površine zemlje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0087",
+      "question": "Šta bi pokazivao avionski visinomer ukoliko bi pilot propustio da podesi QNH pritisak na visinomeru za vreme spuštanja i ostavion visinomer podešen na standardni pritisak?",
+      "options": [
+        {
+          "text": "visinu aerodroma iznad pritiska od 1013, hPa.",
+          "isCorrect": true
+        },
+        {
+          "text": "nulu.",
+          "isCorrect": false
+        },
+        {
+          "text": "visinu aerodroma.",
+          "isCorrect": false
+        },
+        {
+          "text": "pokazivanje nije upotrebljivo.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0088",
+      "question": "Koju visinu pokazuje visinomer ako je postavljen na lokalni QNH pritisak?",
+      "options": [
+        {
+          "text": "visinu iznad nivoa mora.",
+          "isCorrect": true
+        },
+        {
+          "text": "visinu iznad aerodroma.",
+          "isCorrect": false
+        },
+        {
+          "text": "visinu iznad terena.",
+          "isCorrect": false
+        },
+        {
+          "text": "nivo leta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0089",
+      "question": "Ako je visinomer podešen na QNH pritisak, koju ce visinu pokazivati visinomer nakon sletanja?",
+      "options": [
+        {
+          "text": "visinu aerodoroma iznad srednjeg nivoa mora.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nula.",
+          "isCorrect": false
+        },
+        {
+          "text": "visinu aerodroma iznad ravni pritiska od 1013,2hPa.",
+          "isCorrect": false
+        },
+        {
+          "text": "pritisak koji vlada na aerodromu iznad standardne vrednosti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0090",
+      "question": "Crvena linija na brzinomeru lakih aviona predstavlja:",
+      "options": [
+        {
+          "text": "brzinu koja nikada ne sme biti predena.",
+          "isCorrect": true
+        },
+        {
+          "text": "maksimalnu brzinu za naglo komandovanje manevara.",
+          "isCorrect": false
+        },
+        {
+          "text": "brzina koju je moguce preci samo u mirnom vazduhu.",
+          "isCorrect": false
+        },
+        {
+          "text": "brzina koja se može preci sa uvucenim zakrilcima i uvicenim stajnim trapom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0091",
+      "question": "Koji nepovoljan efekat, uzrokovan žiroskopskim momentom, ce pilot iskusiti za vreme poletanja prilikom podizanja repa",
+      "options": [
+        {
+          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "isCorrect": true
+        },
+        {
+          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "sa tla?",
+          "isCorrect": false
+        },
+        {
+          "text": "tendenciju naginjanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "propinjanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "skretanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0092",
+      "question": "Šta je oznaceno zelenom bojom na brzinomeru aviona?",
+      "options": [
+        {
+          "text": "opseg uobicajenih operativnih brzina.",
+          "isCorrect": true
+        },
+        {
+          "text": "opasno podrucje.",
+          "isCorrect": false
+        },
+        {
+          "text": "opseg brzina za sletanje sa izvucenim zakrilcima i stajnim trapom.",
+          "isCorrect": false
+        },
+        {
+          "text": "maksimalno dozvolljenu brzinu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0093",
+      "question": "Maksimalna brzina za izvlacenje zakrilaca je:",
+      "options": [
+        {
+          "text": "jednaka je maksimalnoj brzini za letenje sa izvucenim zakrilcima.",
+          "isCorrect": true
+        },
+        {
+          "text": "manja od maksimalne brzine za letenje sa izvucenim zakrilcima.",
+          "isCorrect": false
+        },
+        {
+          "text": "jednaka je maksimalnoj brzini krstarenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "jednaka je manevarskoj brzini.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0094",
+      "question": "Koje je važno ogranicenje brzine koje nije bojom oznaceno na brzinomeru aviona ili jedrilice?",
+      "options": [
+        {
+          "text": "manevarska brzina (Va).",
+          "isCorrect": true
+        },
+        {
+          "text": "maksimalna strukturalna brzina (Vmo).",
+          "isCorrect": false
+        },
+        {
+          "text": "brzina koja se nikada ne sme preci (Vne).",
+          "isCorrect": false
+        },
+        {
+          "text": "maksimalna brzina sa izvucenim zakrilcima (Vfe).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0095",
+      "question": "Šta uzrokuje da se stvarna brzina aviona razlikuje od indicirane brzine?",
+      "options": [
+        {
+          "text": "ceona komponenta vetra.",
+          "isCorrect": true
+        },
+        {
+          "text": "greška na pito-cevi uzrokovana gubitkom protoka vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "greška zanošenja uzrokovana momentom zanošenja na režimu krstarenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "promena temperature i gustine vazduha.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0096",
+      "question": "Pored visinomera, koji instrumenti su povezani sa dovodom statickog pritiska?",
+      "options": [
+        {
+          "text": "brzinomer, variometar, kontrolnikom leta.",
+          "isCorrect": true
+        },
+        {
+          "text": "brzinomerom.",
+          "isCorrect": false
+        },
+        {
+          "text": "brzinomerom i pokazivacem spoljne temperature.",
+          "isCorrect": false
+        },
+        {
+          "text": "brzinomerom i variometrom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0097",
+      "question": "Koji instrument(i) je (su) povezani a ukupnim pritiskom?",
+      "options": [
+        {
+          "text": "brzinomer.",
+          "isCorrect": true
+        },
+        {
+          "text": "brzinomer, klasicni variometar i visinomer.",
+          "isCorrect": false
+        },
+        {
+          "text": "klasicni variometar i visinomer.",
+          "isCorrect": false
+        },
+        {
+          "text": "klasicni variometar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0098",
+      "question": "U kojim letnim uslovima je najveci efekat obrtnog momenta kod jednomotornih aviona?",
+      "options": [
+        {
+          "text": "pri maloj brzini, velikom gasu, velikom napadnom uglu.",
+          "isCorrect": true
+        },
+        {
+          "text": "pri velikoj brzini, velikom gasu, velikom napadnom uglu.",
+          "isCorrect": false
+        },
+        {
+          "text": "pri maloj brzini, malom gasu, malom napadnom ugulu.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0099",
+      "question": "Nakon što je zaustavljen motor, prekidac akumulatora treba postaviti na „iskljuceno\" kako bi se izbeglo pražnjenje akumulatora preko:",
+      "options": [
+        {
+          "text": "startera.",
+          "isCorrect": true
+        },
+        {
+          "text": "magneta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "alternatora ili generatora.",
+          "isCorrect": false
+        },
+        {
+          "text": "elektricnih potrošaca.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0100",
+      "question": "Skala barometarskog pritiska na avionskom visinomeru služi:",
+      "options": [
+        {
+          "text": "za postavljanje vrednosti pritiska na ravni od koje ce visinomer meriti visinu.",
+          "isCorrect": true
+        },
+        {
+          "text": "za ocitavanje vazdušnog pritiska na visini leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "ocitavanje razlike u pritiscima izmedu vazdušnog pritiska na visini aeriodroma i pritiska na nivou mora.",
+          "isCorrect": false
+        },
+        {
+          "text": "za tacno podešavanje visinomera prilikom godišnje provere instrumenata u servisu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0101",
+      "question": "Žiroskop u veštackom horizontu je:",
+      "options": [
+        {
+          "text": "žiroskop koji rotira u horizontalnoj ravni oko vertikalne ose.",
+          "isCorrect": true
+        },
+        {
+          "text": "žiroskop koji rotira u vertikalnoj ravni oko avionske poprecne ose.",
+          "isCorrect": false
+        },
+        {
+          "text": "žiroskop koji rotira u vertikalnoj ravni oko avionske uzdužne ose.",
+          "isCorrect": false
+        },
+        {
+          "text": "spregnuti žiroskop koji rotira u horizontalnoj ravni oko avionske uzdužne ose.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0102",
+      "question": "Koja bi bila posledica otkaza jednog magneta na motoru tokom leta na režimu krstarenja?",
+      "options": [
+        {
+          "text": "došlo bi do manjeg pada broja obrtaja i male povecanje potrošnje goriva.",
+          "isCorrect": true
+        },
+        {
+          "text": "motor bi radio neravnomerno.",
+          "isCorrect": false
+        },
+        {
+          "text": "dolazilo bi do pucanja u izduvnoj grani.",
+          "isCorrect": false
+        },
+        {
+          "text": "došlo bi do pojave crnog dima iz izduvne grane.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0103",
+      "question": "Gde je na gorivnom sistemu aviona uobicajeno postavljena buster pumpa.",
+      "options": [
+        {
+          "text": "na najnižoj tacki.",
+          "isCorrect": true
+        },
+        {
+          "text": "na sredini puta izmedu krilnih rezervoara sa ciljem da pomognu prebacivanju goriva.",
+          "isCorrect": false
+        },
+        {
+          "text": "odmah do mehanicke pumpe za gorivo.",
+          "isCorrect": false
+        },
+        {
+          "text": "izmedu mehanicke pume za gorivo I karburatora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0104",
+      "question": "Pokazivac kursa može biti uskladen sa magnetnim kompasom:",
+      "options": [
+        {
+          "text": "upotrebom dugmeta za rotaciju azimutne karte (u horizontalnom letu).",
+          "isCorrect": true
+        },
+        {
+          "text": "da umanji uticaj magnetne devijacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "periodicno, da se smanji uticaj ubrzanja za vreme zaokreta.",
+          "isCorrect": false
+        },
+        {
+          "text": "zbog uticaja tecnosti na usporenje okretanja kompasa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0105",
+      "question": "Razvodna ruka rotira na:",
+      "options": [
+        {
+          "text": "pola brzine obrtaja motora.",
+          "isCorrect": true
+        },
+        {
+          "text": "cetvrtini brzine obrtaja motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "brzini obrtaja motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "dvostrukoj brzini obrtaja motora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0106",
+      "question": "Detonacija je:",
+      "options": [
+        {
+          "text": "štetna za cilindar.",
+          "isCorrect": true
+        },
+        {
+          "text": "poznata kao \"udar u cilindru\".",
+          "isCorrect": false
+        },
+        {
+          "text": "deo normalnog rada motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "ne može se ustanoviti spolja. .",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0107",
+      "question": "Koji instrumenti se uobicajeno pokrecu pomocu sistema vakuum pumpe?",
+      "options": [
+        {
+          "text": "Indikator pravca,",
+          "isCorrect": true
+        },
+        {
+          "text": "(2)Kontrolnik leta,",
+          "isCorrect": false
+        },
+        {
+          "text": "(3)Indikator položaja komandi,",
+          "isCorrect": false
+        },
+        {
+          "text": "(4)Visinomer,",
+          "isCorrect": false
+        },
+        {
+          "text": "(5)Magnetni kompas.",
+          "isCorrect": false
+        },
+        {
+          "text": "(1) i (3).",
+          "isCorrect": false
+        },
+        {
+          "text": "(1) i (2).",
+          "isCorrect": false
+        },
+        {
+          "text": "(1) ,(3) i (4).",
+          "isCorrect": false
+        },
+        {
+          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "(1), (3) i (5).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0108",
+      "question": "Kako vazduh ulazi u suženje venture tube, brzina _______, staticki ili ambijentni pritisak _______ i temperature.",
+      "options": [
+        {
+          "text": "_________.",
+          "isCorrect": true
+        },
+        {
+          "text": "raste, / opada, / opada.",
+          "isCorrect": false
+        },
+        {
+          "text": "raste, / raste, / raste.",
+          "isCorrect": false
+        },
+        {
+          "text": "opada, / raste, / opada.",
+          "isCorrect": false
+        },
+        {
+          "text": "opada, / opada, / raste.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0109",
+      "question": "Zaštita od prevelikog pritiska ulja u motoru aviona je obezbedena pomocu:",
+      "options": [
+        {
+          "text": "otpusnog ventila pritiska ulja motora.",
+          "isCorrect": true
+        },
+        {
+          "text": "osiguranja da motor ne prelazi vrednost naznacene crvene linije broja obrtaja.",
+          "isCorrect": false
+        },
+        {
+          "text": "motorne pumpe visokog kapaciteta.",
+          "isCorrect": false
+        },
+        {
+          "text": "motornog prolaznog ventila.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0110",
+      "question": "Na avionima opremljenim elisama stalnog koraka sa karburatorskim sistemom, naznaka zaledivanja se iskazuje:",
+      "options": [
+        {
+          "text": "postepenim padom broja obrtaja motora i mogucim grubim radom motora i vibracijama.",
+          "isCorrect": true
+        },
+        {
+          "text": "naglim padom broja obrtaja i temperature motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "rastom pritiska goriva smanjenjem brzine horizontalnog leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "porast temperature i pad pritiska ulja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0111",
+      "question": "Nakon koliko vremena, nakon starta hladnog motora, pokazivac pritiska ulja u motoru mora da indikaciju pritiska?",
+      "options": [
+        {
+          "text": "unutar 30 sekundi, u protivnom ugasiti motor.",
+          "isCorrect": true
+        },
+        {
+          "text": "odmah, u protivnom ugasiti motor.",
+          "isCorrect": false
+        },
+        {
+          "text": "pre no što je završena proba motora, u protivnom ugasiti motor.",
+          "isCorrect": false
+        },
+        {
+          "text": "dok god je nivo ulja na adekvatnom nivou, pre starta motora i broj obrtaja unutar ogranicenja, jer je moguce da je pokazivac pritiska u kvaru što je potrebno da se izvesti nakon leta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0112",
+      "question": "Kada je avion u letu, pritisak na prednjem otvoru pito cevi je:",
+      "options": [
+        {
+          "text": "dinamicki pritisak plus staticki pritisak.",
+          "isCorrect": true
+        },
+        {
+          "text": "staticki pritisak.",
+          "isCorrect": false
+        },
+        {
+          "text": "ukupni pritisak plus dinamicki pritisak.",
+          "isCorrect": false
+        },
+        {
+          "text": "dinamicki pritisak.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0113",
+      "question": "Ukoliko, za vreme snižavanja visine, vod statickog pritiska do variometra postane blokiran, pokazivac variometra ce:",
+      "options": [
+        {
+          "text": "pokazivati nulu, nakon kratkog zastoja.",
+          "isCorrect": true
+        },
+        {
+          "text": "nastaviti da pokazuje istu brzinu spuštanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "pokazivati penjanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "pokazivati spuštanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0114",
+      "question": "Šta ce od navedenog povecati napadni ugao elise fiksnog koraka?",
+      "options": [
+        {
+          "text": "smanjena stvarna brzina i povecan broj obrtaja motora.",
+          "isCorrect": true
+        },
+        {
+          "text": "povecana stvarna brzina i povecan broj obrtaja motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "povecana stvarna brzina i smanjen broj obrtaja motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjena stvarna brzina i smanjen broj obrtaja motora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0115",
+      "question": "Na koji izvor elektricne energije je povezan starter motora?",
+      "options": [
+        {
+          "text": "direktno na akumulator.",
+          "isCorrect": true
+        },
+        {
+          "text": "samo na spoljni izvor elektricne energije.",
+          "isCorrect": false
+        },
+        {
+          "text": "na alternator ili generator.",
+          "isCorrect": false
+        },
+        {
+          "text": "zavisi od tipa aviona.",
+          "isCorrect": false
+        },
+        {
+          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0116",
+      "question": "Ukoliko se leti iz prostora visokog pritiska prema prostoru nižeg pritiska bez podešavanja pritiska, stvarna visina aviona:",
+      "options": [
+        {
+          "text": "opada.",
+          "isCorrect": true
+        },
+        {
+          "text": "raste.",
+          "isCorrect": false
+        },
+        {
+          "text": "ostaje nepromenjena.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0117",
+      "question": "Svrha rebara oko cilindra na motoru vazdušno hladenog motora jeste da.",
+      "options": [
+        {
+          "text": "boljeg hladenja cilindra.",
+          "isCorrect": true
+        },
+        {
+          "text": "povecanje efikasnosti cilindra.",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjenje aerodinamickog otpora.",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjenje mase motora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0118",
+      "question": "Glavna prednost alternatora nad generatorom jeste:",
+      "options": [
+        {
+          "text": "alternator daje gotovo punu snagu na brzini obrtaja motora na relantu.",
+          "isCorrect": true
+        },
+        {
+          "text": "generator može dati samo naizmenicnu struju.",
+          "isCorrect": false
+        },
+        {
+          "text": "izlazna snaga na generator isuviše oscilira.",
+          "isCorrect": false
+        },
+        {
+          "text": "alternator proizvodi jednosmernu struju.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0119",
+      "question": "Može li alternator avionskog motora funkcionisati bez akumulatora?",
+      "options": [
+        {
+          "text": "ne, ni u kom slucaju.",
+          "isCorrect": true
+        },
+        {
+          "text": "da, u slucaju da magneti rade normalno.",
+          "isCorrect": false
+        },
+        {
+          "text": "da, ali samo na visokom broju obrtaja motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "da, pod uslovom da je pilot ugasio sve potrošace.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0120",
+      "question": "Moguce je da dode do zaledivanja karburatora kada je relativna vlažnost veca od 50% u rasponu temperature od:",
+      "options": [
+        {
+          "text": "-7 do +33stepena celzijusa.",
+          "isCorrect": true
+        },
+        {
+          "text": "na temperaturama 0 stepeni celzijusa i nižim.",
+          "isCorrect": false
+        },
+        {
+          "text": "-20 do +10 stepeni celzijusa.",
+          "isCorrect": false
+        },
+        {
+          "text": "na bilo kojoj temperature.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0121",
+      "question": "Ukoliko dode do pregorevanja osiguraca za vreme leta:",
+      "options": [
+        {
+          "text": "osigurac može biti zamenjen u toku leta samo jedanput, osiguracem iste vrednosti.",
+          "isCorrect": true
+        },
+        {
+          "text": "ne bi trebalo da bude zamenjen pre sletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "može biti zamenjen sa osiguracem vece snage da bi se obezbedilo da ne dode do pregorevanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "može biti zamenjen onoliko puta koliko je potrebno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0122",
+      "question": "Vecina nosnih tockova lakih aviona ima:",
+      "options": [
+        {
+          "text": "uljno-vazdušne amortizere.",
+          "isCorrect": true
+        },
+        {
+          "text": "celicne lisnate opruge.",
+          "isCorrect": false
+        },
+        {
+          "text": "celicne opruge.",
+          "isCorrect": false
+        },
+        {
+          "text": "gumene amortizere.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0123",
+      "question": "Za pobudivanje alternatora inicijalna elektricna energija se dobija od.",
+      "options": [
+        {
+          "text": "akumulatora.",
+          "isCorrect": true
+        },
+        {
+          "text": "magneta.",
+          "isCorrect": false
+        },
+        {
+          "text": "bobine.",
+          "isCorrect": false
+        },
+        {
+          "text": "razvodne kape.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0124",
+      "question": "Pumpa za prihvatanje (pumpa za ubrzavanje) služi da bi sprecila \".",
+      "options": [
+        {
+          "text": "kada je naglo povecana snaga motora a kada potrebna kolicina goriva još nije došla u karburator.",
+          "isCorrect": true
+        },
+        {
+          "text": "kada je naglo smanjena snaga motora i kada motor ne dobija dovoljnu kolicinu goriva.",
+          "isCorrect": false
+        },
+        {
+          "text": "kada je gas naglo dat i zbog toga smeša privremeno postaje suviše bogata.",
+          "isCorrect": false
+        },
+        {
+          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "kada je gas naglo smanjen zbog cega je smeša privremena suviše bogata.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0125",
+      "question": "Motor sa unutrašnjim sagorevanjem razvija najvecu snagu.",
+      "options": [
+        {
+          "text": "u horizontalnom letu na maloj visini.",
+          "isCorrect": true
+        },
+        {
+          "text": "na velikim visinama.",
+          "isCorrect": false
+        },
+        {
+          "text": "za vreme poletanja na maksimalnom broju obrtaja.",
+          "isCorrect": false
+        },
+        {
+          "text": "za vreme poletanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0126",
+      "question": "Ako se žiroskop indikatora skretanja okrece od optimalnog broja okretaja, kako ce se brzina skretanja aviona porediti sa brzinom na pokazivacu skretanja?",
+      "options": [
+        {
+          "text": "stvarna brzina skretanja aviona ce biti veca nego prikazana.",
+          "isCorrect": true
+        },
+        {
+          "text": "stvarna brzina skretanja aviona ce biti ista kao prikazana brzina skretanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "stvarna brzina skretanja ce biti manja od prikazane brzine skretanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "indikator skretanje nece pokazivati brzinu zaokreta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0127",
+      "question": "Na instrument tabli, pokazivac podpritiska pokazuje kvar. Medutim, žiroskopski instrumenti izgleda da rade normalno, i signalna lampa upozorenja stepena podpritiska nije upaljena. Gde leži problem?",
+      "options": [
+        {
+          "text": "na davacu pritiska.",
+          "isCorrect": true
+        },
+        {
+          "text": "na usisnom sistemu.",
+          "isCorrect": false
+        },
+        {
+          "text": "sa lampom za upozorenje stepena podpritiska.",
+          "isCorrect": false
+        },
+        {
+          "text": "u žiroskopskim instrumentima.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0128",
+      "question": "Kada se vrši kalibracija kompasa:",
+      "options": [
+        {
+          "text": "kompas u avionu se poredi sa kalibracionim kompasom.",
+          "isCorrect": true
+        },
+        {
+          "text": "može se izvesti na bilo kom delu aerodroma koji je suv i ravan.",
+          "isCorrect": false
+        },
+        {
+          "text": "omogucuje da se odredi varijacija aviona.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0129",
+      "question": "Koji deo – delovi motora sa unutrašnjim sagorevanjem zaptivaju komoru za sagorevanje?",
+      "options": [
+        {
+          "text": "karike i ventili.",
+          "isCorrect": true
+        },
+        {
+          "text": "zaptivka cilindra.",
+          "isCorrect": false
+        },
+        {
+          "text": "svecice.",
+          "isCorrect": false
+        },
+        {
+          "text": "bregasta osovina.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0130",
+      "question": "Klipnjaca ostvaruje vezu izmedu:",
+      "options": [
+        {
+          "text": "klipa i radilice motora.",
+          "isCorrect": true
+        },
+        {
+          "text": "klipa i bregaste osovine.",
+          "isCorrect": false
+        },
+        {
+          "text": "osovine ventila i.",
+          "isCorrect": false
+        },
+        {
+          "text": "klackalice ventila i osovine ventila.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0131",
+      "question": "Koji deo cetvorotaktnog motora upravlja ventilima?",
+      "options": [
+        {
+          "text": "bregasta osovina.",
+          "isCorrect": true
+        },
+        {
+          "text": "klipnjaca.",
+          "isCorrect": false
+        },
+        {
+          "text": "osovina klipa.",
+          "isCorrect": false
+        },
+        {
+          "text": "izduvni ventil.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0132",
+      "question": "Jedan od razloga za dvostruki sistem paljenja na avionskom motoru jeste da omoguci:",
+      "options": [
+        {
+          "text": "poboljšanje performansi motora.",
+          "isCorrect": true
+        },
+        {
+          "text": "izjednacen pritisak u glavi cilindra.",
+          "isCorrect": false
+        },
+        {
+          "text": "ravnomernu distribuciju toplote.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        },
+        {
+          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "isCorrect": false
+        },
+        {
+          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0133",
+      "question": "Snaga avionskog motora bez superpunjaca opada sa visinom zbog.",
+      "options": [
+        {
+          "text": "manje gustine vazduha te stoga nedovoljnog punjenja cilindra.",
+          "isCorrect": true
+        },
+        {
+          "text": "manje spoljne temperature jer ne radi u optimalnoj temperaturi.",
+          "isCorrect": false
+        },
+        {
+          "text": "visoke gustine vazduha te stoga siromašne smeše.",
+          "isCorrect": false
+        },
+        {
+          "text": "manje gustine te stoga bogatije smeše.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0134",
+      "question": "Ulje u cetvorotaktnom motoru služi za.",
+      "options": [
+        {
+          "text": "za podmazivanje i hladenje motora.",
+          "isCorrect": true
+        },
+        {
+          "text": "da poveca temperaturu sagorevanja smeše u cilindru.",
+          "isCorrect": false
+        },
+        {
+          "text": "kao aditiv odgovarajucoj smeši goriva koja sagoreva u cilindrima.",
+          "isCorrect": false
+        },
+        {
+          "text": "za tiši rad motora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0135",
+      "question": "Kada motor ne radi, glavni izvor elektricne energije je.",
+      "options": [
+        {
+          "text": "akumulator.",
+          "isCorrect": true
+        },
+        {
+          "text": "magneti.",
+          "isCorrect": false
+        },
+        {
+          "text": "generator ili alternator.",
+          "isCorrect": false
+        },
+        {
+          "text": "osigurac.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0136",
+      "question": "Šta je najverovatniji uzrok fluktuacije pritiska ulja u motoru aviona?",
+      "options": [
+        {
+          "text": "nizak nivo ulja.",
+          "isCorrect": true
+        },
+        {
+          "text": "pohaban ležaj.",
+          "isCorrect": false
+        },
+        {
+          "text": "labava zaptivka.",
+          "isCorrect": false
+        },
+        {
+          "text": "pokvaren pokazivac pritiska ulja.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3041 @@
+{
+  "subject": "Navigacija",
+  "lang": "sr",
+  "version": 1,
+  "questions": [
+    {
+      "id": "NAV-0001",
+      "question": "Brzina vetra 5 kt je približno.",
+      "options": [
+        {
+          "text": "10 kilometara/sat.",
+          "isCorrect": true
+        },
+        {
+          "text": "5 standardna milja/sat.",
+          "isCorrect": false
+        },
+        {
+          "text": "20 m/sec.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sva tri odgovora su tacna.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0002",
+      "question": "Koliko iznosi ugao inklinacije zemljine ose ?",
+      "options": [
+        {
+          "text": "66 1/2°.",
+          "isCorrect": true
+        },
+        {
+          "text": "23 1/2°.",
+          "isCorrect": false
+        },
+        {
+          "text": "90°.",
+          "isCorrect": false
+        },
+        {
+          "text": "33 1/2°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0003",
+      "question": "Koliko centimetara iznosi 105 km na karti razmere 1:500.000:?",
+      "options": [
+        {
+          "text": "21.0 cm.",
+          "isCorrect": true
+        },
+        {
+          "text": "10.5 cm.",
+          "isCorrect": false
+        },
+        {
+          "text": "42.0 cm.",
+          "isCorrect": false
+        },
+        {
+          "text": "84.0 cm.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0004",
+      "question": "Dužinu u metrima brzo pretvaramo u dužinu u fitima pomocu formule::",
+      "options": [
+        {
+          "text": "m x 3) + 10%.",
+          "isCorrect": true
+        },
+        {
+          "text": "m x 0.3.",
+          "isCorrect": false
+        },
+        {
+          "text": "m : 10) x 3.",
+          "isCorrect": false
+        },
+        {
+          "text": "m x 3) : 10.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0005",
+      "question": "Koliko upotrebljivog goriva mora imati vazduhoplov za let dužine 300 NM sa putnom brzinom 120 kt, sa prosecnom potrošnjom od 7,3 US gal/h i rezervom goriva za 1 sat letenja.",
+      "options": [
+        {
+          "text": "25.6 gal.",
+          "isCorrect": true
+        },
+        {
+          "text": "15.0 gal.",
+          "isCorrect": false
+        },
+        {
+          "text": "18.3 gal.",
+          "isCorrect": false
+        },
+        {
+          "text": "21.4 gal.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0006",
+      "question": "Koje rastojanje preleti vazduhoplov sa 27 US gal upotrebljivog goriva u rezervoarima, srednja potrošnja 6,8 US gal/h, putna brzina 93 kt, i ako na kraju leta mora imati 6 US gal rezerve goriva.",
+      "options": [
+        {
+          "text": "287 Nm.",
+          "isCorrect": true
+        },
+        {
+          "text": "292 Nm.",
+          "isCorrect": false
+        },
+        {
+          "text": "301 Nm.",
+          "isCorrect": false
+        },
+        {
+          "text": "308 Nm.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0007",
+      "question": "Koje rastojanje preleti vazduhoplov sa 32 US gal upotrebljivog goriva u rezervoarima, srednja potrošnja 7,1 US gal/h, putna brzina 108 kt, a mora imati na kraju leta rezervu goriva za 1 sat letenja?",
+      "options": [
+        {
+          "text": "379 Nm.",
+          "isCorrect": true
+        },
+        {
+          "text": "384 Nm.",
+          "isCorrect": false
+        },
+        {
+          "text": "420 Nm.",
+          "isCorrect": false
+        },
+        {
+          "text": "487 Nm.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0008",
+      "question": "Rastojanje izmedu tacaka ALFA i BRAVO iznosi 107 NM. Vazduhoplovu je za prvih 16 NM bilo potrebno 10 minuta. Koliko vremena ce trajati ukupan let, ako brzina vazduhoplova ostaje nepromenjena?",
+      "options": [
+        {
+          "text": "1 sat i 6 minuta.",
+          "isCorrect": true
+        },
+        {
+          "text": "1 sat i 3 minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "1 sat i 1 minut.",
+          "isCorrect": false
+        },
+        {
+          "text": "59 minuta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0010",
+      "question": "Koja oznaka u trouglu vetra na slici oznacava pravi putni ugao: (Pogledajte PPL Nav-13)?",
+      "options": [
+        {
+          "text": "Oznaka 4.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oznaka 3.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 2.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 1.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0011",
+      "question": "Koliko centimetara iznosi 210 km na karti razmere 1:300.000:?",
+      "options": [
+        {
+          "text": "70 cm.",
+          "isCorrect": true
+        },
+        {
+          "text": "63 cm.",
+          "isCorrect": false
+        },
+        {
+          "text": "6.3 cm.",
+          "isCorrect": false
+        },
+        {
+          "text": "7 cm.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0012",
+      "question": "Visina 6.000 ft iznosi približno:",
+      "options": [
+        {
+          "text": "1,800 m.",
+          "isCorrect": true
+        },
+        {
+          "text": "1,200 m.",
+          "isCorrect": false
+        },
+        {
+          "text": "3,000 m.",
+          "isCorrect": false
+        },
+        {
+          "text": "12,000 m.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0013",
+      "question": "Razmera karte je : (Pogledajte PPL Nav-3).",
+      "options": [
+        {
+          "text": "1:250 000.",
+          "isCorrect": true
+        },
+        {
+          "text": "1:300 000.",
+          "isCorrect": false
+        },
+        {
+          "text": "1:200 000.",
+          "isCorrect": false
+        },
+        {
+          "text": "1:500 000.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0014",
+      "question": "Rastojanje od 15 km na odredenoj karti iznosi 6 cm. Koje razmere je karta?",
+      "options": [
+        {
+          "text": "1:250 000.",
+          "isCorrect": true
+        },
+        {
+          "text": "1:300 000.",
+          "isCorrect": false
+        },
+        {
+          "text": "1:400 000.",
+          "isCorrect": false
+        },
+        {
+          "text": "1:500 000.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0015",
+      "question": "Gde na karti možemo izmeriti rastojanje izmedu dve tacke, koje smo izmerili šestarom ili oznacili na rubu parceta papira:?",
+      "options": [
+        {
+          "text": "Na svakom meridijanu ili na skali na donjem rubu karte.",
+          "isCorrect": true
+        },
+        {
+          "text": "Na svakom meridijanu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo na srednjem meridijanu izmedu tacaka.",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo na skali na donjem rubu karte.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0016",
+      "question": "Dužina jedne statutne milje je:",
+      "options": [
+        {
+          "text": "1,609 m.",
+          "isCorrect": true
+        },
+        {
+          "text": "1,852 m.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,432 m.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,111 m.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0017",
+      "question": "Koliko približno kilometara iznosi 70 nautickih milja:?",
+      "options": [
+        {
+          "text": "130 kilometar.",
+          "isCorrect": true
+        },
+        {
+          "text": "135 kilometar.",
+          "isCorrect": false
+        },
+        {
+          "text": "140 kilometar.",
+          "isCorrect": false
+        },
+        {
+          "text": "145 kilometar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0018",
+      "question": "Formula za brzo preracunavanje kilometara u nauticke milje je:",
+      "options": [
+        {
+          "text": "kilometar : 2) + 10%.",
+          "isCorrect": true
+        },
+        {
+          "text": "kilometar x 2) - 22%.",
+          "isCorrect": false
+        },
+        {
+          "text": "kilometar : 2) - 10%.",
+          "isCorrect": false
+        },
+        {
+          "text": "kilometar x 2) - 10%.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0020",
+      "question": "Koliko kilograma iznosi 90 funti?",
+      "options": [
+        {
+          "text": "41 kilogram.",
+          "isCorrect": true
+        },
+        {
+          "text": "37 kilogram.",
+          "isCorrect": false
+        },
+        {
+          "text": "45 kilogram.",
+          "isCorrect": false
+        },
+        {
+          "text": "52 kilogram.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0021",
+      "question": "Koliko funti iznosi 100 kilograma?",
+      "options": [
+        {
+          "text": "220 lbs.",
+          "isCorrect": true
+        },
+        {
+          "text": "180 lbs.",
+          "isCorrect": false
+        },
+        {
+          "text": "200 lbs.",
+          "isCorrect": false
+        },
+        {
+          "text": "250 lbs.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0022",
+      "question": "Koliko ce vazduhoplov preleteti za 2-1/2 minuta ako mu je brzina u odnosu na zemlju 98 kts?",
+      "options": [
+        {
+          "text": "4.08 Nm.",
+          "isCorrect": true
+        },
+        {
+          "text": "2.45 Nm.",
+          "isCorrect": false
+        },
+        {
+          "text": "3.35 Nm.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0023",
+      "question": "Dužina rute od tacke X do Y preko kontrolne tacke Z je 84 km. Vazduhoplovu je od tacke X do tacke Z,koja je od tacke X udaljena 35 km, trebalo 50 minuta. Koliko vremena ce trajati let od X do Y?",
+      "options": [
+        {
+          "text": "2 sata.",
+          "isCorrect": true
+        },
+        {
+          "text": "45 minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "50 minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "1 sat i 10 minuta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0024",
+      "question": "Vazduhoplov bi u uslovima bez vetra preleteo rastojanje od 120 km za 2 sata i 40 minuta, a stvarno je leteo 3 sata i 5 minuta. Koliko iznosi uzdužna komponenta vetra na ruti?",
+      "options": [
+        {
+          "text": "6 km/h u celo.",
+          "isCorrect": true
+        },
+        {
+          "text": "16 kt u leda.",
+          "isCorrect": false
+        },
+        {
+          "text": "16 km/h u celo.",
+          "isCorrect": false
+        },
+        {
+          "text": "6 kt u leda.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0025",
+      "question": "Kolika je putna brzina GS) vazduhoplova, ako isti preleti u vremenu od 40 minuta rastojanje , koje predstavlja dužinu 10,8 cm na karti razmere 1:500.000?",
+      "options": [
+        {
+          "text": "81 km/h.",
+          "isCorrect": true
+        },
+        {
+          "text": "81 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "100 mph.",
+          "isCorrect": false
+        },
+        {
+          "text": "100 km/h.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0026",
+      "question": "Visina 1.500 metara iznosi približno:",
+      "options": [
+        {
+          "text": "4,900 ft.",
+          "isCorrect": true
+        },
+        {
+          "text": "3,600 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "4,000 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "4,500 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0027",
+      "question": "Brzina 120 km/h izražena u cvorovima je:",
+      "options": [
+        {
+          "text": "65 kts.",
+          "isCorrect": true
+        },
+        {
+          "text": "50 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "58 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "60 kts.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0028",
+      "question": "Na karti ocitamo visinu prepreke od 275 metara. Koja je to najmanja visina u fitima, na kojoj smemo da letimo iznad prepreke, a da bi poštovali propis od 1.000 ft nadvišavanja prepreke:",
+      "options": [
+        {
+          "text": "1,900 ft.",
+          "isCorrect": true
+        },
+        {
+          "text": "2,230 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "2,130 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,230 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0029",
+      "question": "Brzina vetra 10 m/sec je približno.",
+      "options": [
+        {
+          "text": "20 kts.",
+          "isCorrect": true
+        },
+        {
+          "text": "40 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "5 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "2,5 kts.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0030",
+      "question": "Šta je merna jedinica cvor (kt), koja se upotrebljava u vazduhoplovstvu?",
+      "options": [
+        {
+          "text": "Nm/h.",
+          "isCorrect": true
+        },
+        {
+          "text": "SM/h.",
+          "isCorrect": false
+        },
+        {
+          "text": "kilometar/h.",
+          "isCorrect": false
+        },
+        {
+          "text": "m/h.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0031",
+      "question": "Ako pilot promene visinomer podešavanje iz 1010 hPa za 1000 hPa, koja je približan promena u indikacija?",
+      "options": [
+        {
+          "text": "Visinomer ce pokazivati 300 ft manje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Visinomer ce pokazivati 300 ft više.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nema promene u indikacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Razlicito, zavisno od QNH.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0032",
+      "question": "Visinomer vazduhoplova postavljen na 1.008 hPa, pokazuje na zemlji 1.600 ft. Koju ce visinu pokazivati ako promenimo pritisak na 1.009 hPa?",
+      "options": [
+        {
+          "text": "1,630 ft.",
+          "isCorrect": true
+        },
+        {
+          "text": "1,610 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,570 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,590 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0033",
+      "question": "U slucaju kada na visinomeru vazduhoplova na zemlji promenimo postavljeni pritisak sa 996 hPa na 1.033 hPa, visina se:",
+      "options": [
+        {
+          "text": "Povecava.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nece promeniti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kod visokih temperatura smanjuje, a pri niskim temperaturama povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjuje za 1.000 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0034",
+      "question": "Pritisku QFE 1.000 hPa na aerodromu sa nadmorskom visinom 200 metara odgovara pritisak QNH?",
+      "options": [
+        {
+          "text": "1025 hPa.",
+          "isCorrect": true
+        },
+        {
+          "text": "985 hPa.",
+          "isCorrect": false
+        },
+        {
+          "text": "990 hPa.",
+          "isCorrect": false
+        },
+        {
+          "text": "1035 hPa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0035",
+      "question": "Severno 11 kilometara od geografskih koordinata N 44° 41,3' i E 21° 04,1' nalazi se mesto? (Pogledajte PPL Nav-4).",
+      "options": [
+        {
+          "text": "Gaj.",
+          "isCorrect": true
+        },
+        {
+          "text": "Skorenovac.",
+          "isCorrect": false
+        },
+        {
+          "text": "Radinac.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kovin.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0036",
+      "question": "Variometar vazduhoplova pokazuje penjanje 500ft/min, što znaci da se vazduhoplov uzdiže približno sa.",
+      "options": [
+        {
+          "text": "2,5 m/sec.",
+          "isCorrect": true
+        },
+        {
+          "text": "1,5 m/sec.",
+          "isCorrect": false
+        },
+        {
+          "text": "3,5 m/sec.",
+          "isCorrect": false
+        },
+        {
+          "text": "5 m/sec.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0037",
+      "question": "Koja od sledecih tvrdnji koje se odnose na kruženje Zemlje oko Sunca, je pravilna:",
+      "options": [
+        {
+          "text": "Zemlja obide Sunce za godinu dana.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zemlja obide Sunce jedan put leti i jedan put zimi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zemlja ne kruži oko sunca, Zemlja miruje a Sunce kruži oko Zemlje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zemlja obide Sunce u jednom danu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0038",
+      "question": "Dužina 1 nauticke milje je:",
+      "options": [
+        {
+          "text": "1,852 m.",
+          "isCorrect": true
+        },
+        {
+          "text": "1,111 m.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,432 m.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,609 m.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0039",
+      "question": "Veliki krug na Zemljinoj kugli je presek površine Zemlje i ravni, koja prolazi kroz:",
+      "options": [
+        {
+          "text": "Središte Zemlje i ostvaruje sa Zemljinom osom proizvoljan ugao.",
+          "isCorrect": true
+        },
+        {
+          "text": "Središte Zemlje i uvek je pod pravim uglom na Zemljinu osu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Središte Zemlje i zaklapa oštar ugao sa Zemljinom osom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dve suprotne tacke na Zemljinoj površini, presek s površinom Zemlje je najkrace rastojanje izmedu dve tacke.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0040",
+      "question": "Koliko velikih krugova (ortodroma) je moguce ostvariti na zemljinoj kugli:",
+      "options": [
+        {
+          "text": "Beskonacan broj.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "NAV-0360",
+      "question": "41. Ekvator je veliki krug cija ravan:",
+      "options": [
+        {
+          "text": "Deli Zemljinu loptu na severnu i južnu hemisferu-poluloptu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Deli Zemljinu kuglu na zapadnu i istocnu hemisferu-poluloptu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Je paralelna sa Zemljinom osom.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0042",
+      "question": "Veliki krug(ovi) na Zemaljskoj kugli je(su):",
+      "options": [
+        {
+          "text": "Ekvator, meridijani i ortodrome.",
+          "isCorrect": true
+        },
+        {
+          "text": "Samo ekvator.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekvator i meridijan.",
+          "isCorrect": false
+        },
+        {
+          "text": "ekvator, meridijani i paralele.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0043",
+      "question": "Najkracu razdaljinu izmedu dve tacke na Zemljinoj kugli zovemo:",
+      "options": [
+        {
+          "text": "Ortodroma.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lambodroma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Loksodroma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mali krug.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0044",
+      "question": "Šta je uzrok godišnjih doba?",
+      "options": [
+        {
+          "text": "Nagiba Zemljine ose.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nejednako kretanja Zemlje oko Sunca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Neravnomerna temperatura u svemiru.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oblik Zemljine putanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0045",
+      "question": "U cemu je znacaj loksodrome:",
+      "options": [
+        {
+          "text": "Sece meridijan pod istim uglovima.",
+          "isCorrect": true
+        },
+        {
+          "text": "To je veliki krug.",
+          "isCorrect": false
+        },
+        {
+          "text": "To je najkraca razdaljina izmedu dve tacke na zemljinoj kugli.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sece meridijan pod razlicitim uglovima.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0046",
+      "question": "Zemljina kugla rotira:",
+      "options": [
+        {
+          "text": "Oko svoje ose u smeru zapad - istok.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oko tako zvanog Suncevog povratnika.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sa Suncem u smeru od istoka prema zapadu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oko svoje ose u smeru istok - zapad.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0047",
+      "question": "Koji krugovi iz geografske mreže su istovremeno ortodrome i loksodrome:",
+      "options": [
+        {
+          "text": "Meridijani i ekvator.",
+          "isCorrect": true
+        },
+        {
+          "text": "Samo paralele.",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo meridijani.",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo ekvator.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0048",
+      "question": "Precnik Zemljine kugle na ekvatoru, je u odnosu na dužinu Zemljine ose:",
+      "options": [
+        {
+          "text": "Veci za 43 km.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dva puta veci.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jednak.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manji za 42 km.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0049",
+      "question": "Približno koliko iznosi obim Zemljinog ekvatora:",
+      "options": [
+        {
+          "text": "40,075 kilometar.",
+          "isCorrect": true
+        },
+        {
+          "text": "21,600 Nm.",
+          "isCorrect": false
+        },
+        {
+          "text": "30,000 Nm.",
+          "isCorrect": false
+        },
+        {
+          "text": "24,000 kilometar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0050",
+      "question": "Koje tacke na zemaljskoj kugli odreduju zemljinu osu:",
+      "options": [
+        {
+          "text": "Severni i južni geografski pol.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ekvator-polulopta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Severni i južni magnetni pol.",
+          "isCorrect": false
+        },
+        {
+          "text": "Severni geografski i severni magnetni pol.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0051",
+      "question": "Izogona je linija koja spaja tacke.",
+      "options": [
+        {
+          "text": "Jednake magnetne varijacije.",
+          "isCorrect": true
+        },
+        {
+          "text": "Jednake magnetne devijacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nulte magnetne varijacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nulte magnetne devijacije.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0052",
+      "question": "Varijacija je ugao izmedu:",
+      "options": [
+        {
+          "text": "Pravog severa i Magnetnog severa.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pravog severa i najbližeg meridijana.",
+          "isCorrect": false
+        },
+        {
+          "text": "Magnetnog severa i avionskog magnetnog kursa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Magnetnog severa i avionskog pravog kursa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0053",
+      "question": "Loksodroma je?",
+      "options": [
+        {
+          "text": "Kriva linija na zemljinoj površini koja sece sve meridijane pod istim uglom.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kriva linija na zemljinoj površini koja sece sve paralele pod istim uglom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Linija koja pokazuje pravi sever.",
+          "isCorrect": false
+        },
+        {
+          "text": "Linija na površini zemlje cije središte i radijus su od zemljine kugle.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0054",
+      "question": "Meridijan koji prolazi kroz Grinic je poznat kao?",
+      "options": [
+        {
+          "text": "Pocetni Meridijan.",
+          "isCorrect": true
+        },
+        {
+          "text": "Glavni Meridijan.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekvator.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veliki Meridijan.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0055",
+      "question": "Zemljina putanja je:",
+      "options": [
+        {
+          "text": "Elipsa sa Suncem u jednoj od žiža.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kružnica sa Suncem u sredini.",
+          "isCorrect": false
+        },
+        {
+          "text": "Elipsa sa Suncem u razlicitim tackama unutar elipse.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kružnica, oko koje kruži Sunce.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0056",
+      "question": "Koliko iznosi uglovna razlika medu geografskim dužinama tacke A i B, a kojima su geografske dužine:",
+      "options": [
+        {
+          "text": "A:04° 14' 18\" E",
+          "isCorrect": true
+        },
+        {
+          "text": "02° 30' 30\" E.",
+          "isCorrect": false
+        },
+        {
+          "text": "01° 43' 58\".",
+          "isCorrect": false
+        },
+        {
+          "text": "06° 44' 58\".",
+          "isCorrect": false
+        },
+        {
+          "text": "02° 44' 58.",
+          "isCorrect": false
+        },
+        {
+          "text": "02° 16' 02\".",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0057",
+      "question": "Koja oznaka u trouglu vetra na slici oznacava pravi kurs: (Pogledajte PPL Nav-13)?",
+      "options": [
+        {
+          "text": "Oznaka 3.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oznaka 4.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 2.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 1.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0058",
+      "question": "Geografske koordinate tacke DUBRA su (Pogledajte PPL Nav-4).",
+      "options": [
+        {
+          "text": "N 44° 41,3' i E 21° 04,1'.",
+          "isCorrect": true
+        },
+        {
+          "text": "N 44° 41,3' i W 21° 04,1'.",
+          "isCorrect": false
+        },
+        {
+          "text": "S 44° 41,3' i E 21° 04,1'.",
+          "isCorrect": false
+        },
+        {
+          "text": "S 44° 41,3' i W 21° 04,1'.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0059",
+      "question": "Koji tacka imao je geografski koordinate N 44° 33,2' i E 20° 59,0'? (Pogledajte PPL Nav-4).",
+      "options": [
+        {
+          "text": "MIHAL.",
+          "isCorrect": true
+        },
+        {
+          "text": "DUBRA.",
+          "isCorrect": false
+        },
+        {
+          "text": "YEZAV.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0060",
+      "question": "Geografski koordinate tacke C su (Pogledajte PPL Nav-1).",
+      "options": [
+        {
+          "text": "N 45° 00,9' i E 19° 45,0'.",
+          "isCorrect": true
+        },
+        {
+          "text": "N 45° 00,9' i S 19° 45,0'.",
+          "isCorrect": false
+        },
+        {
+          "text": "N 45° 00,9' i W 19° 45,0'.",
+          "isCorrect": false
+        },
+        {
+          "text": "N 45° 00,9' i N 19° 45,0'.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0061",
+      "question": "Geografski koordinate tacke B su (Pogledajte PPL Nav-1).",
+      "options": [
+        {
+          "text": "N 45° 05,9' i E 19° 46,1'.",
+          "isCorrect": true
+        },
+        {
+          "text": "N 45° 05,9' i S 19° 46,1'.",
+          "isCorrect": false
+        },
+        {
+          "text": "N 45° 05,9' i W 19° 46,1'.",
+          "isCorrect": false
+        },
+        {
+          "text": "N 45° 05,5' i N 19° 46,1'.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0062",
+      "question": "Geografski koordinate tacke A su (Pogledajte PPL Nav-1).",
+      "options": [
+        {
+          "text": "N 44° 59,6' i E 19° 33,5'.",
+          "isCorrect": true
+        },
+        {
+          "text": "N 44° 59,6' i W 19° 33,5'.",
+          "isCorrect": false
+        },
+        {
+          "text": "(3 E 44° 59,6' i N 19° 33,5'.",
+          "isCorrect": false
+        },
+        {
+          "text": "W 44° 59,6' i N 19° 33,5'.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0063",
+      "question": "Rastojanje izmedu 10° N. i 11°N. geografske širine, merena na meridijanu je:",
+      "options": [
+        {
+          "text": "111 kilometara.",
+          "isCorrect": true
+        },
+        {
+          "text": "60 SM.",
+          "isCorrect": false
+        },
+        {
+          "text": "60 kilometara.",
+          "isCorrect": false
+        },
+        {
+          "text": "111 Nm.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0064",
+      "question": "Koji od navedenih krugova na Zemaljskoj kugli nema središte u središtu Zemlje:",
+      "options": [
+        {
+          "text": "Mali krug.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ortodroma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veliki krug.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ekvator.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0065",
+      "question": "Koliko iznosi uglovna razlika medu geografskim širinama tacaka A i B, a koje leže na geografskim širinama",
+      "options": [
+        {
+          "text": "15° 54' 30\" N",
+          "isCorrect": true
+        },
+        {
+          "text": "10° 33' 30\" S.",
+          "isCorrect": false
+        },
+        {
+          "text": "26° 28' 00\".",
+          "isCorrect": false
+        },
+        {
+          "text": "05° 21' 00\".",
+          "isCorrect": false
+        },
+        {
+          "text": "25° 27' 00\".",
+          "isCorrect": false
+        },
+        {
+          "text": "05° 28' 00\".",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0066",
+      "question": "Dužina 1 Nm je.",
+      "options": [
+        {
+          "text": "Dužina jedne lucne minute na meridijanu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tacno 40-hiljaditi deo obima Zemljine kugle.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rastojanje izmedu meridijana i pola.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obim Polarnog kruga.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0067",
+      "question": "Koliko iznosi geografska širina tacke na ekvatoru?",
+      "options": [
+        {
+          "text": "0°.",
+          "isCorrect": true
+        },
+        {
+          "text": "90°N.",
+          "isCorrect": false
+        },
+        {
+          "text": "180°S.",
+          "isCorrect": false
+        },
+        {
+          "text": "90°S.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0068",
+      "question": "Geografska širina je rastojanje tacke na Zemaljskoj kugli od:",
+      "options": [
+        {
+          "text": "ekvatora, merena u lucnim stepenima.",
+          "isCorrect": true
+        },
+        {
+          "text": "ekvatora, merena u statutnim miljama.",
+          "isCorrect": false
+        },
+        {
+          "text": "nultog meridijana, merena u lucnim stepenima.",
+          "isCorrect": false
+        },
+        {
+          "text": "nultog meridijana, merena u geografskim miljama.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0069",
+      "question": "Vazduhoplov se nalazi nad Beogradom i leti tacno prema jugu. Vreme je 12:00 UTC. Sunce je tada:",
+      "options": [
+        {
+          "text": "desno od pravca vazduhoplova.",
+          "isCorrect": true
+        },
+        {
+          "text": "tacno na jugu.",
+          "isCorrect": false
+        },
+        {
+          "text": "levo od pravca vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "levo ili desno od pravca vazduhoplova, zavisno od godišnjeg doba.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0070",
+      "question": "13:00 po srednje evropskom letnjem vremenu je.",
+      "options": [
+        {
+          "text": "1100 UTC.",
+          "isCorrect": true
+        },
+        {
+          "text": "1200 UTC.",
+          "isCorrect": false
+        },
+        {
+          "text": "1400 UTC.",
+          "isCorrect": false
+        },
+        {
+          "text": "0100 UTC.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0071",
+      "question": "Koordinirano univerzalno vreme - UTC je:",
+      "options": [
+        {
+          "text": "Vreme na geografskoj dužini \"O\", na nultom meridijanu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lokalno vreme.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zonsko vreme.  .",
+          "isCorrect": false
+        },
+        {
+          "text": "Srednje evropsko vreme.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0072",
+      "question": "Za koje vreme ce se promeniti ugao Sunca za 27 stepeni:",
+      "options": [
+        {
+          "text": "108 minuta.",
+          "isCorrect": true
+        },
+        {
+          "text": "30 minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "90 minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "135 minuta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0073",
+      "question": "Za koliko vremena Sunce prede luk po nebu dužine 5 lucnih stepeni:",
+      "options": [
+        {
+          "text": "20 minuta.",
+          "isCorrect": true
+        },
+        {
+          "text": "60 minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "30 minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "4 minuta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0074",
+      "question": "Koliko iznosi geografska širina tacke B, koja leži 240 NM severno od tacke A cija je geografska širina 62°33' 00\" N.",
+      "options": [
+        {
+          "text": "66° 33' 00\" N.",
+          "isCorrect": true
+        },
+        {
+          "text": "58° 33' 00\" N.",
+          "isCorrect": false
+        },
+        {
+          "text": "86° 33' 00\" N.",
+          "isCorrect": false
+        },
+        {
+          "text": "64° 33' 00\" N.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0075",
+      "question": "Radijali VOR-a su.",
+      "options": [
+        {
+          "text": "Magnetni smerovi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kompasni smerovi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pravi smerovi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Relativni stranski smerovi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0076",
+      "question": "Koji avioni odgovaraju VOR indikatoru V? (Pogledajte PPL Nav-12).",
+      "options": [
+        {
+          "text": "Samo avion 2.",
+          "isCorrect": true
+        },
+        {
+          "text": "Samo avion 6.",
+          "isCorrect": false
+        },
+        {
+          "text": "Avioni 5 i 8.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0077",
+      "question": "Koliko milja bocno se nalazi vazduhoplov, koji je 60 Nm ispred stanice VOR-a, ako je indikator CDI otklonjen za jednu petinu punog otklona u jednu stranu.",
+      "options": [
+        {
+          "text": "2 milja.",
+          "isCorrect": true
+        },
+        {
+          "text": "6 milja.",
+          "isCorrect": false
+        },
+        {
+          "text": "1 milja.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0078",
+      "question": "Kada je VOR/ILS prijemnik podešen na VOR ucestalost, koliko stepen je puno skretanje CDI?",
+      "options": [
+        {
+          "text": "10°.",
+          "isCorrect": true
+        },
+        {
+          "text": "5°.",
+          "isCorrect": false
+        },
+        {
+          "text": "20°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0079",
+      "question": "Ako želimo leteti prema stanici VOR-a po radijalu 215°, moramo na indikatoru VOR-a u kabini vazduhoplova postaviti OBS na.",
+      "options": [
+        {
+          "text": "035° i ispraviti kurs ka kazaljki CDI.",
+          "isCorrect": true
+        },
+        {
+          "text": "215° i ispraviti kurs ka kazaljki CDI.",
+          "isCorrect": false
+        },
+        {
+          "text": "215° i ispraviti kurs od kazaljke CDI.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0080",
+      "question": "Za održavanje R180 u odletu od stanice VOR-a moramo postaviti radijal.",
+      "options": [
+        {
+          "text": "180° i ispravljati kurs ka kazaljki CDI.",
+          "isCorrect": true
+        },
+        {
+          "text": "360° i ispravljati kurs ka kazaljki CDI.",
+          "isCorrect": false
+        },
+        {
+          "text": "180° i ispravljati kurs od kazale CDI.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0081",
+      "question": "U kojoj situaciji je suprotno citanje stanja od VOR-a?",
+      "options": [
+        {
+          "text": "Kada letimo suprotno od pravca koji je izabran na OBS.",
+          "isCorrect": true
+        },
+        {
+          "text": "Podešavanjem OBS na 90° na pravac na kojem je avion je lociran.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kada ne promenimo OBS sa dolazeceg kursa na odlazeci.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0082",
+      "question": "Koliko litara iznosi 25 US galona?",
+      "options": [
+        {
+          "text": "95 l.",
+          "isCorrect": true
+        },
+        {
+          "text": "98 l.",
+          "isCorrect": false
+        },
+        {
+          "text": "100 l.",
+          "isCorrect": false
+        },
+        {
+          "text": "105 l.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0083",
+      "question": "Približno koliko iznosi bocno odstupanje od pravca vazdušnog puta, ako pilot ocita na DME udaljenost 120NM, a kazaljka indikatora VOR-a je otklonjena za 1/5 celog otklona u jednu stranu?",
+      "options": [
+        {
+          "text": "6,7 Nm.",
+          "isCorrect": true
+        },
+        {
+          "text": "1,5 Nm.",
+          "isCorrect": false
+        },
+        {
+          "text": "3,0 Nm.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0084",
+      "question": "Greška kose daljine od DME je maksimalna na.",
+      "options": [
+        {
+          "text": "Velikoj visini neposredno iznad DME.",
+          "isCorrect": true
+        },
+        {
+          "text": "Maloj visini neposredno iznad DME.",
+          "isCorrect": false
+        },
+        {
+          "text": "Velikoj visini i velikoj daljini od DME.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0001",
+      "question": "0.",
+      "options": [
+        {
+          "text": "1,3.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "NAV-0086",
+      "question": "Koju daljinu pokazuje DME indikator?",
+      "options": [
+        {
+          "text": "Kosu daljinu u nautickim miljama.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kosu daljinu u statutnim miljama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Daljina od avion do tacke na istoj visini neposredno iznad DME.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zemaljsko rastojanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0087",
+      "question": "Koja od sledecih izjava, obzirom na DME operacija, je tacna?",
+      "options": [
+        {
+          "text": "Kada leteci neposredno iznad DME, pilot ocita na DME indikator u pilotska kabina nula daljina.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ako mi prebacimo DME prekidac na HPLD, sva pokazivanja aparata su resetovana.",
+          "isCorrect": false
+        },
+        {
+          "text": "Frekvencija DME prijemnika u avionu se automatski prebaci kada mi izaberemo VOR ili ILS frekvenciju.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0088",
+      "question": "Koji prikaz VOR indikatora odgovara poziciji aviona 5 i 7? (Pogledajte PPL Nav-12).",
+      "options": [
+        {
+          "text": "W i Z.",
+          "isCorrect": true
+        },
+        {
+          "text": "T i X.",
+          "isCorrect": false
+        },
+        {
+          "text": "V i X.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0089",
+      "question": "Na ADF-u C ,magnetni kurs OD stanice je? (Pogledajte PPL Nav-10).",
+      "options": [
+        {
+          "text": "115°.",
+          "isCorrect": true
+        },
+        {
+          "text": "025°.",
+          "isCorrect": false
+        },
+        {
+          "text": "295°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0090",
+      "question": "Tacnost GPS-a je, isto kao što to važi i za VOR, u velikoj meri zavisi od udaljenosti izabrane tacke. Tvrdnja je.",
+      "options": [
+        {
+          "text": "Lažna.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tacna.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0091",
+      "question": "Koja oznaka na slici trougla vetra oznacava vektor vetra: (Pogledajte PPL Nav-13)?",
+      "options": [
+        {
+          "text": "Oznaka 7.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oznaka 5.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 6.",
+          "isCorrect": false
+        },
+        {
+          "text": "oznaka 8.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0092",
+      "question": "Na ADF-u A ,magnetni kurs OD stanice je? (Pogledajte PPL Nav-10).",
+      "options": [
+        {
+          "text": "030°.",
+          "isCorrect": true
+        },
+        {
+          "text": "150°.",
+          "isCorrect": false
+        },
+        {
+          "text": "180°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0093",
+      "question": "Kako zovemo linije na geografskoj karti, koje povezuju tacke sa jednakom magnetnom deklinacijom pozvan.",
+      "options": [
+        {
+          "text": "Izogone.",
+          "isCorrect": true
+        },
+        {
+          "text": "Agone.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izokline.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izobare.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0094",
+      "question": "Gde odnosno kako dobijamo podatke o magnetnoj deklinaciji date tacke na površini Zemlje.",
+      "options": [
+        {
+          "text": "Pomocu izogona na vazduhoplovnoj navigacionoj karti.",
+          "isCorrect": true
+        },
+        {
+          "text": "U tabeli magnetne deklinacije u kabini vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izracunamo uglovnu razliku izmedu meridijana date tacke i meridijana, koji prolazi kroz Greenwich.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izracunamo razliku izmedu magnetnog i kompasnog kursa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0095",
+      "question": "Ugao izmedu smera geografskog severa i smera magnetnog severa zovemo.",
+      "options": [
+        {
+          "text": "deklinacija.",
+          "isCorrect": true
+        },
+        {
+          "text": "devijacija kompasa.",
+          "isCorrect": false
+        },
+        {
+          "text": "inklinacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "konvergencija.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0096",
+      "question": "Koja vrednost je uracunata u magneti putni ugao?",
+      "options": [
+        {
+          "text": "Magnetna deklinacija.",
+          "isCorrect": true
+        },
+        {
+          "text": "Devijacija kompasa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Magnetna inklinacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ugao popravke za vetar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0098",
+      "question": "U formuli za preracunavanje magnetnog pravca iz datog pravog pravca, zapadna deklinacija se.",
+      "options": [
+        {
+          "text": "Dodati.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oduzeti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pomnožiti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Podeliti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0099",
+      "question": "U navigaciji \"ugao zanosa\" oznacava?",
+      "options": [
+        {
+          "text": "Razliku izmedu smera putne brzine vazduhoplova i zadanog putnog ugla.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ugao izmedu uzdužne ose vazduhoplova i stvarne linije puta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Razliku izmedu magnetnog putnog ugla i smera vetra.",
+          "isCorrect": false
+        },
+        {
+          "text": "Razliku izmedu upadnog ugla vetra na vektor stvarne vazdušne brzine i uzdužne ose vazduhoplova.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0100",
+      "question": "Formula za izracunavanje magnetnog putnog ugla je:",
+      "options": [
+        {
+          "text": "PPU pravi putni ugao) + - deklinacija.",
+          "isCorrect": true
+        },
+        {
+          "text": "PK pravi kurs) + - deklinacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "PPU + - devijacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "MK magnetni kurs) + - devijacija.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0101",
+      "question": "Koja oznaka u trouglu vetra na slici oznacava putnu brzinu GS) vazduhoplova: (Pogledajte PPL Nav-13)?",
+      "options": [
+        {
+          "text": "Oznaka 6.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oznaka 5.",
+          "isCorrect": false
+        },
+        {
+          "text": "oznaka 7.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 8.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0102",
+      "question": "Koja oznaka u trouglu vetra na slici oznacava stvarnu vazdušnu brzinu TAS) vazduhoplova: (Pogledajte PPL Nav-13)?",
+      "options": [
+        {
+          "text": "Oznaka 8.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oznaka 5.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 6.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 7.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0103",
+      "question": "Koja oznaka u trouglu vetra na slici oznacava devijaciju kompasa: (Pogledajte PPL Nav-13)?",
+      "options": [
+        {
+          "text": "Oznaka 10.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oznaka 5.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 8.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 9.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0104",
+      "question": "Koja oznaka u trouglu vetra na slici oznacava magnetnu deklinaciju: (Pogledajte PPL Nav-13)?",
+      "options": [
+        {
+          "text": "Oznaka 9.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oznaka 3.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 5.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 10.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0105",
+      "question": "Koja oznaka u trouglu vetra na slici oznacava ugao popravke zbog vetra: (Pogledajte PPL Nav-13)?",
+      "options": [
+        {
+          "text": "Oznaka 5.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oznaka 2.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 3.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 4.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0106",
+      "question": "Koja oznaka u trouglu vetra na slici oznacava kompasni kurs: (Pogledajte PPL Nav-13)?",
+      "options": [
+        {
+          "text": "Oznaka 1.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oznaka 2.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 3.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 4.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0107",
+      "question": "Koja oznaka u trouglu vetra na slici oznacava magnetni kurs: (Pogledajte PPL Nav-13)?",
+      "options": [
+        {
+          "text": "Oznaka 2.",
+          "isCorrect": true
+        },
+        {
+          "text": "Oznaka 1.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 3.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oznaka 4.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0108",
+      "question": "Ugao popravke vetra je ugao razlike izmedu.",
+      "options": [
+        {
+          "text": "Pravog kursa i zadatog putnog ugla.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pravog kursa i magnetnog kursa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zadatog pravog putnog ugla i zadatog magnetnog putnog ugla.",
+          "isCorrect": false
+        },
+        {
+          "text": "Magnetnog kursa i kompasnog kursa bez vetra.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0109",
+      "question": "Na ADF-u A ,relativni pravac KA stanici je ? (Pogledajte PPL Nav-10).",
+      "options": [
+        {
+          "text": "240°.",
+          "isCorrect": true
+        },
+        {
+          "text": "030°.",
+          "isCorrect": false
+        },
+        {
+          "text": "210°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0110",
+      "question": "U RNAV modu, bocno skretanje od CDI prikazace.",
+      "options": [
+        {
+          "text": "nauticke milje levo ili desno od kursa.",
+          "isCorrect": true
+        },
+        {
+          "text": "stepen levo ili desno od kursa.",
+          "isCorrect": false
+        },
+        {
+          "text": "statutne milje levo ili desno od kursa.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0111",
+      "question": "Na ADF-u B , u koji magnetni kurs je potrebno okrenuti da bi presekli pravac 180° KA stanici? (Pogledajte PPL Nav-10).",
+      "options": [
+        {
+          "text": "220°.",
+          "isCorrect": true
+        },
+        {
+          "text": "040°.",
+          "isCorrect": false
+        },
+        {
+          "text": "160°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0112",
+      "question": "Na ADF-u B , u koji magnetni kurs je potrebno okrenuti da bi leteli KA stanici ? (Pogledajte PPL Nav-10).",
+      "options": [
+        {
+          "text": "190°.",
+          "isCorrect": true
+        },
+        {
+          "text": "010°.",
+          "isCorrect": false
+        },
+        {
+          "text": "145°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0113",
+      "question": "Na ADF-u A ,magnetni kurs KA stanici je? (Pogledajte PPL Nav-10).",
+      "options": [
+        {
+          "text": "210°.",
+          "isCorrect": true
+        },
+        {
+          "text": "030°.",
+          "isCorrect": false
+        },
+        {
+          "text": "180°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0114",
+      "question": "Na ADF-u E ,relativni pravac KA stanici je ? (Pogledajte PPL Nav-11).",
+      "options": [
+        {
+          "text": "315°.",
+          "isCorrect": true
+        },
+        {
+          "text": "045°.",
+          "isCorrect": false
+        },
+        {
+          "text": "180°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0115",
+      "question": "Koliko iznosi magnetna deklinacija podrucja , koje je prikazano na karti: (Pogledajte PPL Nav-3).",
+      "options": [
+        {
+          "text": "3° E.",
+          "isCorrect": true
+        },
+        {
+          "text": "21° E.",
+          "isCorrect": false
+        },
+        {
+          "text": "50° W.",
+          "isCorrect": false
+        },
+        {
+          "text": "15° E.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0116",
+      "question": "Koji prikaz VOR indikatora odgovara poziciji aviona 8? (Pogledajte PPL Nav-12).",
+      "options": [
+        {
+          "text": "W.",
+          "isCorrect": true
+        },
+        {
+          "text": "T.",
+          "isCorrect": false
+        },
+        {
+          "text": "V.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0117",
+      "question": "Izaberite tacan redosled u proceduri za let KA VOR stanici.",
+      "options": [
+        {
+          "text": "Okrenuti OBS birac kanala dok se igla ne postavi u centar CDI.",
+          "isCorrect": true
+        },
+        {
+          "text": "Proveriti identifikaciju signal.",
+          "isCorrect": false
+        },
+        {
+          "text": "Proveriti koja je frekvenca izabrana.",
+          "isCorrect": false
+        },
+        {
+          "text": "Okrenuti avion u kurs, jednak radijalu izabranom na OBS.",
+          "isCorrect": false
+        },
+        {
+          "text": "c, b,a , d.",
+          "isCorrect": false
+        },
+        {
+          "text": "b, c, a, d.",
+          "isCorrect": false
+        },
+        {
+          "text": "d, a, b, c.",
+          "isCorrect": false
+        },
+        {
+          "text": "a, b, c, d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0118",
+      "question": "Ako je magnetni pravac od aviona KA stanici 135°, kom magnetnom kursu odgovara situacija na ADF L? (Pogledajte PPL Nav-11).",
+      "options": [
+        {
+          "text": "360°.",
+          "isCorrect": true
+        },
+        {
+          "text": "135°.",
+          "isCorrect": false
+        },
+        {
+          "text": "270°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0119",
+      "question": "Ako je magnetni pravac od aviona KA stanici 030°, kom magnetnom kursu odgovara situacija na ADF K? (Pogledajte PPL Nav-11).",
+      "options": [
+        {
+          "text": "120°.",
+          "isCorrect": true
+        },
+        {
+          "text": "060°.",
+          "isCorrect": false
+        },
+        {
+          "text": "270°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0120",
+      "question": "Ako je magnetni pravac od aviona KA stanici 240°, kom magnetnom kursu odgovara situacija na ADF J? (Pogledajte PPL Nav-11).",
+      "options": [
+        {
+          "text": "195°.",
+          "isCorrect": true
+        },
+        {
+          "text": "045°.",
+          "isCorrect": false
+        },
+        {
+          "text": "105°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0121",
+      "question": "Sa magnetnim kursom od 120° i sa situacijom prikazanoj na ADF J, magnetni pravac KA stanici je ? (Pogledajte PPL Nav-11).",
+      "options": [
+        {
+          "text": "165°.",
+          "isCorrect": true
+        },
+        {
+          "text": "045°.",
+          "isCorrect": false
+        },
+        {
+          "text": "270°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0122",
+      "question": "Sa magnetnim kursom od 035° i sa situacijom prikazanoj na ADF I, magnetni pravac KA stanici je ? (Pogledajte PPL Nav-11).",
+      "options": [
+        {
+          "text": "035°.",
+          "isCorrect": true
+        },
+        {
+          "text": "180°.",
+          "isCorrect": false
+        },
+        {
+          "text": "215°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0123",
+      "question": "Sa magnetnim kursom od 320° i sa situacijom prikazanoj na ADF H, magnetni pravac KA stanici je ? (Pogledajte PPL Nav-11).",
+      "options": [
+        {
+          "text": "185°.",
+          "isCorrect": true
+        },
+        {
+          "text": "005°.",
+          "isCorrect": false
+        },
+        {
+          "text": "225°.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0124",
+      "question": "Kada upotrebe VOR za navigaciju, prolaz stanice je nagovešten.",
+      "options": [
+        {
+          "text": "Kada se prvi put potpuno obrne TO-FROM indikator.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kada OFF zastava postane lagana.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kada TO-FROM zastava pocne da treperiti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kada prvi put potpun skrene od CDI.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0125",
+      "question": "Waypoints podatak u GPS bazi podataka sa izuzetkom korisnickih waypoints) mogu biti ažurirani od.",
+      "options": [
+        {
+          "text": "Softverske kuce samo.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pilot, ali samo kada leti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pilot na zemlji samo, kada uredaj miruje.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0126",
+      "question": "GPS signal može biti prekidan kod emitovanja na VHF frekvenciji.",
+      "options": [
+        {
+          "text": "Oba odgovora su tacna.",
+          "isCorrect": true
+        },
+        {
+          "text": "121.15 MHz, 121.17 MHz i 121.20 MHz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0131",
+      "question": "25 MHz i 131.30 MHz.",
+      "options": [
+        {
+          "text": "d.",
+          "isCorrect": true
+        }
+      ]
+    },
+    {
+      "id": "NAV-0127",
+      "question": "Koja brzina je izmerena u nacelu kod svakog GPS instrumenta?",
+      "options": [
+        {
+          "text": "Putna brzina.",
+          "isCorrect": true
+        },
+        {
+          "text": "Stvarna brzina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vertikalna Brzina.",
+          "isCorrect": false
+        },
+        {
+          "text": "brzina vetra.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0128",
+      "question": "Koji mapa podatak treba da bude selektovan na iniciranje GPS-a?",
+      "options": [
+        {
+          "text": "WGS84.",
+          "isCorrect": true
+        },
+        {
+          "text": "Evropa.",
+          "isCorrect": false
+        },
+        {
+          "text": "NAD83.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0129",
+      "question": "Kada se radi sa GPS-om mora se znati da.",
+      "options": [
+        {
+          "text": "Uredaj automatski odreduje sadašnji položaj aviona u geografskim koordinatama.",
+          "isCorrect": true
+        },
+        {
+          "text": "Potrebno je rucno ukucati geografske koordinate kada je avion parkiran.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uredaj je sposoban za odrediti navigacione parametre u odnosno samo na fiksne tacke.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0130",
+      "question": "Na ADF-u B ,relativni pravac KA stanici je ? (Pogledajte PPL Nav-10).",
+      "options": [
+        {
+          "text": "235°.",
+          "isCorrect": true
+        },
+        {
+          "text": "190°.",
+          "isCorrect": false
+        },
+        {
+          "text": "315°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0131",
+      "question": "Koja od slika ADF prikazuje let KA stanici sa desnim bocnim vetrom? (Pogledajte PPL Nav-10).",
+      "options": [
+        {
+          "text": "D.",
+          "isCorrect": true
+        },
+        {
+          "text": "A.",
+          "isCorrect": false
+        },
+        {
+          "text": "B.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0132",
+      "question": "NDB normalno radi na frekvenciji?",
+      "options": [
+        {
+          "text": "190 do 535 KHz.",
+          "isCorrect": true
+        },
+        {
+          "text": "400 do 1020 Hz.",
+          "isCorrect": false
+        },
+        {
+          "text": "962 do 1213 MHz.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0133",
+      "question": "Da bi mogli kao pomocno sredstvo za odredivanje pozicije upotrebiti VHF/DF, vazduhoplov mora biti opremljen sa ispravnim.",
+      "options": [
+        {
+          "text": "VHF predajnikom i prijemnikom.",
+          "isCorrect": true
+        },
+        {
+          "text": "4096-kod transponderom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sa prijemnikom VOR-a i DME.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0134",
+      "question": "Koja od navedenih tvrdnji, a koja se odnosi na pasivni let na NDB, je pravilna. Metoda pasivnog leta na NDB?",
+      "options": [
+        {
+          "text": "Omogucava nam letenje samo po pasivnoj putanji koja nas vodi na NDB.",
+          "isCorrect": true
+        },
+        {
+          "text": "Je prakticna navigacijska metoda, za letenje ka i od stanice NDB.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zahteva ADF sa automatskim ili rucnim podešavanjem kompasne ruže.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0135",
+      "question": "PK (pravi kurs) za let izmedu dve tacke na ruti je 270°, popravka za ugao zanosa iznosi - 10°. Koji ce biti pravi kurs za povratni let po istoj ruti?",
+      "options": [
+        {
+          "text": "100°.",
+          "isCorrect": true
+        },
+        {
+          "text": "090°.",
+          "isCorrect": false
+        },
+        {
+          "text": "180°.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0110",
+      "question": "136. Koji elemenat u trouglu vetra ima nultu vrednost, ako je magnetni kurs (MK) jednak kompasnom kursu (KK)?",
+      "options": [
+        {
+          "text": "Devijacija kompasa.",
+          "isCorrect": true
+        },
+        {
+          "text": "Inklinacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ugao zanosa vetra.",
+          "isCorrect": false
+        },
+        {
+          "text": "Magnetna deklinacija.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0137",
+      "question": "Da li može doci do slucaja kada, ZPPU (zadani pravi putni ugao), PK i stvarni PPU, imaju istu vrednost?",
+      "options": [
+        {
+          "text": "Da.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ne, ni u jednom slucaju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da, jer su vrednosti medusobno uvek jednake.",
+          "isCorrect": false
+        },
+        {
+          "text": "To je moguce samo u slucaju kada se leti u pravcu severa ili juga.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0138",
+      "question": "Kako se izracunava magnetni kurs (MK):",
+      "options": [
+        {
+          "text": "PK + - deklinacija.",
+          "isCorrect": true
+        },
+        {
+          "text": "PPU + - deklinacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "PPU + - devijacija.",
+          "isCorrect": false
+        },
+        {
+          "text": "MPU magnetni putni ugao) + - devijacija.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0139",
+      "question": "Prijem GPS signala u veliko zavisi od visine na kojoj leti avion. Ovaj iskaz je.",
+      "options": [
+        {
+          "text": "Lažan.",
+          "isCorrect": true
+        },
+        {
+          "text": "Tacan.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0140",
+      "question": "Koji pravac je normalno selektovan kada se podešava GPS?",
+      "options": [
+        {
+          "text": "Magnetni.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pravi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kompasni.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0141",
+      "question": "Koji avioni odgovaraju VOR indikatoru X? (Pogledajte PPL Nav-12).",
+      "options": [
+        {
+          "text": "Avion 1 i 3.",
+          "isCorrect": true
+        },
+        {
+          "text": "Avion 3 i 7.",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo avion 7.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0142",
+      "question": "GPS navodi vazduhoplov na ruti po.",
+      "options": [
+        {
+          "text": "Velikom krugu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pasivnoj krivoj.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kursnoj liniji.",
+          "isCorrect": false
+        },
+        {
+          "text": "Liniji kompasa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0143",
+      "question": "Kazaljka odnosno igla CDI na elektronskom ekranu GPS-a pokazuje odstupanje od ose zadane linije puta u.",
+      "options": [
+        {
+          "text": "Dužnim jedinicama.",
+          "isCorrect": true
+        },
+        {
+          "text": "Stepenima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stepenima ili u dužnim jedinicama, po izboru pilota.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0144",
+      "question": "Koji avioni odgovaraju VOR indikatoru U? (Pogledajte PPL Nav-12).",
+      "options": [
+        {
+          "text": "Samo avion 6.",
+          "isCorrect": true
+        },
+        {
+          "text": "Avion 1 i 2.",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo avion 2.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0145",
+      "question": "Kurs za vazdušne puteve i na Jeppesen radionavigacionoj karti je u: (Pogledajte PPL Nav-3).",
+      "options": [
+        {
+          "text": "Magnetnom kursu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pravom kursu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Loksodromskom kursu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kompasnom kursu.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

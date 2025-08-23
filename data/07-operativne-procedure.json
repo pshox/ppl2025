@@ -1,0 +1,3231 @@
+{
+  "subject": "Operativne procedure",
+  "lang": "sr",
+  "version": 1,
+  "questions": [
+    {
+      "id": "OP-0001",
+      "question": "Detonacije mogu nastupiti pri postavljanju režima maksimalne snage kada.",
+      "options": [
+        {
+          "text": "Se smeša goriva trenutno zapali umesto da postepeno i ravnomerno sagoreva.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ekstremno bogata smeša goriva prouzrokuje silovit priraštaj snage.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smeša goriva je prerano zapaljena od strane vrelih cestica cadi u cilindru.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0002",
+      "question": "Na kom mestu i kada pilot treba da proveri kocnice na tockovima?",
+      "options": [
+        {
+          "text": "Neposredno po napuštanja parkirnog mesta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bilo kada tokom taksiranja prema pisti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na pisti, pošto vazduhoplov dostigne neku brzinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Posle poletanja,.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0003",
+      "question": "Najverovatniji moguci razlog da motor nastavi sa radom i posle iskljucivanja prekidacem startera je :",
+      "options": [
+        {
+          "text": "Prekinuta žica za uzemljenje magneta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nagomilane naslage cadi na svecicama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Žica uzemljenja magneta nije u kontaktu sa livenim blokom motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0004",
+      "question": "Najverovatniji moguci razlog da se propeler zaokrene na suprotnu stranu prilikom startovanja motora sa unutrašnjim sagorevanjem je.",
+      "options": [
+        {
+          "text": "Preobimno pocetno ubrizgavanje goriva.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nedovoljno pocetnog ubrizgavanja goriva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Previše siromašna smeša.",
+          "isCorrect": false
+        },
+        {
+          "text": "Previše bogata smeša.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0005",
+      "question": "Šta bi normalno trebalo uciniti ako posle startovanja vruceg cetvorotaktnog motora vazduhoplova, pritisak motorskog ulja ne dostigne propisani nivo?",
+      "options": [
+        {
+          "text": "Ugasiti motor.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecati RPM motora i na taj nacin omoguciti uljnoj pumpi da poveca pritisak ulja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ništa, pošto su instrumenti na modernim vazduhoplovima jeftini i nepouzdani.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obogatiti smešu kako bi sprecili nenormalan porast temperature glave cilindara.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0006",
+      "question": "Pošto je pokrenut motor, pilot mora da proveri pritisak ulja u motoru. Ako je motor hladan pre startovanja, onda moramo.",
+      "options": [
+        {
+          "text": "Trenutno zaustaviti ukoliko pritisak ulja ne pocne da se povecava u roku od 30 sekundi od starta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Trenutno zaustaviti ako se pritisak ulja odmah ne pojavi nakon startovanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trenutno zaustavi ukoliko pritisak ulja ne dostigne radne limite tokom vremena pozicioniranja vazduhoplova za poletanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nastaviti normalno sa korišcenjem, pošto može proci i 10 minuta do pocetka rasta pritiska ulja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0007",
+      "question": "Šta bi trebalo da bude prva radnja posle startovanja motora na vazduhoplovu?",
+      "options": [
+        {
+          "text": "Podesiti odgovarajuce RPM elise i proveriti potrebna pokazivanja na motorskim instrumentima.",
+          "isCorrect": true
+        },
+        {
+          "text": "Postaviti odmah prekidac magneta ili startovanja na OFF položaj, radi provere pravilnog uzemljenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izvršiti proveru svake od kocnica kao i parking kocnicu.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0008",
+      "question": "Kako vazduhoplov penje na vece visine sa rucicom u položaju za bogatu smešu, gorivo/vazduh smeša.",
+      "options": [
+        {
+          "text": "Postaje bogatija.",
+          "isCorrect": true
+        },
+        {
+          "text": "Se ne menja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Postaje siromašnija.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0009",
+      "question": "Ako je gradacija goriva korišcenog u vazduhoplovu niža od specificirane za taj motor, to ce najverovatnije izazvati da.",
+      "options": [
+        {
+          "text": "Nastanu detonacije.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smeša goriva i vazduha nije homogena u svim cilindrima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uzrokovati smanjenje temperature glave cilindara.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecati snagu u tolikoj meri da ošteti unutrašnje delove motora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0010",
+      "question": "Kada je potrebno podesiti barometarski pritisak na visinomeru u vazduhoplovu?",
+      "options": [
+        {
+          "text": "Pre svakog leta, kao i u vazduhu, ako je potrebno.",
+          "isCorrect": true
+        },
+        {
+          "text": "Godišnje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mesecno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Svako jutro pre leta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0011",
+      "question": "Šta je moguce da bude najcešci uzrok prekoracenja opsega operativnih pokazivanja temperature glave cilindara i temperature ulja u motoru?",
+      "options": [
+        {
+          "text": "Upotreba goriva koje je manja od specificirane gradacije.",
+          "isCorrect": true
+        },
+        {
+          "text": "Upotreba goriva koje je veca od specificirane gradacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obavljati letacku aktivnost sa pritiskom ulja vecom od dozvoljene.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0012",
+      "question": "Ako je gradacija goriva koje se koristi za vazduhoplove niža od specificirane za dati motor, to ce najverovatnije uzrokovati.",
+      "options": [
+        {
+          "text": "Detonacije.",
+          "isCorrect": true
+        },
+        {
+          "text": "Da mešavina goriva i vazduha nije homogena u cilindrima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nižu temperaturu glave cilindara.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0013",
+      "question": "Koju gradaciju goriva bi trebali da koristite za vaš vazduhoplov u slucaju da gorivo gradacije koja je propisana nije dostupna?",
+      "options": [
+        {
+          "text": "Sledecu vecu gradaciju goriva za vazduhoplove.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sledecu manju gradaciju goriva za vazduhoplove.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bezolovni benzin za automobile iste gradacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Automobilsko SUPER gorivo iste ili sledece vece gradacije.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0014",
+      "question": "Koje je boje gorivo za vazduhoplove 100LL ?",
+      "options": [
+        {
+          "text": "Plava.",
+          "isCorrect": true
+        },
+        {
+          "text": "Crvena.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zelena.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ljubicasta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0015",
+      "question": "Koje je boje gorivo za vazduhoplove gradacije 100/130?",
+      "options": [
+        {
+          "text": "Zelena.",
+          "isCorrect": true
+        },
+        {
+          "text": "Crvena.",
+          "isCorrect": false
+        },
+        {
+          "text": "Plava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ljubicasta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0016",
+      "question": "Koje je boje gorivo za vazduhoplove gradacije 80/87?",
+      "options": [
+        {
+          "text": "Crvena.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zelena.",
+          "isCorrect": false
+        },
+        {
+          "text": "Plava.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ljubicasta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0017",
+      "question": "Težina 53 litara AVGAS 100 LL iznosi.",
+      "options": [
+        {
+          "text": "38 kg.",
+          "isCorrect": true
+        },
+        {
+          "text": "42 kg.",
+          "isCorrect": false
+        },
+        {
+          "text": "74 kg.",
+          "isCorrect": false
+        },
+        {
+          "text": "80 kg.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0018",
+      "question": "Kada se na vazduhoplovom opremljenim gorivnim pumpama, koristi pomocna elektricna pumpa?",
+      "options": [
+        {
+          "text": "U slucaju otkaza mehanicke motorske pumpe.",
+          "isCorrect": true
+        },
+        {
+          "text": "Celo vreme kao pomoc mehanickoj gorivnoj pumpi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Stalno osim pri startovanju motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0019",
+      "question": "Koji uslovi duvanja vetra su najkriticniji kada taksiramo vazduhoplov visokokrilac sa nosnim tockom?",
+      "options": [
+        {
+          "text": "Iz lednih kvadranta.",
+          "isCorrect": true
+        },
+        {
+          "text": "Direktan bocni.",
+          "isCorrect": false
+        },
+        {
+          "text": "Iz ceonih kvadranta.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0020",
+      "question": "Neposredno posle vazduhoplovne nesrece u Republici Srbiji, kome od navedenih mora, što je pre moguce, da se javi za nesrecu:",
+      "options": [
+        {
+          "text": "Direktoratu Civilnog Vazduhoplovstva i lokalnoj policiji.",
+          "isCorrect": true
+        },
+        {
+          "text": "Glavnom inspektoru u Nacionalnoj komisiji za udese i lokalnoj policiji.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maticnom aerodromu vazduhoplova koji je ucestvovao u nesreci.",
+          "isCorrect": false
+        },
+        {
+          "text": "Najbližoj ispostavi za kontrolu letenja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0021",
+      "question": "Ako situacija sletanja u nuždi zahteva sletanje niz vetar, pilot treba da ocekuje vecu.",
+      "options": [
+        {
+          "text": "Brzinu u odnosu na zemlju pri dodiru, duže ravnanje i verovatnocu da bude dugacak u odnosu na željenu tacku dodira.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vazdušnu brzinu pri dodiru, duže protrcavanje i bolje upravljanje tokom faze ravnanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Brzinu u odnosu na zemlju pri dodiru, krace ravnanje i verovatnocu da bude kratak u odnosu na željenu tacku dodira.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0022",
+      "question": "Kako moramo držati komande dok taksiramo vazduhoplov sa repnim tockom kod ceonog vetra iz desnog kvadranta?",
+      "options": [
+        {
+          "text": "Desno krilce gore, kormilo dubine gore.",
+          "isCorrect": true
+        },
+        {
+          "text": "Desno krilce dole, kormilo dubine neutralno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Desno krilce gore, kormilo dubine dole.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0023",
+      "question": "Kako moramo držati komande dok taksiramo vazduhoplov sa triciklom kod ceonog vetra iz levog kvadranta?",
+      "options": [
+        {
+          "text": "Levo krilce gore, kormilo dubine neutralno.",
+          "isCorrect": true
+        },
+        {
+          "text": "Levo krilce dole, kormilo dubine neutralni.",
+          "isCorrect": false
+        },
+        {
+          "text": "Levo krilce gore, kormilo dubine dole.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0024",
+      "question": "Koji položaj krilaca pilot obicno mora da koristi kada taksira u jakom vetru iz ceonih kvadranata?",
+      "options": [
+        {
+          "text": "Krilce gore na strani iz koje vetar duva.",
+          "isCorrect": true
+        },
+        {
+          "text": "Krilce dole na strani iz koje vetar duva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Postaviti krilca u neutralu.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0025",
+      "question": "Kako moramo držati komande dok taksiramo vazduhoplov sa repnim tockom kod repnog vetra iz levog kvadranta?",
+      "options": [
+        {
+          "text": "Levo krilce dole, kormilo dubine dole.",
+          "isCorrect": true
+        },
+        {
+          "text": "Levo krilce gore, kormilo dubine neutralno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Levo krilce dole, kormilo dubine neutralno.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0026",
+      "question": "U kom položaju bi trebalo da držimo komande dok taksiramo vazduhoplov sa tricikl stajnim trapom u uslovima vetra iz levog lednog kvadranta?",
+      "options": [
+        {
+          "text": "Spustiti levo krilce dole, a kormilo dubine dole.",
+          "isCorrect": true
+        },
+        {
+          "text": "Podici levo krilce gore, a kormilo dubine u neutralu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Podici levo krilce gore, a kormilo dubine dole.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0027",
+      "question": "Ocitavanje 5 inhg na meracu vakuma u vazduhoplovu je pokazatelj.",
+      "options": [
+        {
+          "text": "Normalan podpritiska.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nedovoljnog podpritiska.",
+          "isCorrect": false
+        },
+        {
+          "text": "Preteranog podpritiska.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0028",
+      "question": "Kako treba otkloniti kormilo dubine dok taksiramo vazduhoplov sa repnim tockom u slucaju jakog lednog vetra?",
+      "options": [
+        {
+          "text": "Dole.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gore.",
+          "isCorrect": false
+        },
+        {
+          "text": "U neutralu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Potpuno na gore.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0029",
+      "question": "Ocitavanje 2 inhg na meracu vakuma u vazduhoplovu je pokazatelj.",
+      "options": [
+        {
+          "text": "Nedovoljnog podpritiska.",
+          "isCorrect": true
+        },
+        {
+          "text": "Normalan podpritiska.",
+          "isCorrect": false
+        },
+        {
+          "text": "Preteranog podpritiska.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0030",
+      "question": "Kocenje samo jednim od glavnih tockova poznato je kao.",
+      "options": [
+        {
+          "text": "Diferencijalno kocenje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pojedinacno kocenje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kocenje u pravcu.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0031",
+      "question": "Ako guma proklizne tako da oznaka proklizavanja nije poravnata, to oznacava da.",
+      "options": [
+        {
+          "text": "Mora biti proverena i moguce ponovo namontirana ili zamenjena.",
+          "isCorrect": true
+        },
+        {
+          "text": "Je ona upotrebljiva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Treba proveriti pritisak u gumi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kocnice nisu za upotrebu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0032",
+      "question": "Crvena oznaka proklizavanja na glavnom tocku vazduhoplova služi da.",
+      "options": [
+        {
+          "text": "Proveru poravnanja gume i naplatka.",
+          "isCorrect": true
+        },
+        {
+          "text": "Prepoznavanje tipa gume.",
+          "isCorrect": false
+        },
+        {
+          "text": "Balansiranje tocka.",
+          "isCorrect": false
+        },
+        {
+          "text": "Proveru pritiska u gumi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0033",
+      "question": "Pilot može obicno da pregleda stanje napunjenosti uljno-pneumatskih amortizera tokom pretpoletnog pregleda pomocu.",
+      "options": [
+        {
+          "text": "Utvrdivanjem koliko je noga amortizera izvucena.",
+          "isCorrect": true
+        },
+        {
+          "text": "Merenja pritiska u uljno-pneumatskim amortizerima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ocitavanjem nivoa hidraulicne tecnosti na uljno pneumatskom amortizeru.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ovaj pregled ne može biti izvršen od strane pilota.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0034",
+      "question": "Preciznost visinomera se proverava pomocu.",
+      "options": [
+        {
+          "text": "Postavljanjem visinomera na QNH i proverom ocitavanja visine dok smo na zemlji.",
+          "isCorrect": true
+        },
+        {
+          "text": "Niskim prolazom pored tornja kome znamo visinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uporednim ocitavanjem visinomera i pokazivanja radio visinomera.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uporednim ocitavanjem visine u letu i visine na vazduhoplovnoj geografskoj karti 1:500 000.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0035",
+      "question": "Koji je najcešcu uzrok izbijanja požara prilikom dosipanja goriva uzrokovanog varnicom statickog elektriciteta?",
+      "options": [
+        {
+          "text": "Dosipanje goriva iz plasticne kante u vazduhoplov koji nije uzemljen.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dosipanje goriva iz metalne kante u vazduhoplov koji nije uzemljen.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dosipanje goriva u uzemljen vazduhoplov kada mu radi motor.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0036",
+      "question": "Koju bi frekvenciju trebalo koristiti u vazduhoplov kada polece sa aerodrome na teritoriji Republike Srbije, koji nema objavljenu svoju frekvencu.?",
+      "options": [
+        {
+          "text": "123.5 MHz.",
+          "isCorrect": true
+        },
+        {
+          "text": "123.2 MHz.",
+          "isCorrect": false
+        },
+        {
+          "text": "122.8 MHz.",
+          "isCorrect": false
+        },
+        {
+          "text": "121.5 MHz.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0037",
+      "question": "Zvanicni podaci granicnih operativnih limita i dozvoljenih masa vašeg vazduhoplova mogu se naci u:",
+      "options": [
+        {
+          "text": "Letackom prirucniku vazduhoplova.",
+          "isCorrect": true
+        },
+        {
+          "text": "Knjižici održavanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sertifikatu plovidbenosti i u Sertifikatu registracije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Službenom listu Vazduhoplovnih vlasti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0038",
+      "question": "Na mestu vazduhoplovnog udesa, preživeli je napravio signal na zemlji koji prikazuje veliki krst sa uglom od 90 stepeni izmedu kraka krsta. Šta to oznacava?",
+      "options": [
+        {
+          "text": "Traži medicinsku pomoc.",
+          "isCorrect": true
+        },
+        {
+          "text": "Traži pomoc.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ovo je naša pozicija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Svi preživeli su nepovredeni.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0039",
+      "question": "Težina 1 USA galon AVGAS 100 LL iznosi.",
+      "options": [
+        {
+          "text": "6 lbs.",
+          "isCorrect": true
+        },
+        {
+          "text": "3 lbs.",
+          "isCorrect": false
+        },
+        {
+          "text": "4 lbs.",
+          "isCorrect": false
+        },
+        {
+          "text": "5 lbs.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0040",
+      "question": "Kada se svetlo protiv sudara koristi (ako je instalirano)?",
+      "options": [
+        {
+          "text": "Mora biti ukljucen sve vreme dok motor radi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mora biti ukljucen sve vreme dok vazduhoplov leti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mora se ukljuciti posle startovanja motora i iskljuciti pre gašenja motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mora se ukljuciti neposredno pre poletanja i iskljuciti po napuštanju piste.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0041",
+      "question": "U uslovima letenja tokom trajanja dnevne svetlosti, pilot utvrdi da svetla protiv sudara na vazduhoplovu nisu ispravna. Koje su neophodne radnje koje pilot mora da sprovede?",
+      "options": [
+        {
+          "text": "Nastavi sa letom, dokle god su uslovi da ga završi za vreme dnevne svetlost, i popravi svetla cim bude mogao.",
+          "isCorrect": true
+        },
+        {
+          "text": "Odmah sleti na najbliži aerodrome.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sleti što je pre moguce na najbliže odgovarajuce letilište.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vrati se na svoje maticno letilište i objavi neispravnost vazduhoplova dok se svetla ne poprave.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0042",
+      "question": "Koje jedinice mere se koriste u vazduhoplovstvu kada se saopštavaju podaci o vetru (sa izuzetkom poletanja i sletanja)?",
+      "options": [
+        {
+          "text": "Pravi kurs i cvorovi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pravi kurs i kilometri na cas.",
+          "isCorrect": false
+        },
+        {
+          "text": "Magnetni kurs i statutne milje na cas.",
+          "isCorrect": false
+        },
+        {
+          "text": "Magnetni kurs i cvorovi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0043",
+      "question": "Svi vazduhoplovi na manevarskim površinama aerodroma sa pokrenutim motorima ukljucuju svoja svetla da bi to oznacili. Koje od navedenih se koristi u tu svrhu?",
+      "options": [
+        {
+          "text": "Crveno svetlo protiv sudara.",
+          "isCorrect": true
+        },
+        {
+          "text": "Svetla za sletanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Navigaciona svetla.",
+          "isCorrect": false
+        },
+        {
+          "text": "Svetla na repu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0044",
+      "question": "Prilikom pretpoletnog pregleda pomerite upravljacki volan vazduhoplova u jednu stranu i ustanovite da se krilce naviše otklonilo više od krilca nadole. Šta bi ste uradili?",
+      "options": [
+        {
+          "text": "Ne bi ništa, jer su krilca diferencijalnog tipa.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pozvali bi mehanicara.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smatrali bi situaciju normalnom dokle god je otklon na suprotnoj strani isti, medutim napravili bi zapis u knjižici održavanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Opravili nejednako otklanjanje podešavanjem zavrtnja na poluzi krilca.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0045",
+      "question": "Pilot je dužan da se uveri da je vazduhoplov propisano opremljen za planirani let. Ukoliko postoji bulo kakva sumnja pilot mora to da proveri u:",
+      "options": [
+        {
+          "text": "Listi minimalne opreme.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uverenju o plovidbenosti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sertifikat izveštaja Održavanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uputstvo pilotu za eksploataciju.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0046",
+      "question": "Koje od navedenog nije deo faze uzbunjivanja Službe Traganja i Spasavanja?",
+      "options": [
+        {
+          "text": "Faza Hitnosti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Faza Neizvesnosti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faza Upozorenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faza Opasnosti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0047",
+      "question": "Pri odabiru poželjnih ruta zbog buke, zaokreti tokom poletanja i penjanja ne sme biti predviden dok vazduhoplov ne dostigne:",
+      "options": [
+        {
+          "text": "500ft iznad terena ili najviše prepreke u putanji leta.",
+          "isCorrect": true
+        },
+        {
+          "text": "1000ft iznad terena ili najviše prepreke u putanje leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "1500ft iznad terena ili najviše prepreke u putanje leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "2000ft iznad terena ili najviše prepreke u putanje leta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0048",
+      "question": "Ako pilot odluci da objavi „distress\" ili poruku hitnosti, na kojoj frekvenciji treba emitovati objavu, kao alternativu umesto na 121.5 MHz?",
+      "options": [
+        {
+          "text": "Na frekvenciji koju trenutno koristi.",
+          "isCorrect": true
+        },
+        {
+          "text": "On treba trenutno da selektuje 121.5 MHz pre zapocinjanja objave.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na frekvenciju najbližeg aerodroma sa kompletnim servisom kontrole vazdušnog saobracaja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Na frekvenciji svog maticnog aerodroma.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0049",
+      "question": "Koje od navedenih iskaza definiše vazduhoplovnu nesrecu.",
+      "options": [
+        {
+          "text": "Povreda lica na zemlji koja je bila pogodena delom koji se odvojio od vazduhoplova dok je on bio u vazduhu, ali time nije narušena sigurnost samog vazduhoplova.",
+          "isCorrect": true
+        },
+        {
+          "text": "Udar groma u avion tokom leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otkaz motora u letu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Eksplozija gume glavnog trapa ili repnog tocka tokom poletanja ili sletanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0050",
+      "question": "Koja od sledecih iskaza nije tacan?",
+      "options": [
+        {
+          "text": "Nesreca mora biti prijavljena ako, u meduvremenu od kad se bilo ko ukrca na vazduhoplov i sve dok ga svi ne napuste:",
+          "isCorrect": true
+        },
+        {
+          "text": "Putnik umre prirodnom smrcu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bilo ko da je ubijen ili ozbiljno povreden dok je bio unutar ili na samom vazduhoplovu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vazduhoplov zadobio oštecenje ili lom strukture.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vazduhoplov je potpuno nedostupan ili je nestao.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0051",
+      "question": "Ako pilot oceni da je njegov vazduhoplov u ozbiljnoj i neposrednoj opasnosti ,njegova poruka treba da zapocne sa:",
+      "options": [
+        {
+          "text": "Mayday Mayday Mayday.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pan Pan Pan Pan Pan Pan.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bilo Pan Pan Pan Pan Pan Pan bilo Mayday Mayday Mayday.",
+          "isCorrect": false
+        },
+        {
+          "text": "Emergency Emergency Emergency.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0052",
+      "question": "Za nocno letenje vazduhoplov mora biti opremljen sledecim svetlima :",
+      "options": [
+        {
+          "text": "Levo krilo: crveno, desno krilo: zeleno, rep: belo.",
+          "isCorrect": true
+        },
+        {
+          "text": "Levo krilo: zeleno, desno krilo: crveno, rep: belo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Levo krilo: belo, desno krilo: belo, rep: crveno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Levo krilo: belo, desno krilo: belo, rep: narandžasto.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0053",
+      "question": "Koje pocetne mere predostrožnosti pilot mora da preduzme kada parkira vazduhoplov sa magnetima koji nemaju uzemljenje zbog oštecenja prikljucaka u samom prekidacu startera:",
+      "options": [
+        {
+          "text": "Plocica bi trebala da se stavi u avion kao upozorenje za druge, \" živi magneti \".",
+          "isCorrect": true
+        },
+        {
+          "text": "Ostali piloti trebaju biti upozoreni da ne koriste vazduhoplov.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vazduhoplov treba da bude prizemljen pravljenjem unosa u knjižicu vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vazduhoplovne vlasti bi o tome morale odmah biti obaveštene.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0054",
+      "question": "Dok krstarite na 9500 fita MSL, smeša gorivo/vazduh je dobro podešena. Šta ce se desiti ako se spustite na 4500 fita MSL, bez pravilno prepodešene smeše?",
+      "options": [
+        {
+          "text": "Smeša gorivo/vazduh ce postati previše siromašna.",
+          "isCorrect": true
+        },
+        {
+          "text": "Postojace više goriva u cilindrima nego što je potrebno za normalno sagorevanje, i višak goriva ce apsorbovati toplotu i ohladiti motor.",
+          "isCorrect": false
+        },
+        {
+          "text": "Suviše bogata smeša ce uzrokovati vecu temperaturu glave cilindara i to može da uzrokuje detonacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smeša gorivo/vazduh može postati veoma bogata.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0055",
+      "question": "Šta ce se dogoditi ako pumpa za ubrizgavanje goriva nije potpuno zabravljena posle upotrebe?",
+      "options": [
+        {
+          "text": "Smeša gorivo /vazduh ce biti prebogata jer gorivo curi u uvodnik glavnog voda goriva.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smeša gorivo/ vazduh ce biti previše siromašna jer vazduh curi u uvodnik glavnog voda goriva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Curenje goriva u kabini.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nastace detonacije u motoru uzrokovane prebogatom smešom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0056",
+      "question": "Šta se dogada kada se olabavi poklopac krilnog rezervoara goriva?",
+      "options": [
+        {
+          "text": "Nizak vazdušni pritisak na gornjaci krila ce uzrokovati isisavanje svog goriva.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kiša ce prodreti u rezervoar i kontaminirati goriva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Olabavljen poklopac ce stvoriti oštecenje komandnih površina ako spadne u potpunosti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aerodinamicko opstrujavanje oko grla ulivnika goriva ce poremetiti protok goriva.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0057",
+      "question": "Punjenje rezervoara goriva posle poslednjeg leta u danu se smatra dobrom praksom zato što ce to.",
+      "options": [
+        {
+          "text": "Spreciti kondenzaciju jer eliminiše prazan prostor u rezervoaru.",
+          "isCorrect": true
+        },
+        {
+          "text": "Primorati postojecu vodu ka vrhu rezervoara dalje od gorivnih vodova prema motoru.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spreciti širenje goriva jer smo eliminisali vazdušni prostor u rezervoaru.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0058",
+      "question": "Koji je najbolji nacin da se smanji mogucnost kontaminacije goriva sa vodom?",
+      "options": [
+        {
+          "text": "Držanje rezervoara goriva napunjenih da vrha, pomoci ce da se spreci kondenzacija.",
+          "isCorrect": true
+        },
+        {
+          "text": "Filteri goriva moraju biti zaptiveni tako da sprece ulazak kišnice.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ventilacioni otvori moraju biti zacepljeni do je avion parkiran preko noci.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0059",
+      "question": "Za pravilno odstranjivanje vode iz gorivnog sistema vazduhoplova opremljenog sa drenažom u filteru goriva i drenažama za brzo dreniranje, neophodno je drenirati gorivo iz:",
+      "options": [
+        {
+          "text": "Drenaža filtera goriva i drenažama rezervoara goriva.",
+          "isCorrect": true
+        },
+        {
+          "text": "Drenaž filtera goriva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Najniže tacke gorivnog sistema.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0060",
+      "question": "Koju vrstu zaprljanosti goriva je najteže izolovati kod filter sistema za uzimanje uzoraka?",
+      "options": [
+        {
+          "text": "Vodu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mrvice rde i cestice prljavštine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masti ili ulja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Led.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0061",
+      "question": "Koje jedinice mere se koriste u vazduhoplovstvu kada se saopštavaju podaci za vertikalnu brzinu?",
+      "options": [
+        {
+          "text": "Fita u minuti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Metara u minuti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Metara u sekundi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Podatak je u fita u sekundi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0062",
+      "question": "Koji je najpouzdaniji praktican metod provere nivoa goriva u rezervoarima vazduhoplova dok je on na zemlji:",
+      "options": [
+        {
+          "text": "Vizuelno proveriti nivo goriva u rezervoarima.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ocitati pokazivace goriva dok motor radi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izmeriti masu vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mrdati kraj krila i cuti buckanje goriva.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0063",
+      "question": "Koja je specificna masa benzina za klipne motore na vazduhoplovima?",
+      "options": [
+        {
+          "text": "0.72 kg/l.",
+          "isCorrect": true
+        },
+        {
+          "text": "0.60 kg/l.",
+          "isCorrect": false
+        },
+        {
+          "text": "1.00 kg/l.",
+          "isCorrect": false
+        },
+        {
+          "text": "1.72 kg/l.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0064",
+      "question": "Koji je razlog da gasimo motor sa unutrašnjim sagorevanjem tako što koristimo rucicu smeše a ne prekidac startera:",
+      "options": [
+        {
+          "text": "Radeci na taj nacin mi izbegavamo samo-zapaljenje usled prisustva smese goriva/vazduha u cilindrima.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zato što motor ne možemo zaustaviti iskljucivanjem magneta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Radeci na taj nacin mi sprecavamo gašenje motora na visokim temperaturama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zato što se prekidacem startera motor prekida suviše naglo i na taj nacin nastaje oštecenje ležaja osovine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0065",
+      "question": "Šta ce te da uradite ako temperatura glave cilindara opadne previše tokom prilaza za sletanje ili tokom planiranja bez motora:",
+      "options": [
+        {
+          "text": "Primeniti dovoljno snage kako bi motor održao toplim.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ukljuciti grejanje karburatora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjiti brzinu kako bi opao efekat hladenja vazdušne struje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Osiromašiti smešu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0066",
+      "question": "Posle iznenadnog totalnog gubitka snage motora, kad nema mehanicke buke, i elisa nastavi da se okrece. Najverovatniji",
+      "options": [
+        {
+          "text": "uzrok gubitka snage motora je:",
+          "isCorrect": true
+        },
+        {
+          "text": "Ne doticanje goriva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kvar magneta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Polomljen ventil u cilindru.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0067",
+      "question": "Ukoliko je otkaz motora pracen mehanickom bukom i elisa prestane da se okrece, verovatan uzrok otkaza motora je:",
+      "options": [
+        {
+          "text": "Polomljen ventil u cilindru.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nedoticanje goriva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kvar magneta.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0068",
+      "question": "Koja je ispravna pilotska procedura u slucaju iskakanja osiguraca?",
+      "options": [
+        {
+          "text": "Cekajte dok se osigurac ohladi i gurnite ga nazad, ukoliko opet iskoci, nemojte ga ponovo gurnuti nazad.",
+          "isCorrect": true
+        },
+        {
+          "text": "Gurnite osigurac i pritisnite ga snažno prstom dok se namesti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nemojte ga nikako gurnuti u ležište osiguraca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gurnite osigurac nazad, pošto ste prethodno iskljucili napajajucu opremu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0069",
+      "question": "Šta treba uraditi ako vam se motor vazduhoplova pregreje tokom taksiranja?",
+      "options": [
+        {
+          "text": "Okrenuti u vetar i držati ga na preporucenim obrtajima za relant.",
+          "isCorrect": true
+        },
+        {
+          "text": "Odmah ugasiti motor.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecati obrtaje motora radi boljeg opstrujavanja rebara za hladenje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obogatiti smesu da bi postigao hladenje komore sagorevanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0070",
+      "question": "Tokom vezivanja vazduhoplova, morate ostaviti konopac malo olabavljen?",
+      "options": [
+        {
+          "text": "Kada koristite klasicne konopce za vezivanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kada koristite najlonske konopce za vezivanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kada su jaki vetrovi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vezivanje mora biti uvek cvrsto, nikada labavo.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0071",
+      "question": "Zašto morate proveriti uzorak goriva iz drenaža pre svakog leta?",
+      "options": [
+        {
+          "text": "Da bi se uverili da je gorivo bez necistoca i da je prave gradacije.",
+          "isCorrect": true
+        },
+        {
+          "text": "Da bi se uverili da gorivo tece slobodnim padom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da bi se uverili da gorivna pumpa radi pravilno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da bi se uverili da se koristi ispravna vrsta goriva.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0072",
+      "question": "Kada prilazite rulnoj stazi do linije cekanja od strane obeležene punim linijama, pilot.",
+      "options": [
+        {
+          "text": "Ne sme da prede linije bez odobrenja kontrole letenja, ATC.",
+          "isCorrect": true
+        },
+        {
+          "text": "Može da nastavi da taksira.",
+          "isCorrect": false
+        },
+        {
+          "text": "Može da nastavi taksiranje dok celokupni vazduhoplov ne prede linije.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0073",
+      "question": "Koje procedure morate da se pridržavate da bi izbegli vrtložnu turbulenciju velikog mlaznjaka ako preseca vaš kurs sa leva na desno približno 1 milju ispred i to na vašoj visini?",
+      "options": [
+        {
+          "text": "Budite sigurni da ste nešto iznad putanje leta mlaznjaka.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smanjite vašu brzinu na VA i održavajte visinu i kurs.",
+          "isCorrect": false
+        },
+        {
+          "text": "Budite sigurni da ste neznatno ispod putanje leta mlaznjaka i upravni na kurs.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0074",
+      "question": "Koliko dugo ce se vrtložna turbulencija zadržati posle prolaska velikog vazduhoplova?",
+      "options": [
+        {
+          "text": "Pet minuta ili više; ATC dozvoljava dva do tri minuta razmaka.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dva minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tri minuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0075",
+      "question": "Kada letimo vazduhoplovom sa kabinskim pritiskom visine preko 10,000 fita sve do i ukljucujuci 13,000 fita MSL, dodatni kiseonik mora da bude korišcen od strane posade.",
+      "options": [
+        {
+          "text": "Za vreme tog leta ako ono prelazi 30 minuta na toj visini.",
+          "isCorrect": true
+        },
+        {
+          "text": "Celokupno vreme trajanja leta na toj visini.",
+          "isCorrect": false
+        },
+        {
+          "text": "Za vreme tog leta ako ono prelazi 10 minuta na toj visini.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0076",
+      "question": "Ako koristimo vazduhoplov sa kabinskim pritiskom visine iznad 13,000 fita MSL, dovoljna kolicina kiseonika mora biti nošena za snabdevanje.",
+      "options": [
+        {
+          "text": "Clanove posade i putnike.",
+          "isCorrect": true
+        },
+        {
+          "text": "Samo clanova posade.",
+          "isCorrect": false
+        },
+        {
+          "text": "Samo putnika.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0077",
+      "question": "Nakon odvajanja vazdušne struje sa jednog krila i zaokretanjem i klizanjem na jednu stranu, pilot ce spreciti da vazduhoplov razvije puni kovit tako što ce.",
+      "options": [
+        {
+          "text": "Otkloniti kormilo pravca na suprotnu stranu od klizanja i popustiti komandu dubine napred da bi prikupio brzinu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Momentalno otkloniti sve komande leta na suprotnu stranu od okretanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povuci komandnu palicu i na ovaj nacin izvaditi se iz poniranja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Trenutno izvuci vazdušne kocnice (ako su ugradene).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0078",
+      "question": "Odaberi ispravnu proceduru za vadenje iz kovita za avione?",
+      "options": [
+        {
+          "text": "Nožnu komandu u suprotnu stranu od strane rotacije, krilca u neutralno, palicu unapred i nežno se izvuci iz poniranja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nožnu komandu u stranu rotacije, a krilcima u suprotnu stranu od rotacije i palicu unazad.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nožnu komandu u suprotnu stranu od strane rotacije, krilca u neutralno, palicu unazad.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otklonite kormilo pravca i palicu u stranu rotacije i snažno gurnite palicu napred.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0079",
+      "question": "Odaberi ispravnu radnju za vadenje iz spiralnog zaokreta?",
+      "options": [
+        {
+          "text": "Izravnaj krila komandujuci krilcima i lagano izadi iz nastalog poniranja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Upotrebi pun otklon kormila pravca u stranu rotacije, gurni volan za komandovanje napred da bi prekinuo prevlacenje, a potom lagano izadi iz nastalog poniranja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Upotrebi komandu krilaca za suprotni smer,popusti komandni volan napred i lagano izadi nastalog poniranja.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0080",
+      "question": "Glavni prednost upotrebe zakrilaca u prilazu i sletanju je to što.",
+      "options": [
+        {
+          "text": "Obezbeduje isti iznos uzgona pri manjim brzinama.",
+          "isCorrect": true
+        },
+        {
+          "text": "Opada ugao poniranja bez porasta brzine kroz vazduh.",
+          "isCorrect": false
+        },
+        {
+          "text": "Umanjuje uzgon i na taj nacin omogucava prilaz strmiji od normalnog.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0081",
+      "question": "Koje oznake se mogu prikazati tokom dana na aerodromu radi oznacavanja neupotrebljivosti bilo kog dela manevarskih površina?",
+      "options": [
+        {
+          "text": "Krstovi jednom jasnom bojom ( po mogucstvu bela) rasporedeni horizontalno.",
+          "isCorrect": true
+        },
+        {
+          "text": "Narandžasta zastave na granici neupotrebljive površine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Beli i narandžasti konusi po granici neupotrebljive površine.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veliki crveni pravougaonici sa žutim dijagonalnim oznakama rasporedeni horizontalno.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0082",
+      "question": "U signalnoj zoni aerodrome, znak (Slika I), znaci: (Pogledajte Sliku PPL OP-4).",
+      "options": [
+        {
+          "text": "Desni školski krug je u upotrebi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Posle sletanja napustite pistu desnim zaokretom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Parkiralište je na desnoj strani.",
+          "isCorrect": false
+        },
+        {
+          "text": "Produžite na sledeci aerodrom, pista je zatvorena.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0083",
+      "question": "Da bi ublažio bocno opterecenje na stajni trap tokom sletanja, pilot mora da održava.",
+      "options": [
+        {
+          "text": "Uzdužnu osu vazduhoplova paralelnu pravcu kretanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pravac kretanja vazduhoplova paralelno pisti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Spustiti krilo u vetar dovoljno da spreci tendenciju vazduhoplova da se zanosi.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0084",
+      "question": "Zakrilca na krila postavljena na sletanje:",
+      "options": [
+        {
+          "text": "Prouzrokuju veliko povecanje otpora i mogucnost malog povecanja penjanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecavaju mogucnost penjanja uz malo povecanje otpora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Znacajno povecavaju otpor za neznatan pad mogucnosti penjanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ne uticu na otpor i uzgon.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0085",
+      "question": "Koji efekat ima izvuceno zakrilce na brzinu prevlacenja? Brzina prevlacenja ce:",
+      "options": [
+        {
+          "text": "Opasti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bez promene, zato što brzina prevlacenja ne zavisi od pozicije zakrilca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Se povecati.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0086",
+      "question": "Kada slece iza velikog vazduhoplova, pilot mora da izbegava vrtložnu turbulenciju tako što ce ostati.",
+      "options": [
+        {
+          "text": "Iznad putanje leta završnog prilaza velikog vazduhoplova i sleteti pre tacke dodira velikog vazduhoplova.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ispod putanje leta završnog prilaza velikog vazduhoplova i sleteti dalje od tacke dodira velikog vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Iznad putanje leta završnog prilaza velikog vazduhoplova i sleteti pre tacke dodira velikog vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0087",
+      "question": "Zakrilce krila se ne izvlaci do kraja na poletanju da bi izbegli.",
+      "options": [
+        {
+          "text": "Prevelik otpor.",
+          "isCorrect": true
+        },
+        {
+          "text": "Prevelik uzgon.",
+          "isCorrect": false
+        },
+        {
+          "text": "\"težak nos\" kod vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Oštecenje samog zakrilca.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0088",
+      "question": "Jedna od glavnih uloga flapsa, zakrilca, tokom prilaza i sletanja je da.",
+      "options": [
+        {
+          "text": "Poveca ugao poniranja bez povecavanja brzine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smanji uzgon, i na taj nacin omoguci sprovodenje prilaza strmijeg od normalnog.",
+          "isCorrect": false
+        },
+        {
+          "text": "Omoguci dodir sa vecom brzinom po instrumenti, indiciranom brzinom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanji ugao poniranja bez porasta brzine kroz vazduh.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0089",
+      "question": "Koja je svrha znaka zaustavljanja na ukrštanju dve piste?",
+      "options": [
+        {
+          "text": "Obeležava ukrštanje dve piste.",
+          "isCorrect": true
+        },
+        {
+          "text": "Obeležava ulazak na pistu sa rulne staze.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obeležava površinu obezbedenu za vazduhoplov koji prilazi ili odlazi sa piste.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0090",
+      "question": "Granicna svetla taksi rulne staze na aerodromu su obeležena nocu sa.",
+      "options": [
+        {
+          "text": "Plavim svesmernim svetlima.",
+          "isCorrect": true
+        },
+        {
+          "text": "Belim usmerenim svetlima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pomocnom crvenim i zelenim svetlima.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0091",
+      "question": "Koje od navedenog opisuje svetla praga piste?",
+      "options": [
+        {
+          "text": "Zelena jednosmerna.",
+          "isCorrect": true
+        },
+        {
+          "text": "Crvena jednosmerna.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zelena svesmerna.",
+          "isCorrect": false
+        },
+        {
+          "text": "Crvena svesmerna.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0092",
+      "question": "Svetla niskog intenziteta na nepomicnim objektima moraju biti.",
+      "options": [
+        {
+          "text": "Kontinuirano crvena.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bljeskajuce žuta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bljeskajuce crvena.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kontinuirano narandžasta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0093",
+      "question": "VFR, vizuelni prilazi za sletanje nocu moraju se obavljati.",
+      "options": [
+        {
+          "text": "Na isti nacin kao i po danu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sa vecim brzinama kroz vazduh.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sa strmijim prilazom.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0094",
+      "question": "Svaki pilot vazduhoplova koji je u prilazu za pistu koja je opremljena sa svetlima indikacije ugla prilaza (VASI) mora.",
+      "options": [
+        {
+          "text": "Održavati visinu na ili nešto iznad ugla planiranja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Održavati 3° ugao planiranja prema pisti.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ostati visok sve dok pista ne postane dostupna za sletanje bez motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0095",
+      "question": "Kada prilazi na sletanje na pistu koja je opremljena sa svetlima indikacije ugla prilaza (VASI) pilot mora.",
+      "options": [
+        {
+          "text": "Održava visinu na ili nešto iznad ugla planiranja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Održavati visinu tako da zahvati ugao planiranja najmanje 2 milje niz vetar od praga piste.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ostane na uglu planiranja i sleti izmedu dvosijalicnog indikatora ugla prilaza.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0096",
+      "question": "Pokazivanje nešto iznad- ugla prilaza na indikatoru preciznog prilaza su.",
+      "options": [
+        {
+          "text": "Tri bele i jedna crvena sijalica.",
+          "isCorrect": true
+        },
+        {
+          "text": "Cetiri bele sijalice.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dve bele i dve crvene sijalice.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0097",
+      "question": "Indikacija ispod - ugla prilaza kod trobojnog VASI je.",
+      "options": [
+        {
+          "text": "Signal crvenim svetlima.",
+          "isCorrect": true
+        },
+        {
+          "text": "Signal ljubicastim svetlima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Signal zelenim svetlima.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0098",
+      "question": "Indikacija iznad- ugla prilaza kod trobojnog VASI je.",
+      "options": [
+        {
+          "text": "Signal narandžastog svetla.",
+          "isCorrect": true
+        },
+        {
+          "text": "Signal belog svetla.",
+          "isCorrect": false
+        },
+        {
+          "text": "Signal zelenog svetla.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0099",
+      "question": "Indikacija na- uglu prilaza kod trobojnog VASI je.",
+      "options": [
+        {
+          "text": "Signal zelenog svetla.",
+          "isCorrect": true
+        },
+        {
+          "text": "Signal belog svetla.",
+          "isCorrect": false
+        },
+        {
+          "text": "Signal narandžastog svetla.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0100",
+      "question": "Indikacija ispod- ugla prilaza kod trepcuceg prilaznog pokazivaca ugla prilaza je.",
+      "options": [
+        {
+          "text": "Treperece crveno svetlo.",
+          "isCorrect": true
+        },
+        {
+          "text": "Treperece belo svetlo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kontinuirano belo svetlo.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0101",
+      "question": "Tokom sletanja kada je zemlja blizu i pri malim brzinama kroz vazduh, može biti opasno da se uvuce flaps, zakrilce krila, zato što :",
+      "options": [
+        {
+          "text": "Javlja nagli pad uzgona i to rezultira propadanjem ka pisti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Se otpor povecava i to uzrokuje naglo opadanje brzine kroz vazduh.",
+          "isCorrect": false
+        },
+        {
+          "text": "Javlja nagli porast brzine i naglo penjanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dolazi do velikog opadanje efikasnosti zakrilca krila.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0102",
+      "question": "Grejanje karburatora tokom taksiranja mora biti pažljivo korišceno zbog.",
+      "options": [
+        {
+          "text": "Prašine i drugih stranih objekata koji mogu izazvati oštecenje ako se usisaju u motor.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pojavu visokih temperatura koje mogu uzrokovati detonacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bogate smeše koja može uzrokovati prljanje svecica.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pregrejavanje motora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0103",
+      "question": "Pravilno pariranje vetra u pravolinijskom horizontalnom krstarenju, pilot sprovodi tako što.",
+      "options": [
+        {
+          "text": "Ustanovljava popravku kursa u vetar vršeci koordinirano komandovanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zateže nožnu komandu prema pravcu vetra.",
+          "isCorrect": false
+        },
+        {
+          "text": "Krilcima se naginje u stranu odakle vetar duva i gura kontra kormilo pravca da bo sprecio zaokretanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0104",
+      "question": "Tokom probe motora na aerodromu velike nadmorske visine, pilot ustanovljava neznatnu grubost u radu koja se ne menja prilikom provere magneta ali se znacajno pogoršava tokom provere grejaca karburatora. Pod navedenim uslovima, šta bi logicno predstavljalo prvi naredni postupak?",
+      "options": [
+        {
+          "text": "Proveriti pokazane rezultate linearnim podešavanjem smeše.",
+          "isCorrect": true
+        },
+        {
+          "text": "Taksiraj nazad na pretpoletnu liniju i proveri magnete.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanji dodavanje gasa kako bi uklonio detonacije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Proveri da li je kontrolna poluga smeše u položaju FULL RICH – bogato, poziciji.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0105",
+      "question": "Ispravna procedura osiromašivanja smeše tokom krstarenja je povlacenje poluge smeše unazad tj. Prema LEAN-siromašno kada ce obrtaji motora RPM.",
+      "options": [
+        {
+          "text": "Dostici maksimum, i u tom momentu treba vrati polugu smeše neznatno unapred.",
+          "isCorrect": true
+        },
+        {
+          "text": "Opasti na minimum.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dostici maksimum.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0106",
+      "question": "Ako, tokom startovanja požar izbije u usisniku vazduha motora, uobicajena procedura je da:",
+      "options": [
+        {
+          "text": "Nastavimo sa radom motora, ali povucemo polugu kontrole smeše u IDLE CUTT-OFF-gašenje i gurnemo rucicu gasa napred u položaj OTVORENO.",
+          "isCorrect": true
+        },
+        {
+          "text": "Postavimo prekidac za startovanje u OFF- iskljuceno.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nastavimo sa normalnim startovanjem.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0107",
+      "question": "Šta predstavlja pojava crnog dima iz izduvnih cevi motora tokom startovanja?",
+      "options": [
+        {
+          "text": "Smeša motora je previše bogata.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rucica rucne pumpe goriva je izvucena do kraja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Klipno prstenovi motora su zapekli ili istrošeni.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karburator je podešen na previše siromašnu smešu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0108",
+      "question": "Šta predstavlja pojava plavog dima koji izlazi iz izduvnih cevi motora prilikom startovanja?",
+      "options": [
+        {
+          "text": "Klipno prstenovi motora su zapekli ili istrošeni.",
+          "isCorrect": true
+        },
+        {
+          "text": "Rucica rucne pumpe goriva je izvucena do kraja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smeša motora je previše bogata.",
+          "isCorrect": false
+        },
+        {
+          "text": "Karburator je podešen na previše siromašnu smešu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0109",
+      "question": "U kom položaju treba da se nalazi poluga smeše za poletanje na nivou mora?",
+      "options": [
+        {
+          "text": "Napred (FULL RICH-bogata).",
+          "isCorrect": true
+        },
+        {
+          "text": "Nazad ( FULL RICH-bogata).",
+          "isCorrect": false
+        },
+        {
+          "text": "Nazad ( FULL LEAN-siromašna).",
+          "isCorrect": false
+        },
+        {
+          "text": "Napred (FULL LEAN-siromašna).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0110",
+      "question": "Prisustvo leda u karburatoru u vazduhoplovu opremljenim sa elisom fiksnog koraka može biti ustanovljen ukljucivanjem grejanja karburatora i pracenjem.",
+      "options": [
+        {
+          "text": "Opadanje obrtaja motora RPM, a portom postepeno povecanje obrtaja motora RPM.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecanjem obrtaja motora RPM , a potom postepeno opadanje obrtaja motora RPM.",
+          "isCorrect": false
+        },
+        {
+          "text": "Opadanje obrtaja motora RPM, a potom ustaljeno pokazivanje obrtaja motora RPM na instrumentu.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0111",
+      "question": "Tokom krstareceg leta koristite u potpunosti grejanje karburatora na vašem vazduhoplovu sa elisom fiksnog koraka. Koje efekte ocekujete po pitanju obrtaja motora RPM u normalnim uslovima?",
+      "options": [
+        {
+          "text": "To ce prouzrokovati malo smanjenje obrtaja motora RPM, zbog promene sastava smeše gorivi/vazduh.",
+          "isCorrect": true
+        },
+        {
+          "text": "Nema efekta.",
+          "isCorrect": false
+        },
+        {
+          "text": "To ce prouzrokovati malo povecanje obrtaja motora RPM, zbog uvodenja toplijeg vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obrtaji motora RPM, ce oscilirati zbog nestabilne smeše gorivo/vazduh.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0112",
+      "question": "Zakrilca na krilima postavljena na poletanje:",
+      "options": [
+        {
+          "text": "Povecavaju mogucnost penjanja, a uz malo povecanje otpora.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecavaju mogucnost penjanja, a uz veliko povecanje otpora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Znacajno povecava otpor radi malog smanjenja mogucnosti penjanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nece uticati na uzgon i otpor.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0113",
+      "question": "Tokom provere motora posle zapuštanja na zemlji, pilot može proveriti ispravnost rada grejaca karburatora tako što ce pomerati polugu grejaca karburatora na HOT-toplo i primetiti.",
+      "options": [
+        {
+          "text": "Neznatan pad obrtaja motora RPM.",
+          "isCorrect": true
+        },
+        {
+          "text": "Neznatan porast obrtaja motora RPM.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecan protok toplog vazduha u kabini.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ova provera ne može da se uradi dok je vazduhoplov na zemlji.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0114",
+      "question": "Prilikom izvršenog poletanja iza odlazeceg velikog vazduhoplova, pilot može da smanji rizik od vrtloga nastalih sa krajeva krila tako što ce.",
+      "options": [
+        {
+          "text": "Uzleteti pre dostizanja putanje mlaznjaka, sve dok bude u mogucnosti da skrene od njegovog vrtloga.",
+          "isCorrect": true
+        },
+        {
+          "text": "Održava višak brzine na poletanju do trenutka uzletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Produži momenat uzleta i ne zapocne rotaciju sve dok nije dovoljno daleko od tacke rotacije mlaznjaka.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0115",
+      "question": "Kako morate postaviti korak elise za poletanje kod vašeg vazduhoplova sa elisom automatski promenljivog koraka?",
+      "options": [
+        {
+          "text": "Mali korak ( veliki RPM, obrtaji motora) za maksimalnu snagu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mali korak ( niski RPM,obrtaji motora) za maksimalnu efikasnost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veliki korak ( mali RPM, obrtaji motora) za minimalnu buku.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veliki korak ( mali RPM, obrtaji motora) za maksimalan potisak.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0116",
+      "question": "U vazduhoplovu opremljenim sa promenljivim korakom elise, smanjenje snage tako što ce se prvo smanjiti.",
+      "options": [
+        {
+          "text": "Pritisak punjenja sa komandom gasa, a potom podesiti obrtaje motora RPM, sa komandom koraka elise.",
+          "isCorrect": true
+        },
+        {
+          "text": "Obrtaji motora RPM komandom gasa, a potom smanjenjem pritiska punjenja sa komandom koraka elise.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obrtaji motora RPM komandom koraka elise, a potom smanjiti pritisak punjenja komandom gasa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pritisak punjenja sa komandom koraka elise, a potom smanjenjem obrtaja motora RPM, sa komandom gasa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0117",
+      "question": "Vrtloženje na krajevima krila se javlja u trenutku kada vazduhoplov.",
+      "options": [
+        {
+          "text": "Stvara uzgon.",
+          "isCorrect": true
+        },
+        {
+          "text": "Obavlja letenje na velikim brzinama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mnogo natovarimo.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0118",
+      "question": "Koje aktivnosti predostrožnosti treba preduzeti kada zaustavite mali vazduhoplov iza velikog koji se zaustavio na manevarskim površinama?",
+      "options": [
+        {
+          "text": "Mali vazduhoplov mora da se zaustavi tako da nije u opasnoj zoni izduvne struje mlaznog motora.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kabina malog vazduhoplova treba da gleda prema kabini velikog vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kabina malog vazduhoplova mora biti okrenuta nasuprot od kabine velikog vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Mali vazduhoplov mora da se nalazi najmanje 125 m od repa velikog vazduhoplova.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0119",
+      "question": "Može li nastati takvo nispono vazdušno strujanje kao rezultat vrtloga sa krajeva krila težeg vazduhoplova, da ono prevazilazi mogucnosti penjanja lakog vazduhoplova?",
+      "options": [
+        {
+          "text": "Da, narocito iza velikih, teških transportnih vazduhoplova.",
+          "isCorrect": true
+        },
+        {
+          "text": "Obicno ne.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ponekad, narocito u nivou vazdušnih džepova.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0120",
+      "question": "Desi se otkaz elektricnog sistema (akumulatora i alternatora) u toku leta. U toj situaciji vi ce te.",
+      "options": [
+        {
+          "text": "Iskusiti otkaz elektronike na vazduhoplovu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Verovatno iskusiti otkaz sistema paljenja motora, pokazivaca goriva, svetlosnih sistema vazduhoplova kao i opreme na vazduhoplovu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Verovatno iskusiti otkaz motora zbog gubitka mehanicke gorivne pumpe i istovremeno iskusiti otkaz radio opreme, svetala i svih instrumenata koji se napajaju rezervnom elektricnom energijom.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0121",
+      "question": "Tokom leta primetite da zasija narandžasto svetlo na panelu sa instrumentima. Šta to znaci?",
+      "options": [
+        {
+          "text": "Alternator ne proizvodi elektricnu struju.",
+          "isCorrect": true
+        },
+        {
+          "text": "Previsok proizvedeni napon.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prazna baterija.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pregrejan alternator.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0122",
+      "question": "Tokom leta primetili ste da se ,igla ampermetara sa skalom centar-nula, otklonila na levo. Šta ovo pokazivanje znaci i šta",
+      "options": [
+        {
+          "text": "kao pilot aviona treba obicno tada uradite?",
+          "isCorrect": true
+        },
+        {
+          "text": "Nepravilno stanje, akumulator se ispraznio, zato što alternator nije ispravan ili nije u stanju da pokrije zahteve prikljucenih elektricnih potrošaca. U slucaju da se posle prebacivanja glavnog prekidaca, mastera, iz položaja iskljuceno u ukljuceno, situacija ne poboljša, potrošnja elektricne energije treba da se redukuje na minimum i sletanje na najbliži odgovarajuci aerodrom treba da se sprovede.",
+          "isCorrect": false
+        },
+        {
+          "text": "Normalni uslovi; akumulator preuzima punjenje, na taj nacin let se nastavlja, potrebno je kontrolisati instrument i treba ocekivati pad igle pokazivaca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Normalni uslovi, instrument pokazuje tekucu potrošnju elektricne energije, koju pruža alternator.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0123",
+      "question": "Šta može, ocitavanje nule na ampermetru sa skalom centar-nula, tokom leta da znaci?",
+      "options": [
+        {
+          "text": "Normalno stanje; alternator snabdeva elektricnom energijom elektro opremu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Alternator se ne koristi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nijedan elektricni uredaj nije ukljucen.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nenormalna situacija, baterija snabdeva elektricnom energijom elektro opremu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0124",
+      "question": "Neposredno pošto smo startovali motor primetili ste da se igla pokazivaca na ampermetru sa skalom centar-nula,",
+      "options": [
+        {
+          "text": "otklonila desno ,dok su elektricni potrošaci bili iskljuceni. Ova indikacija znaci.",
+          "isCorrect": true
+        },
+        {
+          "text": "Punjenje akumulatora,jer se pri startovanju motora akumulator malo isprazni.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ispražnjen akumulator, zato što alternator ne radi, potrebno je pobuditi alternator aktiviranjem glavnog, master, prekidaca u ukljucen, a potom u iskljucen položaj. Ako se igla pokazivaca ne vrati na nulu, motor mora da se ugasi ,a potom obavesti mehanicar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ispražnjen akumulator, i zato je potrebno ugasiti motor.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0125",
+      "question": "Šta znaci ocitavanje nule na ampermetru sa skalom levo - nula ?",
+      "options": [
+        {
+          "text": "To je normalno jer nijedan od elektro potrošaca nije ukljucen.",
+          "isCorrect": true
+        },
+        {
+          "text": "Alternator nije ispravan.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ispražnjen akumulator.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0126",
+      "question": "Šta je najverovatniji uzrok nastajanja opasne turbulencije iza teškog vazduhoplova?",
+      "options": [
+        {
+          "text": "Vrtlozi sa krajeva krila.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vazdušna struja iza elise.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izduvni mlaz mlaznog motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0127",
+      "question": "Neposredno posle startovanja motora vazduhoplova uocili ste ocitavanje levo - nula na ampermetru tj, protok jake struje iako su svi elektro potrošaci iskljuceni? Tada normalno morate da:",
+      "options": [
+        {
+          "text": "Nemojte reagovati, zato što u tim slucajevima alternator proizvodi elektricnu struju samo za punjenje baterije, koja obicno malo opadne prilikom startovanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Trenutno zaustavite rad motora,jer alternator nije ispravan.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resetovati glavni prekidac alternatora i ako se stanje ne promeni, zaustavite rad motora i prijavite mehanicaru da alternator nije ispravan.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0128",
+      "question": "Prilikom prevodenja vazduhoplova opremljenim sa promenljivim korakom elise iz režima krstarenja u penjanje, pilot mora.",
+      "options": [
+        {
+          "text": "Povecati obrtaje motora RPM, komandom koraka elise pre dodavanja gasa.",
+          "isCorrect": true
+        },
+        {
+          "text": "Prvo povecati pritisak punjenja komandom gasa, a potom da poveca broj obrtaja RPM komandom koraka elise. c. Prvo povecati obrtaje motora RPM, komandom gasa, a potom povecati pritisak punjenja sa komandom koraka",
+          "isCorrect": false
+        },
+        {
+          "text": "elise.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prvo smanjiti pritisak punjenja komandom koraka elise, a potom povecati obrtaje motora komandom gasa.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0129",
+      "question": "Kako možete prepoznati pomocu pokazivanja na ampermetru sa skalom levo - nula, da alternator na vazduhoplovu nije ispravan. Tada ocitavanje skale treba da pokazuje.",
+      "options": [
+        {
+          "text": "Nulu i da ostane nula cak i kad ukljucimo bitne elektricne potrošace ( npr. Svetla za sletanje).",
+          "isCorrect": true
+        },
+        {
+          "text": "Maksimum.",
+          "isCorrect": false
+        },
+        {
+          "text": "Znacajan porast , pošto smo ukljucili elektricne potrošace.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0130",
+      "question": "Strelice koje se javljaju na kraju piste SEVER/JUG oznacavaju da taj prostor (Pogledajte Sliku PPL OP-2).",
+      "options": [
+        {
+          "text": "Ne može da se koristi za sletanje, ali može biti korišceno za taksiranje i poletanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Može biti korišten samo za taksiranje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Se koristi ta taksiranje, poletanje i sletanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0131",
+      "question": "Prostor C na prikazanom aerodromu se klasificira kao (Pogledajte Sliku PPL OP-1).",
+      "options": [
+        {
+          "text": "Zatvorena pista.",
+          "isCorrect": true
+        },
+        {
+          "text": "Stabilisano polje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Višenamenski heliodromi.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0132",
+      "question": "Koja je razlika izmedu dela A i dela B na prikazanom aerodromu? (Pogledajte Sliku PPL OP-1).",
+      "options": [
+        {
+          "text": "\"A\" može da se koristi za taksiranje i poletanje;\"E\" može da služi samo kao sigurnosni produžetak.",
+          "isCorrect": true
+        },
+        {
+          "text": "\"A\" može da se koristi za sve operacije osim za sletanje teških vazduhoplova;\"E\" može da služi samo kao sigurnosni produžetak.",
+          "isCorrect": false
+        },
+        {
+          "text": "\"A\" može da se koristi samo za taksiranje; \"E\" može da se koristi za sve operacije osim za sletanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0133",
+      "question": "Deo piste oznacen slovom A može da se koristi za (Pogledajte Sliku PPL OP-1).",
+      "options": [
+        {
+          "text": "Taksiranje i poletanje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sletanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Taksiranje i sletanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0134",
+      "question": "Brojevi 4 i 22 na pisti oznacavaju da je pista približno orjentisana (Pogledajte Sliku PPL OP-2).",
+      "options": [
+        {
+          "text": "040° i 220° (true, stvarni).",
+          "isCorrect": true
+        },
+        {
+          "text": "004° i 022° (true, stvarni).",
+          "isCorrect": false
+        },
+        {
+          "text": "040° i 220° (magnetic, magnetni).",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0135",
+      "question": "Prema crtežu aerodroma, koji od iskaza je ispravan? (Pogledajte Sliku PPL OP-1).",
+      "options": [
+        {
+          "text": "Poletanje se može obavljati na poziciji A piste 12, dok deo za sletanje ove piste nosi oznaku B.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pista 30 je opremljena na poziciji E sa zaustavnom opremom u slucaju opasnosti kao sredstvo zaustavljanja vojnih vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Deo za poletanje i sletanje na pisti 12 pocinje na poziciji B.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0136",
+      "question": "Slika A prikazuje da je vazduhoplov (Pogledajte Sliku PPL OP-3).",
+      "options": [
+        {
+          "text": "Ispod ugla prilaza.",
+          "isCorrect": true
+        },
+        {
+          "text": "Na uglu prilaza.",
+          "isCorrect": false
+        },
+        {
+          "text": "Iznad ugla prilaza.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0137",
+      "question": "Slika C prikazuje da je vazduhoplov (Pogledajte Sliku PPL OP-3).",
+      "options": [
+        {
+          "text": "Iznad ugla prilaza.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sa kursa u levu stranu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ispod ugla prilaza.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0138",
+      "question": "Slika B prikazuje da je vazduhoplov (Pogledajte Sliku PPL OP-3).",
+      "options": [
+        {
+          "text": "Na uglu prilaza.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ispod ugla prilaza.",
+          "isCorrect": false
+        },
+        {
+          "text": "Iznad ugla prilaza.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0139",
+      "question": "U signalnoj zoni aerodrome, belo slovo \"T\" (Slika F) znaci: (Pogledajte Sliku PPL OP-4).",
+      "options": [
+        {
+          "text": "Pravac za sletanje je paralelan sa pravcem upravnom na precku.",
+          "isCorrect": true
+        },
+        {
+          "text": "Slet samo na cvrstu podlogu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sleti i taksiraj samo po cvrstoj podlozi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zabranjeno sletanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0140",
+      "question": "Na kontrolisanom aerodromu primetili ste žuti pravougaonu tablu sa natpisom C, crne boje, ostavljene iznad vrata (slika C). Šta to znaci? (Pogledajte Sliku PPL OP-4).",
+      "options": [
+        {
+          "text": "Kancelarija za informacije kontrole letenja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Carinska služba.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izlaz za privatne avio posade.",
+          "isCorrect": false
+        },
+        {
+          "text": "Izlaz za osoblje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0141",
+      "question": "U oznacenom prostoru aerodrome, crveni pravougaoni znak sa jednom žutom dijagonalnom linijom (slika B) znaci:",
+      "options": [
+        {
+          "text": "(Pogledajte Sliku PPL OP-4).",
+          "isCorrect": true
+        },
+        {
+          "text": "Povedi racuna kod sletanja zbog lošeg stanja manevarskih površina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nema sletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Jedrilicari su aktivni.",
+          "isCorrect": false
+        },
+        {
+          "text": "Helikopteri su aktivni.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0142",
+      "question": "Kakvo je znacenje vizuelnog zemaljskog signala u obliku horizontalnog pravougaonog panela sa žutom dijagonalom prikazanom na prostoru signalizacije aerodrome (slika A)? (Pogledajte Sliku PPL OP-4).",
+      "options": [
+        {
+          "text": "Sletanja su zabranjena.",
+          "isCorrect": true
+        },
+        {
+          "text": "Prostor nema mogucnosti za kretanje vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vazduhoplov je obavezan da sleti, poleti i taksira samo na pistama i rulnim stazama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Posebna pažnja se mora voditi prilikom prilaza sletanju ili sletanju.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0143",
+      "question": "Beli krst postavljen horizontalno na pocetak rulne staze (slika G), znaci: (Pogledajte Sliku PPL OP-4).",
+      "options": [
+        {
+          "text": "Rulna staza nije za upotrebu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pažnja, vi prilazite raskrsnici sa pistom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prostor za sletanje helikoptera.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pažnja, vi prilazite raskrsnici sa drugom rulnom stazom!",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0144",
+      "question": "U signalnoj zoni aerodrome, dupli beli krst (Slika H) znaci: (Pogledajte Sliku PPL OP-4).",
+      "options": [
+        {
+          "text": "Pažnja, jedrilice su u vazduhu!",
+          "isCorrect": true
+        },
+        {
+          "text": "Zabranjeno sletanje, aerodrom nije siguran!",
+          "isCorrect": false
+        },
+        {
+          "text": "Obratite narocitu pažnju tokom prilaza i sletanja!",
+          "isCorrect": false
+        },
+        {
+          "text": "Taksiranje po tlu je dozvoljeno izvan piste i rulna staza!",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0145",
+      "question": "U signalnoj zoni aerodrome, beli, preckom spojeni krugovi ( Slika D) znaci: (Pogledajte Sliku PPL OP-4).",
+      "options": [
+        {
+          "text": "Sleti i taksiraj samo po cvrstoj podlozi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pravac sletanja je paralelan sa pravcem upravnim na precku.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sleti samo na cvrstu podlogu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zabranjeno sletanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "OP-0146",
+      "question": "U signalnoj zoni aerodrome, beli krugovi spojeni preckom sa Crnim linijama preko svakog kružnog dela pod pravim uglom na osovinu (slika E) znaci: (Pogledajte Sliku PPL OP-4).",
+      "options": [
+        {
+          "text": "Sletanje, poletanje i taksiranje jedino na pisti i rulnim stazama, ostala kretanja na zemlji nisu ogranicena za cvrste podloge.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sletanje zabranjeno za duži period.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sletanje,poletanje, i taksiranje je ograniceno samo na pisti i rulnim stazama.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pažnja, jedrilice u vazduhu.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}

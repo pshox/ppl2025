@@ -1,0 +1,3345 @@
+{
+  "subject": "Performanse",
+  "lang": "sr",
+  "version": 1,
+  "questions": [
+    {
+      "id": "PF-0001",
+      "question": "Ako se gustina vazduha poveca iznad ISA uslova, to ce usloviti:",
+      "options": [
+        {
+          "text": "Poboljšanje( povecanje ) performansi na poletanju.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecanje dužine poletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pogoršanje ( smanjenje) performansi na poletanju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjenje samo dužine zaleta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0002",
+      "question": "Ako je spoljna temperatura vazduha (OAT) na datoj visini manja od standardne, visina po gustini je:",
+      "options": [
+        {
+          "text": "veca od visine po pritisku.",
+          "isCorrect": true
+        },
+        {
+          "text": "manja od visine po pritisku, i približno jednaka stvarnoj visini.",
+          "isCorrect": false
+        },
+        {
+          "text": "veca od stvarne visine i manja od visine po pritisku.",
+          "isCorrect": false
+        },
+        {
+          "text": "manja od stvarne visine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0003",
+      "question": "Ako je na sletanju stvarna brzina vazduhoplova znacajno manja u odnosu na brzinu u odnosu na zemlju, onda taj vazduhoplov:",
+      "options": [
+        {
+          "text": "leti u uslovima lednog vetra.",
+          "isCorrect": true
+        },
+        {
+          "text": "leti u uslovima ceonog vetra.",
+          "isCorrect": false
+        },
+        {
+          "text": "leti u uslovima smanjene gustine vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "leti u uslovima bocnog vetra.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0004",
+      "question": "Kakav ce imati uticaj, ako su u prirucniku vazduhoplova preporucene vece brzine prilaženja i sletanja?",
+      "options": [
+        {
+          "text": "povecace se dužina sletanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "smanjice se dužina sletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "poboljšace se performanse na sletanju.",
+          "isCorrect": false
+        },
+        {
+          "text": "nece imati uticaja na dužinu sletanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0005",
+      "question": "Kolika je masa 1m3 vazduha?",
+      "options": [
+        {
+          "text": "1,25 kg",
+          "isCorrect": true
+        },
+        {
+          "text": "0,25 kg",
+          "isCorrect": false
+        },
+        {
+          "text": "2,25 kg",
+          "isCorrect": false
+        },
+        {
+          "text": "Pijaca voda i hemikalije u toaletu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0006",
+      "question": "Kada letiš u veoma turbulentnom vazduhu, koja je prihvatljiva maksimalna brzina, da bi izbegao preopterecenje strukture?",
+      "options": [
+        {
+          "text": "Vra ili VA.",
+          "isCorrect": true
+        },
+        {
+          "text": "VD ili VNO.",
+          "isCorrect": false
+        },
+        {
+          "text": "VNO ili VFE.",
+          "isCorrect": false
+        },
+        {
+          "text": "VD ili VA.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0007",
+      "question": "Ako se masa vazduhoplova poveca za 15%, potrebna dužina sletanja ce se povecati približno:",
+      "options": [
+        {
+          "text": "15% ili za faktor 1.15.",
+          "isCorrect": true
+        },
+        {
+          "text": "33% ili za faktor 1.33.",
+          "isCorrect": false
+        },
+        {
+          "text": "10% ili za faktor 1.1%.",
+          "isCorrect": false
+        },
+        {
+          "text": "20% ili za faktor 1.2.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0008",
+      "question": "Brzina penjanja vazduhoplova za vreme stalnog penjanja zavisi od:",
+      "options": [
+        {
+          "text": "viška ( rezerve ) snage.",
+          "isCorrect": true
+        },
+        {
+          "text": "viška ( rezerve potiska ) potiska.",
+          "isCorrect": false
+        },
+        {
+          "text": "raspoloživog potiska.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0009",
+      "question": "Brzina manevrisanja (VA) je najveca brzina pri kojoj cak pri punom naglom otklonu palicom po dubini ( visini ) se nece preci:",
+      "options": [
+        {
+          "text": "Granica pozitivnog faktora opterecenja.",
+          "isCorrect": true
+        },
+        {
+          "text": "faktor opterecenja 1 g.",
+          "isCorrect": false
+        },
+        {
+          "text": "Granica negativnog faktora opterecenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Brzina koja se nikada ne sme prekoraciti (VNE).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0010",
+      "question": "Ako je gustina atmosfere smanjena, dužina poletanja ce je:",
+      "options": [
+        {
+          "text": "Povecana.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smanjena.",
+          "isCorrect": false
+        },
+        {
+          "text": "Bez uticaja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kontrolisana vetrom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0011",
+      "question": "Ako je brzina prevlacenja pri sletnoj konfiguraciji 55 knots Vref ce biti približno:",
+      "options": [
+        {
+          "text": "71kt.",
+          "isCorrect": true
+        },
+        {
+          "text": "65kt.",
+          "isCorrect": false
+        },
+        {
+          "text": "75kt.",
+          "isCorrect": false
+        },
+        {
+          "text": "69 kt.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0012",
+      "question": "Brzina koja se nikada ne sme prekoraciti (VNE) i na brzinomeru je oznacena crvenom kružnom linijom je brzina pri kojoj:",
+      "options": [
+        {
+          "text": "Letenje je dozvoljeno samo u mirnom vazduhu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Produženi let nije siguran.",
+          "isCorrect": false
+        },
+        {
+          "text": "Let je zabranjen.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ce se desiti strukturalna oštecenja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0013",
+      "question": "Avioni koriste brzinu najboljeg ugla penjanja :",
+      "options": [
+        {
+          "text": "kada nadvišavaju prepreke.",
+          "isCorrect": true
+        },
+        {
+          "text": "kada nadvišavaju pokretne prepreke.",
+          "isCorrect": false
+        },
+        {
+          "text": "kada pokušavaju da penju bez smanjenja brzine leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "kada pokušavaju brzo da dostignu nivo leta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0014",
+      "question": "U normalnim okolnostima, kada treba da se ispuni plan leta za službu kontrole letenja (ATS flight plan)?",
+      "options": [
+        {
+          "text": "60 minuta pre predviđenog poletanja",
+          "isCorrect": true
+        },
+        {
+          "text": "60 minuta pre traženja odobrenja za let od kontrole letenja",
+          "isCorrect": false
+        },
+        {
+          "text": "60 minuta pre polaska na let",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0015",
+      "question": "Koja brzina ce nam omoguciti najveci dobitak visine za najkraci predeni put u penjanju posle poletanja?",
+      "options": [
+        {
+          "text": "brzinom najboljeg ugla penjanja (Vx).",
+          "isCorrect": true
+        },
+        {
+          "text": "brzinom najboljeg penjanja (VY).",
+          "isCorrect": false
+        },
+        {
+          "text": "brzinom manevrisanja (VA).",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0016",
+      "question": "Koja brzina ce nam omoguciti najveci dobitak visine za dato vreme , u penjanju posle poletanja?",
+      "options": [
+        {
+          "text": "brzinom najboljeg penjanja VY.",
+          "isCorrect": true
+        },
+        {
+          "text": "brzinom najboljeg ugla penjanja VX.",
+          "isCorrect": false
+        },
+        {
+          "text": "brzinom manevrisanja VA.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0017",
+      "question": "Kako veca vlažnost vazduha utice na performanse na poletanju? Dužina poletanja je:",
+      "options": [
+        {
+          "text": "veca zbog redeg vazduha.",
+          "isCorrect": true
+        },
+        {
+          "text": "veca zbog gušceg vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "manja zbog gušceg vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0018",
+      "question": "Kako utice na dužinu sletanja nagnutost putanje piste za 2% nizbrdo ?",
+      "options": [
+        {
+          "text": "Povecava dužinu sletanja za 10%.",
+          "isCorrect": true
+        },
+        {
+          "text": "Povecava dužinu sletanja za 5%.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjuje dužinu sletanja za 5%.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjuje dužinu sletanja za 10%.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0019",
+      "question": "Kako se zove opterecenje pri kome ce doci do loma strukture vazduhoplova?",
+      "options": [
+        {
+          "text": "Krajnje opterecenje.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sigurnosni faktor opterecenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Granicno opterecenje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalno opterecenje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0020",
+      "question": "Kako nagib piste uzbrdo utice na perfomanse na poletanju?",
+      "options": [
+        {
+          "text": "povecava dužinu poletanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "povecava brzinu poletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjuje dužinu poletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0021",
+      "question": "Kako i kada se pravilno koristi brzina najboljeg penjanja?",
+      "options": [
+        {
+          "text": "kada pokušavamo da brzo dostignemo nivo leta.",
+          "isCorrect": true
+        },
+        {
+          "text": "kada smo slobodni od prepreka.",
+          "isCorrect": false
+        },
+        {
+          "text": "kada prilazimo visokim planinama.",
+          "isCorrect": false
+        },
+        {
+          "text": "kada pokušavamo da izbegnemo prekomerni položaj oko poprecne ose u penjanju.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0022",
+      "question": "Kako bi uticalo povecanje temperature vazduha na gustinu vazduha i performanse vazduhoplova?",
+      "options": [
+        {
+          "text": "smanjila bi se gustina i poboljšale performanse vazduhoplova.",
+          "isCorrect": true
+        },
+        {
+          "text": "povecala bi se gustina i pogoršale performanse vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "povecala bi se gustina i poboljšale performanse vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjila bi se gustina i poboljšale performanse vazduhoplova.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0023",
+      "question": "Kakav uticaj ima vetar na ugao penjanja vazduhoplova?",
+      "options": [
+        {
+          "text": "ceoni vetar ce povecati ugao penjanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "nema uticaja.",
+          "isCorrect": false
+        },
+        {
+          "text": "ceoni vetar ce smanjiti ugao penjanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "ledni vetar ce povecati ugao penjanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0024",
+      "question": "Kakav uticaj ima velika visina po gustini na performanse vazduhoplova?",
+      "options": [
+        {
+          "text": "pogoršava performanse u penjanju.",
+          "isCorrect": true
+        },
+        {
+          "text": "poboljšava performanse motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "poboljšava performanse na poletanju.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0025",
+      "question": "Kakav uticaj ima povecanje mase vazduhoplova pokretanog motorom na performanse na poletanju?",
+      "options": [
+        {
+          "text": "za datu snagu motora, vazduhoplov sporije ubrzava, brzina potrebna za stvaranje uzgona za odvajanje od zemlje je veca.",
+          "isCorrect": true
+        },
+        {
+          "text": "za datu snagu motora, vazduhoplov bolje ubrzava, , medutim brzina potrebna za stvaranje uzgona za uzlet ostaje ista.",
+          "isCorrect": false
+        },
+        {
+          "text": "svaki vazduhoplov, za datu snagu motora ubrzava isto bez obzira na masu, medutim zahtevana brzina za preovladivanja uticaja zemlje je veca.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0026",
+      "question": "Kakav je uticaj vetra na brzinu penjanja vazduhoplova?",
+      "options": [
+        {
+          "text": "nema uticaja.",
+          "isCorrect": true
+        },
+        {
+          "text": "ceoni vetar povecava brzinu penjanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "ledni vetar smanjuje brzinu penjanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "ledni vetar povecava brzinu penjanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0027",
+      "question": "Koja brzina se ne sme prekoraciti, ako je planirano naglo komandovanje oko poprecne ose i zašto?",
+      "options": [
+        {
+          "text": "VA naglo povlacenje komandi može prouzrokovati strukturalna oštecenja.",
+          "isCorrect": true
+        },
+        {
+          "text": "VD  naglo povlacenje komandi  može prouzrokovati napuštanje zone upravljivosti.",
+          "isCorrect": false
+        },
+        {
+          "text": "VNE naglo povlacenje komandi može prouzrokovati strukturalna oštecenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "VFB naglo povlacenje komandi može prouzrokovati napuštanje zone upravljivosti.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0028",
+      "question": "Kakav je uticaj nagiba piste na poletanje?",
+      "options": [
+        {
+          "text": "Pozitivan nagib ( na gore ) ce povecati dužinu poletanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pozitivan nagib ( na gore ) ce povecati performanse poletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Negativan nagib ( na dole ) ce povecati dužinu poletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Negativan nagib ( na dole ) ce smanjiti performanse poletanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0029",
+      "question": "Kakav je uticaj leta na vecim visinama na instrumentalnu brzinu krstarenja pri nepromenjenom položaju komandi potiska?",
+      "options": [
+        {
+          "text": "Bice manja.",
+          "isCorrect": true
+        },
+        {
+          "text": "bice veca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ostace ista.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0030",
+      "question": "Kakav je uticaj povecanja mase na brzinu prevlacenja i potrebnu dužinu sletanja?",
+      "options": [
+        {
+          "text": "povecana brzina prevlacenja i dužina sletanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "povecana brzina prevlacenja i smanjena dužina sletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjena brzina prevlacenja i dužina sletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjena brzina prevlacenja i povecana dužina sletanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0031",
+      "question": "Koji od sledecih slucajeva ce rezultirati pogoršanjem performansi i mogucnost prekoracenja strukturalnih ogranicenja vazduhoplova?",
+      "options": [
+        {
+          "text": "vazduhoplov koji je natovaren preko maksimalno dozvoljene težine.",
+          "isCorrect": true
+        },
+        {
+          "text": "vazduhoplov koji je prevucen na maksimalno dozvoljenoj težini.",
+          "isCorrect": false
+        },
+        {
+          "text": "vazduhoplov koji leti iznad maksimalno dozvoljene težine na sletanju.",
+          "isCorrect": false
+        },
+        {
+          "text": "vazduhoplov sa vecom masom na poletanju nego na sletanju.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0032",
+      "question": "Kojom brzinom oznacenom sa A, B, C ili D treba leteti za maksimalnu autonomiju leta? (Vidi sliku PPL FPP-10).",
+      "options": [
+        {
+          "text": "A.",
+          "isCorrect": true
+        },
+        {
+          "text": "B.",
+          "isCorrect": false
+        },
+        {
+          "text": "C.",
+          "isCorrect": false
+        },
+        {
+          "text": "D.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0033",
+      "question": "Kojom brzinom maramo da letimo za maksimalni dolet? (Vidi sliku PPL FPP-10).",
+      "options": [
+        {
+          "text": "B.",
+          "isCorrect": true
+        },
+        {
+          "text": "A.",
+          "isCorrect": false
+        },
+        {
+          "text": "C.",
+          "isCorrect": false
+        },
+        {
+          "text": "D.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0034",
+      "question": "Kojom brzinom moramo leteti da bi ostvarili maksimalnu autonomiju leta na nivou leta?",
+      "options": [
+        {
+          "text": "VMP.",
+          "isCorrect": true
+        },
+        {
+          "text": "VY.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalnom brzinom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vmd.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0035",
+      "question": "Kojom brzinom moramo leteti da bismo dostigli maksimalni dolet na nivou leta?",
+      "options": [
+        {
+          "text": "Vmd.",
+          "isCorrect": true
+        },
+        {
+          "text": "VX.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalnom brzinom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vmp.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0036",
+      "question": "Koju brzinu održavamo u letu sa otkazanim motorom kod lakih aviona?",
+      "options": [
+        {
+          "text": "najbolju brzinu planiranja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Brzinu za najvecu autonomiju leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "minimalnu brzinu poniranja.",
+          "isCorrect": false
+        },
+        {
+          "text": "minimalnu brzinu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0037",
+      "question": "Koja glavna opasnost proizlazi ako na komandnim površinama vazduhoplova postoji mala kolicina inja ili snega ?",
+      "options": [
+        {
+          "text": "smanjuje uzgon zbog nepravilnog protoka vazduha iznad krila.",
+          "isCorrect": true
+        },
+        {
+          "text": "povecanje težine zbog leda ce povecati brzinu prevlacenja.",
+          "isCorrect": false
+        },
+        {
+          "text": "led i sneg ce blokirati komandne površine.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0038",
+      "question": "Koja je boja opsega brzine upozorenja na brzinomeru i o cemu pilot mora da vodi racuna kada leti tom brzinom?",
+      "options": [
+        {
+          "text": "Žuta - Ovom brzinom se ne sme leteti osim u mirnom vazduhu. Bilo koji manevar mora biti izveden malim i nežnim pokretima komandi.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zelena - Prevlacenja, deformacije konstrukcije, i/ili strukturalna oštecenja se mogu pojaviti na toj brzini ako pilot vrši nagli i puni otklon komandi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Žuta - Prevlacenja koja uzrokuju deformacije konstrukcije i/ili strukturalna oštecenja se mogu pojaviti na toj brzini ako pilot vrši nagli i puni otklon komandi.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zelena - Mogu se pojaviti oscilacije komandi tipa „flater\" pri ulasku u zonu turbulencije.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0039",
+      "question": "Koja je brzina manevrisanja?",
+      "options": [
+        {
+          "text": "VA.",
+          "isCorrect": true
+        },
+        {
+          "text": "VLO.",
+          "isCorrect": false
+        },
+        {
+          "text": "VNE.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0040",
+      "question": "Koja je maksimalna brzina doleta za klipne avione?",
+      "options": [
+        {
+          "text": "Vmd.",
+          "isCorrect": true
+        },
+        {
+          "text": "VMP.",
+          "isCorrect": false
+        },
+        {
+          "text": "veca brzina od Vno na manjoj sigurnosnoj visini.",
+          "isCorrect": false
+        },
+        {
+          "text": "manja brzina od Vmd na manjoj sigurnosnoj visini.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0041",
+      "question": "Koja kombinacija od atmosferskih uslova ce umanjiti performanse vazduhoplova na poletanju i u penjanju?",
+      "options": [
+        {
+          "text": "visoka temperatura, velika relativna vlažnost i velika visina po gustini.",
+          "isCorrect": true
+        },
+        {
+          "text": "niska temperatura, mala relativna vlažnost i mala visina po gustini.",
+          "isCorrect": false
+        },
+        {
+          "text": "visoka temperatura, mala relativna vlažnost i mala visina po gustini.",
+          "isCorrect": false
+        },
+        {
+          "text": "niska temperatura, velika relativna vlažnost i velika visina po gustini.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0042",
+      "question": "Koji ce uticaj na poletanje imati povecanje maksimalne težine vazduhoplova?",
+      "options": [
+        {
+          "text": "Povecace se brzina prevlacenja i potrebna dužina zaleta ( dužina piste ).",
+          "isCorrect": true
+        },
+        {
+          "text": "Smanjice se brzina prevlacenja i povecace se potrebna dužina zaleta ( dužina piste ).",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecace se brzina prevlacenja i smanjice se potrebna dužina zaleta ( dužina piste ).",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjice se brzina prevlacenja i potrebna dužina zaleta ( dužina piste ).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0043",
+      "question": "Koji faktor maksimalnog doleta se smanjuje sa smanjenjem težine?",
+      "options": [
+        {
+          "text": "Brzina.",
+          "isCorrect": true
+        },
+        {
+          "text": "apsolutna visina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Napadni ugao.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0044",
+      "question": "Koji je uticaj ceonog vetra na ugao planiranja i predeni put u planiranju?",
+      "options": [
+        {
+          "text": "ugao planiranja se povecava i predeni put se smanjuje.",
+          "isCorrect": true
+        },
+        {
+          "text": "ugao planiranja i predeni put ostaju isti.",
+          "isCorrect": false
+        },
+        {
+          "text": "ugao planiranja i predeni put se povecavaju.",
+          "isCorrect": false
+        },
+        {
+          "text": "ugao planiranja i predeni put se smanjuju.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0045",
+      "question": "Koji je uticaj pomeranja centra težišta nazad?",
+      "options": [
+        {
+          "text": "povecanje autonomije leta.",
+          "isCorrect": true
+        },
+        {
+          "text": "jaca veza uzgon-težina što zahteva više sile komandi visine na dole.",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjen dolet i autonomija leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "vece opterecenje repnih površina.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0046",
+      "question": "Koji od donjih faktora povecava visinu aerodroma po gustini?",
+      "options": [
+        {
+          "text": "povecanje temperature.",
+          "isCorrect": true
+        },
+        {
+          "text": "povecanje atmosverskog pritiska.",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjenje relativne vlažnosti vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjenje temperature.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0047",
+      "question": "Koji od donjih navoda je tacan u vezi performansi na poletanju vazduhoplova pokretanog motorom u odnosu na visinu po gustini? Pri vecoj visini po gustini:",
+      "options": [
+        {
+          "text": "vazduhoplov sporije ubrzava, zbog smanjene efikasnosti motora i elise.",
+          "isCorrect": true
+        },
+        {
+          "text": "vazduhoplov bolje ubrzava, jer je smanjen otpor zbog razredenog vazduha.",
+          "isCorrect": false
+        },
+        {
+          "text": "vazduhoplov mora leteti vecom brzinom od normalne da bi proizveo dovoljno uzgona.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0048",
+      "question": "Koji od sledecih situacija može pod odredenim uslovima rezultirati strukturalna oštecenja?",
+      "options": [
+        {
+          "text": "Vazduhoplov je leteo iznad njegovih svih maksimalnih masa.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vazduhoplov opšte kategorije je leteo sa njegovom maksimalno odobrenom masom.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vazduhoplov je leteo iznad njegove maksimalne mase na sletanju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vazduhoplov normalne kategorije je leteo sa njegovom maksimalno odobrenom masom.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0049",
+      "question": "Krilo prekriveno malom kolicinom leda ce usloviti:",
+      "options": [
+        {
+          "text": "povecanje otpora i težine i smanjenje uzgona.",
+          "isCorrect": true
+        },
+        {
+          "text": "povecanje težine i uzgona.",
+          "isCorrect": false
+        },
+        {
+          "text": "povecanje koeficijenta uzgona i otpora.",
+          "isCorrect": false
+        },
+        {
+          "text": "povecanje težine i smanjenje otpora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0050",
+      "question": "Letacke karakteristike vazduhoplova ciji je centar težišta na prednjoj granici ce biti:",
+      "options": [
+        {
+          "text": "Neosetljivost komandi po picu ( visini ) i dobra uzdužna stabilnost.",
+          "isCorrect": true
+        },
+        {
+          "text": "Neosetljivost komandi po picu ( visini ) i slaba uzdužna stabilnost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Osetljivost komandi po picu ( visini ) i slaba uzdužna stabilnost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Osetljivost komandi po picu ( visini ) i dobra uzdužna stabilnost.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0051",
+      "question": "Maksimalna masa bez goriva je definisana kao:",
+      "options": [
+        {
+          "text": "Maksimalna dozvoljena masa vazduhoplova bez upotrebljivog goriva.",
+          "isCorrect": true
+        },
+        {
+          "text": "Maksimalna dozvoljena masa vazduhoplova bez putnika ili goriva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalna dozvoljena masa vazduhoplova bez posade ili goriva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalna dozvoljena masa vazduhoplova bez putnika, posade i prtljaga.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0052",
+      "question": "Maksimalna masa na poletanju je definisana kao:",
+      "options": [
+        {
+          "text": "Maksimalna dozvoljena ukupna masa na pocetku poletanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Maksimalna dozvoljena ukupna masa pre taksiranja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalna dozvoljena ukupna masa pre poletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalna dozvoljena ukupna masa na tacki uzleta ( rotacije ).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0053",
+      "question": "Maksimalna masa na sletanju je definisana kao.",
+      "options": [
+        {
+          "text": "Maksimalno dozvoljena ukupna masa na sletanju u normalnim uslovima letenja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Maksimalno dozvoljena ukupna masa na sletanju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalno dozvoljena ukupna masa u prilazu na sletanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalno dozvoljena ukupna masa u taksiranju ka platformi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0054",
+      "question": "Maksimalna masa vazduhoplova na poletanju može biti ogranicena sa:",
+      "options": [
+        {
+          "text": "Strukturalnim proracunatim granicnim opterecenjem i/ili dužinom poletno-sletne staze, visine i temperature.",
+          "isCorrect": true
+        },
+        {
+          "text": "Odobrenim performansama u odnosu na kategoriju vazduhoplova npr. Opšta / normalna / akrobatska.",
+          "isCorrect": false
+        },
+        {
+          "text": "Uslovima plovidbenosti vazduhoplova.",
+          "isCorrect": false
+        },
+        {
+          "text": "Svim navedenim gore.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0055",
+      "question": "Maksimalna strukturalna brzina krstarenja je maksimalna brzina kojom vazduhoplov može leteti:",
+      "options": [
+        {
+          "text": "u mirnom vazduhu.",
+          "isCorrect": true
+        },
+        {
+          "text": "tokom naglih manevara.",
+          "isCorrect": false
+        },
+        {
+          "text": "u normalnim uslovima leta.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0056",
+      "question": "Maksimalni dolet u planiranju( finesa ) se postiže kada:",
+      "options": [
+        {
+          "text": "održavamo relativno mali napadni ugao.",
+          "isCorrect": true
+        },
+        {
+          "text": "održavamo relativno veliki napadni ugao.",
+          "isCorrect": false
+        },
+        {
+          "text": "održavamo negativan napadni ugao.",
+          "isCorrect": false
+        },
+        {
+          "text": "imamo veliki ugao poniranja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0057",
+      "question": "Minimalna brzina poniranja u poredenju sa najboljom brzinom planiranja je:",
+      "options": [
+        {
+          "text": "uvek manja.",
+          "isCorrect": true
+        },
+        {
+          "text": "uvek veca.",
+          "isCorrect": false
+        },
+        {
+          "text": "cesto veca.",
+          "isCorrect": false
+        },
+        {
+          "text": "cesto manja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0058",
+      "question": "Na poletanju sa kratke piste avionom ili motornim zmajem, kojom brzinom moraš leteti dok ne nadvisiš prepreke?",
+      "options": [
+        {
+          "text": "brzinom najboljeg ugla penjanja (Vx).",
+          "isCorrect": true
+        },
+        {
+          "text": "brzinom najboljeg penjanja (VY).",
+          "isCorrect": false
+        },
+        {
+          "text": "Minimalnom brzinom (VS).",
+          "isCorrect": false
+        },
+        {
+          "text": "brzinom manevrisanja (VA).",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0059",
+      "question": "Na sletanju na aerodrom na velikoj nadmorskoj visini stvarna brzina vazduhoplova je veca od normalne. Koju instrumentalnu brzinu moramo održavati u takvim slucajevima?",
+      "options": [
+        {
+          "text": "normalnu.",
+          "isCorrect": true
+        },
+        {
+          "text": "manju od normalne.",
+          "isCorrect": false
+        },
+        {
+          "text": "vecu od normalne.",
+          "isCorrect": false
+        },
+        {
+          "text": "povecanu za 5 kts za svakih 1,000 ft nadmorske visine aerodroma.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0060",
+      "question": "Najbolja brzina penjanja se postiže:",
+      "options": [
+        {
+          "text": "kada letimo brzinom sa maksimalno raspoloživom snagom.",
+          "isCorrect": true
+        },
+        {
+          "text": "kada letimo brzinom sa maksimalno raspoloživim potiskom.",
+          "isCorrect": false
+        },
+        {
+          "text": "kada penjemo u vetar.",
+          "isCorrect": false
+        },
+        {
+          "text": "kada letimo brzinom Vx.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0061",
+      "question": "Najlakši put odredivanja visine po pritisku je podešavanjem visinomera na:",
+      "options": [
+        {
+          "text": "1013.2 hPa i ocitavanjem visine.",
+          "isCorrect": true
+        },
+        {
+          "text": "visinu aerodroma i ocitavanjem visine.",
+          "isCorrect": false
+        },
+        {
+          "text": "visinu aerodroma i ocitavanjem vrednosti u barometarskom prozoru.",
+          "isCorrect": false
+        },
+        {
+          "text": "nulu i ocitavanjem vrednosti u barometarskom prozoru.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0062",
+      "question": "Opseg centar težišta vecine vazduhoplova se smanjuje, sa povecanjem mase, kao rezultat od:",
+      "options": [
+        {
+          "text": "Prednja granica centra težišta se pomera nazad i smanjuje stabilnost.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zadnja granica centra težišta se pomera napred i povecava stabilnost.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zadnja granica centra težišta se pomera nazad i povecava se staticka margina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Staticka margina se pomera napred i smanjuje pokretljivost.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0063",
+      "question": "Osnovni razlog poletanja u vetar je da bi se:",
+      "options": [
+        {
+          "text": "Smanjila brzina u odnosu na zemlju (ground speed) u momentu uzleta vazduhoplova.",
+          "isCorrect": true
+        },
+        {
+          "text": "Smanjila raspoloživa dužina poletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecala brzina vazduhoplova u odnosu na zemlju (ground speed).",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecala dužina poletanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0064",
+      "question": "Osnovni razlog proracunavanja visine po gustini je odredivanje.",
+      "options": [
+        {
+          "text": "performansi vazduhoplova.",
+          "isCorrect": true
+        },
+        {
+          "text": "visine po pritisku.",
+          "isCorrect": false
+        },
+        {
+          "text": "nivoa leta iznad prelazne visine.",
+          "isCorrect": false
+        },
+        {
+          "text": "sigurnosne visine iznad planinskih terena.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0065",
+      "question": "Penjanje brzinom Vy se postiže:",
+      "options": [
+        {
+          "text": "Najvece povecanje visine u datom vremenu.",
+          "isCorrect": true
+        },
+        {
+          "text": "Maksimalni ugao penjanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalno povecanje visine za najkrace horizontalno rastojanje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Najbolje performanse za nadvišavanje prepreka.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0066",
+      "question": "Penjanjem brzinom Vx postižemo:",
+      "options": [
+        {
+          "text": "maksimalni ugao penjanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "najkrace vreme penjanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "najbolje penjanje za dato vreme.",
+          "isCorrect": false
+        },
+        {
+          "text": "maksimalno horizontalno rastojanje za dato vertikalno rastojanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0067",
+      "question": "Pilot želi da leti brzinom koja ce mu obezbediti maksimalan dolet. On zna da leti sa lednim vetrom. Uporedi brzinu koju je izabrao pilot sa maksimalnom brzinom doleta u mirnom vazduhu.",
+      "options": [
+        {
+          "text": "bice umanjena za vrednost nešto manju od brzine lednog vetra.",
+          "isCorrect": true
+        },
+        {
+          "text": "bice uvecana za vrednost nešto manju od brzine lednog vetra.",
+          "isCorrect": false
+        },
+        {
+          "text": "bice ista kao u uslovima bez vetra.",
+          "isCorrect": false
+        },
+        {
+          "text": "bice umanjena za vrednost nešto vecu od brzine lednog vetra.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0068",
+      "question": "Planiranja sa lednim vetrom u odnosu na planiranje u mirnom vazduhu.",
+      "options": [
+        {
+          "text": "povecava dolet u planiranju, ali nema uticaj na autonomiju leta u planiranju.",
+          "isCorrect": true
+        },
+        {
+          "text": "smanjuje ugao planiranja i brzinu poniranja.",
+          "isCorrect": false
+        },
+        {
+          "text": "nema uticaj na ugao planiranja i brzinu poniranja.",
+          "isCorrect": false
+        },
+        {
+          "text": "povecava ugao planiranja i dolet u planiranju.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0069",
+      "question": "Planirate da opteretite vazduhoplov sa maksimalno dozvoljenim teretom. Vaše glavno razmatranje za vreme planiranja leta bice:",
+      "options": [
+        {
+          "text": "Kolicina goriva možda ce morati biti ogranicena da bi se sprecilo prekoracenje maksimalno dozvoljene ukupne mase/težine.",
+          "isCorrect": true
+        },
+        {
+          "text": "Obavezno se nosi maksimalna kolicina goriva kada se prevoze putnici.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kolicina goriva je proracunata u proracunima tereta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Teret možda mora biti smanjen da bi se omogucilo punjenje maksimalne kolicine goriva.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0070",
+      "question": "Pod kojim uslovima ce visina po pritisku biti jednaka stvarnoj visini?",
+      "options": [
+        {
+          "text": "U uslovima standardne atmosfere.",
+          "isCorrect": true
+        },
+        {
+          "text": "Kada je atmosferski pritisak 1013.2 hPa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Kada je instrumentalna visina jednaka visini po pritisku.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0071",
+      "question": "Pod kojim uslovom je instrumentalna visina jednaka stvarnoj visini?",
+      "options": [
+        {
+          "text": "pri standardnim uslovima na nivou mora.",
+          "isCorrect": true
+        },
+        {
+          "text": "ako visinomer nema mehanicku grešku.",
+          "isCorrect": false
+        },
+        {
+          "text": "sa visinomerom podešenim na 1013.2 hPa.",
+          "isCorrect": false
+        },
+        {
+          "text": ".",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0072",
+      "question": "Povecanjem mase ( i radi toga težine ) vazduhoplova ce:",
+      "options": [
+        {
+          "text": "smanjiti brzinu i ugao penjanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "povecati brzinu i ugao penjanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "povecati brzinu penjanja i smanjiti ugao penjanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjiti brzinu penjanja i povecati ugao penjanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0073",
+      "question": "Pretpostavljajuci da je vazduhoplov na zemlji „na odmoru\", koji izraz najbolje opisuje prikaz A? (Vidi sliku PPL FPP-2).",
+      "options": [
+        {
+          "text": "Masa bez goriva.",
+          "isCorrect": true
+        },
+        {
+          "text": "Masa na poletanju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalna masa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Masa praznog vazduhoplova.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0074",
+      "question": "Proizvodac odreduje granice centra težišta i:",
+      "options": [
+        {
+          "text": "One su obavezne.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ima samo prednju granicu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Su samo uputstvo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ima samo zadnju granicu.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0075",
+      "question": "Relativno mala gustina atmosfere ce prouzrokovati umanjenje:",
+      "options": [
+        {
+          "text": "Uzgona i snage motora, što ce prouzrokovati potrebu za vecom dužinom poletanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Potisak i otpor nemaju opisan efekat na potrebnu dužinu poletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Otpor omogucava upotrebu veceg ugla flapsa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pomeranje otpora gubitkom snage motora daje bolje ubrzanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0076",
+      "question": "Koju pistu cete izabrati za sletanje (06, 14, 24, 32), ako je vetar na sletanju južni 20 Kts i ako je maksimalna dozvoljena",
+      "options": [
+        {
+          "text": "brzina bocnog vetra za vaš vazduhoplov 13 kts? (Vidi sliku PPL FPP-13).",
+          "isCorrect": true
+        },
+        {
+          "text": "RWY 14.",
+          "isCorrect": false
+        },
+        {
+          "text": "RWY 06.",
+          "isCorrect": false
+        },
+        {
+          "text": "RWY 24.",
+          "isCorrect": false
+        },
+        {
+          "text": "RWY 32.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0077",
+      "question": "Kolika je komponenta bocnog vetra pri sletanju na pistu 18 ako je vetar na sletanju 220°/30 kts? (Vidi sliku PPL FPP-13).",
+      "options": [
+        {
+          "text": "19 kts.",
+          "isCorrect": true
+        },
+        {
+          "text": "23 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "30 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "34 kts.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0078",
+      "question": "Kolika je komponenta ceonog i bocnog vetra pri javljenom vetru 030°/10 kts za pistu magnetnog pravca 330°? (Vidi sliku PPL FPP-13).",
+      "options": [
+        {
+          "text": "5 kts ceoni i 8 kts bocni.",
+          "isCorrect": true
+        },
+        {
+          "text": "10 kts ceoni i 8 kts bocni.",
+          "isCorrect": false
+        },
+        {
+          "text": "8 kts ceoni i 4 kts bocni.",
+          "isCorrect": false
+        },
+        {
+          "text": "8 kts ceoni i8 kts bocni.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0079",
+      "question": "Kolika je komponenta ceonog i bocnog vetra pri javljenom vetru 130°/20 kts za pistu magnetnog pravca 040°? (Vidi sliku PPL FPP-13).",
+      "options": [
+        {
+          "text": "0 ceoni ; 20 kts bocni.",
+          "isCorrect": true
+        },
+        {
+          "text": "15 kts ceoni i 10 kts bocni.",
+          "isCorrect": false
+        },
+        {
+          "text": "10 kts ceoni i 15 kts bocni.",
+          "isCorrect": false
+        },
+        {
+          "text": "20 kts ceoni; 0 bocni.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0080",
+      "question": "Kolika je komponenta ceonog vetra pri sletanju na pistu 18 ako je vetar na sletanju 220°/30 kts? (Vidi sliku PPL FPP-13).",
+      "options": [
+        {
+          "text": "23 kts.",
+          "isCorrect": true
+        },
+        {
+          "text": "19 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "30 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "34 kts.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0081",
+      "question": "Kolike su komponente ceonog i bocnog vetra ako je vetar 280°/15 kts za pistu sa magnetnim pravcem protezanja 220°? (Vidi sliku PPL FPP-13).",
+      "options": [
+        {
+          "text": "7.5 kts ceoni vetar i 13 kts bocni vetar.",
+          "isCorrect": true
+        },
+        {
+          "text": "15.5 kts ceoni vetar i 8 kts bocni vetar.",
+          "isCorrect": false
+        },
+        {
+          "text": "15.5 kts ceoni vetar i 15 kts bocni vetar.",
+          "isCorrect": false
+        },
+        {
+          "text": "13.5 kts ceoni vetar i 24 kts bocni vetar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0082",
+      "question": "Odredi maksimalnu brzinu bocnog vetra pod 30° ako je maksimalno dozvoljeni bocni vetar za avion 10 kts? (Vidi sliku PPL FPP-13).",
+      "options": [
+        {
+          "text": "20 kts.",
+          "isCorrect": true
+        },
+        {
+          "text": "13 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "16 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "18 kts.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0083",
+      "question": "Odredi maksimalnu brzinu bocnog vetra pod 40° ako je maksimalno dozvoljeni bocni vetar za avion 10 kts? (Vidi sliku PPL FPP-13).",
+      "options": [
+        {
+          "text": "15 kts.",
+          "isCorrect": true
+        },
+        {
+          "text": "20 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "18 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "12 kts.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0084",
+      "question": "Odredi maksimalnu brzinu bocnog vetra pod 45° ako je maksimalno dozvoljeni bocni vetar za avion 25 kts? (Vidi sliku PPL FPP-13).",
+      "options": [
+        {
+          "text": "35 kts.",
+          "isCorrect": true
+        },
+        {
+          "text": "18 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "25 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "29 kts.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0085",
+      "question": "Sa javljenim vetrom 360°/20 kts vi prilazite aerodromu. Koju pistu (06,14 or 24) cete izabrati za sletanje ako vaš avion ima maksimalno dozvoljenu brzinu bocnog vetra na sletanju 13-knots? (Vidi sliku PPL FPP-13).",
+      "options": [
+        {
+          "text": "RWY 32.",
+          "isCorrect": true
+        },
+        {
+          "text": "RWY 06.",
+          "isCorrect": false
+        },
+        {
+          "text": "RWY 14.",
+          "isCorrect": false
+        },
+        {
+          "text": "RWY 24.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0086",
+      "question": "Suva operativna težina je definisana kao:",
+      "options": [
+        {
+          "text": "Ukupna masa vazduhoplova opremljenog za odredenu vrstu letackih zadataka ukljucujuci i posadu, prtljag posade i posebnu opremu , bez potrebnog goriva i tereta za transport.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ukupna masa vazduhoplova opremljenog za odredenu vrstu letackih zadataka ukljucujuci i posadu, prtljag posade, ketering i pokretnu opremu za posluženje putnika i gorivo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ukupna masa vazduhoplova opremljenog za odredenu vrstu letackih zadataka ukljucujuci i posadu, prtljag posade, ketering i pokretnu opremu za posluženje putnika i teret za transport.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ukupna masa vazduhoplova opremljenog za odredenu vrstu letackih zadataka ukljucujuci i posadu, prtljag posade, ketering i pokretnu opremu za posluženje putnika, teret za transport i gorivo.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0087",
+      "question": "U horizontalnom letu promena u uzgonu prouzrokuje debalans u ravnoteži sila i kompenzuje se:",
+      "options": [
+        {
+          "text": "silom na dole na repne površine.",
+          "isCorrect": true
+        },
+        {
+          "text": "silom na gore na repne površine.",
+          "isCorrect": false
+        },
+        {
+          "text": "povecanjem snage.",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjenjem otpora.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0088",
+      "question": "U kojoj kategoriji, opštoj ili normalnoj, ocekuješ da letiš vazduhoplov prikazan na dodatoj envelopi centra težišta/moment, ako je njegova masa 2100 lbs i moment centra težišta 90,000 lb inches? (Vidi sliku PPL FPP-7).",
+      "options": [
+        {
+          "text": "Normalnoj.",
+          "isCorrect": true
+        },
+        {
+          "text": "Opštoj.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obe.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nijedna.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0089",
+      "question": "Ugao penjanja vazduhoplova za vreme stalnog penjanja zavisi od:",
+      "options": [
+        {
+          "text": "viška (rezerve) potiska.",
+          "isCorrect": true
+        },
+        {
+          "text": "raspoložive snage.",
+          "isCorrect": false
+        },
+        {
+          "text": "potrebnog potiska.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0090",
+      "question": "Ukupna masa tereta ( ukupno opterecenje ).",
+      "options": [
+        {
+          "text": "Ukupna masa putnika , prtljaga i robe.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ukljucuje vodu za pice i hemijska sredstva u toaletu.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ukupna masa putnika , prtljaga , robe i goriva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ukljucuje bazicnu masu praznog aviona.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0091",
+      "question": "Uporedujuci sletanje na ravnu pistu, šta ce se dogoditi kada slecemo na pistu sa nagnutosti nizbrdo?",
+      "options": [
+        {
+          "text": "povecace se dužina sletanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Poboljšace se performanse na sletanju.",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjice se dužina sletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "nema uticaja na dužinu sletanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0092",
+      "question": "Uzgon nastao na krilima vazduhoplova koji penje i održava stalnu brzinu ce biti:",
+      "options": [
+        {
+          "text": "veci od težine.",
+          "isCorrect": true
+        },
+        {
+          "text": "manji od težine.",
+          "isCorrect": false
+        },
+        {
+          "text": "jednak težini.",
+          "isCorrect": false
+        },
+        {
+          "text": "nezavisan od težine.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0093",
+      "question": "Vaš vazduhoplov ima uljni rezervoar kapaciteta 3 imp/gal, koji je postavljen 20 inches iza referentne linije. Data je težina ulja 9.1 lbs/gal. Moment rezervoara je:",
+      "options": [
+        {
+          "text": "546 lb in.",
+          "isCorrect": true
+        },
+        {
+          "text": "60 lb in.",
+          "isCorrect": false
+        },
+        {
+          "text": "27.3 lb in.",
+          "isCorrect": false
+        },
+        {
+          "text": "182 lb in.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0094",
+      "question": "Vazduhoplov bez motora ce preleteti najduži put sa date visine na napadnom uglu pri kome je:",
+      "options": [
+        {
+          "text": "indicirani otpor i parazitski otpor jednak.",
+          "isCorrect": true
+        },
+        {
+          "text": "parazitski otpor najmanji.",
+          "isCorrect": false
+        },
+        {
+          "text": "parazitski otpor jednak koeficijentu uzgona.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0095",
+      "question": "Vazduhoplov koji je mnogo preopterecen ce:",
+      "options": [
+        {
+          "text": "1 Zahtevati povecane dužine poletanja i sletanja",
+          "isCorrect": true
+        },
+        {
+          "text": "2 Imati vece brzine prevlacenja",
+          "isCorrect": false
+        },
+        {
+          "text": "3 Imati umanjenu maksimalnu brzinu na nivou leta",
+          "isCorrect": false
+        },
+        {
+          "text": "4 Imati povecan dolet i autonomiju leta",
+          "isCorrect": false
+        },
+        {
+          "text": "5 Imati umanjenu brzinu penjanja i op",
+          "isCorrect": false
+        },
+        {
+          "text": "1, 2, 3, & 5.",
+          "isCorrect": false
+        },
+        {
+          "text": "1, 2, 4 & 5.",
+          "isCorrect": false
+        },
+        {
+          "text": "2, 4 & 5.",
+          "isCorrect": false
+        },
+        {
+          "text": "1, 2, 3 & 4.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0096",
+      "question": "Vazduhoplov težine 2000 lbs sa ukupnim momentom centra težišta od + 169400 lb-in napunjen je sa 440 lbs goriva. Ako je efektivni krak goriva 88.5 inches, nazad u odnosu na referentnu liniju, kolika ce biti nova masa vazduhoplova i momenat centra težišta?",
+      "options": [
+        {
+          "text": "2440 lbs  +208340 lb in.",
+          "isCorrect": true
+        },
+        {
+          "text": "1560 lbs  +208340 lb in.",
+          "isCorrect": false
+        },
+        {
+          "text": "2440 lbs  +169488.5 lb in.",
+          "isCorrect": false
+        },
+        {
+          "text": "1560 lbs  +169488.5 lb in.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0097",
+      "question": "Vazduhoplovu koji je natovaren na opasan nacin, tako da mu je centar težišta van njegove prednje granice ce se:",
+      "options": [
+        {
+          "text": "Povecati uzdužna stabilnost i brzina prevlacenja.",
+          "isCorrect": true
+        },
+        {
+          "text": "Zahtevati manji napor za ravnanje na sletanju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zahtevati manji napor za odlepljenje na poletanju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Povecati dolet i autonomija leta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0098",
+      "question": "Visina po gustini može biti približno proracunata od visine po pritisku bez upotrebe navigacijskog racunara:",
+      "options": [
+        {
+          "text": "povecanjem/smanjenjem visine po pritisku 120 ft za svaki °C odstupanja iznad/ispod standardne temperature. b. povecanjem/smanjenjem apsolutne visine iznad nivoa mora za razliku izmedu standardnog i aktuelnog",
+          "isCorrect": true
+        },
+        {
+          "text": "atmosferskog pritiska, pretvorenim u visinu.",
+          "isCorrect": false
+        },
+        {
+          "text": "povecanjem visine po pritisku 4% za svakih 10°C odstupanja od standardne temperature.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0099",
+      "question": "Vref koja treba biti dostignuta na visini 50ft u prilazu na sletanje mora biti:",
+      "options": [
+        {
+          "text": "1.3 brzine prevlacenja u sletnoj konfiguraciji.",
+          "isCorrect": true
+        },
+        {
+          "text": "1.15 brzine prevlacenja u poletnoj konfiguraciji.",
+          "isCorrect": false
+        },
+        {
+          "text": "1.43 brzine prevlacenja u sletnoj konfiguraciji.",
+          "isCorrect": false
+        },
+        {
+          "text": "33% brzine prevlacenja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0100",
+      "question": "Zašto moramo izbegavati letenje brzinom vecom od VNE?",
+      "options": [
+        {
+          "text": "Konstruktivni ( projektovani ) faktor opterecenja može biti prekoracen u uslovima „gasta\".",
+          "isCorrect": true
+        },
+        {
+          "text": "Prekomeran indukovani otpor može prouzrokovati strukturalne otkaze.",
+          "isCorrect": false
+        },
+        {
+          "text": "Efikasnost komandi je toliko umanjena pa vazduhoplov postaje neupravljiv.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0101",
+      "question": "Koja je maksimalna kolicina prtljaga koja može biti natovarena na avion normalne kategorije, da bi centar težišta ostao u okviru odgovarajuceg limita? (Vidi sliku PPL FPP-17D)",
+      "options": [
+        {
+          "text": "105 lbs.",
+          "isCorrect": true
+        },
+        {
+          "text": "120 lbs.",
+          "isCorrect": false
+        },
+        {
+          "text": "90 lbs.",
+          "isCorrect": false
+        },
+        {
+          "text": "75 lbs.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0102",
+      "question": "Koliko se maksimalno može sipati goriva u vazduhoplov koji je natovaren na sledeci nacin? (Vidi sliku PPL FPP-17C)",
+      "options": [
+        {
+          "text": "40 USA gal.",
+          "isCorrect": true
+        },
+        {
+          "text": "24 USA gal.",
+          "isCorrect": false
+        },
+        {
+          "text": "34 USA gal.",
+          "isCorrect": false
+        },
+        {
+          "text": "46 USA gal.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0103",
+      "question": "Odredi moment sa sledecim podacima: (Vidi sliku PPL FPP-17B)",
+      "options": [
+        {
+          "text": "74.9 lbxin.",
+          "isCorrect": true
+        },
+        {
+          "text": "38.7 lbxin.",
+          "isCorrect": false
+        },
+        {
+          "text": "69.9 lbxin.",
+          "isCorrect": false
+        },
+        {
+          "text": "77.0 lbxin.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0104",
+      "question": "Proracunaj brzinu uzdizanja za vazduhoplov koji leti na visini 5000f na temperaturi spoljnjeg vazduha od 0°C. (Vidi sliku PPL FPP-8).",
+      "options": [
+        {
+          "text": "530 fpm.",
+          "isCorrect": true
+        },
+        {
+          "text": "585 fpm.",
+          "isCorrect": false
+        },
+        {
+          "text": "475 fpm.",
+          "isCorrect": false
+        },
+        {
+          "text": "470 fpm.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0105",
+      "question": "Vaš vazduhoplov ima:",
+      "options": [
+        {
+          "text": "Masu na poletanju: 2353 tbs",
+          "isCorrect": true
+        },
+        {
+          "text": "Proracunati položaj centra težišta na poletanju: 89.75 inches iza referentne linije",
+          "isCorrect": false
+        },
+        {
+          "text": "Predvidenu potrošnju goriva: 200 lbs sa centrom težišta 85.00 inches nazad od referentne linije.",
+          "isCorrect": false
+        },
+        {
+          "text": "Koja ce biti pozicij",
+          "isCorrect": false
+        },
+        {
+          "text": "90.19 inches iza referentne linije.",
+          "isCorrect": false
+        },
+        {
+          "text": "82.52 inches iza referentne linije.",
+          "isCorrect": false
+        },
+        {
+          "text": "105.98 inches iza referentne linije.",
+          "isCorrect": false
+        },
+        {
+          "text": "96.97 inches iza referentne linije.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0106",
+      "question": "Kakav uticaj na visinu po gustini ima povecanje temperature za 12°C?",
+      "options": [
+        {
+          "text": "povecanje za 1,440-foot.",
+          "isCorrect": true
+        },
+        {
+          "text": "smanjenje za 1,650-foot.",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjenje za 1,340-foot.",
+          "isCorrect": false
+        },
+        {
+          "text": "povecanje za 1,650-foot.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0107",
+      "question": "Kolika je približno visina po pritisku , ako je visinomer podešen na 1010 hPa i pokazuje visinu 1,380 ft?",
+      "options": [
+        {
+          "text": "1,470 ft.",
+          "isCorrect": true
+        },
+        {
+          "text": "1,200 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,300 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,400 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0108",
+      "question": "Koliko je povecanje visine po gustini ako se temperatura poveca sa 0 na 10°C i ako visina aerodroma po pritisku ostane",
+      "options": [
+        {
+          "text": "3,000 ft?",
+          "isCorrect": true
+        },
+        {
+          "text": "1,200 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "3,000 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "2,200 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "2,000 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0109",
+      "question": "Odredi približno visinu aerodroma po gustini, kada je temperatura standardna i visinomer podešen na 1011hPa pokazuje",
+      "options": [
+        {
+          "text": "1,300 ft.",
+          "isCorrect": true
+        },
+        {
+          "text": "1,360 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,240 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,300 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,400 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0110",
+      "question": "Odredi visinu aerodroma po gustini za sledece uslove:",
+      "options": [
+        {
+          "text": "QNH. 1025 hPa",
+          "isCorrect": true
+        },
+        {
+          "text": "temperatura -4°C",
+          "isCorrect": false
+        },
+        {
+          "text": "nadmorska visina 3,850 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "2,050 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "2,900 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "3,500 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "3,800 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0111",
+      "question": "Odredi visinu aerodroma po gustini za uslove:",
+      "options": [
+        {
+          "text": "QNH 1010 hPa",
+          "isCorrect": true
+        },
+        {
+          "text": "temperatura 27°C",
+          "isCorrect": false
+        },
+        {
+          "text": "nadmorska visina 5,250 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "7,890 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "4,600 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "5,875 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "8,800 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0112",
+      "question": "Odredi visinu po pritisku ako je instrumentalna visina 1,380 ft sa visinomerom podešenim na 1013.2 hPa i standardnom temperaturom.",
+      "options": [
+        {
+          "text": "1,380 ft.",
+          "isCorrect": true
+        },
+        {
+          "text": "1,280 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,480 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,580 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0113",
+      "question": "Kolika ce biti vazdušna brzina aviona u horizontalnom letu pri sledecim uslovima: (Vidi sliku PPL FPP-14)",
+      "options": [
+        {
+          "text": "Visina po pritisku 8,000 ft",
+          "isCorrect": true
+        },
+        {
+          "text": "temperatura 20°C ispod standardne",
+          "isCorrect": false
+        },
+        {
+          "text": "podešena snaga 55%.",
+          "isCorrect": false
+        },
+        {
+          "text": "104 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "110 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "115 kts.",
+          "isCorrect": false
+        },
+        {
+          "text": "120 kts.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0114",
+      "question": "Odredi dužinu poletanja sa nadvišavanjem prepreka 50-foot pod sledecim uslovima. (Vidi sliku PPL FPP-15)",
+      "options": [
+        {
+          "text": "Visina po pritisku 0 ft",
+          "isCorrect": true
+        },
+        {
+          "text": "Temperatura standardna",
+          "isCorrect": false
+        },
+        {
+          "text": "Masa 1900 lb",
+          "isCorrect": false
+        },
+        {
+          "text": "Vetar bez vetra",
+          "isCorrect": false
+        },
+        {
+          "text": "Podloga trava, suva.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,030 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "920 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "950 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,180 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0115",
+      "question": "Odredi dužinu poletanja sa nadvišavanjem prepreka 50-foot pod sledecim uslovima: (Vidi sliku PPL FPP-15)",
+      "options": [
+        {
+          "text": "Visina po pritisku 2,000 ft",
+          "isCorrect": true
+        },
+        {
+          "text": "temperatura 30°C",
+          "isCorrect": false
+        },
+        {
+          "text": "masa 2100 lb",
+          "isCorrect": false
+        },
+        {
+          "text": "vetar ceoni 18 kt",
+          "isCorrect": false
+        },
+        {
+          "text": "podloga trava, suva.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,350 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,555 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,565 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "2,945 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0116",
+      "question": "Odredi dužinu poletanja sa nadvišavanjem prepreka 50-foot za sledece uslove: (Vidi sliku PPL FPP-15)",
+      "options": [
+        {
+          "text": "Visina po pritisku 4,000 ft",
+          "isCorrect": true
+        },
+        {
+          "text": "temperatura 15°C",
+          "isCorrect": false
+        },
+        {
+          "text": "masa 2300 lb",
+          "isCorrect": false
+        },
+        {
+          "text": "vetar bez vetra",
+          "isCorrect": false
+        },
+        {
+          "text": "podloga asvalt.",
+          "isCorrect": false
+        },
+        {
+          "text": "2,100 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,125 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,210 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,970 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0117",
+      "question": "Odredi dužinu protrcavanja po pisti posle sletanja. (Vidi sliku PPL FPP-16)",
+      "options": [
+        {
+          "text": "Visina po gustini 0 ft",
+          "isCorrect": true
+        },
+        {
+          "text": "temperatura 10°C",
+          "isCorrect": false
+        },
+        {
+          "text": "masa 2300 lb",
+          "isCorrect": false
+        },
+        {
+          "text": "vetar ceoni 10 kt",
+          "isCorrect": false
+        },
+        {
+          "text": "podloga trava, suva.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,110 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "510 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "765 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,850 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0118",
+      "question": "Odredi dužinu protrcavanja posle sletanja. (Vidi sliku PPL FPP-16)",
+      "options": [
+        {
+          "text": "Visina po pritisku 0 ft",
+          "isCorrect": true
+        },
+        {
+          "text": "temperatura 15°C",
+          "isCorrect": false
+        },
+        {
+          "text": "masa 2300 lb",
+          "isCorrect": false
+        },
+        {
+          "text": "vetar bez vetra",
+          "isCorrect": false
+        },
+        {
+          "text": "podloga šljunak sa katranom (tarmac ).",
+          "isCorrect": false
+        },
+        {
+          "text": "520 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "510 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "530 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "545 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0119",
+      "question": "Odredi dužinu protrcavanja posle sletanja. (Vidi sliku PPL FPP-16)",
+      "options": [
+        {
+          "text": "visina po pritisku 3,000 ft",
+          "isCorrect": true
+        },
+        {
+          "text": "temperatura 20°C",
+          "isCorrect": false
+        },
+        {
+          "text": "masa 2200 lb",
+          "isCorrect": false
+        },
+        {
+          "text": "vetar bez vetra",
+          "isCorrect": false
+        },
+        {
+          "text": "podloga trava, suva.",
+          "isCorrect": false
+        },
+        {
+          "text": "855 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "590 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "660 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "685 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0120",
+      "question": "Odredi potrebnu dužinu zaleta u poletanju. (Vidi sliku PPL FPP-15)",
+      "options": [
+        {
+          "text": "Visina 2,000 ft",
+          "isCorrect": true
+        },
+        {
+          "text": "temperatura 40°C",
+          "isCorrect": false
+        },
+        {
+          "text": "masa. 2100 lb",
+          "isCorrect": false
+        },
+        {
+          "text": "vetar.ledni 4 kt",
+          "isCorrect": false
+        },
+        {
+          "text": "podloga.šljunak sa katranom (tarmac ).",
+          "isCorrect": false
+        },
+        {
+          "text": "1,120 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "565 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "850 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "935 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0121",
+      "question": "Odredi ukupnu dužinu sletanja sa nadvišavanjem prepreka 50-foot. (Vidi sliku PPL FPP-16)",
+      "options": [
+        {
+          "text": "Visina po pritisku 1,000 ft",
+          "isCorrect": true
+        },
+        {
+          "text": "temperatura 10°C",
+          "isCorrect": false
+        },
+        {
+          "text": "masa 2300 lb",
+          "isCorrect": false
+        },
+        {
+          "text": "vetar ledni10 kt",
+          "isCorrect": false
+        },
+        {
+          "text": "podloga šljunak sa katranom (tarmac ).",
+          "isCorrect": false
+        },
+        {
+          "text": "1,900 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,265 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,360 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,850 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0122",
+      "question": "Odredi da li je masa vazduhoplova u granicama limita (normalne kategorije) (Vidi sliku PPL FPP-17A)",
+      "options": [
+        {
+          "text": "U okviru limita.",
+          "isCorrect": true
+        },
+        {
+          "text": "Napred u odnosu na prednju granicu.",
+          "isCorrect": false
+        },
+        {
+          "text": "U okviru limita, blizu prednjeg limita.",
+          "isCorrect": false
+        },
+        {
+          "text": "Nazad u odnosu na zadnji limit.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0123",
+      "question": "Odredi ukupnu potrebu dužinu sletanja sa nadvišavanjem prepreka 50-foot. (Vidi sliku PPL FPP-16)",
+      "options": [
+        {
+          "text": "Visina po pritisku 0 ft",
+          "isCorrect": true
+        },
+        {
+          "text": "temperatura 0°C",
+          "isCorrect": false
+        },
+        {
+          "text": "masa 2300 lb",
+          "isCorrect": false
+        },
+        {
+          "text": "vetar ceoni 18 kt",
+          "isCorrect": false
+        },
+        {
+          "text": "podloga trava, suva.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,140 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "965 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,205 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,445 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0124",
+      "question": "Odredi ukupnu potrebu dužinu sletanja sa nadvišavanjem prepreka 50-foot. (Vidi sliku PPL FPP-16)",
+      "options": [
+        {
+          "text": "Visina po pritisku 1,500 ft",
+          "isCorrect": true
+        },
+        {
+          "text": "temperatura 30°C",
+          "isCorrect": false
+        },
+        {
+          "text": "masa 2300 lb",
+          "isCorrect": false
+        },
+        {
+          "text": "vetar bez vetra",
+          "isCorrect": false
+        },
+        {
+          "text": "podloga šljunak sa katranom (tarmac ).",
+          "isCorrect": false
+        },
+        {
+          "text": "1,350 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,385 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,320 ft.",
+          "isCorrect": false
+        },
+        {
+          "text": "1,280 ft.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0125",
+      "question": "Sa povecanjem težine, dolet vazduhoplova se:",
+      "options": [
+        {
+          "text": "smanjuje.",
+          "isCorrect": true
+        },
+        {
+          "text": "ne menja.",
+          "isCorrect": false
+        },
+        {
+          "text": "povecava.",
+          "isCorrect": false
+        },
+        {
+          "text": "smanjuje, ako nije ostvareno povecanje uzgona.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0126",
+      "question": "Sertifikacioni zahtevi upucuju da kada tovarimo laki avion:",
+      "options": [
+        {
+          "text": "Centar težišta mora biti u okviru odredenih limita i maksimalna masa na poletanju ne sme se prekoraciti.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sva sedišta, prtljažni prostori i rezervoari goriva su u okviru limita centra težišta , tako da je nemoguce opteretiti vazduhoplov preko limita.-.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sa maksimalnim brojem putnika i prtljaga i pun goriva, vazduhoplov nece preci odobrenu maksimalnu masu na poletanju.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da maksimalna masa na poletanju se ne prelazi, i centar težišta da bude najmanje 5% unutar dozvoljenih granica.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0127",
+      "question": "Sletanje se vrši u vetar zato što:",
+      "options": [
+        {
+          "text": "to ce smanjiti brzinu u odnosu na zemlju i potrebnu dužinu sletanja.",
+          "isCorrect": true
+        },
+        {
+          "text": "to ce povecati brzinu u odnosu na zemlju i smanjiti potrebnu dužinu sletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "to ce smanjiti brzinu u odnosu na zemlju i raspoloživu dužinu sletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "to omogucava pilotu bolju kontrolu vazduhoplova na manjim brzinama.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0128",
+      "question": "Šta je razlog povecanja brzine u produženom penjanju?",
+      "options": [
+        {
+          "text": "Povecanje protoka vazduha kroz motor i time hladenje motora.",
+          "isCorrect": true
+        },
+        {
+          "text": "Održavanje najbolje brzine penjanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "Smanjenje buke prouzrokovane vazduhoplovom u osetljivim oblastima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Održavanje brzine najboljeg ugla penjanja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0129",
+      "question": "Šta je visina po gustini?",
+      "options": [
+        {
+          "text": "visina po pritisku ispravljena za nestandardnu temperaturu.",
+          "isCorrect": true
+        },
+        {
+          "text": "relativna visina iznad standardne referentne ravni.",
+          "isCorrect": false
+        },
+        {
+          "text": "apsolutna visina ocitana direktno na visinomeru.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0130",
+      "question": "Šta je visina po pritisku?",
+      "options": [
+        {
+          "text": "Instrumentalna visina, kada je skala barometarskog pritiska postavljena na 1013.2 hPa.",
+          "isCorrect": true
+        },
+        {
+          "text": "Instrumentalna visina ispravljena za grešku položaja i ugradnje.",
+          "isCorrect": false
+        },
+        {
+          "text": "Instrumentalna visina ispravljena za nestandardnu temperaturu i pritisak.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0131",
+      "question": "Šta moramo prvo uraditi u slucaju otkaza motora u letu?",
+      "options": [
+        {
+          "text": "Podesiti položaj za jedrenje za brzinu najboljeg jedrenja.",
+          "isCorrect": true
+        },
+        {
+          "text": "mora se pristupiti grejanju karburatora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Postaviti rucicu smeše u krajnji položaj bogata smeša ( FULL RICH ).",
+          "isCorrect": false
+        },
+        {
+          "text": "Izabrati prikladan teren za prinudno sletanje.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0132",
+      "question": "Šta se koristi kao osnova za odredivanje granica centra težišta i na kojim osama se on nalazi?",
+      "options": [
+        {
+          "text": "Osa / Reference.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uzdužna / Datum ( referentna linija ).",
+          "isCorrect": false
+        },
+        {
+          "text": "Normalna / obloga glavcine elise.",
+          "isCorrect": false
+        },
+        {
+          "text": "Poprecna / Rep.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vertikalna / Tockovi.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0133",
+      "question": "Šta znaci brzina najvece autonomije leta za elisne avione?",
+      "options": [
+        {
+          "text": "Maksimalno vreme leta po jedinici goriva ( let sa minimalnom snagom ).",
+          "isCorrect": true
+        },
+        {
+          "text": "Maksimalni predeni put po jedinici goriva ( let sa minimalnim otporom ).",
+          "isCorrect": false
+        },
+        {
+          "text": "Maksimalni put izmedu dva sletanja.",
+          "isCorrect": false
+        },
+        {
+          "text": "d.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0134",
+      "question": "Kolika ce biti ocekivana potrošnja goriva za let od 350 nm pod sledecim uslovima: (Vidi sliku PPL FPP-14)",
+      "options": [
+        {
+          "text": "Visina po pritisku 4,000 ft",
+          "isCorrect": true
+        },
+        {
+          "text": "temperatura 20°C ispod standarda",
+          "isCorrect": false
+        },
+        {
+          "text": "podešena snaga 60%",
+          "isCorrect": false
+        },
+        {
+          "text": "vetar bez vetra.",
+          "isCorrect": false
+        },
+        {
+          "text": "22.7 USA gal.",
+          "isCorrect": false
+        },
+        {
+          "text": "14.9 USA gal.",
+          "isCorrect": false
+        },
+        {
+          "text": "15.3 USA gal.",
+          "isCorrect": false
+        },
+        {
+          "text": "18.6 USA gal.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0135",
+      "question": "Kolika je ocekivana potrošnja goriva pod sledecim uslovima: (Vidi sliku PPL FPP-14)",
+      "options": [
+        {
+          "text": "Visina po pritisku 8,000 ft",
+          "isCorrect": true
+        },
+        {
+          "text": "temperatura 20°C ispod standardna",
+          "isCorrect": false
+        },
+        {
+          "text": "podešena snaga 55%.",
+          "isCorrect": false
+        },
+        {
+          "text": "6.2 USA gal/h.",
+          "isCorrect": false
+        },
+        {
+          "text": "5.7 USA gal/h.",
+          "isCorrect": false
+        },
+        {
+          "text": "5.8 USA gal/h.",
+          "isCorrect": false
+        },
+        {
+          "text": "6.8 USA gal/h.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0136",
+      "question": "Koliki obrtaji motora moraju biti približno podešeni za vreme krstarenja na 2,000 ft i na standardnoj temperaturi kako bi ostvarili 60% snage? (Vidi sliku PPL FPP-14).",
+      "options": [
+        {
+          "text": "2300 RPM.",
+          "isCorrect": true
+        },
+        {
+          "text": "2500 RPM.",
+          "isCorrect": false
+        },
+        {
+          "text": "2400 RPM.",
+          "isCorrect": false
+        },
+        {
+          "text": "2200 RPM.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "PF-0137",
+      "question": "Kolika ce biti ocekivana potrošnja goriva za let od 250 nm pod sledecim uslovima: (Vidi sliku PPL FPP-14)",
+      "options": [
+        {
+          "text": "Visina po pritisku 6,000 ft",
+          "isCorrect": true
+        },
+        {
+          "text": "temperatura 20°C iznad standardne",
+          "isCorrect": false
+        },
+        {
+          "text": "podešena snaga 60%",
+          "isCorrect": false
+        },
+        {
+          "text": "vetar bez vetra.",
+          "isCorrect": false
+        },
+        {
+          "text": "15.1 USA gal.",
+          "isCorrect": false
+        },
+        {
+          "text": "19.7 USA gal.",
+          "isCorrect": false
+        },
+        {
+          "text": "16.0 USA gal.",
+          "isCorrect": false
+        },
+        {
+          "text": "12.0 USA gal.",
+          "isCorrect": false
+        }
+      ]
+    }
+  ]
+}
