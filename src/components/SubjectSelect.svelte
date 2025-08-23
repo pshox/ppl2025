@@ -10,7 +10,7 @@
 
 <div class="page">
   <header>
-    <h1>Izaberi предмет</h1>
+    <h1>Izaberi predmet</h1>
   </header>
   <main>
     <div class="grid">

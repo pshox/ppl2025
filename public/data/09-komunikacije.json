@@ -136,10 +136,6 @@
         {
           "text": "Push back, taxi, line-up, take off roll, start up, take off, descent, climb, cruise, touch down, approach, final approach.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -488,10 +484,6 @@
         {
           "text": "CHARLIE, METRO, NOVEMBER, EXTRA, YANKEE.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -509,10 +501,6 @@
         },
         {
           "text": "BRAVO, NINE, DELTA, TWO FOXTROT.",
-          "isCorrect": false
-        },
-        {
-          "text": "d.",
           "isCorrect": false
         }
       ]
@@ -641,10 +629,6 @@
         },
         {
           "text": "Od 118,0 do 121,5 MHz.",
-          "isCorrect": false
-        },
-        {
-          "text": "d.",
           "isCorrect": false
         }
       ]
@@ -1254,10 +1238,6 @@
         {
           "text": "Sačekate 5 minuta na trenutnoj poziciji.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -1672,10 +1652,6 @@
         {
           "text": "VRŠAC TOWER, FINAL.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -1782,10 +1758,6 @@
         {
           "text": "Samo u početnom kontaktu.",
           "isCorrect": false
-        },
-        {
-          "text": "d.",
-          "isCorrect": false
         }
       ]
     },
@@ -1847,10 +1819,6 @@
         },
         {
           "text": "Kada je rep vazduhoplova na ivici piste.",
-          "isCorrect": false
-        },
-        {
-          "text": "d.",
           "isCorrect": false
         }
       ]
@@ -1917,10 +1885,6 @@
         },
         {
           "text": "E.",
-          "isCorrect": false
-        },
-        {
-          "text": "D.",
           "isCorrect": false
         }
       ]
@@ -2169,10 +2133,6 @@
         },
         {
           "text": "Na ulasku u zonu parkiranja.",
-          "isCorrect": false
-        },
-        {
-          "text": "d.",
           "isCorrect": false
         }
       ]
