@@ -2,6 +2,7 @@
   "subject": "Vazduhoplovni propisi",
   "lang": "sr",
   "version": 3,
+  "verified": true,
   "questions": [
     {
       "id": "AL-0001",
@@ -193,6 +194,28 @@
         },
         {
           "text": "Lekarsko uverenje ce ostati važece.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AL-0010",
+      "question": "Koliko casova naleta, od ukupno zahtevanih za prakticni ispit za izdavanje PPL(A), može da se izvrši na FNPT(Flight & Navigation Procedures Trainer) ili simulatoru leta?",
+      "options": [
+        {
+          "text": "5.",
+          "isCorrect": true
+        },
+        {
+          "text": "7.",
+          "isCorrect": false
+        },
+        {
+          "text": "10.",
+          "isCorrect": false
+        },
+        {
+          "text": "15.",
           "isCorrect": false
         }
       ]
