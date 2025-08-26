@@ -170,14 +170,6 @@
           "isCorrect": false
         },
         {
-          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
-          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
           "text": "smanjuje / raste / siromašnija.",
           "isCorrect": false
         },
@@ -236,12 +228,8 @@
       "question": "U uslovima zaledivanja, ako otvori statickog pritiska postanu blokirani za vreme horizontalnog leta i avion postepeno penje, pokazivanje visinomera, variometra i brzinomera ce:",
       "options": [
         {
-          "text": "Visinomer / Variometar / Brzinomer.",
-          "isCorrect": true
-        },
-        {
           "text": "Ostati nepromenjeno / Ostati nepromenjeno / Pokazivati manju brzinu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Ostati nepromenjeno / Pokazivati manju brzinu / Pokazivati vecu brzinu.",
@@ -306,12 +294,8 @@
       "question": "Gas karbon-monoksid, koji je vrlo otrovan, može prodreti u kabinu tokom leta ukoliko je izduvni sistem pokvaren.",
       "options": [
         {
-          "text": "Karbon-monoksid je:",
-          "isCorrect": true
-        },
-        {
           "text": "Bez boje i mirisa.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Može biti prepoznat po jakom mirisu.",
@@ -362,14 +346,6 @@
           "isCorrect": false
         },
         {
-          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
-          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
           "text": "povlacenje rucice smeše na poziciju \"siromašno\".",
           "isCorrect": false
         },
@@ -384,12 +360,8 @@
       "question": "Dijagram pokazuje elektricnu instalaciju lakog aviona, koji ima ampermetar sa nulom u centru.(Pogledajte sliku PPL AKG-3)",
       "options": [
         {
-          "text": "Tokom leta, a sa baterijom koja je puna, i prekidacem akumulatora na ON, za ocekivati je da ampermetar:",
-          "isCorrect": true
-        },
-        {
           "text": "Bude u centralnom nultom položaju.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Bude otklonjen u desno, pokazujuci pozitivnu merenje.",
@@ -550,14 +522,6 @@
           "isCorrect": false
         },
         {
-          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
-          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
           "text": "24 volti i kapacitetom od 80 amper casova.",
           "isCorrect": false
         },
@@ -598,11 +562,11 @@
           "isCorrect": true
         },
         {
-          "text": "odabrati odgovarajuci stepen grejanja karburatora u zavisnosti od pretpostavljenog stepena zaledivanja. c. uvek ukljuciti puno grejanje karburatora do momenta kada motor pocne da radi grubo, kada treba iskljuciti",
+          "text": "odabrati odgovarajuci stepen grejanja karburatora u zavisnosti od pretpostavljenog stepena zaledivanja.",
           "isCorrect": false
         },
         {
-          "text": "grejanje.",
+          "text": "uvek ukljuciti puno grejanje karburatora do momenta kada motor pocne da radi grubo, kada treba iskljuciti grejanje.",
           "isCorrect": false
         },
         {
@@ -638,12 +602,8 @@
       "question": "Šema pokazuje šemu elektro-sistema na lakom avionu. (Pogledajte sliku PPL AKG-1)",
       "options": [
         {
-          "text": "U letu pokazivac punjenja akumulatora pada na nulu, najverovatniji razlog je:",
-          "isCorrect": true
-        },
-        {
           "text": "prekid rada alternatora.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "akumulator je do kraja napunjen.",
@@ -726,11 +686,19 @@
       "question": "Stepen kompresije je odnos.",
       "options": [
         {
-          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "text": "Zapremine cilindra kada je klip u donjoj mrtvoj tacki i zapremine kada je klip u gornjoj mrtvoj tacki.",
           "isCorrect": true
         },
         {
-          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
+          "text": "Ukupna zapremina cilindra kada je klip u donjoj mrtvoj tacki.",
+          "isCorrect": false
+        },
+        {
+          "text": "Odnos zapremine cilindra prema zapremini motora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Zapremine motora i radne zapremine cilindra.",
           "isCorrect": false
         }
       ]
@@ -784,12 +752,8 @@
       "question": "Delovi krila prikazani na crtežu su: (Pogledajte sliku PPL AKG-2)",
       "options": [
         {
-          "text": "A/B/C.",
-          "isCorrect": true
-        },
-        {
           "text": "prednja ramenjaca / rebro / zadnja ramenjaca.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "prva ramenjaca, / rebro, / stringer.",
@@ -924,14 +888,6 @@
           "isCorrect": true
         },
         {
-          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
-          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
           "text": "koristi trenje koje se stvara u kutiji davaca koji rotira osovinu povezanu sa pokazivacem brzinomera.",
           "isCorrect": false
         },
@@ -950,12 +906,8 @@
       "question": "Za vreme taksiranja aviona opremljenog sa elisom stalnog koraka, sumnjate da je došlo do zaledivanja karburatora.",
       "options": [
         {
-          "text": "Ispravan postupak bi bio:",
-          "isCorrect": true
-        },
-        {
           "text": "ukljuciti puno grejanje karburatora. Zatim, pre poletanja, iskljuciti grejanje karburatora, uveriti se da motor razvija minimalni broj obrtaja za poletanje.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "ukljuciti puno grejanje karburatora, ostaviti ga ukljucenog dok ne poletite,.",
@@ -998,12 +950,8 @@
       "question": "Ukoliko dode do prekida grejanja pito cevi za vreme leta u uslovima zaledivanja i avion krene u postepeno snižavanje, ocitavanje visinomera, variometra i brzinomera ce, ukoliko je let blokirao pito cev (cev ukupnog pritiska)",
       "options": [
         {
-          "text": "Visinomer / Variometar / Brzinomer.",
-          "isCorrect": true
-        },
-        {
           "text": "Pokazuje tacno / pokazuje tacno / pokazuje manju brzinu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "pokazuje tacno / pokazuje manju brzinu / pokazuje vecu brzinu.",
@@ -1296,16 +1244,8 @@
       "question": "Da bi se pomoglo u smanjenju temperature motora.",
       "options": [
         {
-          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
-          "isCorrect": true
-        },
-        {
-          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
           "text": "smeša vazduh-gorivo se može obogatiti.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "može se smanjiti brzina aviona.",
@@ -1590,11 +1530,11 @@
       "question": "Odgovarajuce funkcionisanje pomocne gorivne pumpe može se proveriti sa:",
       "options": [
         {
-          "text": "izlaznom snagom alternatora.",
+          "text": "pritiskom goriva.",
           "isCorrect": true
         },
         {
-          "text": "pritiskom goriva.",
+          "text": "izlaznom snagom alternatora.",
           "isCorrect": false
         },
         {
@@ -1834,16 +1774,8 @@
       "question": "Šta oznacava crvena linija na avionskim instrumentima?",
       "options": [
         {
-          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
-          "isCorrect": true
-        },
-        {
-          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
           "text": "maksimalnu ili minimalnu dozvoljenu vrednost.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "opasno podrucje.",
@@ -2036,16 +1968,8 @@
       "question": "Koji nepovoljan efekat, uzrokovan žiroskopskim momentom, ce pilot iskusiti za vreme poletanja prilikom podizanja repa",
       "options": [
         {
-          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
+          "text": "skretanje.",
           "isCorrect": true
-        },
-        {
-          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
-          "text": "sa tla?",
-          "isCorrect": false
         },
         {
           "text": "tendenciju naginjanja.",
@@ -2053,10 +1977,6 @@
         },
         {
           "text": "propinjanje.",
-          "isCorrect": false
-        },
-        {
-          "text": "skretanje.",
           "isCorrect": false
         }
       ]
@@ -2132,8 +2052,12 @@
       "question": "Šta uzrokuje da se stvarna brzina aviona razlikuje od indicirane brzine?",
       "options": [
         {
-          "text": "ceona komponenta vetra.",
+          "text": "promena temperature i gustine vazduha.",
           "isCorrect": true
+        },
+        {
+          "text": "ceona komponenta vetra.",
+          "isCorrect": false
         },
         {
           "text": "greška na pito-cevi uzrokovana gubitkom protoka vazduha.",
@@ -2141,10 +2065,6 @@
         },
         {
           "text": "greška zanošenja uzrokovana momentom zanošenja na režimu krstarenja.",
-          "isCorrect": false
-        },
-        {
-          "text": "promena temperature i gustine vazduha.",
           "isCorrect": false
         }
       ]
@@ -2154,8 +2074,12 @@
       "question": "Pored visinomera, koji instrumenti su povezani sa dovodom statickog pritiska?",
       "options": [
         {
-          "text": "brzinomer, variometar, kontrolnikom leta.",
+          "text": "brzinomerom i variometrom.",
           "isCorrect": true
+        },
+        {
+          "text": "brzinomer, variometar, kontrolnikom leta.",
+          "isCorrect": false
         },
         {
           "text": "brzinomerom.",
@@ -2163,10 +2087,6 @@
         },
         {
           "text": "brzinomerom i pokazivacem spoljne temperature.",
-          "isCorrect": false
-        },
-        {
-          "text": "brzinomerom i variometrom.",
           "isCorrect": false
         }
       ]
@@ -3000,14 +2920,6 @@
         {
           "text": "ravnomernu distribuciju toplote.",
           "isCorrect": false
-        },
-        {
-          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
-          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
-          "isCorrect": false
         }
       ]
     },
@@ -3095,6 +3007,28 @@
         },
         {
           "text": "pokvaren pokazivac pritiska ulja.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "AC-0035",
+      "question": "Delovi krila prikazani na crtežu su: (Pogledajte sliku PPL AKG-2)",
+      "options": [
+        {
+          "text": "prednja ramenjaca / rebro / zadnja ramenjaca.",
+          "isCorrect": true
+        },
+        {
+          "text": "prva ramenjaca, / rebro, / stringer.",
+          "isCorrect": false
+        },
+        {
+          "text": "prednja ramenjaca, / druga ramenjaca, / rebro.",
+          "isCorrect": false
+        },
+        {
+          "text": "stringeri, / druga ramenjaca, /rebro,.",
           "isCorrect": false
         }
       ]
