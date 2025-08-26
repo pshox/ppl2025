@@ -2,6 +2,7 @@
   "subject": "Vazduhoplovni propisi",
   "lang": "sr",
   "version": 3,
+  "verified": true,
   "questions": [
     {
       "id": "AL-0001",

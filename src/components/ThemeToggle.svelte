@@ -9,16 +9,13 @@
 </script>
 
 <div class="themeToggle">
-  <label for="themeSelect">Tema</label>
-  <select id="themeSelect" on:change={onChange} bind:value={value}>
-    <option value="system">Sistem</option>
-    <option value="light">Svetla</option>
-    <option value="dark">Tamna</option>
-  </select>
+  <button class="btn" aria-label="Light" on:click={() => setTheme('light')} data-active={value === 'light'}>☀️</button>
+  <button class="btn" aria-label="Dark" on:click={() => setTheme('dark')} data-active={value === 'dark'}>🌙</button>
+  <button class="btn" aria-label="System" on:click={() => setTheme('system')} data-active={value === 'system'}>⚙️</button>
 </div>
 
 <style>
   .themeToggle { display: inline-flex; align-items: center; gap: 6px; }
-  .themeToggle label { font-size: 12px; color: var(--muted); }
-  .themeToggle select { padding: 6px 8px; border-radius: 8px; border: 1px solid var(--btn-border); background: var(--btn-bg); color: var(--text); }
+  .btn { padding: 6px 8px; border: none; border-radius: 0; background: var(--btn-bg); color: var(--text); }
+  .btn[data-active="true"] { background: var(--accent); color: var(--accent-contrast); }
 </style>

@@ -5,9 +5,9 @@ html, body, #app { height: 100%; margin: 0; }
   --text: #0b1324;
   --muted: #6b7280;
   --card: #ffffff;
-  --border: #e5e7eb;
+  --border: transparent;
   --btn-bg: #ffffff;
-  --btn-border: #d1d5db;
+  --btn-border: transparent;
   --accent: #2563eb;
   --accent-contrast: #ffffff;
   --option-bg: #f3f4f6;
@@ -21,9 +21,9 @@ html, body, #app { height: 100%; margin: 0; }
     --text: #e6e7ea;
     --muted: #9aa0aa;
     --card: #14161a;
-    --border: #22252b;
+    --border: transparent;
     --btn-bg: #111418;
-    --btn-border: #2a2e36;
+    --btn-border: transparent;
     --accent: #4f46e5;
     --accent-contrast: #ffffff;
     --option-bg: #171a1f;
@@ -37,9 +37,9 @@ html.theme-light {
   --text: #0b1324;
   --muted: #6b7280;
   --card: #ffffff;
-  --border: #e5e7eb;
+  --border: transparent;
   --btn-bg: #ffffff;
-  --btn-border: #d1d5db;
+  --btn-border: transparent;
   --accent: #2563eb;
   --accent-contrast: #ffffff;
   --option-bg: #f3f4f6;
@@ -53,9 +53,9 @@ html.theme-dark {
   --text: #e6e7ea;
   --muted: #9aa0aa;
   --card: #14161a;
-  --border: #22252b;
+  --border: transparent;
   --btn-bg: #111418;
-  --btn-border: #2a2e36;
+  --btn-border: transparent;
   --accent: #4f46e5;
   --accent-contrast: #ffffff;
   --option-bg: #171a1f;
@@ -64,3 +64,6 @@ html.theme-dark {
   --hint-text: #6ee7b7;
 }
 body { font-family: -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica Neue, Arial, "Apple Color Emoji", "Segoe UI Emoji"; background: var(--bg); color: var(--text); }
+button { cursor: pointer; }
+button:hover { filter: brightness(0.98); }
+button:active { filter: brightness(1); }
