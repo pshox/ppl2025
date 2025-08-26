@@ -1,6 +1,7 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import { subjects, type SubjectId } from '../subjects';
+  import ThemeToggle from './ThemeToggle.svelte';
 
   type Option = { text: string; isCorrect: boolean };
   type Question = { id: string; question: string; comment?: string; options: Option[] };
@@ -173,6 +174,11 @@
     }
   }
 
+  function openChatForCurrent() {
+    if (!bank) return;
+    openChatGPT(bank.questions[idx]);
+  }
+
   onMount(() => loadBank());
 </script>
 
@@ -197,13 +203,14 @@
               <option value={s.id}>{s.title}</option>
             {/each}
           </select>
+          <ThemeToggle />
         </div>
       </header>
       <main>
         {#if loadError}
           <div class="errorBox">{loadError}</div>
         {/if}
-        <p>Nема питања у сету.</p>
+        <p>Nema pitanja u setu.</p>
       </main>
     </div>
   {:else}
@@ -214,6 +221,7 @@
           <div class="toolbar">
             <button class="back" on:click={goToSubjects}>← Predmeti</button>
             <small>#{bank.lang} · {idx + 1}/{bank.questions.length}</small>
+            <ThemeToggle />
           </div>
         </header>
         <main>
@@ -251,7 +259,7 @@
           </div>
           <div class="actions below-card">
             <button class="hint" on:click={selectCorrect}>Prikaži tačan odgovor</button>
-            <button class="chat" on:click={() => openChatGPT(bank.questions[idx])}>Pitaj AI</button>
+            <button class="chat" on:click={openChatForCurrent}>Pitaj AI</button>
           </div>
         </main>
       </div>
@@ -284,7 +292,6 @@
   .actions { display: flex; gap: 8px; margin-top: 12px; }
   .hint, .chat { flex: 1; padding: 10px; border-radius: 10px; border: 1px solid var(--btn-border); background: var(--btn-bg); color: var(--text); }
   .chat { background: var(--accent); color: var(--accent-contrast); border-color: var(--accent); }
-  .hintBox { margin-top: 10px; padding: 10px; background: var(--hint-bg); border: 1px solid var(--hint-border); border-radius: 8px; color: var(--hint-text); }
   .comment { margin-top: 8px; color: var(--muted); font-size: 13px; }
   nav { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; padding: 12px 0; }
   .below-card { margin-top: 10px; }

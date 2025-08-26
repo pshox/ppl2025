@@ -32,4 +32,35 @@ html, body, #app { height: 100%; margin: 0; }
     --hint-text: #6ee7b7;
   }
 }
+html.theme-light {
+  --bg: #fafafa;
+  --text: #0b1324;
+  --muted: #6b7280;
+  --card: #ffffff;
+  --border: #e5e7eb;
+  --btn-bg: #ffffff;
+  --btn-border: #d1d5db;
+  --accent: #2563eb;
+  --accent-contrast: #ffffff;
+  --option-bg: #f3f4f6;
+  --hint-bg: #ecfdf5;
+  --hint-border: #10b981;
+  --hint-text: #065f46;
+}
+
+html.theme-dark {
+  --bg: #0b0b0f;
+  --text: #e6e7ea;
+  --muted: #9aa0aa;
+  --card: #14161a;
+  --border: #22252b;
+  --btn-bg: #111418;
+  --btn-border: #2a2e36;
+  --accent: #4f46e5;
+  --accent-contrast: #ffffff;
+  --option-bg: #171a1f;
+  --hint-bg: #0b2e22;
+  --hint-border: #10b981;
+  --hint-text: #6ee7b7;
+}
 body { font-family: -apple-system, system-ui, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica Neue, Arial, "Apple Color Emoji", "Segoe UI Emoji"; background: var(--bg); color: var(--text); }

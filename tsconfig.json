@@ -7,7 +7,7 @@
     "sourceMap": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "types": ["svelte"],
+    "types": ["svelte", "vite/client"],
     "verbatimModuleSyntax": true
   },
   "include": [

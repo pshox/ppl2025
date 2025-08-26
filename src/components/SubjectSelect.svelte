@@ -1,5 +1,6 @@
 <script lang="ts">
   import { subjects } from '../subjects';
+  import ThemeToggle from './ThemeToggle.svelte';
 
   function goTo(id: string) {
     const url = new URL(location.href);
@@ -11,6 +12,7 @@
 <div class="page">
   <header>
     <h1>Izaberi predmet</h1>
+    <ThemeToggle />
   </header>
   <main>
     <div class="grid">
