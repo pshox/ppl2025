@@ -2,6 +2,7 @@
   "subject": "Meteorologija",
   "lang": "sr",
   "version": 1,
+  "verified": true,
   "questions": [
     {
       "id": "MET-0001",
@@ -28,6 +29,7 @@
     {
       "id": "MET-0002",
       "question": "Ako je data temperatura +21°C i tacka rose +7°C, aproksimativno na kojoj ce visini biti baza oblaka kumulusa?",
+      "explanation": "",
       "options": [
         {
           "text": "5600 ft.",
@@ -72,6 +74,7 @@
     {
       "id": "MET-0004",
       "question": "Data je atmosferska situacija gde je vlažnost 60% i ELR je manji od DALR, ukoliko je vazduh prisiljen na podizanje bice:",
+      "explanation": "",
       "options": [
         {
           "text": "Stabilan sa tendencijom povratka na prethodni položaj.",
@@ -264,34 +267,30 @@
       "question": "Iz kojeg tipa oblaka najcešce pada grad?",
       "options": [
         {
-          "text": "CB.",
+          "text": "CB. (Cumulonimbus)",
           "isCorrect": true
         },
         {
-          "text": "NS.",
+          "text": "NS. (Nimbus Stratus)",
           "isCorrect": false
         },
         {
-          "text": "AC.",
+          "text": "AC. (Altocumulus)",
           "isCorrect": false
         },
         {
-          "text": "AS.",
+          "text": "AS. (Altostratus)",
           "isCorrect": false
         }
       ]
     },
     {
       "id": "MET-0014",
-      "question": "Iznad unutrašnjosti aerodroma objavljeno je postojanje radiacione magle tokom jutra. Kako se brzina vetra povecava do",
+      "question": "Iznad unutrašnjosti aerodroma objavljeno je postojanje radiacione magle tokom jutra. Kako se brzina vetra povecava do 10 kt može se ocekivati:",
       "options": [
         {
-          "text": "10 kt može se ocekivati:",
-          "isCorrect": true
-        },
-        {
           "text": "Magla se podiže i formira nizak stratus.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Smanjice se sloj magle.",
@@ -829,19 +828,11 @@
     },
     {
       "id": "MET-0039",
-      "question": "U dole navedenom METAR izveštaju izostavljena je visina baze sloja oblaka. Na kojoj visini možemo ocekivati bazu sloja",
+      "question": "U dole navedenom METAR izveštaju izostavljena je visina baze sloja oblaka. Na kojoj visini možemo ocekivati bazu sloja oblaka ukoliko postoji kumulus tip oblaka 28005KT9999 SCT??? 12/05 Q1020 NOSIG.",
       "options": [
         {
-          "text": "oblaka ukoliko postoji kumulus tip oblaka",
-          "isCorrect": true
-        },
-        {
-          "text": "28005KT9999 SCT??? 12/05 Q1020 NOSIG.",
-          "isCorrect": false
-        },
-        {
           "text": "SCT028.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "SCT042.",
@@ -904,6 +895,7 @@
     {
       "id": "MET-0042",
       "question": "Avion leti sa aerodroma A ( QNH 1020 mb) , prema aerodromu B (QNH=999mb).Aerodrom \"A\" se nalazi 800 ft ispod srednjeg nivoa mora dok je aerodrom \"B\" 500 ft iznad srednjeg nivoa mora. Ukoliko vrednost na barometarskoj skali visinomera nije resetovana od tr",
+      "explanation": "Razlika QNH je Δp = 1020 − 999 = 21 hPa. Za grubu računicu uzima se 1 hPa ≈ 30 ft, pa je greška ≈ 21 × 30 = 630 ft (pri letu sa višeg na niži pritisak visinomer pokazuje veću visinu od stvarne). Aerodrom B je na +500 ft AMSL, zato indikacija ≈ 500 + 630 = 1 130 ft, pa je tačan odgovor 1,130 ft.",
       "options": [
         {
           "text": "1,130ft.",
@@ -947,19 +939,11 @@
     },
     {
       "id": "MET-0044",
-      "question": "EGTT SIGMET SST 01 VALID 310730/311130 EGRR LONDON FIR ISOL CB FCST TOPS FL370 SST ROUTES W OF",
+      "question": "EGTT SIGMET SST 01 VALID 310730/311130 EGRR LONDON FIR ISOL CB FCST TOPS FL370 SST ROUTES W OF W00400 STNR NC =. Šta predstavlja šifra \"SST\" u gore navedenoj SIGMET prognozi?",
       "options": [
         {
-          "text": "W00400 STNR NC =",
-          "isCorrect": true
-        },
-        {
-          "text": "Šta predstavlja šifra \"SST\" u gore navedenoj SIGMET prognozi?",
-          "isCorrect": false
-        },
-        {
           "text": "Transonicne i Supersonicne nivoe leta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Samo supersonicne nivoe leta.",
@@ -999,15 +983,11 @@
     },
     {
       "id": "MET-0046",
-      "question": "Kada je bio izdat sledeci METAR izveštaj:",
+      "question": "Kada je bio izdat sledeci METAR izveštaj: METAR LSZH 131630Z 24008KT 0666 R16/1000U FG DZ FE003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT 1800 9999 NSW=.",
       "options": [
         {
-          "text": "METAR LSZH 131630Z 24008KT 0666 R16/1000U FG DZ FE003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT 1800 9999 NSW=.",
-          "isCorrect": true
-        },
-        {
           "text": "U 16:30 UTC, 13. Dana tekuceg meseca.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "U 16 casova UTC, 30. Dana tekuceg meseca.",
@@ -1025,15 +1005,11 @@
     },
     {
       "id": "MET-0047",
-      "question": "Kada možemo racunati da ce se na aerodromu podici magla i da ce biti uslova za VFR letenje:",
+      "question": "Kada možemo racunati da ce se na aerodromu podici magla i da ce biti uslova za VFR letenje: METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 BECMG.",
       "options": [
         {
-          "text": "METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 BECMG.",
-          "isCorrect": true
-        },
-        {
           "text": "Posle 18:00 UTC.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Do 17:00 UTC.",
@@ -1095,15 +1071,11 @@
     },
     {
       "id": "MET-0050",
-      "question": "Kakvo se vreme predvida na aerodromu posle 12:00 UTC:",
+      "question": "Kakvo se vreme predvida na aerodromu posle 12:00 UTC: TAF LYBE 160500Z 1606/1706 13010KT 9000 BKN020 BECMG 1606/1608 SCT015CB BKN020 TEMPO 1608/1612 17012G22KT 1000 TSRA SCT010CB BKN020 FM12 15006KT 9999 BKN020 BKN100=.",
       "options": [
         {
-          "text": "TAF LYBE 160500Z 1606/1706 13010KT 9000 BKN020 BECMG 1606/1608 SCT015CB BKN020 TEMPO 1608/1612 17012G22KT 1000 TSRA SCT010CB BKN020 FM12 15006KT 9999 BKN020 BKN100=.",
-          "isCorrect": true
-        },
-        {
           "text": "Duvace jugoistocni vetar srednje jacine, vidljivost u poboljšanju preko 10 km, prestanak padavina,Povecanje oblacnosti, baza oblaka 600 m.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Kišovito vreme sa pljuskovima, rafalni vetar, vidljivost manja od 10 km.",
@@ -1143,15 +1115,11 @@
     },
     {
       "id": "MET-0052",
-      "question": "Koja je bila temperatura na aerodromu u casu osmatranja vremena:",
+      "question": "Koja je bila temperatura na aerodromu u casu osmatranja vremena: METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 BECMG AT1800 9999=.",
       "options": [
         {
-          "text": "METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 BECMG AT1800 9999=.",
-          "isCorrect": true
-        },
-        {
           "text": "17°C.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Izmedu 10°C i 18°C.",
@@ -1169,15 +1137,11 @@
     },
     {
       "id": "MET-0053",
-      "question": "Koje padavine su bile na aerodromu u casu osmatranja vremena:",
+      "question": "Koje padavine su bile na aerodromu u casu osmatranja vremena: METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FSW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT 1800 9999 NSW =.",
       "options": [
         {
-          "text": "METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FSW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT 1800 9999 NSW =.",
-          "isCorrect": true
-        },
-        {
           "text": "Slaba rosulja.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Dugotrajna kiša slabog intenziteta.",
@@ -1195,15 +1159,11 @@
     },
     {
       "id": "MET-0054",
-      "question": "Koji od navedenih odgovora predstavlja ispravno dešifrovanu TAF prognozu:",
+      "question": "Koji od navedenih odgovora predstavlja ispravno dešifrovanu TAF prognozu: LYBE 161100Z 1612/1712 VRB08KT9999 SCT025?",
       "options": [
         {
-          "text": "LYBE 161100Z 1612/1712 VRB08KT9999 SCT025?",
-          "isCorrect": true
-        },
-        {
           "text": "Važi od 16.og u mesecu u 12.00 do 17.og u mesecu u 1200 UTC ; prizemni vetar ce imati promenljiv pravac i brzinu od 8kt pri cemu je vidljivost 10km ili više; 3-4 osmine oblacnosti sa bazom sloja oblaka 2500ft iznad aerodroma.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Važi od 1612 do 1712 UTC ; prizemni vetar je promenljiv po pravcu sa brzinom od 8kt; vidljivost je 10km i više, visina baze sloja oblaka je 2500ft iznad srednjeg morskog nivoa.",
@@ -1221,15 +1181,11 @@
     },
     {
       "id": "MET-0055",
-      "question": "Koji od ponudenih odgovora predstavalja ispravno dešifrovan METAR izveštaj:",
+      "question": "Koji od ponudenih odgovora predstavalja ispravno dešifrovan METAR izveštaj: METAR EGKL 130350Z 32005KT 0400N DZ BCFG VV002.",
       "options": [
         {
-          "text": "METAR EGKL 130350Z 32005KT 0400N DZ BCFG VV002.",
-          "isCorrect": true
-        },
-        {
           "text": "Osmotreni vremenski uslovi 13- tog dana tekuceg meseca u 03 50Z , pravac prizemnog vetra 320°u odnosu na pravi sever, brzina vetra 05kt, minimalna meteorološka vidljivost 400 m u pravcu severa, umerena sitna kiša, sa postojanjem maglovitih slojeva i verti",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Objavljeni vremenski uslovi 13- tog dana tekuceg meseca u 03 50Z, pravac prizemnog vetra 320°u odnosu na magnetni sever,brzina vetra 05kt,,minimalna meteorološka vidljivost 400 m u pravcu severa, umerena sitna kiša, sa postojanjem maglovitih slojeva i ver",
@@ -1423,15 +1379,11 @@
     },
     {
       "id": "MET-0064",
-      "question": "Kolika je bila baza oblaka na aerodromu u casu osmatranja vremena:",
+      "question": "Kolika je bila baza oblaka na aerodromu u casu osmatranja vremena: METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW=.",
       "options": [
         {
-          "text": "METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 FG BECMG AT1800 9999 NSW=.",
-          "isCorrect": true
-        },
-        {
           "text": "300 m.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "10 ft.",
@@ -1449,15 +1401,11 @@
     },
     {
       "id": "MET-0065",
-      "question": "Kolika je kolicina oblacnosti u nižem sloju oblaka nad aerodromom u casu osmatranja vremena:",
+      "question": "Kolika je kolicina oblacnosti u nižem sloju oblaka nad aerodromom u casu osmatranja vremena: METARLSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 NECMG TL1700 0800 FG BECMG AT1800 9999 NSW=.",
       "options": [
         {
-          "text": "METARLSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 NECMG TL1700 0800 FG BECMG AT1800 9999 NSW=.",
-          "isCorrect": true
-        },
-        {
           "text": "1 /8 to 2/8.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "5/8 to 7/8.",
@@ -1484,16 +1432,14 @@
         {
           "text": "+4°C.",
           "isCorrect": false
-        }
-      ]
-    },
-    {
-      "id": "MET-0003",
-      "question": "0°C.",
-      "options": [
+        },
+        {
+          "text": "0°C.",
+          "isCorrect": false
+        },
         {
           "text": "-2°C.",
-          "isCorrect": true
+          "isCorrect": false
         }
       ]
     },
@@ -1521,15 +1467,11 @@
     },
     {
       "id": "MET-0068",
-      "question": "Koliko je iznosio vazdušni pritisak na aerodromu u casu osmatranja vremena:",
+      "question": "Koliko je iznosio vazdušni pritisak na aerodromu u casu osmatranja vremena: METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 BECMG AT1800 9999=.",
       "options": [
         {
-          "text": "METAR LSZH 131630Z 24008KT 0600 R16/1000U FG DZ FEW003 SCT010 OVC020 17/16 Q1018 BECMG TL1700 0800 BECMG AT1800 9999=.",
-          "isCorrect": true
-        },
-        {
           "text": "1018 hpa (QNH).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "1000 hpa (QNH).",
@@ -1613,15 +1555,11 @@
     },
     {
       "id": "MET-0072",
-      "question": "LFFF SIGMET SST 1 VALID 310600/311100 LFPW- UIR FRANCE MOD TURB FCST BLW FL420 W of 04W MOV E 30KT NC =",
+      "question": "LFFF SIGMET SST 1 VALID 310600/311100 LFPW- UIR FRANCE MOD TURB FCST BLW FL420 W of 04W MOV E 30KT NC =. Koja od opasnosti je prognozirana u gore navedenoj SIGMET poruci.",
       "options": [
         {
-          "text": "Koja od opasnosti je prognozirana u gore navedenoj SIGMET poruci.",
-          "isCorrect": true
-        },
-        {
           "text": "Umerena turbulencija ispod 42000 ft zapadno od :zapadno 4 stepena i premešta se na istok.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Umerena turbulencija na 42000 ft zapadno od :zapadno 4 stepena i premešta se na istok.",
@@ -1683,15 +1621,11 @@
     },
     {
       "id": "MET-0075",
-      "question": "Na osnovu dijagrama odrediti zonu koju navedena TAF prognoza opisuje(Pogledajte sliku PPL Meteo-5)",
+      "question": "Na osnovu dijagrama odrediti zonu koju navedena TAF prognoza opisuje(Pogledajte sliku PPL Meteo-5) 1322 35020KT9999 SCT030 SCT090 TEMPO 1322 8000 SHRA BKN015 PROB30 TEMPO 1522 5000 +RASH SCT008 BKN009CB=.",
       "options": [
         {
-          "text": "1322 35020KT9999 SCT030 SCT090 TEMPO 1322 8000 SHRA BKN015 PROB30 TEMPO 1522 5000 +RASH SCT008 BKN009CB=.",
-          "isCorrect": true
-        },
-        {
           "text": "Zona 3.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Zona 1.",
@@ -1731,15 +1665,11 @@
     },
     {
       "id": "MET-0077",
-      "question": "Prognoza za oblast AIRMET se izdaje _________ period važenja je _________ a poželjno je da period važenja ne bude duži",
+      "question": "Prognoza za oblast AIRMET se izdaje _________ period važenja je _________ a poželjno je da period važenja ne bude duži od __________.",
       "options": [
         {
-          "text": "od __________.",
-          "isCorrect": true
-        },
-        {
           "text": "4 puta dnevno / 8 sati / 6 sati.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "6 puta dnevno / 8 sati / 4 sata.",
@@ -1845,7 +1775,7 @@
     },
     {
       "id": "MET-0082",
-      "question": "Na osnovu dijagrama odrediti na visini od 2000f t brzinu vetra i temperaturu za tacku u preseku 50°N 0° E/W (Pogledajte sliku PPL Meteo-1).",
+      "question": "Na osnovu dijagrama odrediti na visini od 2000ft brzinu vetra i temperaturu za tacku u preseku 50°N 0° E/W (Pogledajte sliku PPL Meteo-1).",
       "options": [
         {
           "text": "215/13kt+11°C.",
@@ -1889,15 +1819,11 @@
     },
     {
       "id": "MET-0084",
-      "question": "Na osnovu dijagrama, odrediti pojavu koja je identifikovana sa slovom J u tacki 60°N 12°W? (Pogledajte sliku PPL Meteo-",
+      "question": "Na osnovu dijagrama, odrediti pojavu koja je identifikovana sa slovom J u tacki 60°N 12°W? (Pogledajte sliku PPL Meteo-10).",
       "options": [
         {
-          "text": "10).",
-          "isCorrect": true
-        },
-        {
           "text": "Okluzivni front.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Topli front.",
@@ -2021,15 +1947,11 @@
     },
     {
       "id": "MET-0090",
-      "question": "Tokom vedre noci, temperatura na površini zemlje ce ________ Relativna Vlažnost ce se _________ a tacka rose ce",
+      "question": "Tokom vedre noci, temperatura na površini zemlje ce ________ Relativna Vlažnost ce se _________ a tacka rose ce _______.",
       "options": [
         {
-          "text": "_______.",
-          "isCorrect": true
-        },
-        {
           "text": "Padati / Povecati / Ostati ista.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Padati / Povecati / Povecati.",
@@ -2365,15 +2287,11 @@
     },
     {
       "id": "MET-0106",
-      "question": "Vetrovi koji duvaju oko oblasti anticiklona (sistem visokog pritiska) na nižim nivoima u Severnoj Hemisferi prikazani su",
+      "question": "Vetrovi koji duvaju oko oblasti anticiklona (sistem visokog pritiska) na nižim nivoima u Severnoj Hemisferi prikazani su na kartama niskog vazdušnog pritiska sa smerom duvanja:",
       "options": [
         {
-          "text": "na kartama niskog vazdušnog pritiska sa smerom duvanja:",
-          "isCorrect": true
-        },
-        {
           "text": "U smeru kazaljke na satu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "U smeru kazaljke na satu ukoliko je topao vazduh i u smeru suprotnom od kazaljke na satu ukoliko je hladan vazduh.",
@@ -2530,11 +2448,7 @@
           "isCorrect": false
         },
         {
-          "text": "Refleksije dolazece sunceve radijacije zagrejane konvekcijom od zemljine površine prema atmosferi zaustavljajuci",
-          "isCorrect": false
-        },
-        {
-          "text": "se na sloju oblaka.",
+          "text": "Refleksije dolazece sunceve radijacije zagrejane konvekcijom od zemljine površine prema atmosferi zaustavljajuci se na sloju oblaka.",
           "isCorrect": false
         },
         {
@@ -3153,15 +3067,11 @@
     },
     {
       "id": "MET-0142",
-      "question": "Sunce daje _______ kolicinu energije talasima _________ talasnih dužina. Zemlja daje relativno _____kolicinu energije",
+      "question": "Sunce daje _______ kolicinu energije talasima _________ talasnih dužina. Zemlja daje relativno _____kolicinu energije talasima relativno _______ talasnih dužina.",
       "options": [
         {
-          "text": "talasima relativno_______ talasnih dužina.",
-          "isCorrect": true
-        },
-        {
           "text": "Veliku / Kratkih / Malu / Dugih.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Veliku / Dugih / Malu / Kratkih.",

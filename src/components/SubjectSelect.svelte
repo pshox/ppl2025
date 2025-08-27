@@ -62,5 +62,5 @@
   .id { margin-top: 4px; color: var(--muted); font-size: 12px; }
   @media (min-width: 640px) { .page { max-width: 640px; margin: 0 auto; } }
   .titleRow { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
-  .badge { display: inline-block; padding: 2px 6px; font-size: 11px; background: #ecfdf5; color: #065f46; font-weight: 600; }
+  .badge { display: inline-block; padding: 2px 6px; font-size: 11px; background: #ecfdf5; color: #065f46; font-weight: 600; margin-left: auto; }
 </style>
