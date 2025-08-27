@@ -2,18 +2,15 @@
   "subject": "Ljudske mogucnosti",
   "lang": "sr",
   "version": 1,
+  "verified": true,
   "questions": [
     {
       "id": "HM-0001",
-      "question": "Akomodacija je sposobnost sociva da fokusira svetlosne zrake sa bliskog objekta na foveu:",
+      "question": "Akomodacija je sposobnost sociva da fokusira svetlosne zrake sa bliskog objekta na foveu. Akomodaciju kontrolišu:",
       "options": [
         {
-          "text": "Akomodaciju kontrolišu:",
-          "isCorrect": true
-        },
-        {
           "text": "Cilijarni mišici.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Dužica.",
@@ -331,23 +328,11 @@
     },
     {
       "id": "HM-0016",
-      "question": "Šta je od sledeceg tacno kada pilot sedi visoko u kabini?",
+      "question": "Šta je od sledeceg tacno kada pilot sedi visoko u kabini? A) Dobar pogled na dole izvan kabine. B) Loš pregled instrumenata. C) Ometanje pri pogledu na gore izvan kabine.",
       "options": [
         {
-          "text": "Dobar pogled na dole izvan kabine.",
-          "isCorrect": true
-        },
-        {
-          "text": "Loš pregled instrumenata.",
-          "isCorrect": false
-        },
-        {
-          "text": "Ometanje pri pogledu na gore izvan kabine.",
-          "isCorrect": false
-        },
-        {
           "text": "A), B) i C).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "A).",
@@ -701,15 +686,11 @@
     },
     {
       "id": "HM-0033",
-      "question": "Dalekovidost je prouzrokovana _______ocnom jabucicom i tretira se ______,",
+      "question": "Dalekovidost je prouzrokovana _______ocnom jabucicom i tretira se ______, Dok je kratkovidost prouzrokovana ________ ocnom jabucicom i tretira se ________.",
       "options": [
         {
-          "text": "Dok je kratkovidost prouzrokovana ________ ocnom jabucicom i tretira se ________.",
-          "isCorrect": true
-        },
-        {
           "text": "Skracenom / konveksnim naocarima / produžena / konkavnim naocarima.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Produžena / konveksnima naocarima / skracena / konkavnim naocarima.",
@@ -1499,15 +1480,11 @@
     },
     {
       "id": "HM-0072",
-      "question": "Maksimalni preporuceni nivoi konzumiranja alkohola sedmicno su _________ za muškarce i ________za žene. (1 jedinica",
+      "question": "Maksimalni preporuceni nivoi konzumiranja alkohola sedmicno su _________ za muškarce i ________za žene. (1 jedinica = 10 ml alkoholnog pica ).",
       "options": [
         {
-          "text": "10 ml alkoholnog pica ).",
-          "isCorrect": true
-        },
-        {
           "text": "21 jedinica / 14 jedinica.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "14 jedinica / 21 jedinica.",
@@ -1937,15 +1914,11 @@
     },
     {
       "id": "HM-0093",
-      "question": "Pogubni stavovi se javljaju kod svih pilota u odredenoj meri i u nekim momentima.",
+      "question": "Pogubni stavovi se javljaju kod svih pilota u odredenoj meri i u nekim momentima. Koji od sledecih navedenih su takvi stavovi:",
       "options": [
         {
-          "text": "Koji od sledecih navedenih su takvi stavovi:",
-          "isCorrect": true
-        },
-        {
           "text": "Stav protiv autoriteta, impulsivnost, maco stav, pomirenje sa sudbinom ( rezignacija ) i neranjivost.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Loš menadžment rizika i nedostatak menadžmenta stresa.",
@@ -2003,23 +1976,11 @@
     },
     {
       "id": "HM-0096",
-      "question": "Pravilan proces od tri koraka u prenosu kontrole u letenju medu pilotima ukljucuje sledece reci:",
+      "question": "Pravilan proces od tri koraka u prenosu kontrole u letenju medu pilotima ukljucuje sledece reci: (a)Tvoje komande, (b)Moje komande, (c)____________.",
       "options": [
         {
-          "text": "(a)Tvoje komande,",
-          "isCorrect": true
-        },
-        {
-          "text": "Moje komande, i",
-          "isCorrect": false
-        },
-        {
-          "text": "(c)____________.",
-          "isCorrect": false
-        },
-        {
           "text": "Tvoje komande.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Moj avion.",
@@ -2699,15 +2660,11 @@
     },
     {
       "id": "HM-0130",
-      "question": "Ukoliko bi nakon ronjenja, koje je zahtevalo kontrolisani izlazak na površinu, osoba trebalo da leti na visini do 2400m(",
+      "question": "Ukoliko bi nakon ronjenja, koje je zahtevalo kontrolisani izlazak na površinu, osoba trebalo da leti na visini do 2400m(8000 ft), preporuceno vreme koje bi trebalo da prode pre tog leta je bar:",
       "options": [
         {
-          "text": "8000 ft), preporuceno vreme koje bi trebalo da prode pre tog leta je bar:",
-          "isCorrect": true
-        },
-        {
           "text": "24 sata.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "4 sata.",
@@ -2721,15 +2678,11 @@
     },
     {
       "id": "HM-0131",
-      "question": "Ukoliko bi nakon ronjenja, koje nije zahtevalo kontrolisani izlazak na površinu, osoba trebalo da leti na visini do 2400m(",
+      "question": "Ukoliko bi nakon ronjenja, koje nije zahtevalo kontrolisani izlazak na površinu, osoba trebalo da leti na visini do 2400m(8000 ft), preporuceno vreme koje bi trebalo da prode pre tog leta je bar:",
       "options": [
         {
-          "text": "8000 ft), preporuceno vreme koje bi trebalo da prode pre tog leta je bar:",
-          "isCorrect": true
-        },
-        {
           "text": "4 sata.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "12 sati.",
@@ -2885,19 +2838,11 @@
     },
     {
       "id": "HM-0139",
-      "question": "Visinomer sa tri skazaljke koristi se u mnogim avionima lake avijacije a. Lako se dešava da se pogrešno ocitava b. Retko se pogrešno ocitava",
+      "question": "Visinomer sa tri skazaljke koristi se u mnogim avionima lake avijacije a.Lako se dešava da se pogrešno ocitava b.Retko se pogrešno ocitava c.Tacan I pouzdan. d.Nije baš pouzdan i tacan.",
       "options": [
         {
-          "text": "Tacan I pouzdan.",
-          "isCorrect": true
-        },
-        {
-          "text": "Nije baš pouzdan i tacan.",
-          "isCorrect": false
-        },
-        {
           "text": "Pod a) i c).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Samo pod a).",
