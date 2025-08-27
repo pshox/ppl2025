@@ -2,6 +2,7 @@
   "subject": "Performanse",
   "lang": "sr",
   "version": 1,
+  "verified": true,
   "questions": [
     {
       "id": "PF-0001",
@@ -455,10 +456,6 @@
         },
         {
           "text": "povecala bi se gustina i poboljšale performanse vazduhoplova.",
-          "isCorrect": false
-        },
-        {
-          "text": "smanjila bi se gustina i poboljšale performanse vazduhoplova.",
           "isCorrect": false
         }
       ]
@@ -1587,15 +1584,11 @@
     },
     {
       "id": "PF-0076",
-      "question": "Koju pistu cete izabrati za sletanje (06, 14, 24, 32), ako je vetar na sletanju južni 20 Kts i ako je maksimalna dozvoljena",
+      "question": "Koju pistu cete izabrati za sletanje (06, 14, 24, 32), ako je vetar na sletanju južni 20 Kts i ako je maksimalna dozvoljena brzina bocnog vetra 13 kts?",
       "options": [
         {
-          "text": "brzina bocnog vetra za vaš vazduhoplov 13 kts? (Vidi sliku PPL FPP-13).",
-          "isCorrect": true
-        },
-        {
           "text": "RWY 14.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "RWY 06.",
@@ -2001,31 +1994,11 @@
     },
     {
       "id": "PF-0095",
-      "question": "Vazduhoplov koji je mnogo preopterecen ce:",
+      "question": "Vazduhoplov koji je mnogo preopterecen ce: 1 Zahtevati povecane dužine poletanja i sletanja 2 Imati vece brzine prevlacenja 3 Imati umanjenu maksimalnu brzinu na nivou leta 4 Imati povecan dolet i autonomiju leta 5 Imati umanjenu brzinu penjanja i opadajuću brzinu penjanja i op",
       "options": [
         {
-          "text": "1 Zahtevati povecane dužine poletanja i sletanja",
-          "isCorrect": true
-        },
-        {
-          "text": "2 Imati vece brzine prevlacenja",
-          "isCorrect": false
-        },
-        {
-          "text": "3 Imati umanjenu maksimalnu brzinu na nivou leta",
-          "isCorrect": false
-        },
-        {
-          "text": "4 Imati povecan dolet i autonomiju leta",
-          "isCorrect": false
-        },
-        {
-          "text": "5 Imati umanjenu brzinu penjanja i op",
-          "isCorrect": false
-        },
-        {
           "text": "1, 2, 3, & 5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "1, 2, 4 & 5.",
@@ -2090,8 +2063,12 @@
       "question": "Visina po gustini može biti približno proracunata od visine po pritisku bez upotrebe navigacijskog racunara:",
       "options": [
         {
-          "text": "povecanjem/smanjenjem visine po pritisku 120 ft za svaki °C odstupanja iznad/ispod standardne temperature. b. povecanjem/smanjenjem apsolutne visine iznad nivoa mora za razliku izmedu standardnog i aktuelnog",
+          "text": "povecanjem/smanjenjem visine po pritisku 120 ft za svaki °C odstupanja iznad/ispod standardne temperature.",
           "isCorrect": true
+        },
+        {
+          "text": "povecanjem/smanjenjem apsolutne visine iznad nivoa mora za razliku izmedu standardnog i aktuelnog",
+          "isCorrect": false
         },
         {
           "text": "atmosferskog pritiska, pretvorenim u visinu.",
@@ -2233,27 +2210,11 @@
     },
     {
       "id": "PF-0105",
-      "question": "Vaš vazduhoplov ima:",
+      "question": "Vaš vazduhoplov ima: Masu na poletanju: 2353 tbs Proracunati položaj centra težišta na poletanju: 89.75 inches iza referentne linije Predvidenu potrošnju goriva: 200 lbs sa centrom težišta 85.00 inches nazad od referentne linije. Koja ce biti pozicij",
       "options": [
         {
-          "text": "Masu na poletanju: 2353 tbs",
-          "isCorrect": true
-        },
-        {
-          "text": "Proracunati položaj centra težišta na poletanju: 89.75 inches iza referentne linije",
-          "isCorrect": false
-        },
-        {
-          "text": "Predvidenu potrošnju goriva: 200 lbs sa centrom težišta 85.00 inches nazad od referentne linije.",
-          "isCorrect": false
-        },
-        {
-          "text": "Koja ce biti pozicij",
-          "isCorrect": false
-        },
-        {
           "text": "90.19 inches iza referentne linije.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "82.52 inches iza referentne linije.",
@@ -2318,12 +2279,8 @@
       "question": "Koliko je povecanje visine po gustini ako se temperatura poveca sa 0 na 10°C i ako visina aerodroma po pritisku ostane",
       "options": [
         {
-          "text": "3,000 ft?",
-          "isCorrect": true
-        },
-        {
           "text": "1,200 ft.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "3,000 ft.",
@@ -2341,15 +2298,11 @@
     },
     {
       "id": "PF-0109",
-      "question": "Odredi približno visinu aerodroma po gustini, kada je temperatura standardna i visinomer podešen na 1011hPa pokazuje",
+      "question": "Odredi približno visinu aerodroma po gustini, kada je temperatura standardna i visinomer podešen na 1011hPa pokazuje 1,300 ft.",
       "options": [
         {
-          "text": "1,300 ft.",
-          "isCorrect": true
-        },
-        {
           "text": "1,360 ft.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "1,240 ft.",
@@ -2367,23 +2320,11 @@
     },
     {
       "id": "PF-0110",
-      "question": "Odredi visinu aerodroma po gustini za sledece uslove:",
+      "question": "Odredi visinu aerodroma po gustini za sledece uslove: QNH 1025 hPa temperatura -4°C nadmorska visina 3,850 ft.",
       "options": [
         {
-          "text": "QNH. 1025 hPa",
-          "isCorrect": true
-        },
-        {
-          "text": "temperatura -4°C",
-          "isCorrect": false
-        },
-        {
-          "text": "nadmorska visina 3,850 ft.",
-          "isCorrect": false
-        },
-        {
           "text": "2,050 ft.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "2,900 ft.",
@@ -2401,23 +2342,11 @@
     },
     {
       "id": "PF-0111",
-      "question": "Odredi visinu aerodroma po gustini za uslove:",
+      "question": "Odredi visinu aerodroma po gustini za uslove: QNH 1010 hPa temperatura 27°C nadmorska visina 5,250 ft.",
       "options": [
         {
-          "text": "QNH 1010 hPa",
-          "isCorrect": true
-        },
-        {
-          "text": "temperatura 27°C",
-          "isCorrect": false
-        },
-        {
-          "text": "nadmorska visina 5,250 ft.",
-          "isCorrect": false
-        },
-        {
           "text": "7,890 ft.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "4,600 ft.",
@@ -2457,23 +2386,11 @@
     },
     {
       "id": "PF-0113",
-      "question": "Kolika ce biti vazdušna brzina aviona u horizontalnom letu pri sledecim uslovima: (Vidi sliku PPL FPP-14)",
+      "question": "Kolika ce biti vazdušna brzina aviona u horizontalnom letu pri sledecim uslovima: (Vidi sliku PPL FPP-14) Visina po pritisku 8,000 ft temperatura 20°C ispod standardne podešena snaga 55%.",
       "options": [
         {
-          "text": "Visina po pritisku 8,000 ft",
-          "isCorrect": true
-        },
-        {
-          "text": "temperatura 20°C ispod standardne",
-          "isCorrect": false
-        },
-        {
-          "text": "podešena snaga 55%.",
-          "isCorrect": false
-        },
-        {
           "text": "104 kts.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "110 kts.",
@@ -2491,31 +2408,11 @@
     },
     {
       "id": "PF-0114",
-      "question": "Odredi dužinu poletanja sa nadvišavanjem prepreka 50-foot pod sledecim uslovima. (Vidi sliku PPL FPP-15)",
+      "question": "Odredi dužinu poletanja sa nadvišavanjem prepreka 50-foot pod sledecim uslovima. (Vidi sliku PPL FPP-15) Visina po pritisku 0 ft temperatura standardna masa 1900 lb vetar bez vetra podloga trava, suva.",
       "options": [
         {
-          "text": "Visina po pritisku 0 ft",
-          "isCorrect": true
-        },
-        {
-          "text": "Temperatura standardna",
-          "isCorrect": false
-        },
-        {
-          "text": "Masa 1900 lb",
-          "isCorrect": false
-        },
-        {
-          "text": "Vetar bez vetra",
-          "isCorrect": false
-        },
-        {
-          "text": "Podloga trava, suva.",
-          "isCorrect": false
-        },
-        {
           "text": "1,030 ft.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "920 ft.",
@@ -2533,31 +2430,11 @@
     },
     {
       "id": "PF-0115",
-      "question": "Odredi dužinu poletanja sa nadvišavanjem prepreka 50-foot pod sledecim uslovima: (Vidi sliku PPL FPP-15)",
+      "question": "Odredi dužinu poletanja sa nadvišavanjem prepreka 50-foot pod sledecim uslovima: (Vidi sliku PPL FPP-15) Visina po pritisku 2,000 ft temperatura 30°C masa 2100 lb vetar ceoni 18 kt podloga trava, suva.",
       "options": [
         {
-          "text": "Visina po pritisku 2,000 ft",
-          "isCorrect": true
-        },
-        {
-          "text": "temperatura 30°C",
-          "isCorrect": false
-        },
-        {
-          "text": "masa 2100 lb",
-          "isCorrect": false
-        },
-        {
-          "text": "vetar ceoni 18 kt",
-          "isCorrect": false
-        },
-        {
-          "text": "podloga trava, suva.",
-          "isCorrect": false
-        },
-        {
           "text": "1,350 ft.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "1,555 ft.",
@@ -2575,31 +2452,11 @@
     },
     {
       "id": "PF-0116",
-      "question": "Odredi dužinu poletanja sa nadvišavanjem prepreka 50-foot za sledece uslove: (Vidi sliku PPL FPP-15)",
+      "question": "Odredi dužinu poletanja sa nadvišavanjem prepreka 50-foot za sledece uslove: (Vidi sliku PPL FPP-15) Visina po pritisku 4,000 ft temperatura 15°C masa 2300 lb vetar bez vetra podloga asvalt.",
       "options": [
         {
-          "text": "Visina po pritisku 4,000 ft",
-          "isCorrect": true
-        },
-        {
-          "text": "temperatura 15°C",
-          "isCorrect": false
-        },
-        {
-          "text": "masa 2300 lb",
-          "isCorrect": false
-        },
-        {
-          "text": "vetar bez vetra",
-          "isCorrect": false
-        },
-        {
-          "text": "podloga asvalt.",
-          "isCorrect": false
-        },
-        {
           "text": "2,100 ft.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "1,125 ft.",
@@ -2617,31 +2474,11 @@
     },
     {
       "id": "PF-0117",
-      "question": "Odredi dužinu protrcavanja po pisti posle sletanja. (Vidi sliku PPL FPP-16)",
+      "question": "Odredi dužinu protrcavanja po pisti posle sletanja. (Vidi sliku PPL FPP-16) Visina po gustini 0 ft temperatura 10°C masa 2300 lb vetar ceoni 10 kt podloga trava, suva.",
       "options": [
         {
-          "text": "Visina po gustini 0 ft",
-          "isCorrect": true
-        },
-        {
-          "text": "temperatura 10°C",
-          "isCorrect": false
-        },
-        {
-          "text": "masa 2300 lb",
-          "isCorrect": false
-        },
-        {
-          "text": "vetar ceoni 10 kt",
-          "isCorrect": false
-        },
-        {
-          "text": "podloga trava, suva.",
-          "isCorrect": false
-        },
-        {
           "text": "1,110 ft.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "510 ft.",
@@ -2659,31 +2496,11 @@
     },
     {
       "id": "PF-0118",
-      "question": "Odredi dužinu protrcavanja posle sletanja. (Vidi sliku PPL FPP-16)",
+      "question": "Odredi dužinu protrcavanja posle sletanja. (Vidi sliku PPL FPP-16) Visina po pritisku 0 ft temperatura 15°C masa 2300 lb vetar bez vetra podloga šljunak sa katranom (tarmac ).",
       "options": [
         {
-          "text": "Visina po pritisku 0 ft",
-          "isCorrect": true
-        },
-        {
-          "text": "temperatura 15°C",
-          "isCorrect": false
-        },
-        {
-          "text": "masa 2300 lb",
-          "isCorrect": false
-        },
-        {
-          "text": "vetar bez vetra",
-          "isCorrect": false
-        },
-        {
-          "text": "podloga šljunak sa katranom (tarmac ).",
-          "isCorrect": false
-        },
-        {
           "text": "520 ft.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "510 ft.",
@@ -2701,31 +2518,11 @@
     },
     {
       "id": "PF-0119",
-      "question": "Odredi dužinu protrcavanja posle sletanja. (Vidi sliku PPL FPP-16)",
+      "question": "Odredi dužinu protrcavanja posle sletanja. (Vidi sliku PPL FPP-16) Visina po pritisku 3,000 ft temperatura 20°C masa 2200 lb vetar bez vetra podloga trava, suva.",
       "options": [
         {
-          "text": "visina po pritisku 3,000 ft",
-          "isCorrect": true
-        },
-        {
-          "text": "temperatura 20°C",
-          "isCorrect": false
-        },
-        {
-          "text": "masa 2200 lb",
-          "isCorrect": false
-        },
-        {
-          "text": "vetar bez vetra",
-          "isCorrect": false
-        },
-        {
-          "text": "podloga trava, suva.",
-          "isCorrect": false
-        },
-        {
           "text": "855 ft.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "590 ft.",
@@ -2743,31 +2540,11 @@
     },
     {
       "id": "PF-0120",
-      "question": "Odredi potrebnu dužinu zaleta u poletanju. (Vidi sliku PPL FPP-15)",
+      "question": "Odredi potrebnu dužinu zaleta u poletanju. (Vidi sliku PPL FPP-15) Visina 2,000 ft temperatura 40°C masa 2100 lb vetar ledni 4 kt podloga šljunak sa katranom (tarmac ).",
       "options": [
         {
-          "text": "Visina 2,000 ft",
-          "isCorrect": true
-        },
-        {
-          "text": "temperatura 40°C",
-          "isCorrect": false
-        },
-        {
-          "text": "masa. 2100 lb",
-          "isCorrect": false
-        },
-        {
-          "text": "vetar.ledni 4 kt",
-          "isCorrect": false
-        },
-        {
-          "text": "podloga.šljunak sa katranom (tarmac ).",
-          "isCorrect": false
-        },
-        {
           "text": "1,120 ft.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "565 ft.",
@@ -2785,31 +2562,11 @@
     },
     {
       "id": "PF-0121",
-      "question": "Odredi ukupnu dužinu sletanja sa nadvišavanjem prepreka 50-foot. (Vidi sliku PPL FPP-16)",
+      "question": "Odredi ukupnu dužinu sletanja sa nadvišavanjem prepreka 50-foot. (Vidi sliku PPL FPP-16) Visina po pritisku 1,000 ft temperatura 10°C masa 2300 lb vetar ledni 10 kt podloga šljunak sa katranom (tarmac ).",
       "options": [
         {
-          "text": "Visina po pritisku 1,000 ft",
-          "isCorrect": true
-        },
-        {
-          "text": "temperatura 10°C",
-          "isCorrect": false
-        },
-        {
-          "text": "masa 2300 lb",
-          "isCorrect": false
-        },
-        {
-          "text": "vetar ledni10 kt",
-          "isCorrect": false
-        },
-        {
-          "text": "podloga šljunak sa katranom (tarmac ).",
-          "isCorrect": false
-        },
-        {
           "text": "1,900 ft.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "1,265 ft.",
@@ -2849,31 +2606,11 @@
     },
     {
       "id": "PF-0123",
-      "question": "Odredi ukupnu potrebu dužinu sletanja sa nadvišavanjem prepreka 50-foot. (Vidi sliku PPL FPP-16)",
+      "question": "Odredi ukupnu potrebu dužinu sletanja sa nadvišavanjem prepreka 50-foot. (Vidi sliku PPL FPP-16) Visina po pritisku 0 ft temperatura 0°C masa 2300 lb vetar ceoni 18 kt podloga trava, suva.",
       "options": [
         {
-          "text": "Visina po pritisku 0 ft",
-          "isCorrect": true
-        },
-        {
-          "text": "temperatura 0°C",
-          "isCorrect": false
-        },
-        {
-          "text": "masa 2300 lb",
-          "isCorrect": false
-        },
-        {
-          "text": "vetar ceoni 18 kt",
-          "isCorrect": false
-        },
-        {
-          "text": "podloga trava, suva.",
-          "isCorrect": false
-        },
-        {
           "text": "1,140 ft.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "965 ft.",
@@ -2891,31 +2628,11 @@
     },
     {
       "id": "PF-0124",
-      "question": "Odredi ukupnu potrebu dužinu sletanja sa nadvišavanjem prepreka 50-foot. (Vidi sliku PPL FPP-16)",
+      "question": "Odredi ukupnu potrebu dužinu sletanja sa nadvišavanjem prepreka 50-foot. (Vidi sliku PPL FPP-16) Visina po pritisku 1,500 ft temperatura 30°C masa 2300 lb vetar bez vetra podloga šljunak sa katranom (tarmac ).",
       "options": [
         {
-          "text": "Visina po pritisku 1,500 ft",
-          "isCorrect": true
-        },
-        {
-          "text": "temperatura 30°C",
-          "isCorrect": false
-        },
-        {
-          "text": "masa 2300 lb",
-          "isCorrect": false
-        },
-        {
-          "text": "vetar bez vetra",
-          "isCorrect": false
-        },
-        {
-          "text": "podloga šljunak sa katranom (tarmac ).",
-          "isCorrect": false
-        },
-        {
           "text": "1,350 ft.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "1,385 ft.",
@@ -3082,11 +2799,11 @@
       "question": "Šta se koristi kao osnova za odredivanje granica centra težišta i na kojim osama se on nalazi?",
       "options": [
         {
-          "text": "Osa / Reference.",
+          "text": "Uzdužna / Datum ( referentna linija ).",
           "isCorrect": true
         },
         {
-          "text": "Uzdužna / Datum ( referentna linija ).",
+          "text": "Osa / Reference.",
           "isCorrect": false
         },
         {
@@ -3123,24 +2840,8 @@
     },
     {
       "id": "PF-0134",
-      "question": "Kolika ce biti ocekivana potrošnja goriva za let od 350 nm pod sledecim uslovima: (Vidi sliku PPL FPP-14)",
+      "question": "Kolika ce biti ocekivana potrošnja goriva za let od 350 nm pod sledecim uslovima: (Vidi sliku PPL FPP-14) Visina po pritisku 4,000 ft, temperatura 20°C ispod standardne, podešena snaga 60%, vetar bez vetra.",
       "options": [
-        {
-          "text": "Visina po pritisku 4,000 ft",
-          "isCorrect": true
-        },
-        {
-          "text": "temperatura 20°C ispod standarda",
-          "isCorrect": false
-        },
-        {
-          "text": "podešena snaga 60%",
-          "isCorrect": false
-        },
-        {
-          "text": "vetar bez vetra.",
-          "isCorrect": false
-        },
         {
           "text": "22.7 USA gal.",
           "isCorrect": false
@@ -3161,23 +2862,11 @@
     },
     {
       "id": "PF-0135",
-      "question": "Kolika je ocekivana potrošnja goriva pod sledecim uslovima: (Vidi sliku PPL FPP-14)",
+      "question": "Kolika je ocekivana potrošnja goriva pod sledecim uslovima: (Vidi sliku PPL FPP-14) Visina po pritisku 8,000 ft temperatura 20°C ispod standardna podešena snaga 55%.",
       "options": [
         {
-          "text": "Visina po pritisku 8,000 ft",
-          "isCorrect": true
-        },
-        {
-          "text": "temperatura 20°C ispod standardna",
-          "isCorrect": false
-        },
-        {
-          "text": "podešena snaga 55%.",
-          "isCorrect": false
-        },
-        {
           "text": "6.2 USA gal/h.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "5.7 USA gal/h.",
@@ -3217,27 +2906,11 @@
     },
     {
       "id": "PF-0137",
-      "question": "Kolika ce biti ocekivana potrošnja goriva za let od 250 nm pod sledecim uslovima: (Vidi sliku PPL FPP-14)",
+      "question": "Kolika ce biti ocekivana potrošnja goriva za let od 250 nm pod sledecim uslovima: (Vidi sliku PPL FPP-14) Visina po pritisku 6,000 ft, temperatura 20°C iznad standardne, podešena snaga 60%, vetar bez vetra.",
       "options": [
         {
-          "text": "Visina po pritisku 6,000 ft",
-          "isCorrect": true
-        },
-        {
-          "text": "temperatura 20°C iznad standardne",
-          "isCorrect": false
-        },
-        {
-          "text": "podešena snaga 60%",
-          "isCorrect": false
-        },
-        {
-          "text": "vetar bez vetra.",
-          "isCorrect": false
-        },
-        {
           "text": "15.1 USA gal.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "19.7 USA gal.",
