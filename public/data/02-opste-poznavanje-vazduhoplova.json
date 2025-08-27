@@ -1968,11 +1968,11 @@
       "question": "Koji nepovoljan efekat, uzrokovan žiroskopskim momentom, ce pilot iskusiti za vreme poletanja prilikom podizanja repa",
       "options": [
         {
-          "text": "skretanje.",
+          "text": "tendenciju naginjanja.",
           "isCorrect": true
         },
         {
-          "text": "tendenciju naginjanja.",
+          "text": "skretanje.",
           "isCorrect": false
         },
         {
@@ -2144,14 +2144,6 @@
           "isCorrect": false
         },
         {
-          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
-          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
           "text": "alternatora ili generatora.",
           "isCorrect": false
         },
@@ -2317,31 +2309,11 @@
     },
     {
       "id": "AC-0107",
-      "question": "Koji instrumenti se uobicajeno pokrecu pomocu sistema vakuum pumpe?",
+      "question": "Koji instrumenti se uobicajeno pokrecu pomocu sistema vakuum pumpe? (1)Indikator pravca, (2)Kontrolnik leta, (3)Indikator položaja komandi, (4)Visinomer, (5)Magnetni kompas.",
       "options": [
         {
-          "text": "Indikator pravca,",
-          "isCorrect": true
-        },
-        {
-          "text": "(2)Kontrolnik leta,",
-          "isCorrect": false
-        },
-        {
-          "text": "(3)Indikator položaja komandi,",
-          "isCorrect": false
-        },
-        {
-          "text": "(4)Visinomer,",
-          "isCorrect": false
-        },
-        {
-          "text": "(5)Magnetni kompas.",
-          "isCorrect": false
-        },
-        {
           "text": "(1) i (3).",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "(1) i (2).",
@@ -2352,14 +2324,6 @@
           "isCorrect": false
         },
         {
-          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
-          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
           "text": "(1), (3) i (5).",
           "isCorrect": false
         }
@@ -2367,15 +2331,11 @@
     },
     {
       "id": "AC-0108",
-      "question": "Kako vazduh ulazi u suženje venture tube, brzina _______, staticki ili ambijentni pritisak _______ i temperature.",
+      "question": "Kako vazduh ulazi u suženje venture tube, brzina _______, staticki ili ambijentni pritisak _______ i temperature. _________.",
       "options": [
         {
-          "text": "_________.",
-          "isCorrect": true
-        },
-        {
           "text": "raste, / opada, / opada.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "raste, / raste, / raste.",
@@ -2541,14 +2501,6 @@
         },
         {
           "text": "zavisi od tipa aviona.",
-          "isCorrect": false
-        },
-        {
-          "text": "Скадарска 23, 11000 Београд, Србија, тел. 011 292 70 60 факс 011 311 75 79 e mail:dgca@cad.gov. rs www.cad.gov.rs",
-          "isCorrect": false
-        },
-        {
-          "text": "Skadarska 23, 11000 Belgrade, Serbia, tel.011 292 70 00 fax. 011 311 75 79 e-mail: dgca@cad.gov.rs, www.cad.gov.rs",
           "isCorrect": false
         }
       ]

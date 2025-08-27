@@ -41,7 +41,7 @@
           <div class="titleRow">
             <div class="title">{s.title}</div>
             {#if verifiedMap[s.id]}
-              <span class="badge" aria-label="Verified" title="Verified">✓</span>
+              <span class="badge" aria-label="Verified questions" title="Verified questions">Verified questions</span>
             {/if}
           </div>
           <div class="id">{s.id}</div>
@@ -61,6 +61,6 @@
   .title { font-weight: 600; }
   .id { margin-top: 4px; color: var(--muted); font-size: 12px; }
   @media (min-width: 640px) { .page { max-width: 640px; margin: 0 auto; } }
-  .titleRow { display: flex; align-items: center; gap: 8px; }
-  .badge { display: inline-flex; align-items: center; justify-content: center; width: 18px; height: 18px; font-size: 12px; background: #ecfdf5; color: #065f46; }
+  .titleRow { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .badge { display: inline-block; padding: 2px 6px; font-size: 11px; background: #ecfdf5; color: #065f46; font-weight: 600; }
 </style>
