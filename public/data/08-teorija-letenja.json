@@ -2,6 +2,7 @@
   "subject": "Teorija letenja",
   "lang": "sr",
   "version": 1,
+  "verified": true,
   "questions": [
     {
       "id": "TL-0001",
@@ -401,15 +402,11 @@
     },
     {
       "id": "TL-0019",
-      "question": "Avion ima tendenciju obaranja nosa zbog odnosa uzgona/težine, i tendenciju podizanja nosa zbog odnosa potiska/otpora.",
+      "question": "Avion ima tendenciju obaranja nosa zbog odnosa uzgona/težine, i tendenciju podizanja nosa zbog odnosa potiska/otpora. Kada je dodat gas:",
       "options": [
         {
-          "text": "Kada je dodat gas:",
-          "isCorrect": true
-        },
-        {
           "text": "Nos ce se podici.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Nos ce pasti.",
@@ -1065,31 +1062,11 @@
     },
     {
       "id": "TL-0049",
-      "question": "Kada posmatramo vazduh:",
+      "question": "Kada posmatramo vazduh: 1-Vazduh ima masu 2-Vazduh nije moguce sabiti 3- Vazduh ima mogucnost strujanja ili promene oblika kada je izražen i najmanjoj promeni pritiska 4- Viskozitet vazduha je vrlo veliki 5- Vazduh koji se krece ima kineticku energij",
       "options": [
         {
-          "text": "1-Vazduh ima masu",
-          "isCorrect": true
-        },
-        {
-          "text": "2-Vazduh nije moguce sabiti",
-          "isCorrect": false
-        },
-        {
-          "text": "3- Vazduh ima mogucnost strujanja ili promene oblika kada je izražen i najmanjoj promeni pritiska",
-          "isCorrect": false
-        },
-        {
-          "text": "4- Viskozitet vazduha je vrlo veliki",
-          "isCorrect": false
-        },
-        {
-          "text": "5- Vazduh koji se krece ima kineticku energij",
-          "isCorrect": false
-        },
-        {
           "text": "1,3 i 5.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "1,2,3 i 5.",
@@ -1321,6 +1298,72 @@
         },
         {
           "text": "Flaps.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0060",
+      "question": "Koja od oznacenih tacaka na slici polare krila predstavlja režim kriticnog napadnog ugla (Pogledajte sliku PPL PoF-2.):",
+      "options": [
+        {
+          "text": "6.",
+          "isCorrect": true
+        },
+        {
+          "text": "1.",
+          "isCorrect": false
+        },
+        {
+          "text": "4.",
+          "isCorrect": false
+        },
+        {
+          "text": "5.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0061",
+      "question": "Koja od oznacenih tacaka na slici polare krila predstavlja režim napadnog ugla najbolje finese (Pogledajte sliku PPL PoF-2.):",
+      "options": [
+        {
+          "text": "4.",
+          "isCorrect": true
+        },
+        {
+          "text": "2.",
+          "isCorrect": false
+        },
+        {
+          "text": "5.",
+          "isCorrect": false
+        },
+        {
+          "text": "6.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "TL-0062",
+      "question": "Koja od oznacenih tacaka na slici polare krila predstavlja režim napadnog ugla najmanjeg otpora (Pogledajte sliku PPL PoF-2.):",
+      "options": [
+        {
+          "text": "3.",
+          "isCorrect": true
+        },
+        {
+          "text": "4.",
+          "isCorrect": false
+        },
+        {
+          "text": "5.",
+          "isCorrect": false
+        },
+        {
+          "text": "7.",
           "isCorrect": false
         }
       ]
@@ -1767,15 +1810,11 @@
     },
     {
       "id": "TL-0083",
-      "question": "Maksimalna razdaljina jedrenja sa visine od 6000 fita, za avion u cistoj konfiguraciji sa finesom od 8:1 je otprilike 8 milja.",
+      "question": "Maksimalna razdaljina jedrenja sa visine od 6000 fita, za avion u cistoj konfiguraciji sa finesom od 8:1 je otprilike 8 milja. Ukoliko se flaps izvuce:",
       "options": [
         {
-          "text": "Ukoliko se flaps izvuce:",
-          "isCorrect": true
-        },
-        {
           "text": "Maksimalna dužina jedrenja ce biti manja.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Maksimalna dužina jedrenja ce biti veca.",
@@ -1947,15 +1986,11 @@
     },
     {
       "id": "TL-0091",
-      "question": "U podzvucnom strujanju, kada vazduh prolazi kroz venturi tubu, masa protoka ________, brzina protoka _________, a",
+      "question": "U podzvucnom strujanju, kada vazduh prolazi kroz venturi tubu, masa protoka ________, brzina protoka _________, a staticki pritisak________.",
       "options": [
         {
-          "text": "staticki pritisak________.",
-          "isCorrect": true
-        },
-        {
           "text": "Ostaje konstantna / raste pa opada / opada pa raste.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Opada pa raste / ostaje konstantna / raste pa opada.",
@@ -2893,15 +2928,11 @@
     },
     {
       "id": "TL-0134",
-      "question": "Po nacinu konstrukcije, centar pritiska na odredenom avionu je iza centra težišta. Ako je avion longitudinalno (uzdužno)",
+      "question": "Po nacinu konstrukcije, centar pritiska na odredenom avionu je iza centra težišta. Ako je avion longitudinalno (uzdužno) stabilan i pobuden nosem na dole od strane turbulencije:",
       "options": [
         {
-          "text": "stabilan i pobuden nosem na dole od strane turbulencije:",
-          "isCorrect": true
-        },
-        {
           "text": "Horizontalni rep ce generisati silu na dole.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Horizontalni rep ce generisati silu na gore.",
