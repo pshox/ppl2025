@@ -2,6 +2,7 @@
   "subject": "Operativne procedure",
   "lang": "sr",
   "version": 1,
+  "verified": true,
   "questions": [
     {
       "id": "OP-0001",
@@ -1011,15 +1012,11 @@
     },
     {
       "id": "OP-0050",
-      "question": "Koja od sledecih iskaza nije tacan?",
+      "question": "Koja od sledecih iskaza nije tacan? Nesreca mora biti prijavljena ako, u meduvremenu od kad se bilo ko ukrca na vazduhoplov i sve dok ga svi ne napuste:",
       "options": [
         {
-          "text": "Nesreca mora biti prijavljena ako, u meduvremenu od kad se bilo ko ukrca na vazduhoplov i sve dok ga svi ne napuste:",
-          "isCorrect": true
-        },
-        {
           "text": "Putnik umre prirodnom smrcu.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Bilo ko da je ubijen ili ozbiljno povreden dok je bio unutar ili na samom vazduhoplovu.",
@@ -1355,15 +1352,11 @@
     },
     {
       "id": "OP-0066",
-      "question": "Posle iznenadnog totalnog gubitka snage motora, kad nema mehanicke buke, i elisa nastavi da se okrece. Najverovatniji",
+      "question": "Posle iznenadnog totalnog gubitka snage motora, kad nema mehanicke buke, i elisa nastavi da se okrece. Najverovatniji uzrok gubitka snage motora je:",
       "options": [
         {
-          "text": "uzrok gubitka snage motora je:",
-          "isCorrect": true
-        },
-        {
           "text": "Ne doticanje goriva.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Kvar magneta.",
@@ -2471,15 +2464,11 @@
     },
     {
       "id": "OP-0122",
-      "question": "Tokom leta primetili ste da se ,igla ampermetara sa skalom centar-nula, otklonila na levo. Šta ovo pokazivanje znaci i šta",
+      "question": "Tokom leta primetili ste da se ,igla ampermetara sa skalom centar-nula, otklonila na levo. Šta ovo pokazivanje znaci i šta kao pilot aviona treba obicno tada uradite?",
       "options": [
         {
-          "text": "kao pilot aviona treba obicno tada uradite?",
-          "isCorrect": true
-        },
-        {
           "text": "Nepravilno stanje, akumulator se ispraznio, zato što alternator nije ispravan ili nije u stanju da pokrije zahteve prikljucenih elektricnih potrošaca. U slucaju da se posle prebacivanja glavnog prekidaca, mastera, iz položaja iskljuceno u ukljuceno, situacija ne poboljša, potrošnja elektricne energije treba da se redukuje na minimum i sletanje na najbliži odgovarajuci aerodrom treba da se sprovede.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Normalni uslovi; akumulator preuzima punjenje, na taj nacin let se nastavlja, potrebno je kontrolisati instrument i treba ocekivati pad igle pokazivaca.",
@@ -2515,15 +2504,11 @@
     },
     {
       "id": "OP-0124",
-      "question": "Neposredno pošto smo startovali motor primetili ste da se igla pokazivaca na ampermetru sa skalom centar-nula,",
+      "question": "Neposredno pošto smo startovali motor primetili ste da se igla pokazivaca na ampermetru sa skalom centar-nula, otklonila desno ,dok su elektricni potrošaci bili iskljuceni. Ova indikacija znaci.",
       "options": [
         {
-          "text": "otklonila desno ,dok su elektricni potrošaci bili iskljuceni. Ova indikacija znaci.",
-          "isCorrect": true
-        },
-        {
           "text": "Punjenje akumulatora,jer se pri startovanju motora akumulator malo isprazni.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Ispražnjen akumulator, zato što alternator ne radi, potrebno je pobuditi alternator aktiviranjem glavnog, master, prekidaca u ukljucen, a potom u iskljucen položaj. Ako se igla pokazivaca ne vrati na nulu, motor mora da se ugasi ,a potom obavesti mehanicar.",
@@ -2837,15 +2822,11 @@
     },
     {
       "id": "OP-0141",
-      "question": "U oznacenom prostoru aerodrome, crveni pravougaoni znak sa jednom žutom dijagonalnom linijom (slika B) znaci:",
+      "question": "U oznacenom prostoru aerodrome, crveni pravougaoni znak sa jednom žutom dijagonalnom linijom (slika B) znaci: (Pogledajte Sliku PPL OP-4).",
       "options": [
         {
-          "text": "(Pogledajte Sliku PPL OP-4).",
-          "isCorrect": true
-        },
-        {
           "text": "Povedi racuna kod sletanja zbog lošeg stanja manevarskih površina.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Nema sletanja.",
