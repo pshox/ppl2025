@@ -2,6 +2,7 @@
   "subject": "Navigacija",
   "lang": "sr",
   "version": 1,
+  "verified": true,
   "questions": [
     {
       "id": "NAV-0001",
@@ -175,6 +176,28 @@
         },
         {
           "text": "59 minuta.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0009",
+      "question": "Na priloženoj karti rastojanje izmedu tacaka A i B je 9 cm. koliko je to Nm? (Pogledajte PPL Nav-2).",
+      "options": [
+        {
+          "text": "9.66",
+          "isCorrect": true
+        },
+        {
+          "text": "18",
+          "isCorrect": false
+        },
+        {
+          "text": "4.5",
+          "isCorrect": false
+        },
+        {
+          "text": "1.8",
           "isCorrect": false
         }
       ]
@@ -373,6 +396,28 @@
         },
         {
           "text": "kilometar x 2) - 10%.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0019",
+      "question": "Na priloženoj karti rastojanje izmedu tacaka A i B je 9 cm. koliko je to kilometara? (Pogledajte PPL Nav-2)",
+      "options": [
+        {
+          "text": "18",
+          "isCorrect": true
+        },
+        {
+          "text": "9",
+          "isCorrect": false
+        },
+        {
+          "text": "4.5",
+          "isCorrect": false
+        },
+        {
+          "text": "1.8",
           "isCorrect": false
         }
       ]
@@ -820,12 +865,24 @@
         {
           "text": "Beskonacan broj.",
           "isCorrect": true
+        },
+        {
+          "text": "90",
+          "isCorrect": false
+        },
+        {
+          "text": "180",
+          "isCorrect": false
+        },
+        {
+          "text": "360",
+          "isCorrect": false
         }
       ]
     },
     {
-      "id": "NAV-0360",
-      "question": "41. Ekvator je veliki krug cija ravan:",
+      "id": "NAV-0041",
+      "question": "Ekvator je veliki krug cija ravan:",
       "options": [
         {
           "text": "Deli Zemljinu loptu na severnu i južnu hemisferu-poluloptu.",
@@ -1151,19 +1208,11 @@
     },
     {
       "id": "NAV-0056",
-      "question": "Koliko iznosi uglovna razlika medu geografskim dužinama tacke A i B, a kojima su geografske dužine:",
+      "question": "Koliko iznosi uglovna razlika medu geografskim dužinama tacke A i B, a kojima su geografske dužine: A:04° 14' 18\" E B.02° 30' 30\" E.",
       "options": [
         {
-          "text": "A:04° 14' 18\" E",
-          "isCorrect": true
-        },
-        {
-          "text": "02° 30' 30\" E.",
-          "isCorrect": false
-        },
-        {
           "text": "01° 43' 58\".",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "06° 44' 58\".",
@@ -1353,19 +1402,11 @@
     },
     {
       "id": "NAV-0065",
-      "question": "Koliko iznosi uglovna razlika medu geografskim širinama tacaka A i B, a koje leže na geografskim širinama",
+      "question": "Koliko iznosi uglovna razlika medu geografskim širinama tacaka A i B, a koje leže na geografskim širinama A.15° 54' 30\" N B.10° 33' 30\" S.",
       "options": [
         {
-          "text": "15° 54' 30\" N",
-          "isCorrect": true
-        },
-        {
-          "text": "10° 33' 30\" S.",
-          "isCorrect": false
-        },
-        {
           "text": "26° 28' 00\".",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "05° 21' 00\".",
@@ -1768,12 +1809,20 @@
       ]
     },
     {
-      "id": "NAV-0001",
-      "question": "0.",
+      "id": "NAV-0085",
+      "question": "Ako je vazduhoplov direktno iznad VOR/DME stanice na visini od 6,000 ft AGL, DME ce ocitati?",
       "options": [
         {
-          "text": "1,3.",
+          "text": "1",
           "isCorrect": true
+        },
+        {
+          "text": "0",
+          "isCorrect": false
+        },
+        {
+          "text": "1.3",
+          "isCorrect": false
         }
       ]
     },
@@ -1991,6 +2040,28 @@
         },
         {
           "text": "Ugao popravke za vetar.",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
+      "id": "NAV-0097",
+      "question": "Koji azimut oznacava stranu WNW?",
+      "options": [
+        {
+          "text": "292.5°",
+          "isCorrect": true
+        },
+        {
+          "text": "247.5°",
+          "isCorrect": false
+        },
+        {
+          "text": "337.5",
+          "isCorrect": false
+        },
+        {
+          "text": "202.5°",
           "isCorrect": false
         }
       ]
@@ -2387,27 +2458,11 @@
     },
     {
       "id": "NAV-0117",
-      "question": "Izaberite tacan redosled u proceduri za let KA VOR stanici.",
+      "question": "Izaberite tacan redosled u proceduri za let KA VOR stanici. a)Okrenuti OBS birac kanala dok se igla ne postavi u centar CDI. b)Proveriti identifikaciju signal. c)Proveriti koja je frekvenca izabrana. d)Okrenuti avion u kurs, jednak radijalu izabranom na OBS.",
       "options": [
         {
-          "text": "Okrenuti OBS birac kanala dok se igla ne postavi u centar CDI.",
-          "isCorrect": true
-        },
-        {
-          "text": "Proveriti identifikaciju signal.",
-          "isCorrect": false
-        },
-        {
-          "text": "Proveriti koja je frekvenca izabrana.",
-          "isCorrect": false
-        },
-        {
-          "text": "Okrenuti avion u kurs, jednak radijalu izabranom na OBS.",
-          "isCorrect": false
-        },
-        {
           "text": "c, b,a , d.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "b, c, a, d.",
@@ -2582,13 +2637,12 @@
         {
           "text": "121.15 MHz, 121.17 MHz i 121.20 MHz.",
           "isCorrect": false
+        },
+        {
+          "text": "25 MHz i 131.30 MHz.",
+          "isCorrect": false
         }
       ]
-    },
-    {
-      "id": "NAV-0131",
-      "question": "25 MHz i 131.30 MHz.",
-      "options": []
     },
     {
       "id": "NAV-0127",
@@ -2670,6 +2724,10 @@
       "id": "NAV-0131",
       "question": "Koja od slika ADF prikazuje let KA stanici sa desnim bocnim vetrom? (Pogledajte PPL Nav-10).",
       "options": [
+        {
+          "text": "D.",
+          "isCorrect": true
+        },
         {
           "text": "A.",
           "isCorrect": false
@@ -2753,8 +2811,8 @@
       ]
     },
     {
-      "id": "NAV-0110",
-      "question": "136. Koji elemenat u trouglu vetra ima nultu vrednost, ako je magnetni kurs (MK) jednak kompasnom kursu (KK)?",
+      "id": "NAV-0136",
+      "question": "Koji elemenat u trouglu vetra ima nultu vrednost, ako je magnetni kurs (MK) jednak kompasnom kursu (KK)?",
       "options": [
         {
           "text": "Devijacija kompasa.",
