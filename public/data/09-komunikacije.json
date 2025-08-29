@@ -115,19 +115,11 @@
     },
     {
       "id": "KOM-0006",
-      "question": "Faze leta: climb, take off, descent, start-up, approach, cruise, push back, final approach, taxi, take off roll, touch down i line-",
+      "question": "Faze leta: climb, take off, descent, start-up, approach, cruise, push back, final approach, taxi, take off roll, touch down i line-up su pomešane. Njihov redosled je:",
       "options": [
         {
-          "text": "up su pomešane.",
-          "isCorrect": true
-        },
-        {
-          "text": "Njihov redosled je:",
-          "isCorrect": false
-        },
-        {
           "text": "Start up, push back, taxi, line-up, take off roll, take off, climb, cruise, descent, approach, final approach, touch down.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "Line-up, take off roll, take off, climb, cruise, descent, approach, start up, push back, taxi, final approach, touch down.",
@@ -1825,15 +1817,11 @@
     },
     {
       "id": "KOM-0085",
-      "question": "Vazduhoplovu je dato početno odobrenje da penje na nivo FL100. Zbog razdvajanja potrebno je da se zadrži neko vreme",
+      "question": "Vazduhoplovu je dato početno odobrenje da penje na nivo FL100. Zbog razdvajanja potrebno je da se zadrži neko vreme na nivou FL80. ATC će poslati poruku koristeći sledeću frazu:",
       "options": [
         {
-          "text": "na nivou FL80. ATC će poslati poruku koristeći sledeću frazu:",
-          "isCorrect": true
-        },
-        {
           "text": "STOP CLIMB AT FL80.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "LEVEL OFF AT FL80.",
@@ -2358,6 +2346,28 @@
       ]
     },
     {
+      "id": "KOM-0109",
+      "question": "U slučaju otkaza radio veze SSR transponder treba prebaciti na:",
+      "options": [
+        {
+          "text": "7600",
+          "isCorrect": true
+        },
+        {
+          "text": "7700",
+          "isCorrect": false
+        },
+        {
+          "text": "7500",
+          "isCorrect": false
+        },
+        {
+          "text": "7000",
+          "isCorrect": false
+        }
+      ]
+    },
+    {
       "id": "KOM-0110",
       "question": "Izraz \"CALL SIGN\" koji pilot vazduhoplova presretača radio vezom saopštava pilotu presretenog vazduhoplova znaci:",
       "options": [
@@ -2601,15 +2611,11 @@
     },
     {
       "id": "KOM-0121",
-      "question": "Kada pilot ne uspe da uspostavi komunikaciju sa zemaljskom stanicom ili drugim avionom treba da emituje svoju poruko",
+      "question": "Kada pilot ne uspe da uspostavi komunikaciju sa zemaljskom stanicom ili drugim avionom treba da emituje svoju poruko 2 puta i da je počne sa frazom:",
       "options": [
         {
-          "text": "2 puta i da je počne sa frazom:",
-          "isCorrect": true
-        },
-        {
           "text": "TRANSMITTING BLIND.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "MAYDAY.",
@@ -2803,15 +2809,11 @@
     },
     {
       "id": "KOM-0130",
-      "question": "Svedok ste prinudnog sletanja sportskog aviona na travnjak ispod vas. Avion izgleda neoštećen, a posada nepovređena.",
+      "question": "Svedok ste prinudnog sletanja sportskog aviona na travnjak ispod vas. Avion izgleda neoštećen, a posada nepovređena. Fraza sa kojom započinjete vašu radio poruku o događaju kontroli letenja, je:",
       "options": [
         {
-          "text": "Fraza sa kojom započinjete vašu radio poruku o događaju kontroli letenja, je:",
-          "isCorrect": true
-        },
-        {
           "text": "PANPAN, PANPAN, PANPAN.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "HELPHELP, HELPHELP, HELPHELP.",
