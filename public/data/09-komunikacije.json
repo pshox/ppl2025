@@ -2,6 +2,7 @@
   "subject": "Komunikacije",
   "lang": "sr",
   "version": 1,
+  "verified": true,
   "questions": [
     {
       "id": "KOM-0001",
