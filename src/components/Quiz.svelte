@@ -2,6 +2,7 @@
   import { onMount } from 'svelte';
   import { subjects, type SubjectId } from '../subjects';
   import ThemeToggle from './ThemeToggle.svelte';
+  import { addError, removeError, getAllErrors, getErrorsBySubject, ERRORS_SUBJECT_ID } from '../errors';
 
   type Option = { text: string; isCorrect: boolean };
   type Question = { id: string; question: string; comment?: string; options: Option[] };
@@ -11,7 +12,7 @@
   let idx = 0;
   let shuffledOptions: Option[] = [];
   let showHint = false; // legacy flag; not used for text hint anymore
-  let currentSubjectId: SubjectId = '01-vazduhoplovni-propisi';
+  let currentSubjectId: SubjectId | typeof ERRORS_SUBJECT_ID = '01-vazduhoplovni-propisi';
   let loadError = '';
   let selectedIndex: number | null = null;
   let autoNextHandle: number | null = null;
@@ -35,16 +36,17 @@
     return a;
   }
 
-  function isValidSubject(id: string | null): id is SubjectId {
-    return !!id && subjects.some(s => s.id === id);
+  function isValidSubject(id: string | null): id is SubjectId | typeof ERRORS_SUBJECT_ID {
+    return !!id && (id === ERRORS_SUBJECT_ID || subjects.some(s => s.id === id));
   }
 
-  function getSubjectTitle(id: SubjectId): string {
+  function getSubjectTitle(id: SubjectId | typeof ERRORS_SUBJECT_ID): string {
     const found = subjects.find(s => s.id === id);
+    if (id === ERRORS_SUBJECT_ID) return 'Greške';
     return found ? found.title : 'PPL';
   }
 
-  async function loadBank(subjectOverride?: SubjectId) {
+  async function loadBank(subjectOverride?: SubjectId | typeof ERRORS_SUBJECT_ID) {
     // support hash route: #/quiz?s=<id>
     const hash = location.hash || '';
     const hashParams = new URLSearchParams(hash.split('?')[1] || '');
@@ -52,33 +54,58 @@
     const candidate = subjectOverride || hashParams.get('s') || params.get('s') || localStorage.getItem(STORAGE_KEY_SUBJECT) || subjects[0].id;
     currentSubjectId = isValidSubject(candidate) ? candidate : subjects[0].id;
     loadError = '';
-    try {
-      const cacheBust = import.meta.env.DEV ? `?t=${Date.now()}` : '';
-      const res = await fetch(`${import.meta.env.BASE_URL}data/${currentSubjectId}.json${cacheBust}`, { cache: 'no-store' });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      bank = (await res.json()) as Bank;
-    } catch (err) {
-      // Try fallback to default subject if not already
-      if (currentSubjectId !== subjects[0].id) {
-        currentSubjectId = subjects[0].id;
+    if (currentSubjectId === ERRORS_SUBJECT_ID) {
+      // Build pseudo-bank from stored errors across subjects
+      const bySubject = getErrorsBySubject();
+      const questions: Question[] = [];
+      for (const [sid, qids] of bySubject.entries()) {
         try {
-          const cacheBust2 = import.meta.env.DEV ? `?t=${Date.now()}` : '';
-          const res2 = await fetch(`${import.meta.env.BASE_URL}data/${currentSubjectId}.json${cacheBust2}`, { cache: 'no-store' });
-          if (!res2.ok) throw new Error(`HTTP ${res2.status}`);
-          bank = (await res2.json()) as Bank;
-          loadError = 'Није нађен сет за претходни предмет. Учитан је подразумевани предмет.';
-        } catch (err2) {
-          loadError = 'Није нађен ниједан сет питања.';
+          const cacheBust = import.meta.env.DEV ? `?t=${Date.now()}` : '';
+          const res = await fetch(`${import.meta.env.BASE_URL}data/${sid}.json${cacheBust}`, { cache: 'no-store' });
+          if (!res.ok) continue;
+          const data = (await res.json()) as Bank;
+          for (const q of data.questions) {
+            if (qids.has(q.id)) {
+              questions.push({ ...q });
+            }
+          }
+        } catch {
+          // skip subject if load fails
+        }
+      }
+      bank = { subject: getSubjectTitle(ERRORS_SUBJECT_ID), lang: 'sr', version: 1, questions } as Bank;
+      idx = 0;
+      prepareQuestion();
+      return;
+    } else {
+      try {
+        const cacheBust = import.meta.env.DEV ? `?t=${Date.now()}` : '';
+        const res = await fetch(`${import.meta.env.BASE_URL}data/${currentSubjectId}.json${cacheBust}`, { cache: 'no-store' });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        bank = (await res.json()) as Bank;
+      } catch (err) {
+        // Try fallback to default subject if not already
+        if (currentSubjectId !== subjects[0].id) {
+          currentSubjectId = subjects[0].id;
+          try {
+            const cacheBust2 = import.meta.env.DEV ? `?t=${Date.now()}` : '';
+            const res2 = await fetch(`${import.meta.env.BASE_URL}data/${currentSubjectId}.json${cacheBust2}`, { cache: 'no-store' });
+            if (!res2.ok) throw new Error(`HTTP ${res2.status}`);
+            bank = (await res2.json()) as Bank;
+            loadError = 'Није нађен сет за претходни предмет. Учитан је подразумевани предмет.';
+          } catch (err2) {
+            loadError = 'Није нађен ниједан сет питања.';
+            bank = { subject: getSubjectTitle(currentSubjectId), lang: 'sr', version: 1, questions: [] } as Bank;
+          }
+        } else {
+          loadError = 'Није нађен сет питања за изабрани предмет.';
           bank = { subject: getSubjectTitle(currentSubjectId), lang: 'sr', version: 1, questions: [] } as Bank;
         }
-      } else {
-        loadError = 'Није нађен сет питања за изабрани предмет.';
-        bank = { subject: getSubjectTitle(currentSubjectId), lang: 'sr', version: 1, questions: [] } as Bank;
       }
+      const saved = Number(localStorage.getItem(STORAGE_KEY_INDEX + currentSubjectId) || '0');
+      idx = Number.isFinite(saved) && saved >= 0 && saved < bank.questions.length ? saved : 0;
+      prepareQuestion();
     }
-    const saved = Number(localStorage.getItem(STORAGE_KEY_INDEX + currentSubjectId) || '0');
-    idx = Number.isFinite(saved) && saved >= 0 && saved < bank.questions.length ? saved : 0;
-    prepareQuestion();
   }
 
   function prepareQuestion() {
@@ -129,6 +156,11 @@
     if (examMode && examOrder.length > 0) {
       return; // disabled in exam mode
     }
+    if (currentSubjectId === ERRORS_SUBJECT_ID) {
+      idx = Math.floor(Math.random() * bank.questions.length);
+      prepareQuestion();
+      return;
+    }
     idx = Math.floor(Math.random() * bank.questions.length);
     prepareQuestion();
   }
@@ -146,12 +178,14 @@
     window.open(url, '_blank');
   }
 
-  function changeSubject(newId: SubjectId) {
+  function changeSubject(newId: SubjectId | typeof ERRORS_SUBJECT_ID) {
     if (currentSubjectId === newId) return;
     currentSubjectId = newId;
     // Reset to the first question when switching subjects
     idx = 0;
-    localStorage.setItem(STORAGE_KEY_INDEX + currentSubjectId, '0');
+    if (newId !== ERRORS_SUBJECT_ID) {
+      localStorage.setItem(STORAGE_KEY_INDEX + currentSubjectId, '0');
+    }
     showHint = false;
     // Leave exam mode when subject changes
     stopExam();
@@ -160,7 +194,8 @@
 
   function handleSubjectChange(event: Event) {
     const select = event.target as HTMLSelectElement;
-    changeSubject(select.value as SubjectId);
+    const val = select.value as SubjectId;
+    changeSubject(val);
   }
 
   function handleQuestionChange(event: Event) {
@@ -189,8 +224,26 @@
       if (isCorrect) {
         if (autoNextHandle !== null) clearTimeout(autoNextHandle);
         autoNextHandle = null;
-        next(); // immediate advance on correct answer
+        // When answering correctly in Errors mode, remove from errors list
+        if (currentSubjectId === ERRORS_SUBJECT_ID) {
+          const q = bank!.questions[idx];
+          // Need to find original subject of this question; we only have question id
+          // We will attempt removal across all subjects containing this id
+          const bySubject = getErrorsBySubject();
+          for (const [sid, set] of bySubject.entries()) {
+            if (set.has(q.id)) removeError(sid, q.id);
+          }
+          // Rebuild bank after removal
+          loadBank(ERRORS_SUBJECT_ID);
+        } else {
+          next(); // immediate advance on correct answer
+        }
       }
+    }
+    // Add wrong attempt to errors if not in Errors mode and not in exam mode
+    if (!isCorrect && currentSubjectId !== ERRORS_SUBJECT_ID && !examMode) {
+      const qid = bank!.questions[idx].id;
+      addError(currentSubjectId as SubjectId, qid);
     }
   }
 
@@ -243,6 +296,16 @@
   function finishExam() {
     if (!examMode) return;
     examFinished = true;
+    // Persist wrong answers from exam: take questions with false
+    const wrongIndices = examAnswers
+      .map((ok, i) => (ok === false ? examOrder[i] : null))
+      .filter((x) => x !== null) as number[];
+    if (currentSubjectId !== ERRORS_SUBJECT_ID) {
+      for (const qi of wrongIndices) {
+        const qid = bank!.questions[qi].id;
+        addError(currentSubjectId as SubjectId, qid);
+      }
+    }
   }
 
   function restartExam() {
@@ -254,6 +317,7 @@
   $: examCorrect = examAnswers.filter(a => a === true).length;
   $: examPercent = examTotal > 0 ? Math.round((examCorrect / examTotal) * 100) : 0;
   $: examPassed = examCorrect >= Math.ceil(0.75 * examTotal);
+  $: isErrorsMode = currentSubjectId === ERRORS_SUBJECT_ID;
 </script>
 
 {#if !bank}
@@ -271,13 +335,18 @@
       <header>
         <h1>{bank.subject}</h1>
         <div class="toolbar">
-          <label for="subject">Predmet</label>
-          <select id="subject" bind:value={currentSubjectId} on:change={handleSubjectChange}>
-            {#each subjects as s}
-              <option value={s.id}>{s.title}</option>
-            {/each}
-          </select>
-          <ThemeToggle />
+          {#if isErrorsMode}
+            <button class="back" on:click={goToSubjects}>← Predmeti</button>
+            <ThemeToggle />
+          {:else}
+            <label for="subject">Predmet</label>
+            <select id="subject" bind:value={currentSubjectId} on:change={handleSubjectChange}>
+              {#each subjects as s}
+                <option value={s.id}>{s.title}</option>
+              {/each}
+            </select>
+            <ThemeToggle />
+          {/if}
         </div>
       </header>
       <main>
@@ -303,10 +372,12 @@
               {/if}
             </small>
             <ThemeToggle />
-            <label class="exam-toggle">
-              <input type="checkbox" on:change={toggleExam} checked={examMode} />
-              <span class="label-text">Simuliraj ispit</span>
-            </label>
+            {#if !isErrorsMode}
+              <label class="exam-toggle">
+                <input type="checkbox" on:change={toggleExam} checked={examMode} />
+                <span class="label-text">Simuliraj ispit</span>
+              </label>
+            {/if}
           </div>
         </header>
         <main>

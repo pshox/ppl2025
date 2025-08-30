@@ -2,6 +2,7 @@
   import { onMount } from 'svelte';
   import { subjects } from '../subjects';
   import ThemeToggle from './ThemeToggle.svelte';
+  import { getErrorsCount } from '../errors';
 
   function goTo(id: string) {
     const url = new URL(location.href);
@@ -27,6 +28,17 @@
   }
 
   onMount(loadVerified);
+
+  let errorsCount = 0;
+  function loadErrorsCount() {
+    errorsCount = getErrorsCount();
+  }
+
+  onMount(() => {
+    loadErrorsCount();
+    const i = setInterval(loadErrorsCount, 1000);
+    return () => clearInterval(i);
+  });
 </script>
 
 <div class="page">
@@ -47,6 +59,13 @@
           <div class="id">{s.id}</div>
         </button>
       {/each}
+      <button class="tile tile-errors" on:click={() => goTo('__errors__')}>
+        <div class="titleRow">
+          <div class="title">Greške</div>
+          <span class="badge badge-error" aria-label="Greške" title="Pitanja na kojima ste pogrešili">{errorsCount}</span>
+        </div>
+        <div class="id">poseban režim</div>
+      </button>
     </div>
   </main>
 </div>
@@ -63,4 +82,6 @@
   @media (min-width: 640px) { .page { max-width: 640px; margin: 0 auto; } }
   .titleRow { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
   .badge { display: inline-block; padding: 2px 6px; font-size: 11px; background: #ecfdf5; color: #065f46; font-weight: 600; margin-left: auto; }
+  .tile-errors { background: #fef2f2; color: #7f1d1d; }
+  .badge-error { background: #fee2e2; color: #991b1b; }
 </style>
