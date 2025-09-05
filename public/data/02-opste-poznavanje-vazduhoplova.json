@@ -2054,11 +2054,11 @@
       "options": [
         {
           "text": "promena temperature i gustine vazduha.",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
           "text": "ceona komponenta vetra.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "greška na pito-cevi uzrokovana gubitkom protoka vazduha.",
@@ -2076,11 +2076,11 @@
       "options": [
         {
           "text": "brzinomerom i variometrom.",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
           "text": "brzinomer, variometar, kontrolnikom leta.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "brzinomerom.",
