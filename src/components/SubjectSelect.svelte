@@ -50,7 +50,7 @@
     <div class="grid">
       <button class="tile tile-errors" on:click={() => goTo('__errors__')}>
         <div class="titleRow">
-          <div class="title">Moje greške</div>
+          <div class="title">MOJE GREŠKE</div>
           <span class="badge badge-error" aria-label="Greške" title="Pitanja na kojima ste pogrešili">{errorsCount}</span>
         </div>
         <div class="id">poseban režim gde se pojavljuju pitanja na kojima ste pogrešili</div>
