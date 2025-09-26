@@ -53,7 +53,7 @@
           <div class="title">MOJE GREŠKE</div>
           <span class="badge badge-error" aria-label="Greške" title="Pitanja na kojima ste pogrešili">{errorsCount}</span>
         </div>
-        <div class="id">poseban režim gde se pojavljuju pitanja na kojima ste pogrešili</div>
+        <div class="id">poseban režim gde se pojavljuju pitanja na kojima ste pogrešili. Kad tacno odgovorite ovde, pitanje se briše sa liste grešaka.</div>
       </button>
       {#each subjects as s}
         <button class="tile" on:click={() => goTo(s.id)}>
