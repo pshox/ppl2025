@@ -2851,8 +2851,8 @@
           "isCorrect": false
         },
         {
-          "text": "15.3 USA gal.",
-          "isCorrect": false
+          "text": "15.1 USA gal.",
+          "isCorrect": true
         },
         {
           "text": "18.6 USA gal.",
