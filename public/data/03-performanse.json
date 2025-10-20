@@ -2844,7 +2844,7 @@
       "options": [
         {
           "text": "22.7 USA gal.",
-          "isCorrect": false
+          "isCorrect": true
         },
         {
           "text": "14.9 USA gal.",
@@ -2852,7 +2852,7 @@
         },
         {
           "text": "15.1 USA gal.",
-          "isCorrect": true
+          "isCorrect": false
         },
         {
           "text": "18.6 USA gal.",
