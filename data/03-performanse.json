@@ -2276,7 +2276,7 @@
     },
     {
       "id": "PF-0108",
-      "question": "Koliko je povecanje visine po gustini ako se temperatura poveca sa 0 na 10°C i ako visina aerodroma po pritisku ostane",
+      "question": "Koliko je povecanje visine po gustini ako se temperatura poveca sa 0 na 10°C i ako visina aerodroma po pritisku ostane 3000 ft?",
       "options": [
         {
           "text": "1,200 ft.",
