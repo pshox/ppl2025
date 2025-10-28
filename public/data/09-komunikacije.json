@@ -2056,11 +2056,23 @@
     },
     {
       "id": "KOM-0096",
-      "question": "Pilot dobija sledeću poruku od kontrole leta.",
+      "question": "Pilot dobija sledeću poruku od kontrole leta. YU-ABC, After departure cleared to zone boundary via Route Bravo, Climb to Altitude 2 500 feet, QNH 1005, Squawk",
       "options": [
         {
-          "text": "\"YU-ABC, After departure cleared to zone boundary via Route Bravo, Climb to Altitude 2 500 feet, QNH 1005, Squawk",
+          "text": "Odobrenje za rutu",
           "isCorrect": true
+        },
+        {
+          "text": "Odobrenje za poletanje",
+          "isCorrect": false
+        },
+        {
+          "text": "Uslovno odobrenje",
+          "isCorrect": false
+        },
+        {
+          "text": "Dolazno odobrenje",
+          "isCorrect": false
         }
       ]
     },
