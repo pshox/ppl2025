@@ -1621,6 +1621,7 @@
     },
     {
       "id": "MET-0075",
+      "image": "ppl-meteo-5.png",
       "question": "Na osnovu dijagrama odrediti zonu koju navedena TAF prognoza opisuje(Pogledajte sliku PPL Meteo-5) 1322 35020KT9999 SCT030 SCT090 TEMPO 1322 8000 SHRA BKN015 PROB30 TEMPO 1522 5000 +RASH SCT008 BKN009CB=.",
       "options": [
         {
@@ -1687,6 +1688,7 @@
     },
     {
       "id": "MET-0078",
+      "image": "ppl-meteo-15.png",
       "question": "Kakav vetar oznacava znak na meteorološkoj karti: (Pogledajte sliku PPL Meteo-15).",
       "options": [
         {
@@ -1775,6 +1777,7 @@
     },
     {
       "id": "MET-0082",
+      "image": "ppl-meteo-1.png",
       "question": "Na osnovu dijagrama odrediti na visini od 2000ft brzinu vetra i temperaturu za tacku u preseku 50°N 0° E/W (Pogledajte sliku PPL Meteo-1).",
       "options": [
         {
@@ -1797,6 +1800,7 @@
     },
     {
       "id": "MET-0083",
+      "image": "ppl-meteo-2.png",
       "question": "Na osnovu dijagrama odrediti na visini od 5000ft brzinu vetra za tacku u preseku 50°N 0°EM: (Pogledajte sliku PPL Meteo-2).",
       "options": [
         {
@@ -1819,6 +1823,7 @@
     },
     {
       "id": "MET-0084",
+      "image": "ppl-meteo-10.png",
       "question": "Na osnovu dijagrama, odrediti pojavu koja je identifikovana sa slovom J u tacki 60°N 12°W? (Pogledajte sliku PPL Meteo-10).",
       "options": [
         {
@@ -1841,6 +1846,7 @@
     },
     {
       "id": "MET-0085",
+      "image": "ppl-meteo-14.png",
       "question": "Na osnovu karte znacajnog vremena (male visine) , primecujemo sistem pritiska 50 stepeni severno, 1 stepen istocno, oznacen sa slovom \"L\", strelicom i brojevima \"20\" i \"988\". Šta predstavlja ovako definisan sistem pritiska? (Pogledajte sliku PPL Meteo-14)",
       "options": [
         {
@@ -2957,6 +2963,7 @@
     },
     {
       "id": "MET-0137",
+      "image": "ppl-meteo-4.png",
       "question": "Šta predstavlja simbol sa dijagrama na prognostickim kartama? (Pogledajte sliku PPL Meteo-4).",
       "options": [
         {
@@ -2979,6 +2986,7 @@
     },
     {
       "id": "MET-0138",
+      "image": "ppl-meteo-6.png",
       "question": "Šta predstavlja simbol sa dijagrama na prognostickim kartama? (Pogledajte sliku PPL Meteo-6).",
       "options": [
         {
