@@ -1,5 +1,6 @@
 <script lang="ts">
-  import { onMount } from 'svelte';
+  import { onMount, tick } from 'svelte';
+  import { marked } from 'marked';
   import { subjects, type SubjectId } from '../subjects';
   import ThemeToggle from './ThemeToggle.svelte';
   import { addError, removeError, getAllErrors, getErrorsBySubject, ERRORS_SUBJECT_ID } from '../errors';
@@ -18,6 +19,68 @@
   let autoNextHandle: number | null = null;
   let showImageModal = false;
   let modalImageUrl = '';
+
+  // ChatGPT explanation state
+  const STORAGE_KEY_OPENAI_API_KEY = 'ppl.usr_pref_01';
+  const STORAGE_KEY_AUTO_EXPLANATION = 'ppl.auto_explanation';
+  const STORAGE_KEY_EXPLANATION_LANG = 'ppl.explanation_lang';
+  type ExplanationLanguage = 'sr' | 'ru' | 'en';
+
+  // Simple encryption/decryption for API key obfuscation
+  const ENCRYPTION_KEY = 'ppl2025_secure_key_obfuscation';
+
+  function encrypt(text: string): string {
+    let result = '';
+    for (let i = 0; i < text.length; i++) {
+      const charCode = text.charCodeAt(i) ^ ENCRYPTION_KEY.charCodeAt(i % ENCRYPTION_KEY.length);
+      result += String.fromCharCode(charCode);
+    }
+    return btoa(result);
+  }
+
+  function decrypt(encrypted: string): string {
+    try {
+      const decoded = atob(encrypted);
+      let result = '';
+      for (let i = 0; i < decoded.length; i++) {
+        const charCode = decoded.charCodeAt(i) ^ ENCRYPTION_KEY.charCodeAt(i % ENCRYPTION_KEY.length);
+        result += String.fromCharCode(charCode);
+      }
+      return result;
+    } catch {
+      return '';
+    }
+  }
+
+  function getStoredApiKey(): string {
+    const stored = localStorage.getItem(STORAGE_KEY_OPENAI_API_KEY);
+    if (!stored) return '';
+    try {
+      return decrypt(stored);
+    } catch {
+      return '';
+    }
+  }
+
+  function setStoredApiKey(key: string): void {
+    if (key) {
+      localStorage.setItem(STORAGE_KEY_OPENAI_API_KEY, encrypt(key));
+    } else {
+      localStorage.removeItem(STORAGE_KEY_OPENAI_API_KEY);
+    }
+  }
+
+  let openaiApiKey = getStoredApiKey();
+  let autoExplanation = localStorage.getItem(STORAGE_KEY_AUTO_EXPLANATION) !== 'false'; // default true
+  let explanationLang: ExplanationLanguage = (localStorage.getItem(STORAGE_KEY_EXPLANATION_LANG) || 'sr') as ExplanationLanguage;
+  let showApiKeyModal = false;
+  let explanationLoading = false;
+  let explanationText = '';
+  let explanationError = '';
+  let explanationQuestionId: string | null = null;
+
+  // Reactive computed for markdown HTML
+  $: explanationHtml = explanationText ? marked.parse(explanationText) : '';
 
   // Exam mode state
   let examMode = false; // whether exam simulation is active
@@ -135,6 +198,9 @@
     const q = bank.questions[idx];
     shuffledOptions = shuffle(q.options || []);
     selectedIndex = null;
+    explanationText = '';
+    explanationError = '';
+    explanationQuestionId = null;
     if (autoNextHandle !== null) {
       clearTimeout(autoNextHandle);
       autoNextHandle = null;
@@ -186,17 +252,320 @@
     prepareQuestion();
   }
 
-  function buildChatPrompt(q: Question) {
+  function buildExplanationPrompt(q: Question, selectedOptionText: string) {
     const subject = bank?.subject ?? 'PPL';
-    const opts = q.options.map((o, i) => `${String.fromCharCode(65 + i)}. ${o.text}`).join('\n');
-    // Prompt must be Serbian per requirement
-    return `Објасни зашто је тачан одговор за предмет ${subject} (PPL).\nПитање: ${q.question}\nПонудени одговори:\n${opts}`;
+    const correctOption = q.options.find(o => o.isCorrect);
+    const opts = q.options.map((o, i) => `${String.fromCharCode(65 + i)}. ${o.text}${o.isCorrect ? ' (тачан)' : ''}`).join('\n');
+
+    const prompts = {
+      sr: {
+        intro: `Објасни детаљно на српском језику зашто је тачан одговор правилан за предмет ${subject} (PPL теорија ваздухопловства).`,
+        sections: {
+          correct: 'ОБРАЗЛОЖЕЊЕ ТАЧНОГ ОДГОВОРА:',
+          examples: 'ПРАКТИЧНИ ПРИМЕРИ:',
+          context: 'ДОДАТНИ КОНТЕКСТ:'
+        },
+        instructions: 'Напиши објашњење у Markdown формату (користи **за жирни текст**, *за курзив*, ## за заглавља, - за спискове). Објашњење треба да буде разумљиво, корисно и образложено на практичним примерима.'
+      },
+      ru: {
+        intro: `Подробно объясни на русском языке, почему правильный ответ верен для предмета ${subject} (теория PPL авиации).`,
+        sections: {
+          correct: 'ОБОСНОВАНИЕ ПРАВИЛЬНОГО ОТВЕТА:',
+          examples: 'ПРАКТИЧЕСКИЕ ПРИМЕРЫ:',
+          context: 'ДОПОЛНИТЕЛЬНЫЙ КОНТЕКСТ:'
+        },
+        instructions: 'Напиши объяснение в формате Markdown (используй **для жирного текста**, *для курсива*, ## для заголовков, - для списков). Объяснение должно быть понятным, полезным и обоснованным практическими примерами.'
+      },
+      en: {
+        intro: `Explain in detail in English why the correct answer is right for the subject ${subject} (PPL aviation theory).`,
+        sections: {
+          correct: 'EXPLANATION OF CORRECT ANSWER:',
+          examples: 'PRACTICAL EXAMPLES:',
+          context: 'ADDITIONAL CONTEXT:'
+        },
+        instructions: 'Write the explanation in Markdown format (use ** for bold text, * for italic, ## for headings, - for lists). The explanation should be clear, useful, and supported by practical examples.'
+      }
+    };
+
+    const p = prompts[explanationLang];
+
+    const instructions = {
+      sr: {
+        question: 'Питање:',
+        options: 'Понудени одговори:',
+        correct: 'Тачан одговор:',
+        intro: 'Направи детаљно и разумљиво објашњење које укључује:',
+        correctList: [
+          'Детаљно објасни зашто је тачан одговор правилан',
+          'Наведи конкретне факте, правила или принципе из теорије ваздухопловства',
+          'Објасни како се тачан одговор примењује у стварним ситуацијама'
+        ],
+        examples: [
+          'Наведи конкретан пример из праве летења или ситуацију која илуструје правилно разумевање',
+          'Објасни предности и важност правилног разумевања'
+        ],
+        context: [
+          'Ако је релевантно, објасни повезаност са другим концептима из ваздухопловства',
+          'Наведи корисне напомене за запамћивање'
+        ]
+      },
+      ru: {
+        question: 'Вопрос:',
+        options: 'Предложенные ответы:',
+        correct: 'Правильный ответ:',
+        intro: 'Сделай детальное и понятное объяснение, которое включает:',
+        correctList: [
+          'Подробно объясни, почему правильный ответ верен',
+          'Приведи конкретные факты, правила или принципы из теории авиации',
+          'Объясни, как правильный ответ применяется в реальных ситуациях'
+        ],
+        examples: [
+          'Приведи конкретный пример из реального полёта или ситуацию, которая иллюстрирует правильное понимание',
+          'Объясни преимущества и важность правильного понимания'
+        ],
+        context: [
+          'Если релевантно, объясни связь с другими концепциями из авиации',
+          'Приведи полезные заметки для запоминания'
+        ]
+      },
+      en: {
+        question: 'Question:',
+        options: 'Provided options:',
+        correct: 'Correct answer:',
+        intro: 'Make a detailed and clear explanation that includes:',
+        correctList: [
+          'Explain in detail why the correct answer is right',
+          'Provide specific facts, rules or principles from aviation theory',
+          'Explain how the correct answer applies in real situations'
+        ],
+        examples: [
+          'Give a specific example from real flight or a situation that illustrates correct understanding',
+          'Explain the advantages and importance of correct understanding'
+        ],
+        context: [
+          'If relevant, explain the connection with other aviation concepts',
+          'Provide useful notes for memorization'
+        ]
+      }
+    };
+
+    const inst = instructions[explanationLang];
+
+    return `${p.intro}
+
+${inst.question} ${q.question}
+
+${inst.options}
+${opts}
+
+${inst.correct} ${correctOption?.text || (explanationLang === 'sr' ? 'Непознат' : explanationLang === 'ru' ? 'Неизвестен' : 'Unknown')}
+
+${inst.intro}
+
+1. ${p.sections.correct}
+   - ${inst.correctList[0]}
+   - ${inst.correctList[1]}
+   - ${inst.correctList[2]}
+
+2. ${p.sections.examples}
+   - ${inst.examples[0]}
+   - ${inst.examples[1]}
+
+3. ${p.sections.context}
+   - ${inst.context[0]}
+   - ${inst.context[1]}
+
+${p.instructions}`;
   }
 
-  function openChatGPT(q: Question) {
-    const prompt = buildChatPrompt(q);
-    const url = `https://chat.openai.com/?q=${encodeURIComponent(prompt)}`;
-    window.open(url, '_blank');
+  function getSystemMessage(lang: ExplanationLanguage): string {
+    const messages = {
+      sr: 'Ти си стручни асистент за теорију ваздухопловства (PPL) на српском језику. Дајеш детаљна, разумљива и практична објашњења са конкретним примерима из ваздухопловства. Увек наводиш практичне примере, ситуације из стварног летења и конкретне последице. Ако видиш слику, детаљно објасни шта она показује и како се то односи на питање. Твоја објашњења су структурирана, образовална и фокусирана на разумевање, а не само на запамћивање. Увек користиш Markdown форматирање за структурирање одговора (заглавља, спискове, жирни текст, курзив).',
+      ru: 'Ты — профессиональный ассистент по теории авиации (PPL) на русском языке. Ты даёшь детальные, понятные и практичные объяснения с конкретными примерами из авиации. Всегда приводишь практические примеры, ситуации из реальных полётов и конкретные последствия. Если видишь изображение, подробно объясни, что оно показывает и как это относится к вопросу. Твои объяснения структурированы, образовательны и сфокусированы на понимание, а не только на запоминание. Всегда используешь форматирование Markdown для структурирования ответа (заголовки, списки, жирный текст, курсив).',
+      en: 'You are a professional assistant for aviation theory (PPL) in English. You provide detailed, clear, and practical explanations with specific examples from aviation. You always include practical examples, situations from real flights, and specific consequences. If you see an image, explain in detail what it shows and how it relates to the question. Your explanations are structured, educational, and focused on understanding, not just memorization. You always use Markdown formatting to structure your responses (headings, lists, bold text, italic).'
+    };
+    return messages[lang];
+  }
+
+  async function imageToBase64(imageUrl: string): Promise<string> {
+    try {
+      const response = await fetch(imageUrl);
+      const blob = await response.blob();
+      return new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onloadend = () => {
+          const base64 = reader.result as string;
+          // Remove data:image/...;base64, prefix if present
+          const base64Data = base64.includes(',') ? base64.split(',')[1] : base64;
+          resolve(base64Data);
+        };
+        reader.onerror = reject;
+        reader.readAsDataURL(blob);
+      });
+    } catch (err) {
+      throw new Error('Не могу да учитам слику.');
+    }
+  }
+
+  async function fetchExplanation(q: Question, selectedOptionText: string) {
+    if (!openaiApiKey) {
+      explanationError = 'API кључ није подешен. Молимо унесите OpenAI API кључ у подешавањима.';
+      return;
+    }
+
+    explanationLoading = true;
+    explanationError = '';
+    explanationText = '';
+    explanationQuestionId = q.id;
+
+    try {
+      const prompt = buildExplanationPrompt(q, selectedOptionText);
+      const hasImage = !!q.image;
+
+      // Prepare user message content for Vision API
+      type ContentItem =
+        | { type: 'text'; text: string }
+        | { type: 'image_url'; image_url: { url: string } };
+
+      const userContent: ContentItem[] = [
+        { type: 'text', text: prompt }
+      ];
+
+      // Add image if available
+      if (hasImage && q.image) {
+        try {
+          const imageUrl = getImageUrl(q.image);
+          const base64Image = await imageToBase64(imageUrl);
+          const mimeType = imageUrl.toLowerCase().endsWith('.png') ? 'image/png' : 'image/jpeg';
+          userContent.push({
+            type: 'image_url',
+            image_url: {
+              url: `data:${mimeType};base64,${base64Image}`
+            }
+          });
+        } catch (imgErr) {
+          // If image loading fails, continue without image
+          console.warn('Failed to load image for explanation:', imgErr);
+        }
+      }
+
+      // Use gpt-4o model (supports both text and images)
+      const imageIncluded = userContent.length > 1;
+      const model = 'gpt-4o';
+
+      const response = await fetch('https://api.openai.com/v1/chat/completions', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${openaiApiKey}`
+        },
+        body: JSON.stringify({
+          model: model,
+          messages: [
+            {
+              role: 'system',
+              content: getSystemMessage(explanationLang)
+            },
+            {
+              role: 'user',
+              content: userContent
+            }
+          ],
+          max_tokens: imageIncluded ? 800 : 600,
+          temperature: 0,
+          stream: true
+        })
+      });
+
+      if (!response.ok) {
+        // Try to read error message from stream or fallback to status
+        let errorMessage = `HTTP ${response.status}`;
+        try {
+          const errorText = await response.text();
+          const errorData = JSON.parse(errorText);
+          errorMessage = errorData.error?.message || errorMessage;
+        } catch {
+          // If parsing fails, use status code
+        }
+        throw new Error(errorMessage);
+      }
+
+      // Handle streaming response
+      const reader = response.body?.getReader();
+      const decoder = new TextDecoder();
+
+      if (!reader) {
+        throw new Error('Failed to get response stream');
+      }
+
+      explanationText = '';
+      let buffer = '';
+
+      try {
+        while (true) {
+          const { done, value } = await reader.read();
+
+          if (done) {
+            break;
+          }
+
+          buffer += decoder.decode(value, { stream: true });
+          const lines = buffer.split('\n');
+          buffer = lines.pop() || ''; // Keep incomplete line in buffer
+
+          for (const line of lines) {
+            if (line.trim() === '') continue;
+
+            if (line.startsWith('data: ')) {
+              const data = line.slice(6);
+
+              if (data === '[DONE]') {
+                continue;
+              }
+
+              try {
+                const json = JSON.parse(data);
+                const delta = json.choices?.[0]?.delta?.content;
+
+                if (delta) {
+                  // Update text immediately for real-time display
+                  explanationText = explanationText + delta;
+                }
+              } catch (e) {
+                // Skip invalid JSON lines (might be empty or malformed)
+                if (data.trim() !== '') {
+                  console.warn('Failed to parse SSE data:', data);
+                }
+              }
+            }
+          }
+        }
+      } finally {
+        reader.releaseLock();
+      }
+    } catch (err) {
+      explanationError = err instanceof Error ? err.message : 'Грешка приликом генерисања објашњења.';
+    } finally {
+      explanationLoading = false;
+    }
+  }
+
+  function saveApiKey() {
+    setStoredApiKey(openaiApiKey);
+    localStorage.setItem(STORAGE_KEY_AUTO_EXPLANATION, String(autoExplanation));
+    localStorage.setItem(STORAGE_KEY_EXPLANATION_LANG, explanationLang);
+    showApiKeyModal = false;
+  }
+
+  function clearApiKey() {
+    openaiApiKey = '';
+    setStoredApiKey('');
+    showApiKeyModal = false;
+  }
+
+  function toggleAutoExplanation() {
+    autoExplanation = !autoExplanation;
+    localStorage.setItem(STORAGE_KEY_AUTO_EXPLANATION, String(autoExplanation));
   }
 
   function changeSubject(newId: SubjectId | typeof ERRORS_SUBJECT_ID) {
@@ -235,6 +604,8 @@
   function selectOption(i: number) {
     selectedIndex = i;
     const isCorrect = !!shuffledOptions[i]?.isCorrect;
+    const selectedOption = shuffledOptions[i];
+
     if (examMode && !examFinished && examOrder.length > 0) {
       // Record only the first attempt for current exam question
       if (examAnswers[examPos] === null || examAnswers[examPos] === undefined) {
@@ -259,6 +630,11 @@
         } else {
           next(); // immediate advance on correct answer
         }
+      } else {
+        // Fetch explanation for wrong answer if API key is set and auto-explanation is enabled
+        if (!examMode && bank && selectedOption && autoExplanation) {
+          fetchExplanation(bank.questions[idx], selectedOption.text);
+        }
       }
     }
     // Add wrong attempt to errors if not in Errors mode and not in exam mode
@@ -278,11 +654,6 @@
         autoNextHandle = null;
       }
     }
-  }
-
-  function openChatForCurrent() {
-    if (!bank) return;
-    openChatGPT(bank.questions[idx]);
   }
 
   onMount(() => loadBank());
@@ -399,6 +770,11 @@
                 <span class="label-text">Simuliraj ispit</span>
               </label>
             {/if}
+            {#if openaiApiKey}
+              <button class="ai-badge ai-enabled" title="AI објашњења су укључена" on:click={() => showApiKeyModal = true} type="button">AI ✓</button>
+            {:else}
+              <button class="ai-badge ai-disabled" title="Подесите API кључ за AI објашњења" on:click={() => showApiKeyModal = true} type="button">Enable AI</button>
+            {/if}
           </div>
         </header>
         <main>
@@ -431,6 +807,33 @@
 
               {#if bank.questions[idx].comment && !examMode}
                 <div class="comment">{bank.questions[idx].comment}</div>
+              {/if}
+
+              {#if !examMode && selectedIndex !== null && !shuffledOptions[selectedIndex]?.isCorrect}
+                {#if explanationQuestionId === bank.questions[idx].id}
+                  {#if explanationError}
+                    <div class="explanation-error">
+                      <p>{explanationError}</p>
+                      {#if !openaiApiKey}
+                        <button class="btn btn-info" on:click={() => showApiKeyModal = true}>Подеси API кључ</button>
+                      {/if}
+                    </div>
+                  {:else if explanationText || explanationLoading}
+                    <div class="explanation">
+                      <div class="explanation-header">
+                        Објашњење:
+                        {#if explanationLoading}
+                          <span class="loading-indicator"> (генеришем...)</span>
+                        {/if}
+                      </div>
+                      {#if explanationText}
+                        <div class="explanation-text">{@html explanationHtml}</div>
+                      {:else}
+                        <div class="explanation-loading">Генеришем објашњење...</div>
+                      {/if}
+                    </div>
+                  {/if}
+                {/if}
               {/if}
             </div>
             {#if bank.questions[idx].image}
@@ -468,7 +871,6 @@
             {#if !examMode}
               <div class="bottomActions">
                 <button class="btn btn-success-outline" on:click={selectCorrect}>Prikaži tačan odgovor</button>
-                <button class="btn btn-info" on:click={openChatForCurrent}>Pitaj AI</button>
               </div>
             {/if}
             <nav class="bottomNav">
@@ -491,6 +893,63 @@
   <div class="image-modal" role="dialog" aria-modal="true" aria-label="Enlarged image" tabindex="-1" on:click={closeImageModal} on:keydown={(e) => e.key === 'Escape' && closeImageModal()}>
     <div class="image-modal-content" on:click|stopPropagation role="none">
       <img src={modalImageUrl} alt="" role="presentation" />
+    </div>
+  </div>
+{/if}
+
+{#if showApiKeyModal}
+  <div class="modal-overlay" role="dialog" aria-modal="true" aria-label="API Key Settings" tabindex="-1" on:click={() => showApiKeyModal = false} on:keydown={(e) => e.key === 'Escape' && (showApiKeyModal = false)}>
+    <div class="modal-content" on:click|stopPropagation role="none">
+      <div class="modal-header">
+        <h2>Подешавања ChatGPT објашњења</h2>
+        <button class="modal-close" on:click={() => showApiKeyModal = false} aria-label="Затвори">×</button>
+      </div>
+      <div class="modal-body">
+        <p class="modal-info">
+          За генерисање објашњења неправилних одговора потребан је OpenAI API кључ.
+          Кључ се чува локално у вашем претраживачу и не шаље се на сервер.
+        </p>
+        <label for="api-key-input">OpenAI API кључ:</label>
+        <input
+          id="api-key-input"
+          type="password"
+          class="api-key-input"
+          placeholder="sk-..."
+          bind:value={openaiApiKey}
+          on:keydown={(e) => e.key === 'Enter' && saveApiKey()}
+        />
+        <div class="setting-toggle">
+          <label class="toggle-label" for="auto-explanation-toggle">
+            <input
+              id="auto-explanation-toggle"
+              type="checkbox"
+              checked={autoExplanation}
+              on:change={toggleAutoExplanation}
+            />
+            <span class="toggle-text">Аутоматски генериши објашњење за неправилне одговоре</span>
+          </label>
+          <p class="setting-hint">Ако је искључено, објашњење ће се генерисати само када кликнете на дугме "Објасни одговор".</p>
+        </div>
+        <div class="setting-group">
+          <label for="explanation-lang-select">Језик објашњења:</label>
+          <select id="explanation-lang-select" class="lang-select" bind:value={explanationLang}>
+            <option value="sr">Српски</option>
+            <option value="ru">Русский</option>
+            <option value="en">English</option>
+          </select>
+          <p class="setting-hint">Изаберите језик на коме ће AI генерисати објашњења.</p>
+        </div>
+        <div class="modal-actions">
+          <button class="btn btn-primary" on:click={saveApiKey}>Сачувај</button>
+          <button class="btn btn-neutral" on:click={() => showApiKeyModal = false}>Откажи</button>
+          {#if openaiApiKey}
+            <button class="btn btn-warning" on:click={clearApiKey}>Обриши кључ</button>
+          {/if}
+        </div>
+        <p class="modal-help">
+          Можете добити API кључ на <a href="https://platform.openai.com/api-keys" target="_blank" rel="noopener noreferrer">platform.openai.com</a>
+        </p>
+      </div>
     </div>
   </div>
 {/if}
@@ -569,4 +1028,53 @@
   .btn-info { background: #e0f2fe; border-color: #7dd3fc; color: #075985; }
   .btn-info:hover { background: #bae6fd; border-color: #38bdf8; }
   .back:hover { border-color: var(--accent); }
+  .ai-badge { padding: 4px 8px; border-radius: 4px; font-size: 12px; font-weight: 600; border: none; cursor: pointer; transition: background 0.2s; }
+  .ai-badge.ai-enabled { background: #10b981; color: white; }
+  .ai-badge.ai-enabled:hover { background: #059669; }
+  .ai-badge.ai-disabled { background: #64748b; color: white; }
+  .ai-badge.ai-disabled:hover { background: #475569; }
+
+  /* Explanation styles */
+  .explanation-loading { padding: 12px; background: #f0f9ff; color: #075985; border-radius: 4px; font-size: 14px; }
+  .loading-indicator { font-size: 12px; font-weight: normal; color: #64748b; }
+  .explanation-error { padding: 12px; background: #fef2f2; color: #991b1b; border-radius: 4px; font-size: 14px; }
+  .explanation-error p { margin: 0 0 8px 0; }
+  .explanation { padding: 0; padding-left: 16px; background: transparent; border-left: 4px solid #eab308; border-radius: 0; margin-top: 16px; }
+  .explanation-header { font-weight: 600; color: #eab308; margin-bottom: 8px; font-size: 14px; }
+  .explanation-text { color: var(--text); font-size: 14px; line-height: 1.6; }
+  .explanation-text :global(h1), .explanation-text :global(h2), .explanation-text :global(h3) { color: var(--text); font-weight: 600; margin-top: 12px; margin-bottom: 8px; }
+  .explanation-text :global(h1) { font-size: 18px; }
+  .explanation-text :global(h2) { font-size: 16px; }
+  .explanation-text :global(h3) { font-size: 15px; }
+  .explanation-text :global(p) { margin: 8px 0; }
+  .explanation-text :global(ul), .explanation-text :global(ol) { margin: 8px 0; padding-left: 24px; }
+  .explanation-text :global(li) { margin: 4px 0; }
+  .explanation-text :global(strong) { font-weight: 600; color: var(--text); }
+  .explanation-text :global(em) { font-style: italic; }
+  .explanation-text :global(code) { background: var(--btn-bg); padding: 2px 4px; border-radius: 3px; font-family: monospace; font-size: 13px; }
+
+  /* Modal styles */
+  .modal-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0, 0, 0, 0.5); display: flex; align-items: center; justify-content: center; z-index: 2000; padding: 20px; }
+  .modal-content { background: var(--card); border-radius: 8px; max-width: 500px; width: 100%; max-height: 90vh; overflow-y: auto; box-shadow: 0 10px 25px rgba(0,0,0,.2); }
+  .modal-header { display: flex; justify-content: space-between; align-items: center; padding: 16px 20px; border-bottom: 1px solid var(--border); }
+  .modal-header h2 { margin: 0; font-size: 18px; }
+  .modal-close { background: none; border: none; font-size: 24px; cursor: pointer; color: var(--text); padding: 0; width: 32px; height: 32px; display: flex; align-items: center; justify-content: center; }
+  .modal-close:hover { background: var(--btn-bg); border-radius: 4px; }
+  .modal-body { padding: 20px; }
+  .modal-info { margin: 0 0 16px 0; color: var(--muted); font-size: 13px; line-height: 1.5; }
+  .modal-body label { display: block; margin-bottom: 8px; font-size: 14px; font-weight: 500; }
+  .api-key-input { width: 100%; padding: 10px; border: 1px solid var(--btn-border); border-radius: 4px; background: var(--btn-bg); color: var(--text); font-size: 14px; font-family: monospace; margin-bottom: 16px; }
+  .api-key-input:focus { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .setting-toggle { margin: 20px 0; padding: 16px; background: var(--btn-bg); border-radius: 4px; border: 1px solid var(--btn-border); }
+  .setting-toggle .toggle-label { display: flex; align-items: center; gap: 12px; cursor: pointer; margin-bottom: 8px; }
+  .setting-toggle input[type="checkbox"] { width: 20px; height: 20px; cursor: pointer; }
+  .setting-toggle .toggle-text { font-size: 14px; font-weight: 500; color: var(--text); }
+  .setting-group { margin: 20px 0; padding: 16px; background: var(--btn-bg); border-radius: 4px; border: 1px solid var(--btn-border); }
+  .setting-group label { display: block; margin-bottom: 8px; font-size: 14px; font-weight: 500; }
+  .lang-select { width: 100%; padding: 10px; border: 1px solid var(--btn-border); border-radius: 4px; background: var(--bg); color: var(--text); font-size: 14px; margin-bottom: 8px; }
+  .lang-select:focus { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .setting-hint { margin: 0; font-size: 12px; color: var(--muted); line-height: 1.4; }
+  .modal-actions { display: flex; gap: 8px; flex-wrap: wrap; }
+  .modal-help { margin-top: 16px; font-size: 12px; color: var(--muted); }
+  .modal-help a { color: var(--accent); text-decoration: underline; }
 </style>

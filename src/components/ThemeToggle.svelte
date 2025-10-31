@@ -11,7 +11,7 @@
 <div class="themeToggle">
   <button class="btn" aria-label="Light" on:click={() => setTheme('light')} data-active={value === 'light'}>☀️</button>
   <button class="btn" aria-label="Dark" on:click={() => setTheme('dark')} data-active={value === 'dark'}>🌙</button>
-  <button class="btn" aria-label="System" on:click={() => setTheme('system')} data-active={value === 'system'}>⚙️</button>
+  <button class="btn" aria-label="System" on:click={() => setTheme('system')} data-active={value === 'system'}>🖥️</button>
 </div>
 
 <style>
