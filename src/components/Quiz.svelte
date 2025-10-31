@@ -519,7 +519,7 @@
   .exam-summary h2 { margin: 0 0 8px 0; font-size: 18px; }
   .exam-summary .pass { color: #065f46; }
   .exam-summary .fail { color: #991b1b; }
-  .bottomBar { position: relative; bottom: 0; left: 0; width: 100%;background: var(--bg); padding: 12px; display: grid; gap: 10px; box-shadow: 0 -2px 6px rgba(0,0,0,.06); }
+  .bottomBar { position: relative; margin-top: 50px; bottom: 0; left: 0; width: 100%;background: var(--bg); padding: 12px; display: grid; gap: 10px; box-shadow: 0 -2px 6px rgba(0,0,0,.06); }
   .bottomActions { display: flex; gap: 8px; }
   .bottomNav { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
 
