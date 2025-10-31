@@ -16,6 +16,8 @@
   let loadError = '';
   let selectedIndex: number | null = null;
   let autoNextHandle: number | null = null;
+  let showImageModal = false;
+  let modalImageUrl = '';
 
   // Exam mode state
   let examMode = false; // whether exam simulation is active
@@ -113,6 +115,18 @@
     const base = import.meta.env.BASE_URL;
     const baseUrl = base.endsWith('/') ? base : base + '/';
     return `${baseUrl}images/${filename}`;
+  }
+
+  function openImageModal(imagePath: string | undefined) {
+    if (imagePath) {
+      modalImageUrl = getImageUrl(imagePath);
+      showImageModal = true;
+    }
+  }
+
+  function closeImageModal() {
+    showImageModal = false;
+    modalImageUrl = '';
   }
 
   function prepareQuestion() {
@@ -422,7 +436,9 @@
             {#if bank.questions[idx].image}
               {@const imgPath = bank.questions[idx].image}
               <div class="question-image">
-                <img src="{getImageUrl(imgPath)}" alt="" />
+                <button class="image-button" on:click={() => openImageModal(imgPath)} aria-label="Click to enlarge image">
+                  <img src="{getImageUrl(imgPath)}" alt="" role="presentation" />
+                </button>
               </div>
             {/if}
           </div>
@@ -471,6 +487,14 @@
   {/if}
 {/if}
 
+{#if showImageModal}
+  <div class="image-modal" role="dialog" aria-modal="true" aria-label="Enlarged image" tabindex="-1" on:click={closeImageModal} on:keydown={(e) => e.key === 'Escape' && closeImageModal()}>
+    <div class="image-modal-content" on:click|stopPropagation role="none">
+      <img src={modalImageUrl} alt="" role="presentation" />
+    </div>
+  </div>
+{/if}
+
 <style>
   :root { color-scheme: light dark; }
   .page { min-height: 100dvh; display: flex; flex-direction: column; }
@@ -489,7 +513,12 @@
   .question-container.has-image .card { flex: 1; }
   .question-container.no-image .card { max-width: 800px; margin: 0 auto; }
   .question-image { flex-shrink: 0; width: 400px; }
-  .question-image img { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,.1); }
+  .image-button { background: none; border: none; padding: 0; cursor: pointer; display: block; width: 100%; }
+  .question-image img { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,.1); transition: transform 0.2s; display: block; }
+  .image-button:hover .question-image img { transform: scale(1.02); }
+  .image-modal { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0, 0, 0, 0.9); display: flex; align-items: center; justify-content: center; z-index: 1000; padding: 20px; }
+  .image-modal-content { position: relative; max-width: 90vw; max-height: 90vh; display: flex; align-items: center; justify-content: center; }
+  .image-modal-content img { max-width: 100%; max-height: 90vh; object-fit: contain; border-radius: 8px; }
   .question { font-size: 22px; line-height: 1.4; margin-bottom: 16px; }
   @media (max-width: 768px) {
     .question-container { flex-direction: column; }
