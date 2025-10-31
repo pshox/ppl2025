@@ -11,5 +11,6 @@ export default defineConfig({
       preprocess: sveltePreprocess()
     })
   ],
-  base: `/${repoName}/`
+  base: `/${repoName}/`,
+  publicDir: 'public'
 });

@@ -5,7 +5,7 @@
   import { addError, removeError, getAllErrors, getErrorsBySubject, ERRORS_SUBJECT_ID } from '../errors';
 
   type Option = { text: string; isCorrect: boolean };
-  type Question = { id: string; question: string; comment?: string; options: Option[] };
+  type Question = { id: string; question: string; comment?: string; image?: string; options: Option[] };
   type Bank = { subject: string; lang: string; version: number; questions: Question[] };
 
   let bank: Bank | null = null;
@@ -106,6 +106,13 @@
       idx = Number.isFinite(saved) && saved >= 0 && saved < bank.questions.length ? saved : 0;
       prepareQuestion();
     }
+  }
+
+  function getImageUrl(filename: string | undefined): string {
+    if (!filename) return '';
+    const base = import.meta.env.BASE_URL;
+    const baseUrl = base.endsWith('/') ? base : base + '/';
+    return `${baseUrl}images/${filename}`;
   }
 
   function prepareQuestion() {
@@ -381,34 +388,42 @@
           </div>
         </header>
         <main>
-          <div class="card">
-            <div class="question">
-              {bank.questions[idx].question}
-            </div>
-            {#if !examMode}
-              <div class="qnav">
-                <label for="qselect">Питање</label>
-                <select id="qselect" on:change={handleQuestionChange} bind:value={idx}>
-                  {#each bank.questions as _q, i}
-                    <option value={i}>{i + 1}</option>
-                  {/each}
-                </select>
-                <small>од {bank.questions.length}</small>
+          <div class="question-container {bank.questions[idx].image ? 'has-image' : 'no-image'}">
+            <div class="card">
+              <div class="question">
+                {bank.questions[idx].question}
               </div>
-            {/if}
-            <div class="options">
-              {#each shuffledOptions as opt, i}
-                <button
-                  class="option {selectedIndex !== null && opt.isCorrect ? 'correct' : ''} {selectedIndex === i && !opt.isCorrect ? 'wrong' : ''}"
-                  on:click={() => { selectOption(i); showHint = true; }}
-                >
-                  {opt.text}
-                </button>
-              {/each}
-            </div>
+              {#if !examMode}
+                <div class="qnav">
+                  <label for="qselect">Питање</label>
+                  <select id="qselect" on:change={handleQuestionChange} bind:value={idx}>
+                    {#each bank.questions as _q, i}
+                      <option value={i}>{i + 1}</option>
+                    {/each}
+                  </select>
+                  <small>од {bank.questions.length}</small>
+                </div>
+              {/if}
+              <div class="options">
+                {#each shuffledOptions as opt, i}
+                  <button
+                    class="option {selectedIndex !== null && opt.isCorrect ? 'correct' : ''} {selectedIndex === i && !opt.isCorrect ? 'wrong' : ''}"
+                    on:click={() => { selectOption(i); showHint = true; }}
+                  >
+                    {opt.text}
+                  </button>
+                {/each}
+              </div>
 
-            {#if bank.questions[idx].comment && !examMode}
-              <div class="comment">{bank.questions[idx].comment}</div>
+              {#if bank.questions[idx].comment && !examMode}
+                <div class="comment">{bank.questions[idx].comment}</div>
+              {/if}
+            </div>
+            {#if bank.questions[idx].image}
+              {@const imgPath = bank.questions[idx].image}
+              <div class="question-image">
+                <img src="{getImageUrl(imgPath)}" alt="" />
+              </div>
             {/if}
           </div>
 
@@ -467,8 +482,19 @@
   select { padding: 8px 10px; border-radius: 8px; border: 1px solid var(--btn-border); background: var(--btn-bg); color: var(--text); }
   small { color: var(--muted); margin-left: auto; }
   main { padding: 12px; flex: 1; }
+  .question-container { display: flex; gap: 16px; align-items: flex-start; width: 100%; }
+  .question-container.has-image { justify-content: flex-start; }
+  .question-container.no-image { justify-content: center; }
   .card { background: var(--card); border: none; border-radius: 0; padding: 16px; box-shadow: 0 1px 3px rgba(0,0,0,.08), 0 1px 2px rgba(0,0,0,.04); }
+  .question-container.has-image .card { flex: 1; }
+  .question-container.no-image .card { max-width: 800px; margin: 0 auto; }
+  .question-image { flex-shrink: 0; width: 400px; }
+  .question-image img { max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,.1); }
   .question { font-size: 22px; line-height: 1.4; margin-bottom: 16px; }
+  @media (max-width: 768px) {
+    .question-container { flex-direction: column; }
+    .question-image { width: 100%; }
+  }
   .qnav { display: flex; align-items: center; gap: 8px; margin-bottom: 10px; }
   .qnav label { font-size: 12px; color: var(--muted); }
   .qnav select { padding: 6px 8px; border-radius: 0; border: none; background: var(--btn-bg); color: var(--text); }
@@ -484,7 +510,7 @@
   .comment { margin-top: 8px; color: var(--muted); font-size: 13px; }
   nav { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; padding: 12px 0; }
   nav > button { padding: 14px; border-radius: 0; border: none; background: var(--btn-bg); color: var(--text); font-size: 15px; }
-  @media (min-width: 640px) { .page { max-width: 640px; margin: 0 auto; } }
+  @media (min-width: 640px) { .page { max-width: 1200px; margin: 0 auto; } }
   .errorBox { margin: 12px 0; padding: 12px; background: #fef2f2; color: #991b1b; }
   .exam-toggle { display: inline-flex; align-items: center; gap: 6px; margin-left: 8px; font-size: 13px; }
   .exam-toggle .label-text { color: #b91c1c; font-weight: 600; }
@@ -493,7 +519,7 @@
   .exam-summary h2 { margin: 0 0 8px 0; font-size: 18px; }
   .exam-summary .pass { color: #065f46; }
   .exam-summary .fail { color: #991b1b; }
-  .bottomBar { position: sticky; bottom: 0; background: var(--bg); padding: 12px; display: grid; gap: 10px; box-shadow: 0 -2px 6px rgba(0,0,0,.06); }
+  .bottomBar { position: relative; bottom: 0; left: 0; width: 100%;background: var(--bg); padding: 12px; display: grid; gap: 10px; box-shadow: 0 -2px 6px rgba(0,0,0,.06); }
   .bottomActions { display: flex; gap: 8px; }
   .bottomNav { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; }
 
