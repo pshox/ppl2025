@@ -1,6 +1,6 @@
 # PPL Exam Preparation (Serbia)
 
-Application for preparing theoretical PPL exams based on questions from the Civil Aviation Directorate of Serbia (CAD). Mobile interface: subject selection, quiz with shuffled answers, correct/incorrect marking, and automatic progression to the next question.
+Application for preparing theoretical PPL exams based on questions from the Civil Aviation Directorate of Serbia (CAD). Mobile interface: subject selection, quiz with shuffled answers, correct/incorrect marking, and automatic progression to the next question. When answering incorrectly, the app provides explanations in any language using OpenAI.
 
 Technologies: Svelte + Vite + Cursor
 
@@ -62,6 +62,7 @@ Automatically increments version, commits, creates tag, and deploys.
 - On answer selection: correct is green, incorrect selected is red.
 - After correct answer, a 1-second timer starts and moves to the next question.
 - "Show correct answer" button highlights the correct answer.
+- When answering incorrectly, explanations are provided in any language using OpenAI.
 - Progress (question index) is saved per subject in `localStorage`.
 
 ## Adding a New Subject
