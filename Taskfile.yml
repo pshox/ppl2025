@@ -28,8 +28,8 @@ tasks:
         echo "Adding changes to git"
         VERSION=$(jq -r '.version' package.json | awk -F. '{printf "%d.%d.%d\n", $1, $2, $3 + 1}')
         echo "Releasing new ${VERSION} version"
-      - git add .
-      - git commit -m "Release new ${VERSION} version"
+        git add .
+        git commit -m "Release new ${VERSION} version"
       # - git tag -a "v${VERSION}" -m "Release new ${VERSION} version"
       # - git push && git push --tags
       # - task deploy
