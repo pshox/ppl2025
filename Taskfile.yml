@@ -23,13 +23,16 @@ tasks:
 
   release:
     desc: Release new version
+    colors: true
     cmds:
       - |
         echo "Adding changes to git"
         VERSION=$(jq -r '.version' package.json | awk -F. '{printf "%d.%d.%d\n", $1, $2, $3 + 1}')
+        echo "Updating package.json to version ${VERSION}"
+        jq --arg v "${VERSION}" '.version = $v' package.json > package.json.tmp && mv package.json.tmp package.json
         echo "Releasing new ${VERSION} version"
         git add .
         git commit -m "Release new ${VERSION} version"
-      # - git tag -a "v${VERSION}" -m "Release new ${VERSION} version"
-      # - git push && git push --tags
-      # - task deploy
+        git tag -a "v${VERSION}" -m "Release new ${VERSION} version"
+        git push && git push --tags
+        task deploy
