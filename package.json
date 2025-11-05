@@ -1,7 +1,7 @@
 {
   "name": "ppl2025",
   "private": true,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,6 +11,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "katex": "^0.16.25",
     "marked": "^16.4.1",
     "svelte": "^4.2.19"
   },

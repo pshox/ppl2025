@@ -1,6 +1,8 @@
 <script lang="ts">
   import { onMount, tick } from 'svelte';
   import { marked } from 'marked';
+  import katex from 'katex';
+  import 'katex/dist/katex.min.css';
   import { subjects, type SubjectId } from '../subjects';
   import ThemeToggle from './ThemeToggle.svelte';
   import { addError, removeError, getAllErrors, getErrorsBySubject, ERRORS_SUBJECT_ID } from '../errors';
@@ -79,8 +81,57 @@
   let explanationError = '';
   let explanationQuestionId: string | null = null;
 
-  // Reactive computed for markdown HTML
-  $: explanationHtml = explanationText ? marked.parse(explanationText) : '';
+  // Function to process LaTeX formulas in HTML
+  function processMathFormulas(html: string): string {
+    if (!html) return '';
+
+    // Handle standard LaTeX syntax: \[ ... \] for display math
+    html = html.replace(/\\\[([\s\S]*?)\\\]/g, (match, formula) => {
+      try {
+        return katex.renderToString(formula.trim(), { displayMode: true, throwOnError: false });
+      } catch {
+        return match;
+      }
+    });
+
+    // Handle inline math: \( ... \)
+    html = html.replace(/\\\(([\s\S]*?)\\\)/g, (match, formula) => {
+      try {
+        return katex.renderToString(formula.trim(), { displayMode: false, throwOnError: false });
+      } catch {
+        return match;
+      }
+    });
+
+    // Handle formulas in format [ ... ] (simple brackets, may contain LaTeX)
+    // Match [ followed by optional space, then content (may include newlines), then ]
+    // Only process if content contains LaTeX commands (backslashes followed by letters)
+    // This avoids matching regular brackets in text
+    html = html.replace(/\[\s*([\s\S]*?)\s*\]/g, (match, content) => {
+      const trimmed = content.trim();
+      // Check if it looks like a LaTeX formula: contains backslash commands like \text, \frac, etc.
+      // Or contains math operators in a pattern that suggests a formula
+      const hasLatexCommands = /\\[a-zA-Z]/.test(trimmed);
+      const looksLikeFormula = hasLatexCommands || (
+        trimmed.includes('=') &&
+        (trimmed.includes('\\') || /[+\-*/^_]/.test(trimmed))
+      );
+
+      if (looksLikeFormula) {
+        try {
+          return katex.renderToString(trimmed, { displayMode: true, throwOnError: false });
+        } catch {
+          return match; // Return original if rendering fails
+        }
+      }
+      return match; // Not a formula, return as is
+    });
+
+    return html;
+  }
+
+  // Reactive computed for markdown HTML with math processing
+  $: explanationHtml = explanationText ? processMathFormulas(marked.parse(explanationText)) : '';
 
   // Exam mode state
   let examMode = false; // whether exam simulation is active
@@ -1052,6 +1103,9 @@ ${p.instructions}`;
   .explanation-text :global(strong) { font-weight: 600; color: var(--text); }
   .explanation-text :global(em) { font-style: italic; }
   .explanation-text :global(code) { background: var(--btn-bg); padding: 2px 4px; border-radius: 3px; font-family: monospace; font-size: 13px; }
+  .explanation-text :global(.katex) { font-size: 1.1em; }
+  .explanation-text :global(.katex-display) { margin: 1em 0; overflow-x: auto; overflow-y: hidden; }
+  .explanation-text :global(.katex-display > .katex) { display: inline-block; text-align: initial; }
 
   /* Modal styles */
   .modal-overlay { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0, 0, 0, 0.5); display: flex; align-items: center; justify-content: center; z-index: 2000; padding: 20px; }
