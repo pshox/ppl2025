@@ -30,6 +30,6 @@ tasks:
         echo "Releasing new ${VERSION} version"
       - git add .
       - git commit -m "Release new ${VERSION} version"
-      - git tag -a "v${VERSION}" -m "Release new ${VERSION} version"
-      - git push && git push --tags
-      - task deploy
+      # - git tag -a "v${VERSION}" -m "Release new ${VERSION} version"
+      # - git push && git push --tags
+      # - task deploy
