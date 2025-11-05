@@ -1,40 +1,74 @@
-# PPL priprema (Srbija)
+# PPL Exam Preparation (Serbia)
 
-Aplikacija za pripremu teorijskih ispita za PPL zasnovana na pitanjima Direktorata civilnog vazduhoplovstva Srbije (CAD). Mobilni interfejs: izbor predmeta, kviz sa mešanjem odgovora, označavanje tačnog/pogrešnog i automatskim prelaskom na sledeće pitanje. Dugme „Pitaj AI” priprema upit za ChatGPT sa kontekstom pitanja.
+Application for preparing theoretical PPL exams based on questions from the Civil Aviation Directorate of Serbia (CAD). Mobile interface: subject selection, quiz with shuffled answers, correct/incorrect marking, and automatic progression to the next question.
 
-Tehnologije: Svelte + Vite. Aplikacija je generisana uz pomoć Cursor-a.
+Technologies: Svelte + Vite + Cursor
 
-### Lokalno pokretanje
+## Installation and Setup
+
+### Prerequisites
+- Node.js
+- [Task](https://taskfile.dev/)
+- Homebrew (for macOS, to install `jq`)
+
+### Install Dependencies
 ```bash
-npm install
-npm run dev
+task install
 ```
-Otvorite `http://localhost:5173/ppl2025/`.
 
-### Deploy na GitHub Pages
+### Run Development Server
 ```bash
-npm run deploy
+task dev
+```
+Open `http://localhost:5173/ppl2025/`.
+
+### Build for Production
+```bash
+task build
+```
+
+### Deploy to GitHub Pages
+```bash
+task deploy
 ```
 
 Available at https://pshox.github.io/ppl2025/#/
 
-Build ide u `dist/`, `base` je podešen u `vite.config.ts`.
+Build output goes to `dist/`, `base` is configured in `vite.config.ts`.
 
-### Podaci i predmeti
-- Banke pitanja se nalaze u `public/data/*.json` (po jedan fajl po predmetu).
-- Lista predmeta je u `src/subjects.ts`.
-- Rutiranje preko hash-a: izbor predmeta `#/`, kviz `#/quiz?s=<id>`.
+### Release New Version
+```bash
+task release
+```
+Automatically increments version, commits, creates tag, and deploys.
 
-### Ponašanje kviza
-- Odgovori se mešaju na svakom pitanju.
-- Na izbor odgovora: tačan je zelen, pogrešan izabrani je crven.
-- Posle tačnog odgovora pokreće se tajmer od 1 s i prelazi na sledeće pitanje.
-- Dugme „Prikaži tačan odgovor” označava tačan odgovor.
-- Napredak (indeks pitanja) se čuva po predmetu u `localStorage`.
+## Available Tasks
 
-### Dodavanje novog predmeta
-1) Dodajte fajl `public/data/<id>.json` iste strukture kao postojeći.
-2) U `src/subjects.ts` dodajte `{ id: '<id>', title: '<Naziv>' }`.
+- `task install` - Install dependencies (npm packages and jq)
+- `task dev` - Run development server
+- `task build` - Build static files for production
+- `task deploy` - Deploy to GitHub Pages
+- `task release` - Release new version (increment version, commit, tag, deploy)
 
-### Odricanje odgovornosti
-Materijal je isključivo edukativan. Ažurnost i tačnost pitanja/odgovora nisu garantovane; proverite sa zvaničnim izvorima CAD.
+## Data and Subjects
+
+- Question banks are located in `public/data/*.json` (one file per subject).
+- Subject list is in `src/subjects.ts`.
+- Hash-based routing: subject selection `#/`, quiz `#/quiz?s=<id>`.
+
+## Quiz Behavior
+
+- Answers are shuffled on each question.
+- On answer selection: correct is green, incorrect selected is red.
+- After correct answer, a 1-second timer starts and moves to the next question.
+- "Show correct answer" button highlights the correct answer.
+- Progress (question index) is saved per subject in `localStorage`.
+
+## Adding a New Subject
+
+1) Add file `public/data/<id>.json` with the same structure as existing ones.
+2) In `src/subjects.ts` add `{ id: '<id>', title: '<Name>' }`.
+
+## Disclaimer
+
+This material is for educational and self-study purposes only. It is not intended for commercial use. Accuracy and currency of questions/answers are not guaranteed; verify with official CAD sources.
