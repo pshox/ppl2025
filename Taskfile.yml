@@ -33,4 +33,3 @@ tasks:
       - git tag -a "v${VERSION}" -m "Release new ${VERSION} version"
       - git push && git push --tags
       - task deploy
-      - echo "Release ${VERSION} is deployed to production"
