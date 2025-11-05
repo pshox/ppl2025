@@ -182,6 +182,7 @@
     },
     {
       "id": "NAV-0009",
+      "image": "ppl-nav-2.png",
       "question": "Na priloženoj karti rastojanje izmedu tacaka A i B je 9 cm. koliko je to Nm? (Pogledajte PPL Nav-2).",
       "options": [
         {
@@ -204,6 +205,7 @@
     },
     {
       "id": "NAV-0010",
+      "image": "ppl-nav-13.png",
       "question": "Koja oznaka u trouglu vetra na slici oznacava pravi putni ugao: (Pogledajte PPL Nav-13)?",
       "options": [
         {
@@ -270,6 +272,7 @@
     },
     {
       "id": "NAV-0013",
+      "image": "ppl-nav-3.png",
       "question": "Razmera karte je : (Pogledajte PPL Nav-3).",
       "options": [
         {
@@ -402,6 +405,7 @@
     },
     {
       "id": "NAV-0019",
+      "image": "ppl-nav-2.png",
       "question": "Na priloženoj karti rastojanje izmedu tacaka A i B je 9 cm. koliko je to kilometara? (Pogledajte PPL Nav-2)",
       "options": [
         {
@@ -750,6 +754,7 @@
     },
     {
       "id": "NAV-0035",
+      "image": "ppl-nav-4.png",
       "question": "Severno 11 kilometara od geografskih koordinata N 44° 41,3' i E 21° 04,1' nalazi se mesto? (Pogledajte PPL Nav-4).",
       "options": [
         {
@@ -1230,6 +1235,7 @@
     },
     {
       "id": "NAV-0057",
+      "image": "ppl-nav-13.png",
       "question": "Koja oznaka u trouglu vetra na slici oznacava pravi kurs: (Pogledajte PPL Nav-13)?",
       "options": [
         {
@@ -1252,6 +1258,7 @@
     },
     {
       "id": "NAV-0058",
+      "image": "ppl-nav-4.png",
       "question": "Geografske koordinate tacke DUBRA su (Pogledajte PPL Nav-4).",
       "options": [
         {
@@ -1274,6 +1281,7 @@
     },
     {
       "id": "NAV-0059",
+      "image": "ppl-nav-4.png",
       "question": "Koji tacka imao je geografski koordinate N 44° 33,2' i E 20° 59,0'? (Pogledajte PPL Nav-4).",
       "options": [
         {
@@ -1292,6 +1300,7 @@
     },
     {
       "id": "NAV-0060",
+      "image": "ppl-nav-1.png",
       "question": "Geografski koordinate tacke C su (Pogledajte PPL Nav-1).",
       "options": [
         {
@@ -1314,6 +1323,7 @@
     },
     {
       "id": "NAV-0061",
+      "image": "ppl-nav-1.png",
       "question": "Geografski koordinate tacke B su (Pogledajte PPL Nav-1).",
       "options": [
         {
@@ -1336,6 +1346,7 @@
     },
     {
       "id": "NAV-0062",
+      "image": "ppl-nav-1.png",
       "question": "Geografski koordinate tacke A su (Pogledajte PPL Nav-1).",
       "options": [
         {
@@ -1644,6 +1655,7 @@
     },
     {
       "id": "NAV-0076",
+      "image": "ppl-nav-12.png",
       "question": "Koji avioni odgovaraju VOR indikatoru V? (Pogledajte PPL Nav-12).",
       "options": [
         {
@@ -1868,6 +1880,7 @@
     },
     {
       "id": "NAV-0088",
+      "image": "ppl-nav-12.png",
       "question": "Koji prikaz VOR indikatora odgovara poziciji aviona 5 i 7? (Pogledajte PPL Nav-12).",
       "options": [
         {
@@ -1886,6 +1899,7 @@
     },
     {
       "id": "NAV-0089",
+      "image": "ppl-nav-10.png",
       "question": "Na ADF-u C ,magnetni kurs OD stanice je? (Pogledajte PPL Nav-10).",
       "options": [
         {
@@ -1918,6 +1932,7 @@
     },
     {
       "id": "NAV-0091",
+      "image": "ppl-nav-13.png",
       "question": "Koja oznaka na slici trougla vetra oznacava vektor vetra: (Pogledajte PPL Nav-13)?",
       "options": [
         {
@@ -1940,6 +1955,7 @@
     },
     {
       "id": "NAV-0092",
+      "image": "ppl-nav-10.png",
       "question": "Na ADF-u A ,magnetni kurs OD stanice je? (Pogledajte PPL Nav-10).",
       "options": [
         {
@@ -2134,6 +2150,7 @@
     },
     {
       "id": "NAV-0101",
+      "image": "ppl-nav-13.png",
       "question": "Koja oznaka u trouglu vetra na slici oznacava putnu brzinu GS) vazduhoplova: (Pogledajte PPL Nav-13)?",
       "options": [
         {
@@ -2156,6 +2173,7 @@
     },
     {
       "id": "NAV-0102",
+      "image": "ppl-nav-13.png",
       "question": "Koja oznaka u trouglu vetra na slici oznacava stvarnu vazdušnu brzinu TAS) vazduhoplova: (Pogledajte PPL Nav-13)?",
       "options": [
         {
@@ -2178,6 +2196,7 @@
     },
     {
       "id": "NAV-0103",
+      "image": "ppl-nav-13.png",
       "question": "Koja oznaka u trouglu vetra na slici oznacava devijaciju kompasa: (Pogledajte PPL Nav-13)?",
       "options": [
         {
@@ -2200,6 +2219,7 @@
     },
     {
       "id": "NAV-0104",
+      "image": "ppl-nav-13.png",
       "question": "Koja oznaka u trouglu vetra na slici oznacava magnetnu deklinaciju: (Pogledajte PPL Nav-13)?",
       "options": [
         {
@@ -2222,6 +2242,7 @@
     },
     {
       "id": "NAV-0105",
+      "image": "ppl-nav-13.png",
       "question": "Koja oznaka u trouglu vetra na slici oznacava ugao popravke zbog vetra: (Pogledajte PPL Nav-13)?",
       "options": [
         {
@@ -2244,6 +2265,7 @@
     },
     {
       "id": "NAV-0106",
+      "image": "ppl-nav-13.png",
       "question": "Koja oznaka u trouglu vetra na slici oznacava kompasni kurs: (Pogledajte PPL Nav-13)?",
       "options": [
         {
@@ -2266,6 +2288,7 @@
     },
     {
       "id": "NAV-0107",
+      "image": "ppl-nav-13.png",
       "question": "Koja oznaka u trouglu vetra na slici oznacava magnetni kurs: (Pogledajte PPL Nav-13)?",
       "options": [
         {
@@ -2310,6 +2333,7 @@
     },
     {
       "id": "NAV-0109",
+      "image": "ppl-nav-10.png",
       "question": "Na ADF-u A ,relativni pravac KA stanici je ? (Pogledajte PPL Nav-10).",
       "options": [
         {
@@ -2346,6 +2370,7 @@
     },
     {
       "id": "NAV-0111",
+      "image": "ppl-nav-10.png",
       "question": "Na ADF-u B , u koji magnetni kurs je potrebno okrenuti da bi presekli pravac 180° KA stanici? (Pogledajte PPL Nav-10).",
       "options": [
         {
@@ -2364,6 +2389,7 @@
     },
     {
       "id": "NAV-0112",
+      "image": "ppl-nav-10.png",
       "question": "Na ADF-u B , u koji magnetni kurs je potrebno okrenuti da bi leteli KA stanici ? (Pogledajte PPL Nav-10).",
       "options": [
         {
@@ -2382,6 +2408,7 @@
     },
     {
       "id": "NAV-0113",
+      "image": "ppl-nav-10.png",
       "question": "Na ADF-u A ,magnetni kurs KA stanici je? (Pogledajte PPL Nav-10).",
       "options": [
         {
@@ -2400,6 +2427,7 @@
     },
     {
       "id": "NAV-0114",
+      "image": "ppl-nav-11.png",
       "question": "Na ADF-u E ,relativni pravac KA stanici je ? (Pogledajte PPL Nav-11).",
       "options": [
         {
@@ -2418,6 +2446,7 @@
     },
     {
       "id": "NAV-0115",
+      "image": "ppl-nav-3.png",
       "question": "Koliko iznosi magnetna deklinacija podrucja , koje je prikazano na karti: (Pogledajte PPL Nav-3).",
       "options": [
         {
@@ -2440,6 +2469,7 @@
     },
     {
       "id": "NAV-0116",
+      "image": "ppl-nav-12.png",
       "question": "Koji prikaz VOR indikatora odgovara poziciji aviona 8? (Pogledajte PPL Nav-12).",
       "options": [
         {
@@ -2480,6 +2510,7 @@
     },
     {
       "id": "NAV-0118",
+      "image": "ppl-nav-11.png",
       "question": "Ako je magnetni pravac od aviona KA stanici 135°, kom magnetnom kursu odgovara situacija na ADF L? (Pogledajte PPL Nav-11).",
       "options": [
         {
@@ -2498,6 +2529,7 @@
     },
     {
       "id": "NAV-0119",
+      "image": "ppl-nav-11.png",
       "question": "Ako je magnetni pravac od aviona KA stanici 030°, kom magnetnom kursu odgovara situacija na ADF K? (Pogledajte PPL Nav-11).",
       "options": [
         {
@@ -2516,6 +2548,7 @@
     },
     {
       "id": "NAV-0120",
+      "image": "ppl-nav-11.png",
       "question": "Ako je magnetni pravac od aviona KA stanici 240°, kom magnetnom kursu odgovara situacija na ADF J? (Pogledajte PPL Nav-11).",
       "options": [
         {
@@ -2534,6 +2567,7 @@
     },
     {
       "id": "NAV-0121",
+      "image": "ppl-nav-11.png",
       "question": "Sa magnetnim kursom od 120° i sa situacijom prikazanoj na ADF J, magnetni pravac KA stanici je ? (Pogledajte PPL Nav-11).",
       "options": [
         {
@@ -2552,6 +2586,7 @@
     },
     {
       "id": "NAV-0122",
+      "image": "ppl-nav-11.png",
       "question": "Sa magnetnim kursom od 035° i sa situacijom prikazanoj na ADF I, magnetni pravac KA stanici je ? (Pogledajte PPL Nav-11).",
       "options": [
         {
@@ -2570,6 +2605,7 @@
     },
     {
       "id": "NAV-0123",
+      "image": "ppl-nav-11.png",
       "question": "Sa magnetnim kursom od 320° i sa situacijom prikazanoj na ADF H, magnetni pravac KA stanici je ? (Pogledajte PPL Nav-11).",
       "options": [
         {
@@ -2704,6 +2740,7 @@
     },
     {
       "id": "NAV-0130",
+      "image": "ppl-nav-10.png",
       "question": "Na ADF-u B ,relativni pravac KA stanici je ? (Pogledajte PPL Nav-10).",
       "options": [
         {
@@ -2722,6 +2759,7 @@
     },
     {
       "id": "NAV-0131",
+      "image": "ppl-nav-10.png",
       "question": "Koja od slika ADF prikazuje let KA stanici sa desnim bocnim vetrom? (Pogledajte PPL Nav-10).",
       "options": [
         {
@@ -2910,6 +2948,7 @@
     },
     {
       "id": "NAV-0141",
+      "image": "ppl-nav-12.png",
       "question": "Koji avioni odgovaraju VOR indikatoru X? (Pogledajte PPL Nav-12).",
       "options": [
         {
@@ -2968,6 +3007,7 @@
     },
     {
       "id": "NAV-0144",
+      "image": "ppl-nav-12.png",
       "question": "Koji avioni odgovaraju VOR indikatoru U? (Pogledajte PPL Nav-12).",
       "options": [
         {
@@ -2986,6 +3026,7 @@
     },
     {
       "id": "NAV-0145",
+      "image": "ppl-nav-3.png",
       "question": "Kurs za vazdušne puteve i na Jeppesen radionavigacionoj karti je u: (Pogledajte PPL Nav-3).",
       "options": [
         {
