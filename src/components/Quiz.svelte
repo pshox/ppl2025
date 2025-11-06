@@ -81,6 +81,27 @@
   let explanationError = '';
   let explanationQuestionId: string | null = null;
 
+  // Calculate cost based on model and token usage
+  function calculateCost(model: string, promptTokens: number, completionTokens: number): number {
+    // Pricing for gpt-4o (as of 2024)
+    // Input: $2.50 per 1M tokens
+    // Output: $10.00 per 1M tokens
+    const inputPricePerToken = 2.50 / 1_000_000;
+    const outputPricePerToken = 10.00 / 1_000_000;
+
+    const inputCost = promptTokens * inputPricePerToken;
+    const outputCost = completionTokens * outputPricePerToken;
+
+    return inputCost + outputCost;
+  }
+
+  function formatCost(cost: number): string {
+    if (cost < 0.001) {
+      return `$${(cost * 1000).toFixed(3)}¢`;
+    }
+    return `$${cost.toFixed(4)}`;
+  }
+
   // Function to process LaTeX formulas in HTML
   function processMathFormulas(html: string): string {
     if (!html) return '';
@@ -559,7 +580,7 @@ ${p.instructions}`;
               content: userContent
             }
           ],
-          max_tokens: imageIncluded ? 800 : 600,
+          max_tokens: imageIncluded ? 2500 : 2000,
           temperature: 0,
           stream: true
         })
@@ -588,6 +609,8 @@ ${p.instructions}`;
 
       explanationText = '';
       let buffer = '';
+      let promptTokens = 0;
+      let completionTokens = 0;
 
       try {
         while (true) {
@@ -619,6 +642,21 @@ ${p.instructions}`;
                   // Update text immediately for real-time display
                   explanationText = explanationText + delta;
                 }
+
+                // Extract token usage if available (usually in the last message)
+                const usage = json.usage;
+                if (usage) {
+                  if (usage.prompt_tokens !== undefined) promptTokens = usage.prompt_tokens;
+                  if (usage.completion_tokens !== undefined) completionTokens = usage.completion_tokens;
+                }
+
+                // Also check if this is the final message (has finish_reason)
+                const finishReason = json.choices?.[0]?.finish_reason;
+                if (finishReason && usage) {
+                  // This is likely the last message with usage info
+                  if (usage.prompt_tokens !== undefined) promptTokens = usage.prompt_tokens;
+                  if (usage.completion_tokens !== undefined) completionTokens = usage.completion_tokens;
+                }
               } catch (e) {
                 // Skip invalid JSON lines (might be empty or malformed)
                 if (data.trim() !== '') {
@@ -627,6 +665,28 @@ ${p.instructions}`;
               }
             }
           }
+        }
+
+        // If we have token usage, append cost information
+        // If usage info wasn't received, estimate tokens from text length
+        if (promptTokens === 0 && completionTokens === 0 && explanationText.length > 0) {
+          // Rough estimation: ~4 characters per token for most languages
+          // Estimate prompt tokens from system message and user prompt
+          const systemMessage = getSystemMessage(explanationLang);
+          const estimatedPromptTokens = Math.ceil((systemMessage.length + prompt.length) / 4);
+          const estimatedCompletionTokens = Math.ceil(explanationText.length / 4);
+          promptTokens = estimatedPromptTokens;
+          completionTokens = estimatedCompletionTokens;
+        }
+
+        if (promptTokens > 0 || completionTokens > 0) {
+          const cost = calculateCost(model, promptTokens, completionTokens);
+          const costText = explanationLang === 'ru'
+            ? `\n\n---\n\n**Стоимость объяснения:** ${formatCost(cost)} (${promptTokens} входных + ${completionTokens} выходных токенов)`
+            : explanationLang === 'sr'
+            ? `\n\n---\n\n**Цена објашњења:** ${formatCost(cost)} (${promptTokens} улазних + ${completionTokens} излазних токена)`
+            : `\n\n---\n\n**Explanation cost:** ${formatCost(cost)} (${promptTokens} prompt + ${completionTokens} completion tokens)`;
+          explanationText = explanationText + costText;
         }
       } finally {
         reader.releaseLock();
